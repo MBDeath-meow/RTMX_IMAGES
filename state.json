@@ -1,0 +1,22 @@
+{
+  "article_bindings": [],
+  "ignored_articles": [
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::!!! 2 модели АГВТ одним лотом (АГВТ-100 (157) + МАЗ-200 АГВТ)"
+    }
+  ],
+  "manufacturer_map": [
+    {
+      "unomag_name": "EVR-mini",
+      "variation": "EVR-mini"
+    },
+    {
+      "unomag_name": "EVR-mini",
+      "variation": "evr"
+    }
+  ],
+  "suppliers": [
+    "Scalebay"
+  ]
+}
