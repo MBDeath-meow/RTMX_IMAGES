@@ -1,5 +1,16 @@
 {
-  "article_bindings": [],
+  "article_bindings": [
+    {
+      "supplier": "Scalebay",
+      "article": "SSM1464",
+      "unomag_id": 360081
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "SSM1466",
+      "unomag_id": 362743
+    }
+  ],
   "ignored_articles": [
     {
       "supplier": "Scalebay",
