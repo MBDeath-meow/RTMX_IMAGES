@@ -709,6 +709,51 @@
       "supplier": "Scalebay",
       "article": "NAME::АИСТ. ЛУАЗ-37031 (52)",
       "unomag_id": 480348
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::АИСТ. МАЗ 5337 Купава (КИ-5436)",
+      "unomag_id": 182472
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::АИСТ. МАЗ-203",
+      "unomag_id": 353642
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::АИСТ. МАЗ-5550 самосвал",
+      "unomag_id": 206486
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::АИСТ. МАЗ-6422 с полуприцепом-контейнеровозом МАЗ-938920",
+      "unomag_id": 192782
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::АИСТ. МАЗ-6422 с самосвальным полуприцепом МАЗ-9506-30",
+      "unomag_id": 199151
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::АИСТ. МАЗ-6501 самосвал,белый/жёлтый (рестайлинг)",
+      "unomag_id": 207030
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::АИСТ. МАЗ-6516",
+      "unomag_id": 248729
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::АИСТ. МКЗ-10 (4333)",
+      "unomag_id": 509636
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::АИСТ. МКМ-2 (4333)",
+      "unomag_id": 499998
     }
   ],
   "ignored_articles": [
