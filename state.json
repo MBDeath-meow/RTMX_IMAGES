@@ -1259,6 +1259,56 @@
       "supplier": "Scalebay",
       "article": "NAME::ЗИЛ-130В1 с полуприцепом ОДАЗ-794 Междугородные перевозки",
       "unomag_id": 204043
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::ЗИЛ-130В1 с полуприцепом ОДАЗ-794 Междугородные перевозки  АИСТ",
+      "unomag_id": 204043
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::ЗИЛ-130В1 с полуприцепом ОДАЗ-885 Автоистория",
+      "unomag_id": 186436
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::ЗИЛ-130В1 с полуприцепом-муковозом К4-АМГ",
+      "unomag_id": 213827
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::ЗИЛ-130В1 с полуприцепом-муковозом К4-АМГ  АИСТ",
+      "unomag_id": 213827
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::ЗИЛ-131 бортовой с тентом, Автоэкспорт",
+      "unomag_id": 184167
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::ЗИЛ-131 бортовой с тентом, Автоэкспорт   АИСТ",
+      "unomag_id": 184167
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::ЗИЛ-131 бортовой с тентом, бежевый   АИСТ",
+      "unomag_id": 184166
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::ЗИЛ-131 кунг МТО-АТ (100398)",
+      "unomag_id": 184344
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::ЗИЛ-133ГЯ",
+      "unomag_id": 637000
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::ЗИЛ-133ГЯ бортовой ( хаки ) АИСТ",
+      "unomag_id": 637000
     }
   ],
   "ignored_articles": [
@@ -1321,6 +1371,10 @@
     {
       "supplier": "Scalebay",
       "article": "NAME::ЗИЛ-130 (бортовой) Аист темно-зеленый (новое оперение)"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::ЗИЛ-130В1, кабина хаки, поздняя облицовка"
     }
   ],
   "manufacturer_map": [
