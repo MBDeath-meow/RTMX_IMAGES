@@ -1139,6 +1139,61 @@
       "supplier": "Scalebay",
       "article": "NAME::ГТК-32 (51)  АИСТ",
       "unomag_id": 694056
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::ГТК-40(53)",
+      "unomag_id": 384375
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Городской автобус МАЗ-203     АИСТ",
+      "unomag_id": 353642
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Горький 3111 белый",
+      "unomag_id": 174098
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Горький-3309 (двиг. Д-245.7 Diesel Turbo) (синий.серый)",
+      "unomag_id": 179606
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Горький-3309 (двиг. Д-245.7 Diesel Turbo) с тентом, (белый-бежевый)",
+      "unomag_id": 179605
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Горький-52 ТВГ-15",
+      "unomag_id": 461812
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Грузовой троллейбус КТГ-1",
+      "unomag_id": 502246
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Гусеничный транспортёр-снегоболотоход ГТ-С 47",
+      "unomag_id": 197625
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Гусеничный транспортёр-снегоболотоход ГТ-С 47 АИСТ",
+      "unomag_id": 197625
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Гусеничный транспортёр-тягач ГТ-Т Автоистория",
+      "unomag_id": 379007
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::ЗИЛ -130 В1 с полуприцепом ТЦ-4",
+      "unomag_id": 202912
     }
   ],
   "ignored_articles": [
