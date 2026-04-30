@@ -2439,6 +2439,26 @@
       "supplier": "Scalebay",
       "article": "NAME::1/43 SEAGRAVE Marauder II - Fire Brigade - 2007 - (TRF003) - IXO",
       "unomag_id": 259061
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::1/43 TATRA 813 8X8 Kolos - 1968 - (TRU025) - IXO",
+      "unomag_id": 266120
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::1/43 Toyota Crown 2004 Taxi Singapore - MOC083- IXO",
+      "unomag_id": 4087
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::1/43 Toyota corolla WRC #17-Rally Finland,2000 RAC146 - IXO",
+      "unomag_id": 4088
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::1/43 Volvo F88 - 1971 - (TR034) - IXO",
+      "unomag_id": 274049
     }
   ],
   "ignored_articles": [
