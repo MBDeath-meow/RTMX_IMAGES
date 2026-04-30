@@ -2244,6 +2244,31 @@
       "supplier": "Scalebay",
       "article": "NAME::МАЗ 5440 оранж.",
       "unomag_id": 204168
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::МАЗ 5516 самосвал (белый/бежевый) АИСТ",
+      "unomag_id": 179918
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::МАЗ 5516 самосвал (серый/желтый)  АИСТ",
+      "unomag_id": 179919
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::МАЗ 5550 жёлт.сер",
+      "unomag_id": 206486
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::МАЗ 5551 1988",
+      "unomag_id": 180224
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::МАЗ 5551 1988 зел.син",
+      "unomag_id": 180225
     }
   ],
   "ignored_articles": [
