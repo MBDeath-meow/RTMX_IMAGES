@@ -1984,6 +1984,36 @@
       "supplier": "Scalebay",
       "article": "NAME::КРАЗ-214 бортовой   АИСТ",
       "unomag_id": 241836
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::КРАЗ-260 бортовой (поздний)   АИСТ",
+      "unomag_id": 251233
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::КРАЗ-260 бортовой (ранний)   АИСТ",
+      "unomag_id": 251232
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::КС-1562Б (53)",
+      "unomag_id": 482111
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::КС-1562Б (53)    АИСТ",
+      "unomag_id": 482111
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::КСП-2001 (66) хаки",
+      "unomag_id": 221705
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::КСП-2001 (66) хаки  АИСТ",
+      "unomag_id": 221705
     }
   ],
   "ignored_articles": [
@@ -2106,6 +2136,18 @@
     {
       "supplier": "Scalebay",
       "article": "NAME::КРАЗ 260"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::КРАЗ-257 Б1. Автоистория 1/43"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::КРАЗ-257Б1 бортовой с прицепом"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::КС 3574 на шасси Урал 5557 Автоистория"
     }
   ],
   "manufacturer_map": [
