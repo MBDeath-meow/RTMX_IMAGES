@@ -24,6 +24,31 @@
       "supplier": "Scalebay",
       "article": "NAME::1/43    МАЗ-5432  с Полуприцепом МАЗ-5232В",
       "unomag_id": 181033
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::1/43    Татра Т163 Ямал самосвал. АИСТ.",
+      "unomag_id": 459311
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::1/43    Урал 43206-0551 Автоистория",
+      "unomag_id": 259654
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::1/43   Зил 130В1 Автоистория",
+      "unomag_id": 154563
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::1/43   КО 413 (130) Автоистория",
+      "unomag_id": 194455
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::1/43   КрАЗ 260",
+      "unomag_id": 251232
     }
   ],
   "ignored_articles": [
