@@ -2464,6 +2464,21 @@
       "supplier": "Scalebay",
       "article": "NAME::1/43 ВАЗ-2105 VFTS - 1983 - (CLC 480,22)-IXO",
       "unomag_id": 431838
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::1026 IXO CLC055 Lada лада ваз vaz 1200 2101 1:43 limited 1:43",
+      "unomag_id": 313537
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::121 Lada 1200 VolksPolizei IXO 1:43 CLC131",
+      "unomag_id": 319469
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::1970 Lada 1200 - Light Blue  IXO",
+      "unomag_id": 313537
     }
   ],
   "ignored_articles": [
