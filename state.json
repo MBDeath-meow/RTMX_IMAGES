@@ -969,6 +969,71 @@
       "supplier": "Scalebay",
       "article": "103184",
       "unomag_id": 430982
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "103177",
+      "unomag_id": 414794
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "103153",
+      "unomag_id": 393614
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "103047",
+      "unomag_id": 379633
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "103030",
+      "unomag_id": 379007
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "103009",
+      "unomag_id": 353642
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "102880",
+      "unomag_id": 333216
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "102873",
+      "unomag_id": 334254
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "102583",
+      "unomag_id": 298352
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::АИСТ. УРАЛ-375 (тентованная кабина) бортовой, хаки",
+      "unomag_id": 185856
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::АИСТ. Урал 43206-0551 бортовой",
+      "unomag_id": 259654
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::АКПМ-3 (130)",
+      "unomag_id": 621961
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::АКПМ-3 (130)   АИСТ",
+      "unomag_id": 621961
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::АКПМ-3 (130). Автоистория.",
+      "unomag_id": 621961
     }
   ],
   "ignored_articles": [
@@ -1003,6 +1068,10 @@
     {
       "supplier": "Scalebay",
       "article": "103184"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::АКПМ - 3 ( ЗИЛ 130 )."
     }
   ],
   "manufacturer_map": [
