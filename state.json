@@ -2,16 +2,6 @@
   "article_bindings": [
     {
       "supplier": "Scalebay",
-      "article": "SSM1466",
-      "unomag_id": 362743
-    },
-    {
-      "supplier": "Scalebay",
-      "article": "SSM1464",
-      "unomag_id": 360081
-    },
-    {
-      "supplier": "Scalebay",
       "article": "NAME::1/43     МаЗ 6422 с Полуприцепом МаЗ- 9506-20    Автоистория",
       "unomag_id": 197435
     },
@@ -2269,6 +2259,36 @@
       "supplier": "Scalebay",
       "article": "NAME::МАЗ 5551 1988 зел.син",
       "unomag_id": 180225
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "SSM1464",
+      "unomag_id": 360081
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "SSM1466",
+      "unomag_id": 362743
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::КАМАЗ 65207-87(S5) бортовой ПАО КАМАЗ",
+      "unomag_id": 519215
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::МАЗ 5551 1998 кр.бел",
+      "unomag_id": 179917
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::МАЗ 6303 (100534)",
+      "unomag_id": 184601
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::МАЗ 6422",
+      "unomag_id": 180428
     }
   ],
   "ignored_articles": [
@@ -2427,6 +2447,14 @@
     {
       "supplier": "Scalebay",
       "article": "NAME::МАЗ 5432 АИСТ"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::МАЗ 5551 самосвал с прицепом"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::МАЗ 6303 бортовой АИСТ"
     }
   ],
   "manufacturer_map": [
