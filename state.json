@@ -274,6 +274,61 @@
       "supplier": "Scalebay",
       "article": "NAME::Skoda 14TR    АИСТ",
       "unomag_id": 490442
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Skoda 706 MTTN",
+      "unomag_id": 485253
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Skoda 706 MTTN   АИСТ",
+      "unomag_id": 485253
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Skoda 706 MTTN с п/п Alka N12CH",
+      "unomag_id": 474505
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "103580",
+      "unomag_id": 474505
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Skoda 706 MTTN с п/п Alka N12CH    АИСТ",
+      "unomag_id": 474505
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Skoda 706 RTTN   АИСТ",
+      "unomag_id": 485254
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Skoda 706 RTTN с полуприцепом Alka N12CH",
+      "unomag_id": 484586
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Skoda 706 RTTN с полуприцепом Alka N12CH   АИСТ",
+      "unomag_id": 484586
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Skoda 706 RTTN седельный тягач",
+      "unomag_id": 279548
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Skoda 706 RTTN седельный тягач (серый/коричневый) Авто история (Аист)  М.1099",
+      "unomag_id": 485254
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "103566",
+      "unomag_id": 491552
     }
   ],
   "ignored_articles": [
@@ -288,6 +343,10 @@
     {
       "supplier": "Scalebay",
       "article": "NAME::2кабины МАЗ 200В"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Skoda 706RTTN+МАЗ 5215"
     }
   ],
   "manufacturer_map": [
