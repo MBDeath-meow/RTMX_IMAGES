@@ -4014,6 +4014,26 @@
       "supplier": "Scalebay",
       "article": "SSM1091",
       "unomag_id": 173829
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "SSM1081",
+      "unomag_id": 184743
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "SSM1078",
+      "unomag_id": 176765
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "SSM1053",
+      "unomag_id": 159461
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "SSM1051",
+      "unomag_id": 158065
     }
   ],
   "ignored_articles": [
