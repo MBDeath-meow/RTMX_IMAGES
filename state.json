@@ -2014,6 +2014,26 @@
       "supplier": "Scalebay",
       "article": "NAME::КСП-2001 (66) хаки  АИСТ",
       "unomag_id": 221705
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::КТГ-1     АИСТ",
+      "unomag_id": 502246
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::КамАЗ-65801-T5 самосвал красный/зелёный",
+      "unomag_id": 521776
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::КамАЗ-65802-87 (S5) оранжевый",
+      "unomag_id": 516931
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::КамАЗ-65802-87 (S5) самосвал",
+      "unomag_id": 516931
     }
   ],
   "ignored_articles": [
@@ -2148,6 +2168,14 @@
     {
       "supplier": "Scalebay",
       "article": "NAME::КС 3574 на шасси Урал 5557 Автоистория"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::КамАЗ 5490 S5"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Камаз 65206"
     }
   ],
   "manufacturer_map": [
