@@ -2429,6 +2429,11 @@
       "supplier": "Scalebay",
       "article": "NAME::МАЗ-5340 бортовой с тентом белый/синий",
       "unomag_id": 205676
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::МАЗ-5432",
+      "unomag_id": 180280
     }
   ],
   "ignored_articles": [
