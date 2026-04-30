@@ -2179,6 +2179,46 @@
       "supplier": "Scalebay",
       "article": "NAME::МАЗ 200В с п.пр МАЗ 5217",
       "unomag_id": 181030
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::МАЗ 205 сер",
+      "unomag_id": 187203
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::МАЗ 5232В",
+      "unomag_id": 181047
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::МАЗ 5337",
+      "unomag_id": 180839
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::МАЗ 5337 1987г",
+      "unomag_id": 180839
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::МАЗ 5337 КИ 5436",
+      "unomag_id": 182472
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::МАЗ 5337 бортовой (поздняя кабина) АИСТ Автоистория 1:43",
+      "unomag_id": 179801
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::МАЗ 5340 б_син",
+      "unomag_id": 205676
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::МАЗ 5340 зел",
+      "unomag_id": 205677
     }
   ],
   "ignored_articles": [
