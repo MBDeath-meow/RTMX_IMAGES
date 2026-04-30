@@ -182,11 +182,6 @@
     },
     {
       "supplier": "Scalebay",
-      "article": "103670",
-      "unomag_id": 519214
-    },
-    {
-      "supplier": "Scalebay",
       "article": "NAME::KAMAZ-65207-87 (S5) Автоистория (АИСТ)",
       "unomag_id": 519215
     },
@@ -379,11 +374,6 @@
       "supplier": "Scalebay",
       "article": "103641",
       "unomag_id": 479801
-    },
-    {
-      "supplier": "Scalebay",
-      "article": "103634",
-      "unomag_id": 477436
     },
     {
       "supplier": "Scalebay",
@@ -879,6 +869,36 @@
       "supplier": "Scalebay",
       "article": "103700",
       "unomag_id": 535118
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "103694",
+      "unomag_id": 521776
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "103670",
+      "unomag_id": 519214
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "103634",
+      "unomag_id": 477436
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "103610",
+      "unomag_id": 477433
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "103597",
+      "unomag_id": 485254
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "103573",
+      "unomag_id": 485253
     }
   ],
   "ignored_articles": [
