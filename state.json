@@ -2294,6 +2294,41 @@
       "supplier": "Scalebay",
       "article": "NAME::МАЗ 6422 (100572)",
       "unomag_id": 180430
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::МАЗ 6430 зеленый",
+      "unomag_id": 204976
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::МАЗ 6501 бел.оранж",
+      "unomag_id": 207030
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::МАЗ 6501 кр.оранж",
+      "unomag_id": 207029
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::МАЗ 8926",
+      "unomag_id": 233245
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::МАЗ 9506-30 (1524)",
+      "unomag_id": 192089
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::МАЗ-200 с п/п МАЗ-5217 (АИСТ) 1/43",
+      "unomag_id": 181030
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::МАЗ-200. АвтоИстория 1/43",
+      "unomag_id": 154750
     }
   ],
   "ignored_articles": [
@@ -2468,6 +2503,14 @@
     {
       "supplier": "Scalebay",
       "article": "NAME::МАЗ 6422 зеленый+серый"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::МАЗ 6422зеленый"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::МАЗ-200В с полуприцепом МАЗ-5217"
     }
   ],
   "manufacturer_map": [
