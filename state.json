@@ -1034,6 +1034,51 @@
       "supplier": "Scalebay",
       "article": "NAME::АКПМ-3 (130). Автоистория.",
       "unomag_id": 621961
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::АЛ-17 (51)",
+      "unomag_id": 680100
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::АТС-59",
+      "unomag_id": 381191
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::АЦ-9 (5337)     АИСТ",
+      "unomag_id": 334254
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::АЦЖР (130)",
+      "unomag_id": 198240
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::АЦИП 7,7 Молоко (МАЗ 5337)",
+      "unomag_id": 185707
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::АЦИП-7,7 Молоко (МАЗ-5337)     АИСТ",
+      "unomag_id": 185707
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::АЦПТ 09",
+      "unomag_id": 215910
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::АЦПТ 3.3(53) цистерна  АИСТ",
+      "unomag_id": 393613
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::АЦПТ-3,3 (53)     АИСТ",
+      "unomag_id": 393613
     }
   ],
   "ignored_articles": [
