@@ -134,6 +134,41 @@
       "supplier": "Scalebay",
       "article": "4610044100046",
       "unomag_id": 174101
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::3307 (двигатель ЗМЗ-513) дерев. борт (серый-голубой)  АИСТ",
+      "unomag_id": 179608
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::4322 кунг   АИСТ",
+      "unomag_id": 226340
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::53 М (мусоровоз)",
+      "unomag_id": 415569
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "103238",
+      "unomag_id": 433202
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::AVIA A31N бортовой  АИСТ",
+      "unomag_id": 433202
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Csepel D-450  АИСТ",
+      "unomag_id": 528567
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Csepel D-450B  АИСТ",
+      "unomag_id": 528565
     }
   ],
   "ignored_articles": [
