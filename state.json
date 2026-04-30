@@ -49,6 +49,26 @@
       "supplier": "Scalebay",
       "article": "NAME::1/43   КрАЗ 260",
       "unomag_id": 251232
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::1/43   МАЗ 5505 Автоистория",
+      "unomag_id": 206487
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::1/43   МаЗ 5551 АИСТ",
+      "unomag_id": 179917
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::1/43 Skoda 706 RTTN седельный тягач (АвтоИстория)",
+      "unomag_id": 279548
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "44100176",
+      "unomag_id": 158095
     }
   ],
   "ignored_articles": [
