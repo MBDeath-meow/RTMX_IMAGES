@@ -1032,11 +1032,6 @@
     },
     {
       "supplier": "Scalebay",
-      "article": "NAME::АЦ-9 (5337)     АИСТ",
-      "unomag_id": 334254
-    },
-    {
-      "supplier": "Scalebay",
       "article": "NAME::АЦЖР (130)",
       "unomag_id": 198240
     },
@@ -1864,6 +1859,51 @@
       "supplier": "Scalebay",
       "article": "NAME::АЦ 40 (131) НН",
       "unomag_id": 198467
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::АЦ-30 (66) аварийная-водоканал",
+      "unomag_id": 214440
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::АЦ-30 (66) аварийная-водоканал  АИСТ",
+      "unomag_id": 214440
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::АЦ-4,0 (131) зеленый/серый",
+      "unomag_id": 198015
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::АЦ-40(133ГЯ)-181А    АИСТ",
+      "unomag_id": 661881
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::АЦ-40-181А (ЗиЛ-133ГЯ)",
+      "unomag_id": 661881
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::АЦ-8,5 (255Б)",
+      "unomag_id": 329408
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::АЦ-8,5 (КРАЗ-255Б) Аэрофлот",
+      "unomag_id": 203920
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::АЦ-8,5 (КРАЗ-255Б) Аэрофлот  АИСТ",
+      "unomag_id": 203920
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::АЦ-9 (5337)     АИСТ",
+      "unomag_id": 333216
     }
   ],
   "ignored_articles": [
