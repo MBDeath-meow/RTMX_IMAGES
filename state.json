@@ -1559,6 +1559,21 @@
       "supplier": "Scalebay",
       "article": "NAME::КАЗ-4540 ’Колхида’ самосвал (голубой) Авто история (Аист)  М.1098",
       "unomag_id": 503314
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::КАМАЗ 6520-21010-53 самосвал ПАО КАМАЗ",
+      "unomag_id": 519214
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "102453",
+      "unomag_id": 334587
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "102279.ПОЗ",
+      "unomag_id": 251233
     }
   ],
   "ignored_articles": [
@@ -1641,6 +1656,30 @@
     {
       "supplier": "Scalebay",
       "article": "NAME::Зил-5301(Бычок)"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::КАМАЗ 65206"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::КАМАЗ 65225 , пао камаз возможен обмен."
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::КАМАЗ 65225 тягач  ПАО КАМАЗ"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::КАМАЗ 65951 самосвал ПАО КАМАЗ"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::КАМАЗ 65952 самосвал ПАО КАМАЗ"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::КО 413 (130)"
     }
   ],
   "manufacturer_map": [
