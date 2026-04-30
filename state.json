@@ -514,6 +514,46 @@
       "supplier": "Scalebay",
       "article": "NAME::АИСТ.  МАЗ-200В",
       "unomag_id": 179477
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::АИСТ.  НАМИ-790",
+      "unomag_id": 695471
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::АИСТ.  ПУ-20 (51А)",
+      "unomag_id": 694057
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::АИСТ.  СКП-11 (130)",
+      "unomag_id": 634947
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::АИСТ. AVIA A31N",
+      "unomag_id": 433202
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::АИСТ. Csepel D-450",
+      "unomag_id": 528567
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::АИСТ. Csepel D-450B",
+      "unomag_id": 528565
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::АИСТ. Skoda 100.05",
+      "unomag_id": 677346
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::АИСТ. Skoda 110.850 SA8",
+      "unomag_id": 528574
     }
   ],
   "ignored_articles": [
