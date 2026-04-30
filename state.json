@@ -2434,6 +2434,11 @@
       "supplier": "Scalebay",
       "article": "NAME::МАЗ-5432",
       "unomag_id": 180280
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::1/43 SEAGRAVE Marauder II - Fire Brigade - 2007 - (TRF003) - IXO",
+      "unomag_id": 259061
     }
   ],
   "ignored_articles": [
@@ -2642,6 +2647,22 @@
     {
       "unomag_name": "Автоистория (АИСТ)",
       "variation": "Автоистория (АИСТ)"
+    },
+    {
+      "unomag_name": "IXO",
+      "variation": "IXO"
+    },
+    {
+      "unomag_name": "IXO",
+      "variation": "IXO Rally (серии RAC, RAM)"
+    },
+    {
+      "unomag_name": "IXO",
+      "variation": "IXO Road (серии MOC, CLC)"
+    },
+    {
+      "unomag_name": "IXO",
+      "variation": "IXO грузовики (серии TRU)"
     }
   ],
   "suppliers": [
