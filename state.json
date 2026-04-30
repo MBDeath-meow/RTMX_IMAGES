@@ -1224,6 +1224,41 @@
       "supplier": "Scalebay",
       "article": "NAME::ЗИЛ 5301 ’Бычок’ хаки АИСТ Автоистория 1:43",
       "unomag_id": 176463
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::ЗИЛ 5301 ’Бычок’, хаки   АИСТ",
+      "unomag_id": 176463
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::ЗИЛ ММЗ-555 (поздняя решётка) РЕДКИЙ !!!",
+      "unomag_id": 172622
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::ЗИЛ-130-76 бортовой (поздний)",
+      "unomag_id": 151913
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::ЗИЛ-130. Автоистория 1/43",
+      "unomag_id": 151912
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::ЗИЛ-130В1 с полуприцепом ОДАЗ-794",
+      "unomag_id": 198943
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::ЗИЛ-130В1 с полуприцепом ОДАЗ-794  Почта России  АИСТ",
+      "unomag_id": 198943
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::ЗИЛ-130В1 с полуприцепом ОДАЗ-794 Междугородные перевозки",
+      "unomag_id": 204043
     }
   ],
   "ignored_articles": [
@@ -1278,6 +1313,14 @@
     {
       "supplier": "Scalebay",
       "article": "NAME::ЗИЛ 5301 бычок с тентом"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::ЗИЛ-130"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::ЗИЛ-130 (бортовой) Аист темно-зеленый (новое оперение)"
     }
   ],
   "manufacturer_map": [
