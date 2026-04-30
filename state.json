@@ -1309,6 +1309,61 @@
       "supplier": "Scalebay",
       "article": "NAME::ЗИЛ-133ГЯ бортовой ( хаки ) АИСТ",
       "unomag_id": 637000
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::ЗИЛ-133ГЯ бортовой (голубой/зеленый) АИСТ",
+      "unomag_id": 178953
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::ЗИЛ-133ГЯ бортовой голубой/зеленый",
+      "unomag_id": 178953
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::ЗИЛ-157К (Автоистория)",
+      "unomag_id": 151241
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::ЗИЛ-157К (бортовой) Аист",
+      "unomag_id": 151241
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::ЗИЛ-157К АИСТ",
+      "unomag_id": 151241
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::ЗИЛ-157К бортовой (тёмно-зелёный)",
+      "unomag_id": 151242
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::ЗИЛ-157К бортовой (тёмно-зелёный) Авто история (Аист)  М.1100",
+      "unomag_id": 151242
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::ЗИЛ-157К бортовой с тентом",
+      "unomag_id": 154552
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::ЗИЛ-164 (СЕРЫЙ)",
+      "unomag_id": 153496
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::ЗИЛ-164А (ЛуМЗ-890Б)  фургон-холодильник (голубой/серебристый) Авто история (Аист)  Б.10435",
+      "unomag_id": 155277
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::ЗИЛ-164А бортовой - АИСТ",
+      "unomag_id": 153496
     }
   ],
   "ignored_articles": [
