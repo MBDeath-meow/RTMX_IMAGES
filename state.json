@@ -102,23 +102,8 @@
     },
     {
       "supplier": "Scalebay",
-      "article": "101395.Х",
-      "unomag_id": 259654
-    },
-    {
-      "supplier": "Scalebay",
-      "article": "101401",
-      "unomag_id": 225567
-    },
-    {
-      "supplier": "Scalebay",
       "article": "101432.ОР",
       "unomag_id": 226340
-    },
-    {
-      "supplier": "Scalebay",
-      "article": "102262",
-      "unomag_id": 241836
     },
     {
       "supplier": "Scalebay",
@@ -1574,6 +1559,76 @@
       "supplier": "Scalebay",
       "article": "102279.ПОЗ",
       "unomag_id": 251233
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "102262",
+      "unomag_id": 241836
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "102132",
+      "unomag_id": 213827
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "101913",
+      "unomag_id": 245787
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "101906",
+      "unomag_id": 248139
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "101883",
+      "unomag_id": 248141
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "101753",
+      "unomag_id": 196767
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "101593",
+      "unomag_id": 192782
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "101531",
+      "unomag_id": 199151
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "101463",
+      "unomag_id": 187433
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "101449",
+      "unomag_id": 244161
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "101418",
+      "unomag_id": 195397
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "101401",
+      "unomag_id": 225567
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "101395.Х",
+      "unomag_id": 259654
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "101388",
+      "unomag_id": 248729
     }
   ],
   "ignored_articles": [
@@ -1680,6 +1735,10 @@
     {
       "supplier": "Scalebay",
       "article": "NAME::КО 413 (130)"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "101883"
     }
   ],
   "manufacturer_map": [
