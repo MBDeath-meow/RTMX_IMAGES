@@ -2289,6 +2289,11 @@
       "supplier": "Scalebay",
       "article": "NAME::МАЗ 6422",
       "unomag_id": 180428
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::МАЗ 6422 (100572)",
+      "unomag_id": 180430
     }
   ],
   "ignored_articles": [
@@ -2455,6 +2460,14 @@
     {
       "supplier": "Scalebay",
       "article": "NAME::МАЗ 6303 бортовой АИСТ"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::МАЗ 6422"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::МАЗ 6422 зеленый+серый"
     }
   ],
   "manufacturer_map": [
