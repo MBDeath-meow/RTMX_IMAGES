@@ -4034,6 +4034,36 @@
       "supplier": "Scalebay",
       "article": "SSM1051",
       "unomag_id": 158065
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "SSM1041",
+      "unomag_id": 153283
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "SSM1027",
+      "unomag_id": 158377
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "SSM1023",
+      "unomag_id": 174094
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "SSM1022",
+      "unomag_id": 174094
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "SSM1019",
+      "unomag_id": 153927
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "SSM1015",
+      "unomag_id": 153285
     }
   ],
   "ignored_articles": [
