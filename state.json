@@ -2524,6 +2524,36 @@
       "supplier": "Scalebay",
       "article": "NAME::Audi R10 TDI #1 Le Mans 2008 (146)",
       "unomag_id": 4026
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Audi R10 TDI #14 Le Mans 2009 (176)",
+      "unomag_id": 7889
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::INTERINATIONAL Transtar 4300 towing vehicle (1980), white dark blue red   IXO",
+      "unomag_id": 428038
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::INTERNATIONAL Eagle Cabover Tractor Truck 3-assi (1995), White Blue   IXO",
+      "unomag_id": 494937
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::INTERNATIONAL Lonestar (2010), Brown Metallic/Black    IXO",
+      "unomag_id": 434139
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::INTERNATIONAL TRANSTAR Coe Tractor Truck 3-assi (1965), Beige Brown   IXO",
+      "unomag_id": 593881
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::INTERNATIONAL TRANSTAR Coe Tractor Truck 3-assi (1976), Red  IXO",
+      "unomag_id": 581006
     }
   ],
   "ignored_articles": [
