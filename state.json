@@ -1489,6 +1489,76 @@
       "supplier": "Scalebay",
       "article": "NAME::Зил 131 бортовой с тентом (398)",
       "unomag_id": 184167
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Зил 131 бортовой с тентом (6x6) ООН СССР АИСТ Автоистория 1:43",
+      "unomag_id": 175435
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Зил 157 6х6 Песочный ’Афганистан’ 1979 СССР АИСТ Автоистория 1:43",
+      "unomag_id": 151240
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Зил 164 Фургон ЛуМЗ 890Б 1969 Зеленый СССР Автоистория 1:43",
+      "unomag_id": 155278
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Зил 5301 гол.сер",
+      "unomag_id": 176465
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Зил 5301 зел.сер",
+      "unomag_id": 176464
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Зил 5301 хаки",
+      "unomag_id": 176463
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Зис 151 бортовой 6х6 зелёный/коричневый СССР АИСТ Автоистория 1:43 00404.зк",
+      "unomag_id": 182521
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Изотермический фургон КИ-5436 Купава (МАЗ-5337)",
+      "unomag_id": 182472
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Изотермический фургон КИ-5436 Купава (МАЗ-5337)   АИСТ",
+      "unomag_id": 182472
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::К4-АМГ",
+      "unomag_id": 199330
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::КАЗ 608 с полуприцепом ОДАЗ 857Б 1:43 АИСТ",
+      "unomag_id": 298352
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::КАЗ-4540    АИСТ",
+      "unomag_id": 503314
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::КАЗ-4540 с прицепом ГКБ-8535  АИСТ",
+      "unomag_id": 557617
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::КАЗ-4540 ’Колхида’ самосвал (голубой) Авто история (Аист)  М.1098",
+      "unomag_id": 503314
     }
   ],
   "ignored_articles": [
@@ -1567,6 +1637,10 @@
     {
       "supplier": "Scalebay",
       "article": "NAME::Зил 130 хаки"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Зил-5301(Бычок)"
     }
   ],
   "manufacturer_map": [
