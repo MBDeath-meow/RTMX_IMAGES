@@ -2374,6 +2374,61 @@
       "supplier": "Scalebay",
       "article": "NAME::МАЗ-5217, (серый/зеленый)",
       "unomag_id": 181029
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::МАЗ-5337 1987",
+      "unomag_id": 180839
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::МАЗ-5337 бортовой (поздняя кабина)",
+      "unomag_id": 179801
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::МАЗ-5337 бортовой (ранняя кабина), 1987 г.",
+      "unomag_id": 180839
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::МАЗ-5337 бортовой (ранняя кабина, хаки)",
+      "unomag_id": 180279
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::МАЗ-5337 бортовой (ранняя решетка) - АИСТ",
+      "unomag_id": 180839
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::МАЗ-5337 бортовой 1987 (серый/синий) Авто история (Аист)  Н.0049",
+      "unomag_id": 179801
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::МАЗ-5337 бортовой 1987г. (т.зелёный) Авто история (Аист)  Б.8265",
+      "unomag_id": 180279
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::МАЗ-5340 бортовой",
+      "unomag_id": 205676
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::МАЗ-5340 бортовой  АИСТ",
+      "unomag_id": 205676
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::МАЗ-5340 бортовой  с тентом АИСТ",
+      "unomag_id": 205676
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::МАЗ-5340 бортовой с тентом белый/синий",
+      "unomag_id": 205676
     }
   ],
   "ignored_articles": [
