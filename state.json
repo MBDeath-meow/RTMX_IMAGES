@@ -644,6 +644,36 @@
       "supplier": "Scalebay",
       "article": "NAME::АИСТ. Гусеничный транспортёр-снегоболотоход ГТС-47",
       "unomag_id": 197625
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::АИСТ. ЗИЛ-130В1 с полуприцепом ОДАЗ-794 Междугородные перевозки",
+      "unomag_id": 204043
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::АИСТ. ЗИЛ-130В1 с полуприцепом ТЦ-4",
+      "unomag_id": 202912
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::АИСТ. ЗИЛ-131",
+      "unomag_id": 184167
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::АИСТ. Зил 130 ТСВ-6 (130)",
+      "unomag_id": 196767
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::АИСТ. КАМАЗ-6520-21010-53",
+      "unomag_id": 519214
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::АИСТ. КАМАЗ-65801-68",
+      "unomag_id": 535118
     }
   ],
   "ignored_articles": [
