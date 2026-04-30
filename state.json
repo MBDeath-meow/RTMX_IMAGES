@@ -3464,6 +3464,61 @@
       "supplier": "Scalebay",
       "article": "SSM1539",
       "unomag_id": 472729
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "SSM1538",
+      "unomag_id": 470904
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "SSM1537",
+      "unomag_id": 469263
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "SSM1536",
+      "unomag_id": 465704
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "SSM1535",
+      "unomag_id": 465703
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "SSM1534",
+      "unomag_id": 455164
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "SSM1533",
+      "unomag_id": 457283
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "SSM1531",
+      "unomag_id": 484585
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "SSM1529",
+      "unomag_id": 442746
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "SSM1526",
+      "unomag_id": 441961
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "SSM1524",
+      "unomag_id": 441039
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "SSM1522",
+      "unomag_id": 468355
     }
   ],
   "ignored_articles": [
@@ -3654,6 +3709,10 @@
     {
       "supplier": "Scalebay",
       "article": "NAME::1/43 УАЗ ПИКАП -Сервисная Автовентури РИФ - Конверсия"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "SSM1528"
     }
   ],
   "manufacturer_map": [
