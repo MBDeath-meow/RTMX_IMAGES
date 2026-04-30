@@ -3193,7 +3193,67 @@
     {
       "supplier": "Scalebay",
       "article": "SSM1617",
-      "unomag_id": 634948
+      "unomag_id": 654955
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "SSM1615",
+      "unomag_id": 641850
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "SSM1613",
+      "unomag_id": 657405
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "SSM1611",
+      "unomag_id": 668685
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "SSM1610",
+      "unomag_id": 654955
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "SSM1609",
+      "unomag_id": 598038
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "SSM1608",
+      "unomag_id": 610705
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "SSM1606",
+      "unomag_id": 630928
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "SSM1604",
+      "unomag_id": 588726
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "SSM1603",
+      "unomag_id": 598571
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "SSM1602",
+      "unomag_id": 584696
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "SSM1599",
+      "unomag_id": 583489
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "SSM1598",
+      "unomag_id": 577587
     }
   ],
   "ignored_articles": [
