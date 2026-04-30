@@ -1424,6 +1424,41 @@
       "supplier": "Scalebay",
       "article": "NAME::ЗИС-ММЗ-120Н седельный тягач голубой",
       "unomag_id": 283073
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::ЗСК-10 (130)АИСТ",
+      "unomag_id": 189709
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::ЗиЛ-130 фургон с грузоподъёмным бортом У-165 ’Почта России’",
+      "unomag_id": 195397
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::ЗиЛ-130В1 с полуприцепом ТЦ-4",
+      "unomag_id": 202912
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::ЗиЛ-133ГЯ бортовой голубой/зеленый",
+      "unomag_id": 178953
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::ЗиЛ-164 ЛуМЗ-890Б тёмно зелёный",
+      "unomag_id": 155278
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Зил 130 Мусоровоз с боковой загрузкой КО-413 СССР АИСТ Автоистория 1:43",
+      "unomag_id": 194455
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Зил 130 гол.сер",
+      "unomag_id": 151914
     }
   ],
   "ignored_articles": [
@@ -1490,6 +1525,14 @@
     {
       "supplier": "Scalebay",
       "article": "NAME::ЗИЛ-130В1, кабина хаки, поздняя облицовка"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::ЗСК 10 (130) (поздний) !!!!АРХИВ!!!!"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::ЗСК 10 (130) ранний !!!АРХИВ!!!"
     }
   ],
   "manufacturer_map": [
