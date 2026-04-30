@@ -899,6 +899,41 @@
       "supplier": "Scalebay",
       "article": "103573",
       "unomag_id": 485253
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "103450",
+      "unomag_id": 482111
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "103443",
+      "unomag_id": 480348
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "103436",
+      "unomag_id": 461812
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "103405",
+      "unomag_id": 464451
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "103382",
+      "unomag_id": 499998
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "103375",
+      "unomag_id": 509636
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "103368",
+      "unomag_id": 499997
     }
   ],
   "ignored_articles": [
@@ -925,6 +960,10 @@
     {
       "supplier": "Scalebay",
       "article": "NAME::АИСТ. Skoda 706"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "103443"
     }
   ],
   "manufacturer_map": [
