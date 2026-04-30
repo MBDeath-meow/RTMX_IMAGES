@@ -1459,6 +1459,36 @@
       "supplier": "Scalebay",
       "article": "NAME::Зил 130 гол.сер",
       "unomag_id": 151914
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Зил 130В1 с п.пр ТЦ 4 сер.зел",
+      "unomag_id": 202912
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Зил 131 Кунг МЧС (100398)",
+      "unomag_id": 184345
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Зил 131 Унифицированный моторный подогреватель (УМП) 350 1975 СССР Автоистория 1:43",
+      "unomag_id": 181036
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Зил 131 Унифицированный моторный подогреватель (УМП) 350 Аэрофлот 1975 СССР Автоистория 1:43",
+      "unomag_id": 181035
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Зил 131 Ярославль №14",
+      "unomag_id": 176065
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Зил 131 бортовой с тентом (398)",
+      "unomag_id": 184167
     }
   ],
   "ignored_articles": [
@@ -1533,6 +1563,10 @@
     {
       "supplier": "Scalebay",
       "article": "NAME::ЗСК 10 (130) ранний !!!АРХИВ!!!"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Зил 130 хаки"
     }
   ],
   "manufacturer_map": [
