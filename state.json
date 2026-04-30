@@ -1949,6 +1949,41 @@
       "supplier": "Scalebay",
       "article": "NAME::КО 450 ( 4333)",
       "unomag_id": 248141
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::КО-413 (ЗиЛ-130), поздний хаки/оранжевый",
+      "unomag_id": 194455
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::КО-520 (4333)",
+      "unomag_id": 245786
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::КО-829 (4333) поливомоечная  АИСТ",
+      "unomag_id": 509635
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::КО-829А (4333)     АИСТ",
+      "unomag_id": 499997
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::КО-829А (4333) пескоразбрасыватель  АИСТ",
+      "unomag_id": 499997
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::КРАЗ 258 с п.пр. ЧМЗАП 5523",
+      "unomag_id": 196630
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::КРАЗ-214 бортовой   АИСТ",
+      "unomag_id": 241836
     }
   ],
   "ignored_articles": [
@@ -2063,6 +2098,14 @@
     {
       "supplier": "Scalebay",
       "article": "100497"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::КРАЗ 257"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::КРАЗ 260"
     }
   ],
   "manufacturer_map": [
