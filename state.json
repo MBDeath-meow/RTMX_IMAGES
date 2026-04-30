@@ -2459,6 +2459,11 @@
       "supplier": "Scalebay",
       "article": "NAME::1/43 Volvo F88 - 1971 - (TR034) - IXO",
       "unomag_id": 274049
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::1/43 ВАЗ-2105 VFTS - 1983 - (CLC 480,22)-IXO",
+      "unomag_id": 431838
     }
   ],
   "ignored_articles": [
