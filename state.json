@@ -2069,6 +2069,71 @@
       "supplier": "Scalebay",
       "article": "NAME::КрАЗ-257 Б1 (оранжевый) бортовой Автоистория  1:43",
       "unomag_id": 178481
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::КрАЗ-257 Б1 бортовой, (бежевый/серый)",
+      "unomag_id": 178480
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::КрАЗ-258Б1 с полуприцепом-цистерной ТЗ-22",
+      "unomag_id": 187433
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::КрАЗ-258Б1 с полуприцепом-цистерной ТЗ-22, пожарный",
+      "unomag_id": 187434
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Краз 255 Б 6x6 самосвал СССР АИСТ Автоистория 1:43",
+      "unomag_id": 192924
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Краз 256 Б1 самосвал",
+      "unomag_id": 178479
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Краз 256Б1 самосвал (беж)",
+      "unomag_id": 176072
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Краз 256Б1 самосвал (ж-зел)",
+      "unomag_id": 176073
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Краз 256Б1 самосвал (син-сер)",
+      "unomag_id": 176071
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Курганский автобус-3976   АИСТ",
+      "unomag_id": 250765
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Курганский автобус-3976 МЧС   АИСТ",
+      "unomag_id": 232492
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::ЛУАЗ-37031 (52)",
+      "unomag_id": 480348
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::ЛУАЗ-37031 (52)   АИСТ",
+      "unomag_id": 480348
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::ЛУАЗ-37031(52) АИСТ",
+      "unomag_id": 480348
     }
   ],
   "ignored_articles": [
@@ -2219,6 +2284,10 @@
     {
       "supplier": "Scalebay",
       "article": "NAME::Контейнеровоз камаз -53212 с прицепом гкб - 8350"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Кузов Урал-43206, 1/43"
     }
   ],
   "manufacturer_map": [
