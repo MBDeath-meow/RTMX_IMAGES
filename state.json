@@ -334,6 +334,41 @@
       "supplier": "Scalebay",
       "article": "NAME::Skoda-9TR    АИСТ",
       "unomag_id": 491552
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::TATRA 815 UDS114A",
+      "unomag_id": 479801
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::TATRA 815 UDS114A    АИСТ",
+      "unomag_id": 479801
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::TATRA 815 UDS114A КАЧЕСТВО = ЦЕНА (ВЫБОРКА)",
+      "unomag_id": 479801
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "103108",
+      "unomag_id": 428195
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Tatra 111R бортовой  АИСТ",
+      "unomag_id": 428195
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "103283",
+      "unomag_id": 434215
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "103313",
+      "unomag_id": 455163
     }
   ],
   "ignored_articles": [
