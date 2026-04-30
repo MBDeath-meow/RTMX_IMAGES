@@ -674,6 +674,41 @@
       "supplier": "Scalebay",
       "article": "NAME::АИСТ. КАМАЗ-65801-68",
       "unomag_id": 535118
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::АИСТ. КРАЗ АЦ-8,5 (255Б)",
+      "unomag_id": 329408
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::АИСТ. КРАЗ-214 бортовой",
+      "unomag_id": 241836
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::АИСТ. КРАЗ-260 бортовой (ранний)",
+      "unomag_id": 251232
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::АИСТ. КС-1562Б (53)",
+      "unomag_id": 482111
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::АИСТ. КТГ-1",
+      "unomag_id": 502246
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::АИСТ. Компрессор передвижной ЗИФ-55",
+      "unomag_id": 218730
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::АИСТ. ЛУАЗ-37031 (52)",
+      "unomag_id": 480348
     }
   ],
   "ignored_articles": [
