@@ -1719,6 +1719,56 @@
       "supplier": "Scalebay",
       "article": "100422.С",
       "unomag_id": 179801
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "100417",
+      "unomag_id": 179919
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "100296",
+      "unomag_id": 182472
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "100213",
+      "unomag_id": 178479
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "10015",
+      "unomag_id": 156314
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::АИСТ. ТВГ-15 (52)",
+      "unomag_id": 461812
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::АИСТ. Троллейбус ТГ-3",
+      "unomag_id": 488956
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::АИСТ. УМП 350 (на шасси ЗИЛ-131), Аэропорт, 1975 г.",
+      "unomag_id": 181035
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::АКПМ-3 (ЗиЛ-130) хаки/оранжевый",
+      "unomag_id": 621961
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::АЛ-17 (51)  автолестница  АИСТ",
+      "unomag_id": 680100
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::АЛ-17 (51) пожарная автолестница",
+      "unomag_id": 680100
     }
   ],
   "ignored_articles": [
