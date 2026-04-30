@@ -169,6 +169,61 @@
       "supplier": "Scalebay",
       "article": "NAME::Csepel D-450B  АИСТ",
       "unomag_id": 528565
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::KAMAZ-6520-21010-53 Автоистория (АИСТ)",
+      "unomag_id": 519214
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::KAMAZ-6520-21010-53 самосвал",
+      "unomag_id": 519214
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "103670",
+      "unomag_id": 519214
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "103717",
+      "unomag_id": 519215
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::KAMAZ-65207-87 (S5) Автоистория (АИСТ)",
+      "unomag_id": 519215
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::KAMAZ-65207-87 (S5) бортовой",
+      "unomag_id": 519215
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "103700",
+      "unomag_id": 535118
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::KAMAZ-65801-T5",
+      "unomag_id": 521776
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::KAMAZ-65802-87 (S5) Автоистория (АИСТ)",
+      "unomag_id": 516931
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::KAMAZ-65802-87 (S5) Автоистория (АИСТ) КАЧЕСТВО = ЦЕНА (ВЫБОРКА)",
+      "unomag_id": 516931
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "103687",
+      "unomag_id": 516931
     }
   ],
   "ignored_articles": [
