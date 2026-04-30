@@ -3869,6 +3869,96 @@
       "supplier": "Scalebay",
       "article": "SSM1324",
       "unomag_id": 222317
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "SSM1293",
+      "unomag_id": 199553
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "SSM1272",
+      "unomag_id": 487535
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "SSM1270",
+      "unomag_id": 194454
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "SSM1268",
+      "unomag_id": 194309
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "SSM1263",
+      "unomag_id": 191316
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "SSM1253",
+      "unomag_id": 196679
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "SSM1229",
+      "unomag_id": 191972
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "SSM1221",
+      "unomag_id": 187435
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "SSM1203",
+      "unomag_id": 193838
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "SSM1200",
+      "unomag_id": 323869
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "SSM1198",
+      "unomag_id": 210771
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "SSM1188",
+      "unomag_id": 184600
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "SSM1186",
+      "unomag_id": 192210
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "SSM1184",
+      "unomag_id": 183890
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "SSM1164",
+      "unomag_id": 181754
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "SSM1158",
+      "unomag_id": 179192
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "SSM1148",
+      "unomag_id": 198946
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "SSM1141",
+      "unomag_id": 180221
     }
   ],
   "ignored_articles": [
@@ -4063,6 +4153,10 @@
     {
       "supplier": "Scalebay",
       "article": "SSM1528"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "SSM1272"
     }
   ],
   "manufacturer_map": [
