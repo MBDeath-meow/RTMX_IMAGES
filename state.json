@@ -2219,6 +2219,31 @@
       "supplier": "Scalebay",
       "article": "NAME::МАЗ 5340 зел",
       "unomag_id": 205677
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::МАЗ 5432 ранний",
+      "unomag_id": 180455
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::МАЗ 5432 с п/п 5232В.",
+      "unomag_id": 181033
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::МАЗ 5432 седельный тягач (ранний ,зелёный) АИСТ",
+      "unomag_id": 180455
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::МАЗ 5440 гол",
+      "unomag_id": 204167
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::МАЗ 5440 оранж.",
+      "unomag_id": 204168
     }
   ],
   "ignored_articles": [
@@ -2373,6 +2398,10 @@
     {
       "supplier": "Scalebay",
       "article": "NAME::Кузов Урал-43206, 1/43"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::МАЗ 5432 АИСТ"
     }
   ],
   "manufacturer_map": [
