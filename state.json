@@ -599,6 +599,51 @@
       "supplier": "Scalebay",
       "article": "NAME::АИСТ. UDS-110 (Tatra-148)",
       "unomag_id": 432528
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::АИСТ. АКПМ-3 (130)",
+      "unomag_id": 621961
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::АИСТ. АНР-АГ-24(130)",
+      "unomag_id": 632179
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::АИСТ. АПМ-90 (130) прожектор, Аэрофлот",
+      "unomag_id": 197253
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::АИСТ. АТС-59",
+      "unomag_id": 381191
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::АИСТ. БЕЦЕМА АЦ/АТЗ (КАМАЗ-65207-87)",
+      "unomag_id": 518058
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::АИСТ. ГЗТМ-893А (52)",
+      "unomag_id": 413448
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::АИСТ. ГТ-Т",
+      "unomag_id": 379007
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::АИСТ. ГТК-32 (51)",
+      "unomag_id": 694056
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::АИСТ. Гусеничный транспортёр-снегоболотоход ГТС-47",
+      "unomag_id": 197625
     }
   ],
   "ignored_articles": [
