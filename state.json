@@ -469,6 +469,51 @@
       "supplier": "Scalebay",
       "article": "NAME::АИСТ.  Praga V3S FEK серый",
       "unomag_id": 457285
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::АИСТ.  Praga V3S PAOM-G",
+      "unomag_id": 457288
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::АИСТ.  Praga V3S S1",
+      "unomag_id": 457284
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::АИСТ.  Praga V3S бортовой с тентом",
+      "unomag_id": 457287
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::АИСТ.  Skoda-9TR",
+      "unomag_id": 491552
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::АИСТ.  АЛ-17 (51)",
+      "unomag_id": 680100
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::АИСТ.  ГЗСА-3704 (52) Хлеб",
+      "unomag_id": 398171
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::АИСТ.  К-701",
+      "unomag_id": 553075
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::АИСТ.  КАЗ-4540 с прицепом ГКБ-8535",
+      "unomag_id": 557617
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::АИСТ.  МАЗ-200В",
+      "unomag_id": 179477
     }
   ],
   "ignored_articles": [
