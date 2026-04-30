@@ -2034,6 +2034,41 @@
       "supplier": "Scalebay",
       "article": "NAME::КамАЗ-65802-87 (S5) самосвал",
       "unomag_id": 516931
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Компрессор передвижной ЗИФ-55",
+      "unomag_id": 218730
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Компрессор передвижной ЗИФ-55  АИСТ",
+      "unomag_id": 218730
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Контейнерный мусоровоз M-30 (53)    АИСТ",
+      "unomag_id": 414794
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Контейнерный мусоровоз М30 (53).",
+      "unomag_id": 414794
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::КрАЗ 257 Б1 бортовой, (оранжевый) АИСТ",
+      "unomag_id": 178481
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::КрАЗ-255В",
+      "unomag_id": 185081
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::КрАЗ-257 Б1 (оранжевый) бортовой Автоистория  1:43",
+      "unomag_id": 178481
     }
   ],
   "ignored_articles": [
@@ -2176,6 +2211,14 @@
     {
       "supplier": "Scalebay",
       "article": "NAME::Камаз 65206"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Контейнер"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Контейнеровоз камаз -53212 с прицепом гкб - 8350"
     }
   ],
   "manufacturer_map": [
