@@ -754,6 +754,36 @@
       "supplier": "Scalebay",
       "article": "NAME::АИСТ. МКМ-2 (4333)",
       "unomag_id": 499998
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::АИСТ. ПР-53 (52), желтый",
+      "unomag_id": 464451
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::АИСТ. Пассажирский полуприцеп АППА-4",
+      "unomag_id": 210773
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::АИСТ. САЗ-3507 (53)",
+      "unomag_id": 430982
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "МАЗ-5217 ПОЛУПРИЦЕП (АИСТ) АВТОИСТОРИЯ (СЕРЫЙ/ЗЕЛЕНЫЙ)",
+      "unomag_id": 181029
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "ZIL555",
+      "unomag_id": 173558
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "ZIL157K",
+      "unomag_id": 151242
     }
   ],
   "ignored_articles": [
