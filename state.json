@@ -152,11 +152,6 @@
     },
     {
       "supplier": "Scalebay",
-      "article": "103238",
-      "unomag_id": 433202
-    },
-    {
-      "supplier": "Scalebay",
       "article": "NAME::AVIA A31N бортовой  АИСТ",
       "unomag_id": 433202
     },
@@ -339,11 +334,6 @@
       "supplier": "Scalebay",
       "article": "103283",
       "unomag_id": 434215
-    },
-    {
-      "supplier": "Scalebay",
-      "article": "103313",
-      "unomag_id": 455163
     },
     {
       "supplier": "Scalebay",
@@ -934,6 +924,51 @@
       "supplier": "Scalebay",
       "article": "103368",
       "unomag_id": 499997
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "103351",
+      "unomag_id": 509635
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "103313",
+      "unomag_id": 455163
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "103306",
+      "unomag_id": 439319
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "103290",
+      "unomag_id": 434214
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "103245",
+      "unomag_id": 412531
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "103238",
+      "unomag_id": 433202
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "103221",
+      "unomag_id": 413448
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "103214",
+      "unomag_id": 398171
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "103184",
+      "unomag_id": 430982
     }
   ],
   "ignored_articles": [
@@ -964,6 +999,10 @@
     {
       "supplier": "Scalebay",
       "article": "103443"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "103184"
     }
   ],
   "manufacturer_map": [
