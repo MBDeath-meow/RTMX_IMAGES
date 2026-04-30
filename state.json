@@ -1094,6 +1094,51 @@
       "supplier": "Scalebay",
       "article": "NAME::ГЗСА-3704 (52)",
       "unomag_id": 398171
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::ГЗСА-3704 (52)    АИСТ",
+      "unomag_id": 398171
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::ГЗТМ-893А (52)     АИСТ",
+      "unomag_id": 413448
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::ГЗТМ-893А (52) АИСТ",
+      "unomag_id": 413448
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::ГЗТМ-893А(52) Мебель  АИСТ",
+      "unomag_id": 413448
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::ГТ МУ Автоистория",
+      "unomag_id": 379633
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::ГТ-МУ",
+      "unomag_id": 379633
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::ГТ-МУ     АИСТ",
+      "unomag_id": 379633
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::ГТ-Т   АИСТ",
+      "unomag_id": 379007
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::ГТК-32 (51)  АИСТ",
+      "unomag_id": 694056
     }
   ],
   "ignored_articles": [
@@ -1132,6 +1177,10 @@
     {
       "supplier": "Scalebay",
       "article": "NAME::АКПМ - 3 ( ЗИЛ 130 )."
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::ГЗСА-3704 (52)"
     }
   ],
   "manufacturer_map": [
