@@ -1364,6 +1364,66 @@
       "supplier": "Scalebay",
       "article": "NAME::ЗИЛ-164А бортовой - АИСТ",
       "unomag_id": 153496
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::ЗИЛ-164А рефрижератор ЛУМЗ-890Б - АИСТ",
+      "unomag_id": 155277
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::ЗИЛ-4331 бортовой, учебный (хаки)",
+      "unomag_id": 178138
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::ЗИЛ-4333  АИСТ",
+      "unomag_id": 245787
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::ЗИЛ-ММЗ-164АН седельный тягач    АИСТ",
+      "unomag_id": 283072
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::ЗИЛ-ММЗ-555 самосвал (ранняя облицовка радиатора), Автоэкспорт, 1974 год",
+      "unomag_id": 172623
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::ЗИС-151 бортовой, зелёный/коричневый",
+      "unomag_id": 182521
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::ЗИС-151 бортовой, зелёный/коричневый   АИСТ",
+      "unomag_id": 182521
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::ЗИС-151 бортовой, экспортный",
+      "unomag_id": 182522
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::ЗИС-151 бортовой, экспортный АИСТ",
+      "unomag_id": 182522
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::ЗИС-155 красно-жёлтый",
+      "unomag_id": 158094
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::ЗИС-ММЗ-120Н седельный тягач    АИСТ",
+      "unomag_id": 283073
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::ЗИС-ММЗ-120Н седельный тягач голубой",
+      "unomag_id": 283073
     }
   ],
   "ignored_articles": [
