@@ -2,13 +2,28 @@
   "article_bindings": [
     {
       "supplier": "Scalebay",
+      "article": "SSM1466",
+      "unomag_id": 362743
+    },
+    {
+      "supplier": "Scalebay",
       "article": "SSM1464",
       "unomag_id": 360081
     },
     {
       "supplier": "Scalebay",
-      "article": "SSM1466",
-      "unomag_id": 362743
+      "article": "NAME::1/43     МаЗ 6422 с Полуприцепом МаЗ- 9506-20    Автоистория",
+      "unomag_id": 197435
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::1/43    МАЗ 5337  АЦИП 7,7  АИСТ",
+      "unomag_id": 185707
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::1/43    МАЗ-5432  с Полуприцепом МАЗ-5232В",
+      "unomag_id": 181033
     }
   ],
   "ignored_articles": [
@@ -37,6 +52,10 @@
     {
       "unomag_name": "Start Scale Models",
       "variation": "Start Scale Models (SSM)"
+    },
+    {
+      "unomag_name": "Автоистория (АИСТ)",
+      "variation": "Автоистория (АИСТ)"
     }
   ],
   "suppliers": [
