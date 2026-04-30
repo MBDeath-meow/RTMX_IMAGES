@@ -252,17 +252,7 @@
     },
     {
       "supplier": "Scalebay",
-      "article": "103885",
-      "unomag_id": 677346
-    },
-    {
-      "supplier": "Scalebay",
       "article": "NAME::Skoda 110.850 SA8   АИСТ",
-      "unomag_id": 528574
-    },
-    {
-      "supplier": "Scalebay",
-      "article": "103892",
       "unomag_id": 528574
     },
     {
@@ -814,6 +804,56 @@
       "supplier": "Scalebay",
       "article": "104196",
       "unomag_id": 637000
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "104011",
+      "unomag_id": 694057
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "103984",
+      "unomag_id": 634947
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "103977",
+      "unomag_id": 621961
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "103960",
+      "unomag_id": 630207
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "103892",
+      "unomag_id": 528574
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "103885",
+      "unomag_id": 677346
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "103878 АИСТ",
+      "unomag_id": 680100
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "103878",
+      "unomag_id": 680100
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "103786",
+      "unomag_id": 553075
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "103779",
+      "unomag_id": 489591
     }
   ],
   "ignored_articles": [
