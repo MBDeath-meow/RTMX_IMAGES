@@ -2329,6 +2329,51 @@
       "supplier": "Scalebay",
       "article": "NAME::МАЗ-200. АвтоИстория 1/43",
       "unomag_id": 154750
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::МАЗ-200В с полуприцепом МАЗ-5217, (красный/серый)",
+      "unomag_id": 181030
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::МАЗ-200В с полуприцепом МАЗ-5217, (красный/серый) Автоистория (АИСТ) 1:43",
+      "unomag_id": 181030
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::МАЗ-200В с полуприцепом МАЗ-5232В",
+      "unomag_id": 181034
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::МАЗ-200В седельный тягач, бежевый",
+      "unomag_id": 179478
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::МАЗ-200В седельный тягач, серый",
+      "unomag_id": 179477
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::МАЗ-205 самосвал серый",
+      "unomag_id": 187203
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::МАЗ-205 самосвал, синий",
+      "unomag_id": 187204
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::МАЗ-205 самосвал, синий     АИСТ",
+      "unomag_id": 187204
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::МАЗ-5217, (серый/зеленый)",
+      "unomag_id": 181029
     }
   ],
   "ignored_articles": [
@@ -2511,6 +2556,10 @@
     {
       "supplier": "Scalebay",
       "article": "NAME::МАЗ-200В с полуприцепом МАЗ-5217"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::МАЗ-5232в (зеленый)"
     }
   ],
   "manufacturer_map": [
