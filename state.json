@@ -4154,6 +4154,16 @@
       "supplier": "Scalebay",
       "article": "NAME::1/43 ЗИЛ - 164 ЛуМЗ 890Б (на шасси ЗИЛ -164)- (SSM1044)-SSM",
       "unomag_id": 154530
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::1/43 ЗИЛ-130 Кунг, Пожарная служба,Челябинск (поздняя облицовка радиатора), красный- (SSM1066)-SSM",
+      "unomag_id": 172878
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::1/43 ЗИЛ-131 АЦ-40 (131) Feuerwehr- (SSM1083)-SSM",
+      "unomag_id": 172883
     }
   ],
   "ignored_articles": [
