@@ -1079,6 +1079,21 @@
       "supplier": "Scalebay",
       "article": "NAME::АЦПТ-3,3 (53)     АИСТ",
       "unomag_id": 393613
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Вахтовый автобус НЕФАЗ-42112 (4320)",
+      "unomag_id": 257283
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Вахтовый автобус НЗАС-3964 (66)  АИСТ",
+      "unomag_id": 218448
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::ГЗСА-3704 (52)",
+      "unomag_id": 398171
     }
   ],
   "ignored_articles": [
