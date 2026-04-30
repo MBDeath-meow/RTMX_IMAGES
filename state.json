@@ -4133,7 +4133,27 @@
     {
       "supplier": "Scalebay",
       "article": "​SSM1008",
-      "unomag_id": 156502
+      "unomag_id": 151939
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::1/43   TATRA 815 S3    SSM",
+      "unomag_id": 470904
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::1/43  АЦ 40 (131) SSM",
+      "unomag_id": 172884
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::1/43 ЗИЛ - 157 Тент- (SSM1018)-SSM",
+      "unomag_id": 153603
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::1/43 ЗИЛ - 164 ЛуМЗ 890Б (на шасси ЗИЛ -164)- (SSM1044)-SSM",
+      "unomag_id": 154530
     }
   ],
   "ignored_articles": [
@@ -4332,6 +4352,10 @@
     {
       "supplier": "Scalebay",
       "article": "SSM1272"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::,Анр-127."
     }
   ],
   "manufacturer_map": [
