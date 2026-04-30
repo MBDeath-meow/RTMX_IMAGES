@@ -459,6 +459,16 @@
       "supplier": "Scalebay",
       "article": "103344",
       "unomag_id": 459311
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::UDS-110 (Tatra-148)    АИСТ",
+      "unomag_id": 432528
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::АИСТ.  Praga V3S FEK серый",
+      "unomag_id": 457285
     }
   ],
   "ignored_articles": [
@@ -477,6 +487,10 @@
     {
       "supplier": "Scalebay",
       "article": "NAME::Skoda 706RTTN+МАЗ 5215"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "102132 - без полуприцепа К4-АМГ в коробке от 130V1G"
     }
   ],
   "manufacturer_map": [
