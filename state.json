@@ -554,6 +554,51 @@
       "supplier": "Scalebay",
       "article": "NAME::АИСТ. Skoda 110.850 SA8",
       "unomag_id": 528574
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::АИСТ. Skoda 706 MTTN с п/п Alka N12CH",
+      "unomag_id": 474505
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::АИСТ. TATRA 815 S3",
+      "unomag_id": 477434
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::АИСТ. TATRA 815 UDS114A",
+      "unomag_id": 479801
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::АИСТ. Tatra 148 VNM бортовой",
+      "unomag_id": 439319
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::АИСТ. Tatra 815 V26",
+      "unomag_id": 477436
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::АИСТ. Tatra-138 NT 4x4",
+      "unomag_id": 434215
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::АИСТ. Tatra-138 NT 6x6",
+      "unomag_id": 434214
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::АИСТ. Tatra-815 S1",
+      "unomag_id": 477433
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::АИСТ. UDS-110 (Tatra-148)",
+      "unomag_id": 432528
     }
   ],
   "ignored_articles": [
@@ -576,6 +621,10 @@
     {
       "supplier": "Scalebay",
       "article": "102132 - без полуприцепа К4-АМГ в коробке от 130V1G"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::АИСТ. Skoda 706"
     }
   ],
   "manufacturer_map": [
