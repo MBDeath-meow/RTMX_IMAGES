@@ -1904,6 +1904,51 @@
       "supplier": "Scalebay",
       "article": "NAME::АЦ-9 (5337)     АИСТ",
       "unomag_id": 333216
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::АЦПТ-4,1 (130)    АИСТ",
+      "unomag_id": 630207
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Автобус 3976 МЧС.  АИСт.",
+      "unomag_id": 232492
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Автобус Кавз-3976 желтый.  АИСт.",
+      "unomag_id": 250765
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::БЕЦЕМА АЦ/АТЗ (KAMAZ-65207-87)",
+      "unomag_id": 518058
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::БЕЦЕМА АЦ/АТЗ (KAMAZ-65207-87) Автоистория (АИСТ)",
+      "unomag_id": 518058
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Бецема АЦ/АТЗ (КАМАЗ 65207-87)",
+      "unomag_id": 518058
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Бронетранспортёр БТР-152К",
+      "unomag_id": 198336
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Бронетранспортёр БТР-152К, зеленый    АИСТ",
+      "unomag_id": 198336
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::КО 450 ( 4333)",
+      "unomag_id": 248141
     }
   ],
   "ignored_articles": [
