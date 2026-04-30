@@ -1629,6 +1629,96 @@
       "supplier": "Scalebay",
       "article": "101388",
       "unomag_id": 248729
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "101364",
+      "unomag_id": 192266
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "101357",
+      "unomag_id": 206487
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "101302",
+      "unomag_id": 185707
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "101142",
+      "unomag_id": 250765
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "101135",
+      "unomag_id": 232492
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "101111",
+      "unomag_id": 181029
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "100848",
+      "unomag_id": 218448
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "100794",
+      "unomag_id": 214440
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "100770",
+      "unomag_id": 187985
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "100732",
+      "unomag_id": 186058
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "100725",
+      "unomag_id": 186059
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "100701",
+      "unomag_id": 187204
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "100664",
+      "unomag_id": 204043
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "100534",
+      "unomag_id": 184601
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "100466",
+      "unomag_id": 180839
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "100459.Х",
+      "unomag_id": 180279
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "100428",
+      "unomag_id": 180455
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "100422.С",
+      "unomag_id": 179801
     }
   ],
   "ignored_articles": [
@@ -1739,6 +1829,10 @@
     {
       "supplier": "Scalebay",
       "article": "101883"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "100497"
     }
   ],
   "manufacturer_map": [
