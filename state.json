@@ -2564,6 +2564,16 @@
       "supplier": "Scalebay",
       "article": "NAME::IVECO Stralis (2002), yellow  IXO",
       "unomag_id": 593843
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Jaguar E-Type 1963",
+      "unomag_id": 425193
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Jaguar F-Type SVR",
+      "unomag_id": 293022
     }
   ],
   "ignored_articles": [
@@ -2766,14 +2776,6 @@
       "variation": "evr"
     },
     {
-      "unomag_name": "Start Scale Models",
-      "variation": "Start Scale Models"
-    },
-    {
-      "unomag_name": "Start Scale Models",
-      "variation": "Start Scale Models (SSM)"
-    },
-    {
       "unomag_name": "Автоистория (АИСТ)",
       "variation": "Автоистория (АИСТ)"
     },
@@ -2792,6 +2794,14 @@
     {
       "unomag_name": "IXO",
       "variation": "IXO грузовики (серии TRU)"
+    },
+    {
+      "unomag_name": "Start Scale Models",
+      "variation": "Start Scale Models"
+    },
+    {
+      "unomag_name": "Start Scale Models",
+      "variation": "Start Scale Models (SSM)"
     }
   ],
   "suppliers": [
