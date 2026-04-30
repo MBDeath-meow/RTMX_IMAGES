@@ -2494,6 +2494,21 @@
       "supplier": "Scalebay",
       "article": "NAME::AUDI R18 E-Tron #1 2012 (24h)",
       "unomag_id": 158865
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::AUDI R18 E-Tron #2 2012 (24h)",
+      "unomag_id": 158874
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::AUDI R18 Ultra #4 2012 (24h)",
+      "unomag_id": 158875
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Aston Martin AMR ONE #009 LMP1  Le Mans 2011 (209)",
+      "unomag_id": 152186
     }
   ],
   "ignored_articles": [
