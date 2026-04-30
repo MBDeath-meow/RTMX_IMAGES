@@ -1194,6 +1194,36 @@
       "supplier": "Scalebay",
       "article": "NAME::ЗИЛ -130 В1 с полуприцепом ТЦ-4",
       "unomag_id": 202912
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::ЗИЛ 130В1 Автоистория (Аист)",
+      "unomag_id": 154563
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::ЗИЛ 130В1 К4-АМГ Муковоз АИСТ",
+      "unomag_id": 213827
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::ЗИЛ 130В1 с п/п ОДАЗ-885 Автоистория (Аист)",
+      "unomag_id": 186436
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::ЗИЛ 4331 хаки АИСТ",
+      "unomag_id": 178138
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::ЗИЛ 4331. АвтоИстория 1/43",
+      "unomag_id": 178138
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::ЗИЛ 5301 ’Бычок’ хаки АИСТ Автоистория 1:43",
+      "unomag_id": 176463
     }
   ],
   "ignored_articles": [
@@ -1236,6 +1266,18 @@
     {
       "supplier": "Scalebay",
       "article": "NAME::ГЗСА-3704 (52)"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::ЗИЛ 130 В с полуприцепом ОДАЗ"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::ЗИЛ 4333"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::ЗИЛ 5301 бычок с тентом"
     }
   ],
   "manufacturer_map": [
