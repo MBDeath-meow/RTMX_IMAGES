@@ -69,6 +69,71 @@
       "supplier": "Scalebay",
       "article": "44100176",
       "unomag_id": 158095
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "100787",
+      "unomag_id": 221705
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::100923 Миасский грузовик 4420 седельный тягач Автоистория (АИСТ) 1:43",
+      "unomag_id": 186153
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "101180",
+      "unomag_id": 205676
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "101258",
+      "unomag_id": 207030
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "101340.2",
+      "unomag_id": 206486
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "101388.СИНСЕР",
+      "unomag_id": 248729
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "101395.Х",
+      "unomag_id": 259654
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "101401",
+      "unomag_id": 225567
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "101432.ОР",
+      "unomag_id": 226340
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "102262",
+      "unomag_id": 241836
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "102286",
+      "unomag_id": 251232
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "102309",
+      "unomag_id": 218730
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "4610044100046",
+      "unomag_id": 174101
     }
   ],
   "ignored_articles": [
@@ -79,6 +144,10 @@
     {
       "supplier": "Scalebay",
       "article": "NAME::!!! КОМПЛЕКТ МАЗ 6422 + МАЗ-9506-20"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::2кабины МАЗ 200В"
     }
   ],
   "manufacturer_map": [
