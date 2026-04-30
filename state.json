@@ -1839,6 +1839,31 @@
       "supplier": "Scalebay",
       "article": "NAME::АТЗ-2,4 (52)     АИСТ",
       "unomag_id": 384374
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::АТЗ-2,4 (52) Автоистория (АИСТ) КАЧЕСТВО = ЦЕНА (ВЫБОРКА)",
+      "unomag_id": 384374
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::АТС-59    АИСТ",
+      "unomag_id": 381191
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::АЦ 30 (130) М",
+      "unomag_id": 188489
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::АЦ 40 (130) СП",
+      "unomag_id": 196953
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::АЦ 40 (131) НН",
+      "unomag_id": 198467
     }
   ],
   "ignored_articles": [
