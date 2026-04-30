@@ -2484,6 +2484,16 @@
       "supplier": "Scalebay",
       "article": "NAME::1:43 Ford Mustang Shelby GT 350 IXO",
       "unomag_id": 385240
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::AUDI R18 E-TRON QUATTRO  #2 2013",
+      "unomag_id": 181759
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::AUDI R18 E-Tron #1 2012 (24h)",
+      "unomag_id": 158865
     }
   ],
   "ignored_articles": [
