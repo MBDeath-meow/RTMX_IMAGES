@@ -6124,6 +6124,21 @@
       "supplier": "Scalebay",
       "article": "NAME::1/43 УАЗ УРАН-452 Руководитель полётов-- Авто Легенды СССР -УАЗ на службе №4 DEA",
       "unomag_id": 357315
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::1/43 УАЗ-452В Милиция- Авто Легенды СССР -Специальный выпуск №6",
+      "unomag_id": 281170
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::1/43 УАЗ-469Б-Эльбрус- Авто Легенды СССР -УАЗ на Службе №2",
+      "unomag_id": 346306
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::1:72 Saurer L4C 1959 (жёлтый/серебристый) DeAgostini  Б.11371",
+      "unomag_id": 179182
     }
   ],
   "ignored_articles": [
@@ -6758,6 +6773,22 @@
     {
       "supplier": "Scalebay",
       "article": "NAME::1/43 УАЗ-3163- ППС - Конверсия"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::1/43 УАЗ-3972 (Автолегенды СССР №96)"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::1/43 УАЗ-469 Милиция- Авто Легенды СССР -Специальный выпуск №4"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::1/72 Черчилль - Русские танки Eaglemoss №64"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::1:8 двигатель ЗИС-110 DeAgostini  Б.11523"
     }
   ],
   "manufacturer_map": [
