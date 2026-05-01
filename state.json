@@ -6109,6 +6109,21 @@
       "supplier": "Scalebay",
       "article": "NAME::1/43 РАФ-2203 Олимпиада 80 АНС",
       "unomag_id": 150393
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::1/43 РАФ-977ДМ- Такси- Авто Легенды СССР -Специальный выпуск №2",
+      "unomag_id": 264310
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::1/43 УАЗ ПИКАП Автолегенды Новая Эпоха DeA №3",
+      "unomag_id": 333164
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::1/43 УАЗ УРАН-452 Руководитель полётов-- Авто Легенды СССР -УАЗ на службе №4 DEA",
+      "unomag_id": 357315
     }
   ],
   "ignored_articles": [
@@ -6699,6 +6714,50 @@
     {
       "supplier": "Scalebay",
       "article": "NAME::1/43 РАФ-2203 Латвия №26 Автолегенды СССР- DeA"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::1/43 РАФ-22038 - Полиция Латвии №44 ПММ"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::1/43 РАФ-977ДМ Латвия (Автолегенды СССР №47)"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::1/43 РУССО-БАЛТ Тип С24/40 (1922 года) Промбронь - Авто Легенды СССР и Соцстран №230"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::1/43 СМЗ-С1Л (Автолегенды СССР №40)"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::1/43 СМЗ-С3А (Автолегенды СССР №24)"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::1/43 СемАР-3234 Реанимация №40 - АНС"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::1/43 УАЗ ПИКАП А-сервис ДСТ - Конверсия"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::1/43 УАЗ ПИКАП Военная Полиция MP - Конверсия"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::1/43 УАЗ ПИКАП МЧС - Конверсия"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::1/43 УАЗ-3160 - Авто Легенды СССР и Соцстран №228"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::1/43 УАЗ-3163- ППС - Конверсия"
     }
   ],
   "manufacturer_map": [
