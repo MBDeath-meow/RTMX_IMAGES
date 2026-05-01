@@ -5949,6 +5949,31 @@
       "supplier": "Scalebay",
       "article": "NAME::1/43 LADA LARGUS Автолегенды Новая Эпоха DeA №13",
       "unomag_id": 352069
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::1/43 LADA VESTA CROSS- Автолегенды Новая Эпоха DeA №34",
+      "unomag_id": 393520
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::1/43 LADA VESTA SPORT Автолегенды Новая Эпоха DeA №22",
+      "unomag_id": 377757
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::1/43 LADA VESTA SW CROSS Автолегенды Новая Эпоха DeA №7",
+      "unomag_id": 343585
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::1/43 LADA VESTA SW Автолегенды Новая Эпоха DeA №16",
+      "unomag_id": 359812
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::1/43 Maybach 62 №78 СК",
+      "unomag_id": 156302
     }
   ],
   "ignored_articles": [
@@ -6275,6 +6300,78 @@
     {
       "supplier": "Scalebay",
       "article": "NAME::1/43 LADA KALINA-ЛАДА КАЛИНА Такси- Яндекс - Конверсия"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::1/43 LADA LARGUS Полиция - Конверсия"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::1/43 LADA PRIORA-ЛАДА ПРИОРА ДПС - Конверсия"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::1/43 LADA PRIORA-ЛАДА ПРИОРА ППС - Конверсия"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::1/43 LADA PRIORA-ЛАДА ПРИОРА Такси Яндекс - Конверсия"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::1/43 LADA VESTA SW CROSS Полиция ДПС - Конверсия"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::1/43 LADA VESTA SW CROSS Такси- Яндекс - Конверсия"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::1/43 LADA VESTA SW+КЕМПЕР - Конверсия"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::1/43 LADA VESTA-ЛАДА ВЕСТА ДПС - Конверсия"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::1/43 LADA VESTA-ЛАДА ВЕСТА ППС - Конверсия"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::1/43 LADA VESTA-ЛАДА ВЕСТА Такси- UBER - Конверсия"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::1/43 LADA VESTA-ЛАДА ВЕСТА Такси- Ситимобил - Конверсия"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::1/43 LADA VESTA-ЛАДА ВЕСТА Такси- Яндекс - Конверсия"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::1/43 LADA X-RAY-ЛАДА ДПС - Конверсия"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::1/43 Lexus LX 570 №51 СК"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::1/43 Maserati Quattroporte №64 СК"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::1/43 Mercedes - benz SL 600 Cabrio №76 СК"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::1/43 Mercedes SLR McLaren DeAgostini №3 CK"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::1/43 Mercedes-Benz S-Class ДПС Сопровождение - Конверсия"
     }
   ],
   "manufacturer_map": [
