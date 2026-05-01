@@ -5889,6 +5889,21 @@
       "supplier": "Scalebay",
       "article": "С.К 004",
       "unomag_id": 1540
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::1/43     Deagostini  Москвич 400-422",
+      "unomag_id": 5554
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::1/43   SPYKER C12 SPAYDER   DeAgostini",
+      "unomag_id": 2382
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::1/43   ЗИС-102.кабриолет",
+      "unomag_id": 158547
     }
   ],
   "ignored_articles": [
@@ -6139,6 +6154,18 @@
     {
       "supplier": "Scalebay",
       "article": "Н.С114"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::1/43    Skoda-liaz-706 МТ"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::1/43    КАВЗ 3270  DeAgostini"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::1/43   Москвич 400-420  DeAgostini"
     }
   ],
   "manufacturer_map": [
