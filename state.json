@@ -4924,6 +4924,31 @@
       "supplier": "Scalebay",
       "article": "430010101",
       "unomag_id": 179279
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "430003550",
+      "unomag_id": 338321
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "430 040210",
+      "unomag_id": 338315
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "430 015935",
+      "unomag_id": 159027
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "413081003",
+      "unomag_id": 150177
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "413018014",
+      "unomag_id": 646227
     }
   ],
   "ignored_articles": [
