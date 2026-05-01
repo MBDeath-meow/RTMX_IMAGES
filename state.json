@@ -5854,6 +5854,36 @@
       "supplier": "Scalebay",
       "article": "С.К 006",
       "unomag_id": 1765
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "С.К 030",
+      "unomag_id": 2384
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "С.К 014",
+      "unomag_id": 2081
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "Н.С096",
+      "unomag_id": 8097
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::1/43     Deagostini   ФИАТ 238 minivan",
+      "unomag_id": 152652
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "С.К 025",
+      "unomag_id": 2380
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "С.К 058",
+      "unomag_id": 152932
     }
   ],
   "ignored_articles": [
@@ -6100,6 +6130,10 @@
     {
       "supplier": "Scalebay",
       "article": "NAME::’Охта’ опытный (серебристый) DeAgostini  М.0265"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "Н.С114"
     }
   ],
   "manufacturer_map": [
