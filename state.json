@@ -5974,6 +5974,21 @@
       "supplier": "Scalebay",
       "article": "NAME::1/43 Maybach 62 №78 СК",
       "unomag_id": 156302
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::1/43 Nysa N59M 1959 (Автолегенды СССР №159)",
+      "unomag_id": 178081
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::1/43 Star-266 №629 Paris-Dakar 1988 (DeAgostini - Kultowe Ciezarowki PRL-u) новый",
+      "unomag_id": 441191
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::1/43 Tarpan 237 1982 (Автолегенды СССР №157)",
+      "unomag_id": 178079
     }
   ],
   "ignored_articles": [
@@ -6372,6 +6387,42 @@
     {
       "supplier": "Scalebay",
       "article": "NAME::1/43 Mercedes-Benz S-Class ДПС Сопровождение - Конверсия"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::1/43 Mitsubishi Pajero SWB 1998 - Специальный выпуск ПММ"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::1/43 Nissan Patrol - Гвардия Португалии №54 ПММ"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::1/43 Opel Bitter CD №74 СК"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::1/43 Opel Kapitan 1951 Полиция Западной Германии №68 ПММ"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::1/43 Opel Omega Полиция Кантона Люцерн №61 ПММ"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::1/43 Peugeot J7 Полиция Брюсселя №66 ПММ"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::1/43 Rayton Fissore Magnum 2.5 TDI - Специальный выпуск ПММ"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::1/43 Skoda 110 R Автолегенды СССР и Соцстран DeA №200"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::1/43 Subaru Forester 2007 - Специальный выпуск ПММ"
     }
   ],
   "manufacturer_map": [
