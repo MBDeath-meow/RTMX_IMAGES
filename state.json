@@ -5934,6 +5934,21 @@
       "supplier": "Scalebay",
       "article": "NAME::1/43 Dacia 1300 1970 (Автолегенды СССР №164)",
       "unomag_id": 179215
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::1/43 FSO Warszawa 203 1964 (Автолегенды СССР №154)",
+      "unomag_id": 177111
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::1/43 LADA GRANTA ЛИФТБЕК Автолегенды Новая Эпоха DeA №5",
+      "unomag_id": 343576
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::1/43 LADA LARGUS Автолегенды Новая Эпоха DeA №13",
+      "unomag_id": 352069
     }
   ],
   "ignored_articles": [
@@ -6228,6 +6243,38 @@
     {
       "supplier": "Scalebay",
       "article": "NAME::1/43 FORD АА - ФОРД АА - Авто Легенды СССР и Соцстран №222"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::1/43 Fiat Campagnola 1959 - Специальный выпуск ПММ"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::1/43 Ford Fordor - Полиция Сан-Диего №50 ПММ"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::1/43 Ford Transit - Полиция Франции №41 ПММ"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::1/43 Jeep Wagoneer - Полиция США №39 ПММ"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::1/43 LADA 4X4 ВАЗ-2131 (ДПС) - Конверсия"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::1/43 LADA 4X4 ВАЗ-2131 Военная Автоинспекция(ВАИ) - Конверсия"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::1/43 LADA 4X4 ВАЗ-2131 Полиция - Конверсия"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::1/43 LADA KALINA-ЛАДА КАЛИНА Такси- Яндекс - Конверсия"
     }
   ],
   "manufacturer_map": [
