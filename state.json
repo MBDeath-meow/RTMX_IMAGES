@@ -6079,6 +6079,21 @@
       "supplier": "Scalebay",
       "article": "NAME::1/43 КОМБАТ Т98- Автолегенды Новая Эпоха DeA №28",
       "unomag_id": 388934
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::1/43 ЛАДА ВЕСТА-LADA VESTA Автолегенды Новая Эпоха DeA №1",
+      "unomag_id": 333160
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::1/43 Москвич-2142R5 Князь Владимир- Милиция- Авто Легенды СССР -Специальный выпуск №11",
+      "unomag_id": 323178
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::1/43 Москвич-403 Монте-Карло- Ралли- Авто Легенды СССР -Специальный выпуск №9",
+      "unomag_id": 316174
     }
   ],
   "ignored_articles": [
@@ -6585,6 +6600,50 @@
     {
       "supplier": "Scalebay",
       "article": "NAME::1/43 КИМ-10-50 (Автолегенды СССР №51)"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::1/43 ЛуАЗ-969А Волынь (Автолегенды СССР №70)"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::1/43 Москвич 2142 - Авто Легенды СССР и Соцстран №240"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::1/43 Москвич-2137 (Автолегенды СССР №133)"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::1/43 Москвич-2139 Арбат (Автолегенды СССР №90)"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::1/43 Москвич-2143 Яуза (Автолегенды СССР №125)"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::1/43 Москвич-2144 Истра (Автолегенды СССР №81)"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::1/43 Москвич-2150 (Автолегенды СССР №97)"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::1/43 Москвич-2150 (Автолегенды-DeAgostini)"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::1/43 Москвич-3-5-6 (Автолегенды СССР №80)"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::1/43 Москвич-400-420А (Автолегенды СССР №5) с доработками"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::1/43 Москвич-407 (Автолегенды СССР №1) с доработкой"
     }
   ],
   "manufacturer_map": [
