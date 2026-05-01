@@ -6019,6 +6019,31 @@
       "supplier": "Scalebay",
       "article": "NAME::1/43 АУРУС СЕНАТ Автолегенды Новая Эпоха DeA №2",
       "unomag_id": 333162
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::1/43 ВАЗ- ВИС-294611 - АНС",
+      "unomag_id": 5555
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::1/43 ВАЗ-1801 Пони (Автолегенды СССР №128)",
+      "unomag_id": 154642
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::1/43 ВАЗ-2329 Автолегенды Новая Эпоха DeA №15",
+      "unomag_id": 356517
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::1/43 ВНИИТЭ-ПТ (Автолегенды СССР №88)",
+      "unomag_id": 5603
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::1/43 ЗИЛ-111 (Автолегенды СССР №49)",
+      "unomag_id": 840
     }
   ],
   "ignored_articles": [
@@ -6465,6 +6490,50 @@
     {
       "supplier": "Scalebay",
       "article": "NAME::1/43 АУРУС СЕНАТ-БЕЛЫЙ - Конверсия"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::1/43 БА-27 - Авто Легенды СССР и Соцстран №237"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::1/43 БТР-40- Авто Легенды СССР №109"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::1/43 ВАЗ-2101 Милиция - Авто Легенды СССР -Специальный выпуск №5"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::1/43 ВАЗ-2120 Надежда Такси - Конверсия"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::1/43 ВАЗ-2329 (МЧС) - Конверсия"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::1/43 ВАЗ-2329 Военная Автоинспекция(ВАИ) - Конверсия"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::1/43 ВАЗ-2329 Военная Полиция MP - Конверсия"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::1/43 ЕРАЗ-762В - Авто Легенды СССР и Соцстран №241"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::1/43 ЗАЗ-110550 Таврия Кофемобиль №66  - АНС"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::1/43 ЗАЗ-1305 Аварийная служба -Мосводоканал- Конверсия"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::1/43 ЗАЗ-695 Милиция СССР - Конверсия"
     }
   ],
   "manufacturer_map": [
