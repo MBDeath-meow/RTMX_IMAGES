@@ -5904,6 +5904,36 @@
       "supplier": "Scalebay",
       "article": "NAME::1/43   ЗИС-102.кабриолет",
       "unomag_id": 158547
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::1/43  DeAgostini  MERCEDES SLS AMG",
+      "unomag_id": 2081
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::1/43  KOENIGSEGG CC8S    DeAgostini",
+      "unomag_id": 6444
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::1/43  SALEEN S7    DeAgostini",
+      "unomag_id": 1766
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::1/43  Москвич-430 1958-1963 гг. красный   DeAgostini",
+      "unomag_id": 153133
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::1/43  СМЗ -С1Л   DeAgostini",
+      "unomag_id": 339
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::1/43 Dacia 1300 1970 (Автолегенды СССР №164)",
+      "unomag_id": 179215
     }
   ],
   "ignored_articles": [
@@ -6166,6 +6196,38 @@
     {
       "supplier": "Scalebay",
       "article": "NAME::1/43   Москвич 400-420  DeAgostini"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::1/43   Москвич-400-422 1948-1957 гг. бежевый  DeAgostini"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::1/43  AUDi Q7   DeAgostini"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::1/43  Москвич-2150 1973 г. оранжевый   DeAgostini"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::1/43 Alfa Romeo 159 - Полиция Испании №43 ПММ"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::1/43 Alfa Romeo 159 ДПС - Конверсия"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::1/43 Chevrolet Camaro SS №58 СК"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::1/43 Dacia 1310 - Полиция Румынии №52 ПММ"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::1/43 FORD АА - ФОРД АА - Авто Легенды СССР и Соцстран №222"
     }
   ],
   "manufacturer_map": [
