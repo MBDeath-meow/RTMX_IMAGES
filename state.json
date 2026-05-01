@@ -4329,6 +4329,16 @@
       "supplier": "Scalebay",
       "article": "NAME::KAMAZ-65225 жёлтый",
       "unomag_id": 630928
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "АРТИКУЛ 403651203",
+      "unomag_id": 222697
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "WAP02011715",
+      "unomag_id": 179321
     }
   ],
   "ignored_articles": [
@@ -4573,6 +4583,10 @@
     {
       "unomag_name": "Start Scale Models",
       "variation": "Start Scale Models (SSM)"
+    },
+    {
+      "unomag_name": "Minichamps",
+      "variation": "Minichamps"
     }
   ],
   "suppliers": [
