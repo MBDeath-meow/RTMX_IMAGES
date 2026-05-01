@@ -4164,6 +4164,41 @@
       "supplier": "Scalebay",
       "article": "NAME::1/43 ЗИЛ-131 АЦ-40 (131) Feuerwehr- (SSM1083)-SSM",
       "unomag_id": 172883
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::1/43 ЗИЛ-ZIL-130 new radiator grill (SSM1003)-SSM",
+      "unomag_id": 150038
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::1/43 ЗИС-151-ZIS-151 (SSM1015)-SSM",
+      "unomag_id": 153285
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::1/43 МАЗ-200 (SSM)",
+      "unomag_id": 151941
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::1/43 Т-64Б- Танк - SSM",
+      "unomag_id": 226249
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::3504 (52-02)  SSM",
+      "unomag_id": 577587
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::377С с полуприцепом ОДАЗ-935   SSM",
+      "unomag_id": 252866
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::4320-31 бортовой с тентом (камуфляж)    SSM",
+      "unomag_id": 364916
     }
   ],
   "ignored_articles": [
@@ -4366,6 +4401,10 @@
     {
       "supplier": "Scalebay",
       "article": "NAME::,Анр-127."
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::1/43 МАЗ-205 (SSM+Мастер Колесов) РАРИТЕТ!!!"
     }
   ],
   "manufacturer_map": [
