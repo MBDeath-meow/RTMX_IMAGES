@@ -6044,6 +6044,41 @@
       "supplier": "Scalebay",
       "article": "NAME::1/43 ЗИЛ-111 (Автолегенды СССР №49)",
       "unomag_id": 840
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::1/43 ЗИЛ-118 (Автолегенды СССР №28)",
+      "unomag_id": 198
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::1/43 ЗИЛ-118К (Автолегенды СССР №68)",
+      "unomag_id": 2101
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::1/43 ЗИС-110 (Автолегенды СССР №16)",
+      "unomag_id": 63
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::1/43 ИЖ-13 (Автолегенды СССР №122)",
+      "unomag_id": 154490
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::1/43 ИЖ-14 (Автолегенды СССР №120)",
+      "unomag_id": 154374
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::1/43 ИЖ-2126 ОДА Автолегенды Новая Эпоха DeA №21",
+      "unomag_id": 367993
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::1/43 КОМБАТ Т98- Автолегенды Новая Эпоха DeA №28",
+      "unomag_id": 388934
     }
   ],
   "ignored_articles": [
@@ -6534,6 +6569,22 @@
     {
       "supplier": "Scalebay",
       "article": "NAME::1/43 ЗАЗ-695 Милиция СССР - Конверсия"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::1/43 ЗИЛ-133Г1 Перевозка лошадей №78 - АНС"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::1/43 ЗИМ-12Б Медицинский - DeA Автомобиль на службе"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::1/43 ИЖ-2715 Ремонт бытовой техники  Автомобиль на службе- DeA Автомобиль на службе- DeA"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::1/43 КИМ-10-50 (Автолегенды СССР №51)"
     }
   ],
   "manufacturer_map": [
