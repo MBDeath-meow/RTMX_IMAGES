@@ -5824,6 +5824,36 @@
       "supplier": "Scalebay",
       "article": "NAME::’ Старт ’ / 1:43 /  Деагостини",
       "unomag_id": 158944
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "АЛ 77",
+      "unomag_id": 2538
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::’Охта’ Автолегенды СССР №130",
+      "unomag_id": 154643
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::’Охта’ опытный (серебристый) DeAgostini  Б.11538",
+      "unomag_id": 154643
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::’Охта’ опытный (серебристый) DeAgostini НОВАЯ Б.8805",
+      "unomag_id": 154643
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::’СТАРТ’ DeAGOSTINI 1/43 Автолегенды СССР",
+      "unomag_id": 158944
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "С.К 006",
+      "unomag_id": 1765
     }
   ],
   "ignored_articles": [
@@ -6066,6 +6096,10 @@
     {
       "supplier": "Scalebay",
       "article": "Нет артикула"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::’Охта’ опытный (серебристый) DeAgostini  М.0265"
     }
   ],
   "manufacturer_map": [
