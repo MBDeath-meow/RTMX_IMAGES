@@ -6094,6 +6094,21 @@
       "supplier": "Scalebay",
       "article": "NAME::1/43 Москвич-403 Монте-Карло- Ралли- Авто Легенды СССР -Специальный выпуск №9",
       "unomag_id": 316174
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::1/43 Москвич-412 Лондон-Сидней- Ралли- Авто Легенды СССР -Специальный выпуск №8",
+      "unomag_id": 309676
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::1/43 НАМИ-050 Белка. Автолегенды СССР- DeA",
+      "unomag_id": 153683
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::1/43 РАФ-2203 Олимпиада 80 АНС",
+      "unomag_id": 150393
     }
   ],
   "ignored_articles": [
@@ -6644,6 +6659,46 @@
     {
       "supplier": "Scalebay",
       "article": "NAME::1/43 Москвич-407 (Автолегенды СССР №1) с доработкой"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::1/43 Москвич-410 (Автолегенды СССР №42)"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::1/43 Москвич-410 (Автолегенды СССР №42) новый"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::1/43 Москвич-412 АЛЛ СССР DeA №74"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::1/43 Москвич-412 №51 Ралли Тур Европы 1971г. (Автолегенды СССР-Спорт №5)"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::1/43 Москвич-420-422 Почта. Автомобиль на службе- DeA"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::1/43 НАМИ-013 - Авто Легенды СССР и Соцстран №239"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::1/43 НАМИ-1 (Автолегенды СССР №99)"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::1/43 НАМИ-750 - Авто Легенды СССР и Соцстран №225"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::1/43 НАТИ-2 (Автолегенды СССР №139)"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::1/43 РАФ-2203 Латвия №26 Автолегенды СССР- DeA"
     }
   ],
   "manufacturer_map": [
