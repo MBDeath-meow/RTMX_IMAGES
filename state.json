@@ -5814,6 +5814,16 @@
       "supplier": "Scalebay",
       "article": "NAME::Лумз - 890 - Б. ( Зил - 164 ).",
       "unomag_id": 155278
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::*Москвич - Г5* Автолегенды СССР № 93 (Deagostini)",
+      "unomag_id": 8094
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::’ Старт ’ / 1:43 /  Деагостини",
+      "unomag_id": 158944
     }
   ],
   "ignored_articles": [
@@ -6052,6 +6062,10 @@
     {
       "supplier": "Scalebay",
       "article": "NAME::лимузин Бентли Bentley Mulsanne 2010 Черный Minichamps 1:43 436139900"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "Нет артикула"
     }
   ],
   "manufacturer_map": [
@@ -6094,6 +6108,22 @@
     {
       "unomag_name": "Minichamps",
       "variation": "Minichamps"
+    },
+    {
+      "unomag_name": "DeAgostini",
+      "variation": "DeAgostini"
+    },
+    {
+      "unomag_name": "DeAgostini",
+      "variation": "Автолегенды СССР журнал от DeAgostini"
+    },
+    {
+      "unomag_name": "DeAgostini",
+      "variation": "Автолегенды DeAgostini"
+    },
+    {
+      "unomag_name": "DeAgostini",
+      "variation": "Полицейские машины мира, Deagostini"
     }
   ],
   "suppliers": [
