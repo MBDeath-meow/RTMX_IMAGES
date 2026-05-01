@@ -4254,6 +4254,46 @@
       "supplier": "Scalebay",
       "article": "NAME::Faun Koloss   SSM",
       "unomag_id": 488957
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::GAZ Tiger double cab pickup",
+      "unomag_id": 6463
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::IFA W50L бортовой с тентом  SSM",
+      "unomag_id": 360081
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::IFA W50L самосвал    SSM",
+      "unomag_id": 362743
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::IFA W50LA 4x4 бортовой с тентом  SSM",
+      "unomag_id": 374139
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::IFA W50LA 4x4 самосвал    SSM",
+      "unomag_id": 367401
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::KAMAZ-53212 с 20-футовым контейнером",
+      "unomag_id": 206219
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::KAMAZ-54901   SSM",
+      "unomag_id": 640209
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::KAMAZ-6520-21010-53",
+      "unomag_id": 480349
     }
   ],
   "ignored_articles": [
