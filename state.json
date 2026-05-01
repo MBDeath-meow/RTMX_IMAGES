@@ -5989,6 +5989,36 @@
       "supplier": "Scalebay",
       "article": "NAME::1/43 Tarpan 237 1982 (Автолегенды СССР №157)",
       "unomag_id": 178079
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::1/43 Tatra 603-1 1957 (Автолегенды СССР №155)",
+      "unomag_id": 177112
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::1/43 UAZ HUNTER(УАЗ-315195) Автолегенды СССР и Соцстран DeA №280",
+      "unomag_id": 299411
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::1/43 Wartburg 353W 1985 (Автолегенды СССР №156)",
+      "unomag_id": 177797
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::1/43 АМО-Ф15 хаки (Автолегенды СССР №87)",
+      "unomag_id": 5602
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::1/43 АР-НАТИ (Автолегенды СССР №118)",
+      "unomag_id": 153932
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::1/43 АУРУС СЕНАТ Автолегенды Новая Эпоха DeA №2",
+      "unomag_id": 333162
     }
   ],
   "ignored_articles": [
@@ -6423,6 +6453,18 @@
     {
       "supplier": "Scalebay",
       "article": "NAME::1/43 Subaru Forester 2007 - Специальный выпуск ПММ"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::1/43 VAZ-ВАЗ-2109 Тюнинг - Конверсия"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::1/43 АМО Ф-15 Автолегенды СССР- DeA"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::1/43 АУРУС СЕНАТ-БЕЛЫЙ - Конверсия"
     }
   ],
   "manufacturer_map": [
