@@ -6784,6 +6784,21 @@
       "supplier": "Scalebay",
       "article": "NAME::Автокран КС-4561 (257)",
       "unomag_id": 301593
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Армейский автобус АС 38 СССР SSM 1:43 SSM4013",
+      "unomag_id": 176768
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Армейский автобус АС-38",
+      "unomag_id": 176768
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::БТР 152К (1157)",
+      "unomag_id": 179191
     }
   ],
   "ignored_articles": [
@@ -7466,6 +7481,10 @@
     {
       "supplier": "Scalebay",
       "article": "NAME::Автокран ЗИЛ КС-3575А (133ГЯ) цвет! SSM 1:43"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Автоцистерна для перевозки живой рыбы АЦЖР ( ЗИЛ-130 )"
     }
   ],
   "manufacturer_map": [
