@@ -7669,6 +7669,11 @@
       "supplier": "Scalebay",
       "article": "NAME::Bugatti EB 110  1994 , Minichamps",
       "unomag_id": 300823
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::De Tomaso Pantera 1972",
+      "unomag_id": 557002
     }
   ],
   "ignored_articles": [
