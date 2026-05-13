@@ -7354,6 +7354,26 @@
       "supplier": "Scalebay",
       "article": "NAME::Студебеккер Studebaker US6 U3 Бортовой 1942 Великая Отечественная война СССР SSM 1:43 SSM1379",
       "unomag_id": 261780
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Студебеккер Studebaker US6 U5 цистерна 1943 Великая Отечественная война СССР SSM 1:43 SSM1410",
+      "unomag_id": 270325
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::ТВГ-15М (51А)",
+      "unomag_id": 675784
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Масштабная модель АЛМ-30(157)",
+      "unomag_id": 535119
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Масштабная модель Tatra 815 V26",
+      "unomag_id": 472729
     }
   ],
   "ignored_articles": [
