@@ -7194,6 +7194,46 @@
       "supplier": "Scalebay",
       "article": "NAME::камаз 6522",
       "unomag_id": 196679
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::ТЦ - 4 (7009)",
+      "unomag_id": 178684
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::ТЦ - 4 (7008)",
+      "unomag_id": 178683
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::ТЗ-200 (на шасси МАЗ-200), армейский",
+      "unomag_id": 176765
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::ТЗ - 200 (1084)",
+      "unomag_id": 176766
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::ТЗ - 200 (1078)",
+      "unomag_id": 176765
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Татра 815 аварийная",
+      "unomag_id": 203945
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::УРБ-2А-2(131), МОДЕЛЬ В НАЛИЧИИ!",
+      "unomag_id": 669592
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::УРАЛ-43204-10 лесовоз с прицепом-роспуском",
+      "unomag_id": 196955
     }
   ],
   "ignored_articles": [
@@ -7936,6 +7976,10 @@
     {
       "supplier": "Scalebay",
       "article": "NAME::камаз 6522 бел.син (!!!АРХИВ!!!)"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::УРАЛ-377С седельный тягач"
     }
   ],
   "manufacturer_map": [
