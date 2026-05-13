@@ -6964,6 +6964,31 @@
       "supplier": "Scalebay",
       "article": "NAME::Зил 130 В1 с п.пр. Одаз 794 (7015)",
       "unomag_id": 182579
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Зил 130 ЛуМЗ-890Б (на шасси ЗИЛ-130) СССР SSM 1:43 SSM1019",
+      "unomag_id": 153927
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Зил 130 ММЗ 555 Самосвал Ранний СССР SSM 1:43 SSM1057",
+      "unomag_id": 158627
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Зил 130 ТСВ-6 (ЗИЛ-130) хаки СССР SSM 1:43 SSM1029",
+      "unomag_id": 169768
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Зил 130 бортовой (ранняя облицовка радиатора) 1964 СССР SSM 1:43 SSM1002 БЕСПЛАТНАЯ доставка",
+      "unomag_id": 7575
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Зил 130 бортовой (хаки) старая решётка радиатора",
+      "unomag_id": 150454
     }
   ],
   "ignored_articles": [
@@ -7674,6 +7699,10 @@
     {
       "supplier": "Scalebay",
       "article": "NAME::ЗиС-151 (SSM)"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Зил 130 Цистерна Прочистка Канализация SSM / мастерская Москва Models 1:43"
     }
   ],
   "manufacturer_map": [
