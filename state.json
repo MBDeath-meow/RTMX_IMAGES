@@ -7874,6 +7874,51 @@
       "supplier": "Scalebay",
       "article": "BN001",
       "unomag_id": 151914
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "ПАО103528",
+      "unomag_id": 564883
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "104189",
+      "unomag_id": 654956
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "104172",
+      "unomag_id": 669591
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "104165",
+      "unomag_id": 652272
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "104141",
+      "unomag_id": 655982
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "104110",
+      "unomag_id": 666531
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "103542",
+      "unomag_id": 513024
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "103528",
+      "unomag_id": 564883
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "103511",
+      "unomag_id": 572218
     }
   ],
   "ignored_articles": [
@@ -8710,6 +8755,14 @@
     {
       "unomag_name": "Maxichamps",
       "variation": "Minichamps"
+    },
+    {
+      "unomag_name": "ПАО КАМАЗ",
+      "variation": "ПАО КАМАЗ"
+    },
+    {
+      "unomag_name": "ПАО КАМАЗ",
+      "variation": "Автоистория (АИСТ)"
     }
   ],
   "suppliers": [
