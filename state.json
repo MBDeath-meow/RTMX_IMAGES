@@ -6799,6 +6799,41 @@
       "supplier": "Scalebay",
       "article": "NAME::БТР 152К (1157)",
       "unomag_id": 179191
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::БТР 152К (1158)",
+      "unomag_id": 179192
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Белаз 540 А",
+      "unomag_id": 199323
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Белаз 540 А ж.ор",
+      "unomag_id": 199321
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Белаз 540 Ф",
+      "unomag_id": 199802
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Белаз 7522",
+      "unomag_id": 199800
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Белаз 7522 кр.сер",
+      "unomag_id": 199801
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "SSM1545",
+      "unomag_id": 479744
     }
   ],
   "ignored_articles": [
