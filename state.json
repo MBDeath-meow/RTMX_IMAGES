@@ -6834,6 +6834,26 @@
       "supplier": "Scalebay",
       "article": "SSM1545",
       "unomag_id": 479744
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Большой бокс SSM.  26,3x10.8x10.9 см.",
+      "unomag_id": 178808
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "8010",
+      "unomag_id": 182203
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "SSM3040",
+      "unomag_id": 361016
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Д 470 (157Е) (1106)",
+      "unomag_id": 176074
     }
   ],
   "ignored_articles": [
@@ -7520,6 +7540,14 @@
     {
       "supplier": "Scalebay",
       "article": "NAME::Автоцистерна для перевозки живой рыбы АЦЖР ( ЗИЛ-130 )"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Боксы от КАМАЗ-43253"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::ГЗТМ-893А(52) Мострансагенство. SSM."
     }
   ],
   "manufacturer_map": [
