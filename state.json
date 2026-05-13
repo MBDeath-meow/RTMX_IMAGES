@@ -6629,6 +6629,41 @@
       "supplier": "Scalebay",
       "article": "NAME::АК 75 (164) хаки",
       "unomag_id": 180401
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "ССМ1631",
+      "unomag_id": 696911
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::АЛ 30 (131) (1160)",
+      "unomag_id": 180251
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::АЛ 30 (131) (1162)",
+      "unomag_id": 180253
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::АР 2 (157К)",
+      "unomag_id": 159841
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::АРР 66",
+      "unomag_id": 154756
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::АС 38 (4012)",
+      "unomag_id": 176767
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::АС 38 (4013)",
+      "unomag_id": 176768
     }
   ],
   "ignored_articles": [
