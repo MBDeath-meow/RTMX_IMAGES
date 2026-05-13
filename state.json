@@ -7144,6 +7144,16 @@
       "supplier": "Scalebay",
       "article": "NAME::кран К-67 (500)",
       "unomag_id": 654955
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::краз 258 с п.пр тз22 хаки",
+      "unomag_id": 184346
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::камаз 5320 кр.гол",
+      "unomag_id": 204678
     }
   ],
   "ignored_articles": [
