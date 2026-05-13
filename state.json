@@ -6369,6 +6369,41 @@
       "supplier": "Scalebay",
       "article": "NAME::SSM. Skoda 100.850 SA8",
       "unomag_id": 652273
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::SSM. Skoda 1203 ROL (1968)",
+      "unomag_id": 349183
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::SSM. Skoda AKVS-706",
+      "unomag_id": 359154
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::SSM. Tatra 148 VNM бортовой (с тентом)",
+      "unomag_id": 426876
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::SSM. АК-32 (51)",
+      "unomag_id": 696911
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::SSM. АЦ-30(53-12)-106В. Без надписей",
+      "unomag_id": 192925
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::SSM. АЦ-30(53-12)-106В. Оперативная",
+      "unomag_id": 192926
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::SSM. Артиллерийский гусеничный тягач АТС-59",
+      "unomag_id": 367925
     }
   ],
   "ignored_articles": [
