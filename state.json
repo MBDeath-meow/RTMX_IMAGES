@@ -6444,6 +6444,51 @@
       "supplier": "Scalebay",
       "article": "NAME::SSM. КО-829А (4333)",
       "unomag_id": 459312
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::SSM. КРАЗ-214 бортовой с тентом",
+      "unomag_id": 214441
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::SSM. КРАЗ-257Б1 бортовой с контейнерами",
+      "unomag_id": 198945
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::SSM. КРАЗ-257Б1 контейнер",
+      "unomag_id": 198946
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::SSM. Камаз-54901 Юбилейный",
+      "unomag_id": 640209
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::SSM. МАЗ-500 бортовой",
+      "unomag_id": 292711
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::SSM. МАЗ-503Б",
+      "unomag_id": 668685
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::SSM. МАЗ-5429 с полуприцепом МАЗ-5205",
+      "unomag_id": 503316
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::SSM. Мусоровоз с боковой загрузкой МКМ-2 (на шасси ЗИЛ-4333)",
+      "unomag_id": 468355
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::SSM. Подметально-уборочная машина ПУ-53 (53)",
+      "unomag_id": 410139
     }
   ],
   "ignored_articles": [
