@@ -6989,6 +6989,21 @@
       "supplier": "Scalebay",
       "article": "NAME::Зил 130 бортовой (хаки) старая решётка радиатора",
       "unomag_id": 150454
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Зил 130 кунг ж",
+      "unomag_id": 172793
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Зил 130 шасси (9002)",
+      "unomag_id": 150456
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Зил 130В с п.пр. Одаз 794 (7016)",
+      "unomag_id": 182580
     }
   ],
   "ignored_articles": [
