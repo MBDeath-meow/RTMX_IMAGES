@@ -7459,6 +7459,16 @@
       "supplier": "Scalebay",
       "article": "NAME::Шевроле Chevrolet Corvette Stingray Coupe 1963 Spark 1:43 S2971",
       "unomag_id": 153481
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Audi S1 E-Tron quattro presentation. Spark 1/43",
+      "unomag_id": 459872
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Audi RS4 RS 4 Avant  2018 Spark",
+      "unomag_id": 214388
     }
   ],
   "ignored_articles": [
@@ -8205,6 +8215,10 @@
     {
       "supplier": "Scalebay",
       "article": "NAME::УРАЛ-377С седельный тягач"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Хаммер Hummer H3 2006 4x4 4WD Spark 1:43 S0874"
     }
   ],
   "manufacturer_map": [
