@@ -6734,6 +6734,21 @@
       "supplier": "Scalebay",
       "article": "NAME::АЦ40 (133ГЯ) красная _Полтава_",
       "unomag_id": 179465
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::АЦ40 133ГЯ (1076)",
+      "unomag_id": 180887
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::АЦ40 133ГЯ (1093)",
+      "unomag_id": 180886
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Автокран АК-75(Зил-130) зеленый.SSM.",
+      "unomag_id": 172881
     }
   ],
   "ignored_articles": [
@@ -7412,6 +7427,10 @@
     {
       "supplier": "Scalebay",
       "article": "NAME::Skoda 706RTTN+ 706MTTN"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Автокран ЗИЛ КС-3575А (133ГЯ) цвет! SSM 1:43"
     }
   ],
   "manufacturer_map": [
