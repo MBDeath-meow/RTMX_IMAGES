@@ -7099,6 +7099,51 @@
       "supplier": "Scalebay",
       "article": "NAME::полуприцеп Маз 5215 Оранжевый СССР SSM 1:43 SSM7010",
       "unomag_id": 177911
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::пм_102 красный",
+      "unomag_id": 186152
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::пм_102 Москва",
+      "unomag_id": 186151
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::пикап 233002 (2003)",
+      "unomag_id": 176077
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::пикап 233002 (2002)",
+      "unomag_id": 176076
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::маз 6516 сер.оранж",
+      "unomag_id": 186440
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::маз 6501 жёлт",
+      "unomag_id": 183211
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::маз 6312 бел.син.",
+      "unomag_id": 185708
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::маз 5550",
+      "unomag_id": 202910
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::кран К-67 (500)",
+      "unomag_id": 654955
     }
   ],
   "ignored_articles": [
