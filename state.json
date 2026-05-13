@@ -7549,6 +7549,26 @@
       "supplier": "Scalebay",
       "article": "NAME::Мерседес Бенц Mercedes Benz F100 Concept Car 1991 Spark 1:43",
       "unomag_id": 153279
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Мерседес Бенц Mercedes Benz F600 2005 Spark 1:43",
+      "unomag_id": 190722
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Мерседес Бенц Mercedes Benz Fascination Concept 2010 Spark 1:43",
+      "unomag_id": 6851
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Модель 1:43 Mercedes-Benz GLA Class H247 Spark B66961035",
+      "unomag_id": 321453
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Форд Edsel (Ford Elite) Citation Convertible 1958 Spark 1:43 S2961",
+      "unomag_id": 154776
     }
   ],
   "ignored_articles": [
