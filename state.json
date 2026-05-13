@@ -6564,6 +6564,16 @@
       "supplier": "Scalebay",
       "article": "SSM7058",
       "unomag_id": 291330
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Studebaker US6 U5 цистерна (со звездой)   SSM",
+      "unomag_id": 270325
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Studebaker US6 БМ-13 «Катюша»   SSM",
+      "unomag_id": 262785
     }
   ],
   "ignored_articles": [
@@ -7238,6 +7248,10 @@
     {
       "supplier": "Scalebay",
       "article": "NAME::Mercedes-Benz NG 2232"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Skoda 706RTTN+ 706MTTN"
     }
   ],
   "manufacturer_map": [
