@@ -7234,6 +7234,41 @@
       "supplier": "Scalebay",
       "article": "NAME::УРАЛ-43204-10 лесовоз с прицепом-роспуском",
       "unomag_id": 196955
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Троллейбус ЗИУ-9",
+      "unomag_id": 151269
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Трамвай РВЗ-6М2",
+      "unomag_id": 300106
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Трамвай МТВ-82. SSM.",
+      "unomag_id": 332422
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Трамвай КТМ-8   SSM",
+      "unomag_id": 352080
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Т-34",
+      "unomag_id": 197875
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Паровой грузовой автомобиль Маз НАМИ 012 1949 СССР SSM 1:43 SSM1188",
+      "unomag_id": 184600
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::ПСА 2 красн. с бел.полосами",
+      "unomag_id": 205947
     }
   ],
   "ignored_articles": [
