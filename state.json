@@ -6354,6 +6354,21 @@
       "supplier": "Scalebay",
       "article": "NAME::Magirus  290 оранж. зел.",
       "unomag_id": 197252
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::LuMZ  890В (Зил 164)",
+      "unomag_id": 154530
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::KAMAZ-65802-87 (S5)",
+      "unomag_id": 477068
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::SSM. Skoda 100.850 SA8",
+      "unomag_id": 652273
     }
   ],
   "ignored_articles": [
@@ -7024,6 +7039,10 @@
     {
       "supplier": "Scalebay",
       "article": "NAME::SSM полуприцеп Fruehauf Savoyarde СОВТРАНСАВТО"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Mercedes-Benz NG 2232"
     }
   ],
   "manufacturer_map": [
