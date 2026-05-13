@@ -6949,6 +6949,11 @@
       "supplier": "Scalebay",
       "article": "NAME::ЗиЛ-133ГЯ АЦ-40-181А ПОЛТАВА",
       "unomag_id": 179465
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::ЗиЛ-157 (SSM)",
+      "unomag_id": 6379
     }
   ],
   "ignored_articles": [
