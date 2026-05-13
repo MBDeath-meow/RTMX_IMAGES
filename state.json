@@ -6324,6 +6324,36 @@
       "supplier": "Scalebay",
       "article": "NAME::Praga V3S ASC-16/3.5 пожарный грузовик.SSM.",
       "unomag_id": 636030
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::SSM.  КрАЗ-258Б1 с полуприцепом ЧМЗАП-5523",
+      "unomag_id": 586295
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::SSM. AVIA A31N ZOS-1010",
+      "unomag_id": 429915
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::SSM. Faun Koloss",
+      "unomag_id": 488957
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::SSM. KAMAZ-6520",
+      "unomag_id": 598571
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "SSM1616",
+      "unomag_id": 630206
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Magirus  290 оранж. зел.",
+      "unomag_id": 197252
     }
   ],
   "ignored_articles": [
