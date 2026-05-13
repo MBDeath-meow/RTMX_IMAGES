@@ -7819,6 +7819,31 @@
       "supplier": "Scalebay",
       "article": "NAME::Мерседес Бенц Mercedes Benz W124 300 CE - 124 Cabriolet 1990 Minichamps 1:43 400037030",
       "unomag_id": 4947
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Мерседес Бенц Mercedes Benz W126 500 SE S class 1989 Белый Minichamps 1:43 430039309",
+      "unomag_id": 153228
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Мерседес Бенц Брабус Mercedes Benz BRABUS 190E 3.6S 1989 Minichamps 1:43 437032600",
+      "unomag_id": 158763
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Мерседес Бенц Mercedes Benz W202 1997 Minichamps 1:43 430037000",
+      "unomag_id": 189593
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Мерседес Бенц Mercedes Benz Vaneo 2003 Minichamps 1:43 400031201",
+      "unomag_id": 636141
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Мерседес Бенц Mercedes Benz SL Klasse R230 2008 Кабриолет Minichamps 1:43 436037530",
+      "unomag_id": 203777
     }
   ],
   "ignored_articles": [
