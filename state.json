@@ -6954,6 +6954,16 @@
       "supplier": "Scalebay",
       "article": "NAME::ЗиЛ-157 (SSM)",
       "unomag_id": 6379
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Зил 130 АЦ-40 (130) версия для Куба СССР SSM 1:43 SSML010 Лимитированная серия 450 шт",
+      "unomag_id": 193966
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Зил 130 В1 с п.пр. Одаз 794 (7015)",
+      "unomag_id": 182579
     }
   ],
   "ignored_articles": [
@@ -7660,6 +7670,10 @@
     {
       "supplier": "Scalebay",
       "article": "1259-1"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::ЗиС-151 (SSM)"
     }
   ],
   "manufacturer_map": [
