@@ -547,6 +547,11 @@
     },
     {
       "supplier": "Scalebay",
+      "article": "АЛ 77",
+      "unomag_id": 2538
+    },
+    {
+      "supplier": "Scalebay",
       "article": "400 073610",
       "unomag_id": 184979
     },
@@ -3622,6 +3627,41 @@
     },
     {
       "supplier": "Scalebay",
+      "article": "Н.С096",
+      "unomag_id": 8097
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "С.К 014",
+      "unomag_id": 2081
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "С.К 025",
+      "unomag_id": 2380
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "С.К 058",
+      "unomag_id": 152932
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "С.К 004",
+      "unomag_id": 1540
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "С.К 030",
+      "unomag_id": 2384
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "С.К 006",
+      "unomag_id": 1765
+    },
+    {
+      "supplier": "Scalebay",
       "article": "#436 086102",
       "unomag_id": 211980
     },
@@ -3662,6 +3702,11 @@
     },
     {
       "supplier": "Scalebay",
+      "article": "NAME::Aston Martin DB4 Coupe Deagostini",
+      "unomag_id": 1538
+    },
+    {
+      "supplier": "Scalebay",
       "article": "NAME::МАЗ-5432",
       "unomag_id": 180280
     },
@@ -3699,6 +3744,21 @@
       "supplier": "Scalebay",
       "article": "NAME::Автобус Кавз-3976 желтый.  АИСт.",
       "unomag_id": 250765
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::ARO 243. Автолегенды СССР. DeAgostini 1/43",
+      "unomag_id": 179260
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::’СТАРТ’ DeAGOSTINI 1/43 Автолегенды СССР",
+      "unomag_id": 158944
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::ARO 240. Автолегенды СССР. DeAgostini 1/43",
+      "unomag_id": 179744
     },
     {
       "supplier": "Scalebay",
@@ -4132,8 +4192,28 @@
     },
     {
       "supplier": "Scalebay",
+      "article": "NAME::1/43 LADA VESTA SPORT Автолегенды Новая Эпоха DeA №22",
+      "unomag_id": 377757
+    },
+    {
+      "supplier": "Scalebay",
       "article": "NAME::1/43 Т-64Б- Танк - SSM",
       "unomag_id": 226249
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::1/43 УАЗ ПИКАП Автолегенды Новая Эпоха DeA №3",
+      "unomag_id": 333164
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::1/43 LADA GRANTA ЛИФТБЕК Автолегенды Новая Эпоха DeA №5",
+      "unomag_id": 343576
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::1/43 Москвич-2142R5 Князь Владимир- Милиция- Авто Легенды СССР -Специальный выпуск №11",
+      "unomag_id": 323178
     },
     {
       "supplier": "Scalebay",
@@ -4144,6 +4224,26 @@
       "supplier": "Scalebay",
       "article": "NAME::1/43 SEAGRAVE Marauder II - Fire Brigade - 2007 - (TRF003) - IXO",
       "unomag_id": 259061
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::1/43 УАЗ-452В Милиция- Авто Легенды СССР -Специальный выпуск №6",
+      "unomag_id": 281170
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::1/43 ВАЗ- ВИС-294611 - АНС",
+      "unomag_id": 5555
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::1/43 ВАЗ-2329 Автолегенды Новая Эпоха DeA №15",
+      "unomag_id": 356517
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::1/43 Москвич-412 Лондон-Сидней- Ралли- Авто Легенды СССР -Специальный выпуск №8",
+      "unomag_id": 309676
     },
     {
       "supplier": "Scalebay",
@@ -4162,8 +4262,23 @@
     },
     {
       "supplier": "Scalebay",
+      "article": "NAME::1/43 LADA VESTA SW CROSS Автолегенды Новая Эпоха DeA №7",
+      "unomag_id": 343585
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::1/43 УАЗ УРАН-452 Руководитель полётов-- Авто Легенды СССР -УАЗ на службе №4 DEA",
+      "unomag_id": 357315
+    },
+    {
+      "supplier": "Scalebay",
       "article": "NAME::1/43 TATRA 813 8X8 Kolos - 1968 - (TRU025) - IXO",
       "unomag_id": 266120
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::1/43 УАЗ-469Б-Эльбрус- Авто Легенды СССР -УАЗ на Службе №2",
+      "unomag_id": 346306
     },
     {
       "supplier": "Scalebay",
@@ -4177,8 +4292,23 @@
     },
     {
       "supplier": "Scalebay",
+      "article": "NAME::1/43 АУРУС СЕНАТ Автолегенды Новая Эпоха DeA №2",
+      "unomag_id": 333162
+    },
+    {
+      "supplier": "Scalebay",
       "article": "NAME::1/43 Volvo F88 - 1971 - (TR034) - IXO",
       "unomag_id": 274049
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::1/43 LADA VESTA CROSS- Автолегенды Новая Эпоха DeA №34",
+      "unomag_id": 393520
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::1/43 Maybach 62 №78 СК",
+      "unomag_id": 156302
     },
     {
       "supplier": "Scalebay",
@@ -4187,13 +4317,63 @@
     },
     {
       "supplier": "Scalebay",
+      "article": "NAME::1/43 Москвич-403 Монте-Карло- Ралли- Авто Легенды СССР -Специальный выпуск №9",
+      "unomag_id": 316174
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::1/43 LADA VESTA SW Автолегенды Новая Эпоха DeA №16",
+      "unomag_id": 359812
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::1/43 ЛАДА ВЕСТА-LADA VESTA Автолегенды Новая Эпоха DeA №1",
+      "unomag_id": 333160
+    },
+    {
+      "supplier": "Scalebay",
       "article": "NAME::1/43 ЗИЛ - 164 ЛуМЗ 890Б (на шасси ЗИЛ -164)- (SSM1044)-SSM",
       "unomag_id": 154530
     },
     {
       "supplier": "Scalebay",
+      "article": "NAME::1/43 КОМБАТ Т98- Автолегенды Новая Эпоха DeA №28",
+      "unomag_id": 388934
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::1/43 РАФ-2203 Олимпиада 80 АНС",
+      "unomag_id": 150393
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::1/43 РАФ-977ДМ- Такси- Авто Легенды СССР -Специальный выпуск №2",
+      "unomag_id": 264310
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::1/43 LADA LARGUS Автолегенды Новая Эпоха DeA №13",
+      "unomag_id": 352069
+    },
+    {
+      "supplier": "Scalebay",
       "article": "NAME::1/43 ЗИЛ-ZIL-130 new radiator grill (SSM1003)-SSM",
       "unomag_id": 150038
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::1/43 НАМИ-050 Белка. Автолегенды СССР- DeA",
+      "unomag_id": 153683
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::1/43 ИЖ-2126 ОДА Автолегенды Новая Эпоха DeA №21",
+      "unomag_id": 367993
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::1/43 UAZ HUNTER(УАЗ-315195) Автолегенды СССР и Соцстран DeA №280",
+      "unomag_id": 299411
     },
     {
       "supplier": "Scalebay",
@@ -4682,8 +4862,28 @@
     },
     {
       "supplier": "Scalebay",
+      "article": "NAME::ARO 10",
+      "unomag_id": 182736
+    },
+    {
+      "supplier": "Scalebay",
       "article": "NAME::ЗИЛ-157К АИСТ",
       "unomag_id": 151241
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::’ Старт ’ / 1:43 /  Деагостини",
+      "unomag_id": 158944
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::1/43 Star-266 №629 Paris-Dakar 1988 (DeAgostini - Kultowe Ciezarowki PRL-u) новый",
+      "unomag_id": 441191
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::1/43 АМО-Ф15 хаки (Автолегенды СССР №87)",
+      "unomag_id": 5602
     },
     {
       "supplier": "Scalebay",
@@ -4692,8 +4892,83 @@
     },
     {
       "supplier": "Scalebay",
+      "article": "NAME::1/43 Tarpan 237 1982 (Автолегенды СССР №157)",
+      "unomag_id": 178079
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::1/43 Wartburg 353W 1985 (Автолегенды СССР №156)",
+      "unomag_id": 177797
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::1/43 ВНИИТЭ-ПТ (Автолегенды СССР №88)",
+      "unomag_id": 5603
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::1/43 ЗИЛ-111 (Автолегенды СССР №49)",
+      "unomag_id": 840
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::1/43 Dacia 1300 1970 (Автолегенды СССР №164)",
+      "unomag_id": 179215
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::1/43 ЗИЛ-118 (Автолегенды СССР №28)",
+      "unomag_id": 198
+    },
+    {
+      "supplier": "Scalebay",
       "article": "NAME::1/43 МАЗ-200 (SSM)",
       "unomag_id": 151941
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::1/43 ЗИС-110 (Автолегенды СССР №16)",
+      "unomag_id": 63
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::1/43 АР-НАТИ (Автолегенды СССР №118)",
+      "unomag_id": 153932
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::1/43 ВАЗ-1801 Пони (Автолегенды СССР №128)",
+      "unomag_id": 154642
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::1/43 ИЖ-13 (Автолегенды СССР №122)",
+      "unomag_id": 154490
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::1/43 Nysa N59M 1959 (Автолегенды СССР №159)",
+      "unomag_id": 178081
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::1/43 ЗИЛ-118К (Автолегенды СССР №68)",
+      "unomag_id": 2101
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::1/43 Tatra 603-1 1957 (Автолегенды СССР №155)",
+      "unomag_id": 177112
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::1/43 ИЖ-14 (Автолегенды СССР №120)",
+      "unomag_id": 154374
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::1/43 FSO Warszawa 203 1964 (Автолегенды СССР №154)",
+      "unomag_id": 177111
     },
     {
       "supplier": "Scalebay",
@@ -4937,6 +5212,16 @@
     },
     {
       "supplier": "Scalebay",
+      "article": "NAME::ARO 10 Автолегенды СССР №175",
+      "unomag_id": 182736
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::ARO 242 Автолегенды СССР №177",
+      "unomag_id": 183228
+    },
+    {
+      "supplier": "Scalebay",
       "article": "NAME::KAMAZ-6520-21010-53",
       "unomag_id": 480349
     },
@@ -5052,6 +5337,11 @@
     },
     {
       "supplier": "Scalebay",
+      "article": "NAME::*Москвич - Г5* Автолегенды СССР № 93 (Deagostini)",
+      "unomag_id": 8094
+    },
+    {
+      "supplier": "Scalebay",
       "article": "NAME::GAZ Tiger double cab pickup",
       "unomag_id": 6463
     },
@@ -5087,8 +5377,23 @@
     },
     {
       "supplier": "Scalebay",
+      "article": "NAME::’Охта’ опытный (серебристый) DeAgostini  Б.11538",
+      "unomag_id": 154643
+    },
+    {
+      "supplier": "Scalebay",
       "article": "NAME::ЗИЛ-157К бортовой (тёмно-зелёный) Авто история (Аист)  М.1100",
       "unomag_id": 151242
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::1:72 Saurer L4C 1959 (жёлтый/серебристый) DeAgostini  Б.11371",
+      "unomag_id": 179182
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::’Охта’ опытный (серебристый) DeAgostini НОВАЯ Б.8805",
+      "unomag_id": 154643
     },
     {
       "supplier": "Scalebay",
@@ -5667,6 +5972,11 @@
     },
     {
       "supplier": "Scalebay",
+      "article": "NAME::’Охта’ Автолегенды СССР №130",
+      "unomag_id": 154643
+    },
+    {
+      "supplier": "Scalebay",
       "article": "NAME::TATRA 815 UDS114A КАЧЕСТВО = ЦЕНА (ВЫБОРКА)",
       "unomag_id": 479801
     },
@@ -5694,6 +6004,11 @@
       "supplier": "Scalebay",
       "article": "NAME::KAMAZ-65802-87 (S5) Автоистория (АИСТ)",
       "unomag_id": 516931
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::ARO 243Автолегенды СССР №161",
+      "unomag_id": 179260
     },
     {
       "supplier": "Scalebay",
@@ -5732,13 +6047,43 @@
     },
     {
       "supplier": "Scalebay",
+      "article": "NAME::1/43     Deagostini  Москвич 400-422",
+      "unomag_id": 5554
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::1/43  Москвич-430 1958-1963 гг. красный   DeAgostini",
+      "unomag_id": 153133
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::1/43     Deagostini   ФИАТ 238 minivan",
+      "unomag_id": 152652
+    },
+    {
+      "supplier": "Scalebay",
       "article": "NAME::1/43   КрАЗ 260",
       "unomag_id": 251232
     },
     {
       "supplier": "Scalebay",
+      "article": "NAME::1/43  СМЗ -С1Л   DeAgostini",
+      "unomag_id": 339
+    },
+    {
+      "supplier": "Scalebay",
       "article": "NAME::1/43    Татра Т163 Ямал самосвал. АИСТ.",
       "unomag_id": 459311
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::1/43   SPYKER C12 SPAYDER   DeAgostini",
+      "unomag_id": 2382
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::1/43   ЗИС-102.кабриолет",
+      "unomag_id": 158547
     },
     {
       "supplier": "Scalebay",
@@ -5772,6 +6117,16 @@
     },
     {
       "supplier": "Scalebay",
+      "article": "NAME::1/43  KOENIGSEGG CC8S    DeAgostini",
+      "unomag_id": 6444
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::1/43  SALEEN S7    DeAgostini",
+      "unomag_id": 1766
+    },
+    {
+      "supplier": "Scalebay",
       "article": "NAME::1/43   Зил 130В1 Автоистория",
       "unomag_id": 154563
     },
@@ -5784,6 +6139,11 @@
       "supplier": "Scalebay",
       "article": "NAME::1/43   КО 413 (130) Автоистория",
       "unomag_id": 194455
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::1/43  DeAgostini  MERCEDES SLS AMG",
+      "unomag_id": 2081
     },
     {
       "supplier": "Scalebay",
@@ -5817,363 +6177,48 @@
     },
     {
       "supplier": "Scalebay",
-      "article": "NAME::*Москвич - Г5* Автолегенды СССР № 93 (Deagostini)",
-      "unomag_id": 8094
+      "article": "0093MP",
+      "unomag_id": 280347
     },
     {
       "supplier": "Scalebay",
-      "article": "NAME::’ Старт ’ / 1:43 /  Деагостини",
-      "unomag_id": 158944
+      "article": "0131MP",
+      "unomag_id": 317045
     },
     {
       "supplier": "Scalebay",
-      "article": "АЛ 77",
-      "unomag_id": 2538
+      "article": "0234MP",
+      "unomag_id": 491550
     },
     {
       "supplier": "Scalebay",
-      "article": "NAME::’Охта’ Автолегенды СССР №130",
-      "unomag_id": 154643
+      "article": "0192MP",
+      "unomag_id": 378073
     },
     {
       "supplier": "Scalebay",
-      "article": "NAME::’Охта’ опытный (серебристый) DeAgostini  Б.11538",
-      "unomag_id": 154643
+      "article": "0286MP",
+      "unomag_id": 696912
     },
     {
       "supplier": "Scalebay",
-      "article": "NAME::’Охта’ опытный (серебристый) DeAgostini НОВАЯ Б.8805",
-      "unomag_id": 154643
+      "article": "0169MP",
+      "unomag_id": 339683
     },
     {
       "supplier": "Scalebay",
-      "article": "NAME::’СТАРТ’ DeAGOSTINI 1/43 Автолегенды СССР",
-      "unomag_id": 158944
+      "article": "0264MP",
+      "unomag_id": 588725
     },
     {
       "supplier": "Scalebay",
-      "article": "С.К 006",
-      "unomag_id": 1765
+      "article": "0233MP",
+      "unomag_id": 473691
     },
     {
       "supplier": "Scalebay",
-      "article": "С.К 030",
-      "unomag_id": 2384
-    },
-    {
-      "supplier": "Scalebay",
-      "article": "С.К 014",
-      "unomag_id": 2081
-    },
-    {
-      "supplier": "Scalebay",
-      "article": "Н.С096",
-      "unomag_id": 8097
-    },
-    {
-      "supplier": "Scalebay",
-      "article": "NAME::1/43     Deagostini   ФИАТ 238 minivan",
-      "unomag_id": 152652
-    },
-    {
-      "supplier": "Scalebay",
-      "article": "С.К 025",
-      "unomag_id": 2380
-    },
-    {
-      "supplier": "Scalebay",
-      "article": "С.К 058",
-      "unomag_id": 152932
-    },
-    {
-      "supplier": "Scalebay",
-      "article": "С.К 004",
-      "unomag_id": 1540
-    },
-    {
-      "supplier": "Scalebay",
-      "article": "NAME::1/43     Deagostini  Москвич 400-422",
-      "unomag_id": 5554
-    },
-    {
-      "supplier": "Scalebay",
-      "article": "NAME::1/43   SPYKER C12 SPAYDER   DeAgostini",
-      "unomag_id": 2382
-    },
-    {
-      "supplier": "Scalebay",
-      "article": "NAME::1/43   ЗИС-102.кабриолет",
-      "unomag_id": 158547
-    },
-    {
-      "supplier": "Scalebay",
-      "article": "NAME::1/43  DeAgostini  MERCEDES SLS AMG",
-      "unomag_id": 2081
-    },
-    {
-      "supplier": "Scalebay",
-      "article": "NAME::1/43  KOENIGSEGG CC8S    DeAgostini",
-      "unomag_id": 6444
-    },
-    {
-      "supplier": "Scalebay",
-      "article": "NAME::1/43  SALEEN S7    DeAgostini",
-      "unomag_id": 1766
-    },
-    {
-      "supplier": "Scalebay",
-      "article": "NAME::1/43  Москвич-430 1958-1963 гг. красный   DeAgostini",
-      "unomag_id": 153133
-    },
-    {
-      "supplier": "Scalebay",
-      "article": "NAME::1/43  СМЗ -С1Л   DeAgostini",
-      "unomag_id": 339
-    },
-    {
-      "supplier": "Scalebay",
-      "article": "NAME::1/43 Dacia 1300 1970 (Автолегенды СССР №164)",
-      "unomag_id": 179215
-    },
-    {
-      "supplier": "Scalebay",
-      "article": "NAME::1/43 FSO Warszawa 203 1964 (Автолегенды СССР №154)",
-      "unomag_id": 177111
-    },
-    {
-      "supplier": "Scalebay",
-      "article": "NAME::1/43 LADA GRANTA ЛИФТБЕК Автолегенды Новая Эпоха DeA №5",
-      "unomag_id": 343576
-    },
-    {
-      "supplier": "Scalebay",
-      "article": "NAME::1/43 LADA LARGUS Автолегенды Новая Эпоха DeA №13",
-      "unomag_id": 352069
-    },
-    {
-      "supplier": "Scalebay",
-      "article": "NAME::1/43 LADA VESTA CROSS- Автолегенды Новая Эпоха DeA №34",
-      "unomag_id": 393520
-    },
-    {
-      "supplier": "Scalebay",
-      "article": "NAME::1/43 LADA VESTA SPORT Автолегенды Новая Эпоха DeA №22",
-      "unomag_id": 377757
-    },
-    {
-      "supplier": "Scalebay",
-      "article": "NAME::1/43 LADA VESTA SW CROSS Автолегенды Новая Эпоха DeA №7",
-      "unomag_id": 343585
-    },
-    {
-      "supplier": "Scalebay",
-      "article": "NAME::1/43 LADA VESTA SW Автолегенды Новая Эпоха DeA №16",
-      "unomag_id": 359812
-    },
-    {
-      "supplier": "Scalebay",
-      "article": "NAME::1/43 Maybach 62 №78 СК",
-      "unomag_id": 156302
-    },
-    {
-      "supplier": "Scalebay",
-      "article": "NAME::1/43 Nysa N59M 1959 (Автолегенды СССР №159)",
-      "unomag_id": 178081
-    },
-    {
-      "supplier": "Scalebay",
-      "article": "NAME::1/43 Star-266 №629 Paris-Dakar 1988 (DeAgostini - Kultowe Ciezarowki PRL-u) новый",
-      "unomag_id": 441191
-    },
-    {
-      "supplier": "Scalebay",
-      "article": "NAME::1/43 Tarpan 237 1982 (Автолегенды СССР №157)",
-      "unomag_id": 178079
-    },
-    {
-      "supplier": "Scalebay",
-      "article": "NAME::1/43 Tatra 603-1 1957 (Автолегенды СССР №155)",
-      "unomag_id": 177112
-    },
-    {
-      "supplier": "Scalebay",
-      "article": "NAME::1/43 UAZ HUNTER(УАЗ-315195) Автолегенды СССР и Соцстран DeA №280",
-      "unomag_id": 299411
-    },
-    {
-      "supplier": "Scalebay",
-      "article": "NAME::1/43 Wartburg 353W 1985 (Автолегенды СССР №156)",
-      "unomag_id": 177797
-    },
-    {
-      "supplier": "Scalebay",
-      "article": "NAME::1/43 АМО-Ф15 хаки (Автолегенды СССР №87)",
-      "unomag_id": 5602
-    },
-    {
-      "supplier": "Scalebay",
-      "article": "NAME::1/43 АР-НАТИ (Автолегенды СССР №118)",
-      "unomag_id": 153932
-    },
-    {
-      "supplier": "Scalebay",
-      "article": "NAME::1/43 АУРУС СЕНАТ Автолегенды Новая Эпоха DeA №2",
-      "unomag_id": 333162
-    },
-    {
-      "supplier": "Scalebay",
-      "article": "NAME::1/43 ВАЗ- ВИС-294611 - АНС",
-      "unomag_id": 5555
-    },
-    {
-      "supplier": "Scalebay",
-      "article": "NAME::1/43 ВАЗ-1801 Пони (Автолегенды СССР №128)",
-      "unomag_id": 154642
-    },
-    {
-      "supplier": "Scalebay",
-      "article": "NAME::1/43 ВАЗ-2329 Автолегенды Новая Эпоха DeA №15",
-      "unomag_id": 356517
-    },
-    {
-      "supplier": "Scalebay",
-      "article": "NAME::1/43 ВНИИТЭ-ПТ (Автолегенды СССР №88)",
-      "unomag_id": 5603
-    },
-    {
-      "supplier": "Scalebay",
-      "article": "NAME::1/43 ЗИЛ-111 (Автолегенды СССР №49)",
-      "unomag_id": 840
-    },
-    {
-      "supplier": "Scalebay",
-      "article": "NAME::1/43 ЗИЛ-118 (Автолегенды СССР №28)",
-      "unomag_id": 198
-    },
-    {
-      "supplier": "Scalebay",
-      "article": "NAME::1/43 ЗИЛ-118К (Автолегенды СССР №68)",
-      "unomag_id": 2101
-    },
-    {
-      "supplier": "Scalebay",
-      "article": "NAME::1/43 ЗИС-110 (Автолегенды СССР №16)",
-      "unomag_id": 63
-    },
-    {
-      "supplier": "Scalebay",
-      "article": "NAME::1/43 ИЖ-13 (Автолегенды СССР №122)",
-      "unomag_id": 154490
-    },
-    {
-      "supplier": "Scalebay",
-      "article": "NAME::1/43 ИЖ-14 (Автолегенды СССР №120)",
-      "unomag_id": 154374
-    },
-    {
-      "supplier": "Scalebay",
-      "article": "NAME::1/43 ИЖ-2126 ОДА Автолегенды Новая Эпоха DeA №21",
-      "unomag_id": 367993
-    },
-    {
-      "supplier": "Scalebay",
-      "article": "NAME::1/43 КОМБАТ Т98- Автолегенды Новая Эпоха DeA №28",
-      "unomag_id": 388934
-    },
-    {
-      "supplier": "Scalebay",
-      "article": "NAME::1/43 ЛАДА ВЕСТА-LADA VESTA Автолегенды Новая Эпоха DeA №1",
-      "unomag_id": 333160
-    },
-    {
-      "supplier": "Scalebay",
-      "article": "NAME::1/43 Москвич-2142R5 Князь Владимир- Милиция- Авто Легенды СССР -Специальный выпуск №11",
-      "unomag_id": 323178
-    },
-    {
-      "supplier": "Scalebay",
-      "article": "NAME::1/43 Москвич-403 Монте-Карло- Ралли- Авто Легенды СССР -Специальный выпуск №9",
-      "unomag_id": 316174
-    },
-    {
-      "supplier": "Scalebay",
-      "article": "NAME::1/43 Москвич-412 Лондон-Сидней- Ралли- Авто Легенды СССР -Специальный выпуск №8",
-      "unomag_id": 309676
-    },
-    {
-      "supplier": "Scalebay",
-      "article": "NAME::1/43 НАМИ-050 Белка. Автолегенды СССР- DeA",
-      "unomag_id": 153683
-    },
-    {
-      "supplier": "Scalebay",
-      "article": "NAME::1/43 РАФ-2203 Олимпиада 80 АНС",
-      "unomag_id": 150393
-    },
-    {
-      "supplier": "Scalebay",
-      "article": "NAME::1/43 РАФ-977ДМ- Такси- Авто Легенды СССР -Специальный выпуск №2",
-      "unomag_id": 264310
-    },
-    {
-      "supplier": "Scalebay",
-      "article": "NAME::1/43 УАЗ ПИКАП Автолегенды Новая Эпоха DeA №3",
-      "unomag_id": 333164
-    },
-    {
-      "supplier": "Scalebay",
-      "article": "NAME::1/43 УАЗ УРАН-452 Руководитель полётов-- Авто Легенды СССР -УАЗ на службе №4 DEA",
-      "unomag_id": 357315
-    },
-    {
-      "supplier": "Scalebay",
-      "article": "NAME::1/43 УАЗ-452В Милиция- Авто Легенды СССР -Специальный выпуск №6",
-      "unomag_id": 281170
-    },
-    {
-      "supplier": "Scalebay",
-      "article": "NAME::1/43 УАЗ-469Б-Эльбрус- Авто Легенды СССР -УАЗ на Службе №2",
-      "unomag_id": 346306
-    },
-    {
-      "supplier": "Scalebay",
-      "article": "NAME::1:72 Saurer L4C 1959 (жёлтый/серебристый) DeAgostini  Б.11371",
-      "unomag_id": 179182
-    },
-    {
-      "supplier": "Scalebay",
-      "article": "NAME::ARO 10",
-      "unomag_id": 182736
-    },
-    {
-      "supplier": "Scalebay",
-      "article": "NAME::ARO 10 Автолегенды СССР №175",
-      "unomag_id": 182736
-    },
-    {
-      "supplier": "Scalebay",
-      "article": "NAME::ARO 240. Автолегенды СССР. DeAgostini 1/43",
-      "unomag_id": 179744
-    },
-    {
-      "supplier": "Scalebay",
-      "article": "NAME::ARO 242 Автолегенды СССР №177",
-      "unomag_id": 183228
-    },
-    {
-      "supplier": "Scalebay",
-      "article": "NAME::ARO 243. Автолегенды СССР. DeAgostini 1/43",
-      "unomag_id": 179260
-    },
-    {
-      "supplier": "Scalebay",
-      "article": "NAME::ARO 243Автолегенды СССР №161",
-      "unomag_id": 179260
-    },
-    {
-      "supplier": "Scalebay",
-      "article": "NAME::Aston Martin DB4 Coupe Deagostini",
-      "unomag_id": 1538
+      "article": "0230MP",
+      "unomag_id": 472728
     }
   ],
   "ignored_articles": [
@@ -6882,6 +6927,10 @@
     {
       "unomag_name": "DeAgostini",
       "variation": "Полицейские машины мира, Deagostini"
+    },
+    {
+      "unomag_name": "ModelPro",
+      "variation": "ModelPro"
     }
   ],
   "suppliers": [
