@@ -7074,6 +7074,31 @@
       "supplier": "Scalebay",
       "article": "SSM1597",
       "unomag_id": 588723
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "SSM1495",
+      "unomag_id": 395747
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::татра т 148 экскаватор SSM",
+      "unomag_id": 279910
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::правительственный лимузин Скорая помощь ЗИЛ 41042 1978 СССР с интерьером SSM 1:43 SSMR001",
+      "unomag_id": 150425
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::полуприцеп Маз 5215 Серый СССР SSM 1:43 SSM7004 Выпуск прекращен",
+      "unomag_id": 175412
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::полуприцеп Маз 5215 Оранжевый СССР SSM 1:43 SSM7010",
+      "unomag_id": 177911
     }
   ],
   "ignored_articles": [
@@ -7792,6 +7817,18 @@
     {
       "supplier": "Scalebay",
       "article": "NAME::Зил 130В1 (1018)"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "SSM-Fruehauf STA"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "SSM-Lamberet STA"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::полуприцеп ОдАЗ-935 ( SSM  )"
     }
   ],
   "manufacturer_map": [
