@@ -8069,6 +8069,26 @@
       "supplier": "Scalebay",
       "article": "NAME::Ассенизаторская машина (АСМ) на базе ЗИС-5  НАП",
       "unomag_id": 235112
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::ЗИС-32 (НАТИ) бортовой с тентом, зеленый  НАП",
+      "unomag_id": 235113
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::СПб ЗИС 110 ( НАП )",
+      "unomag_id": 366
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::ПЕРВЫЙ Советский лимузин Ленинград Л 1 Зеленый 1932 СССР НАП Наш Автопром 1:43",
+      "unomag_id": 5672
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::ПЕРВЫЙ Советский лимузин Ленинград Л 1 Черный 1932 СССР НАП Наш Автопром 1:43",
+      "unomag_id": 5671
     }
   ],
   "ignored_articles": [
@@ -8843,6 +8863,22 @@
     {
       "supplier": "Scalebay",
       "article": "NAME::ВАЗ 2101"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::СПб ЗАЗ 965 ( НАП ) брак"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Москвич 412 АЗЛК Постномерная сделано в СССР Агат Тантал Радон Саратов 1:43"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Москвич 408 АЗЛК Постномерная сделано в СССР Агат Тантал Радон Саратов 1:43"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Мазы ( 5 моделей ) . НАП . Новое"
     }
   ],
   "manufacturer_map": [
