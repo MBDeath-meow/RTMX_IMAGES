@@ -6767,16 +6767,6 @@
     },
     {
       "supplier": "Scalebay",
-      "article": "SSM1644",
-      "unomag_id": 676639
-    },
-    {
-      "supplier": "Scalebay",
-      "article": "SSM1643",
-      "unomag_id": 695472
-    },
-    {
-      "supplier": "Scalebay",
       "article": "NAME::Автокран КС-3577 (на шасси МАЗ-5337)",
       "unomag_id": 695472
     },
@@ -7029,6 +7019,61 @@
       "supplier": "Scalebay",
       "article": "NAME::Зил 131 АЦ-4,0 (131) цистерна хаки/оранжевый SSM 1:43 SSM1056",
       "unomag_id": 176051
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Зил 131 КУНГ (1101)",
+      "unomag_id": 176458
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Зил 131 Шасси 6х6 СССР SSM 1:43 SSM9005",
+      "unomag_id": 173828
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Зил 131 бортовой 6х6 Автоэкспорт СССР SSM 1:43 SSM1041",
+      "unomag_id": 153283
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "SSM1582",
+      "unomag_id": 518059
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "SSM1644",
+      "unomag_id": 676639
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "SSM1643",
+      "unomag_id": 695472
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "SSM8001",
+      "unomag_id": 178287
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "SSM8002",
+      "unomag_id": 178288
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "SSM1614",
+      "unomag_id": 637001
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "SSML015",
+      "unomag_id": 223983
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "SSM1597",
+      "unomag_id": 588723
     }
   ],
   "ignored_articles": [
