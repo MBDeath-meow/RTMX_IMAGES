@@ -6314,6 +6314,16 @@
       "supplier": "Scalebay",
       "article": "0218MP",
       "unomag_id": 468356
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Praga S5T-3 бортовой КАЧЕСТВО = ЦЕНА (ВЫБОРКА)",
+      "unomag_id": 317048
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Praga V3S ASC-16/3.5 пожарный грузовик.SSM.",
+      "unomag_id": 636030
     }
   ],
   "ignored_articles": [
@@ -6964,6 +6974,26 @@
     {
       "supplier": "Scalebay",
       "article": "NAME::1:8 двигатель ЗИС-110 DeAgostini  Б.11523"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::SSM БЕЗ БОКСА КамАЗ 6520 белый, дорестайлинг"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::SSM Горький 233001 пикап БЕЗ БОКСА"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::SSM УРАЛ-377с"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::SSM в боксе ЗиЛ-ММЗ-4505, синий/серый"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::SSM полуприцеп Fruehauf Savoyarde СОВТРАНСАВТО"
     }
   ],
   "manufacturer_map": [
