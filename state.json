@@ -7654,6 +7654,21 @@
       "supplier": "Scalebay",
       "article": "NAME::BMW 2000 CS, Maxichamps 1/43",
       "unomag_id": 358499
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::BMW M1  1979, Minichamps",
+      "unomag_id": 194149
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::BMW M3 (E30) 1987",
+      "unomag_id": 316788
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Bugatti EB 110  1994 , Minichamps",
+      "unomag_id": 300823
     }
   ],
   "ignored_articles": [
