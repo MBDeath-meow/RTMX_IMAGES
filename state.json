@@ -6919,6 +6919,36 @@
       "supplier": "Scalebay",
       "article": "SSM1003",
       "unomag_id": 150038
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::ЗИЛ-ММЗ-585Л самосвал",
+      "unomag_id": 280346
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::ЗИС 151 (1015)",
+      "unomag_id": 153285
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::ЗИУ 10 (4006)",
+      "unomag_id": 173061
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::ЗИУ 10 (4011)",
+      "unomag_id": 159744
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::ЗиЛ 131 АЦ-40 (131)-137 Freiwilige Feuerwehr Treuen SSM 1:43 SSM1083",
+      "unomag_id": 172883
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::ЗиЛ-133ГЯ АЦ-40-181А ПОЛТАВА",
+      "unomag_id": 179465
     }
   ],
   "ignored_articles": [
