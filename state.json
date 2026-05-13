@@ -6854,6 +6854,46 @@
       "supplier": "Scalebay",
       "article": "NAME::Д 470 (157Е) (1106)",
       "unomag_id": 176074
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Д 470 (157Е) (1107)",
+      "unomag_id": 176075
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Д-470(157Е) (SSM)",
+      "unomag_id": 176074
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "8001",
+      "unomag_id": 178287
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::ЗИЛ 130 (1002)",
+      "unomag_id": 7575
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::ЗИЛ 130 Кран ак-75В Зеленый 1980 СССР SSM 1:43 SSM1099",
+      "unomag_id": 174120
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::ЗИЛ 130 Кран ак-75В Хаки СССР SSM 1:43 SSM1100",
+      "unomag_id": 172881
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::ЗИЛ 157 (9999)",
+      "unomag_id": 176806
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::ЗИЛ 157 Пожарный ПМЗ 27 ДПД белые полосы СССР SSM 1:43 SSM1067",
+      "unomag_id": 177908
     }
   ],
   "ignored_articles": [
@@ -7548,6 +7588,10 @@
     {
       "supplier": "Scalebay",
       "article": "NAME::ГЗТМ-893А(52) Мострансагенство. SSM."
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Дилер. БелАЗ-7547"
     }
   ],
   "manufacturer_map": [
