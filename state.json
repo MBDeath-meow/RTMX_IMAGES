@@ -6524,6 +6524,46 @@
       "supplier": "Scalebay",
       "article": "NAME::SSM. Тяжелый артиллерийский тягач АТ-Т, парадный",
       "unomag_id": 205678
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::SSM. УАЗ-3962 Скорая помощь",
+      "unomag_id": 242621
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::SSM. УАЗ-469 (31512) (бежевый)",
+      "unomag_id": 261185
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::SSM. УРАЛ-44202-0311-31 седельный тягач",
+      "unomag_id": 363337
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::SSM. ЧТЗ-100 (хаки)",
+      "unomag_id": 204493
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::SSM. каток ДУ-54",
+      "unomag_id": 197251
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Skoda 100 c п.пр Alka N13CH кр.бел",
+      "unomag_id": 205502
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Skoda 706 MTTN с полуприцепом Alka N12CH Schlossberg Sekt",
+      "unomag_id": 291330
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "SSM7058",
+      "unomag_id": 291330
     }
   ],
   "ignored_articles": [
