@@ -6594,6 +6594,41 @@
       "supplier": "Scalebay",
       "article": "NAME::Tatra-815S1",
       "unomag_id": 469263
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Volvo F12 с полуприцепом Lamberet SSM",
+      "unomag_id": 693380
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Volvo F89 с полуприцепом KlegeFrance КАЧЕСТВО = ЦЕНА (ВЫБОРКА)",
+      "unomag_id": 505116
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::АГВТ - 100 (157К) (1063)",
+      "unomag_id": 178863
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::АГВТ - 100 (157К) (1072)",
+      "unomag_id": 178862
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::АГВТ 100 (131) (1114)",
+      "unomag_id": 179481
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::АК 75 (164) голубой_жёлтый",
+      "unomag_id": 180403
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::АК 75 (164) хаки",
+      "unomag_id": 180401
     }
   ],
   "ignored_articles": [
