@@ -7624,6 +7624,26 @@
       "supplier": "Scalebay",
       "article": "NAME::Audi A3 Cabriolet 1:43, Maxichamps",
       "unomag_id": 316786
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Audi A4 (B7) 2004",
+      "unomag_id": 318140
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Audi A4 Saloon 2004,Minichamps",
+      "unomag_id": 318140
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Audi RS6 Avant 2002",
+      "unomag_id": 585986
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Audi TT 1998",
+      "unomag_id": 222511
     }
   ],
   "ignored_articles": [
