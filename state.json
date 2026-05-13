@@ -6574,6 +6574,26 @@
       "supplier": "Scalebay",
       "article": "NAME::Studebaker US6 БМ-13 «Катюша»   SSM",
       "unomag_id": 262785
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Tatra 815 кр.жёлт",
+      "unomag_id": 194034
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Tatra 815 кр.син",
+      "unomag_id": 203946
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Tatra-111R CAS-12 пожарная цистерна",
+      "unomag_id": 213828
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Tatra-815S1",
+      "unomag_id": 469263
     }
   ],
   "ignored_articles": [
