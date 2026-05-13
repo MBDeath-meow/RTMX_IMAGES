@@ -6749,6 +6749,41 @@
       "supplier": "Scalebay",
       "article": "NAME::Автокран АК-75(Зил-130) зеленый.SSM.",
       "unomag_id": 172881
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Автокран К-51 (МАЗ-200)   (SSM)",
+      "unomag_id": 181755
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Автокран К-67 (500). SSM.",
+      "unomag_id": 654955
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Автокран КС-3574 (4320-31) ’Ивановец’.SSM.",
+      "unomag_id": 298351
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "SSM1644",
+      "unomag_id": 676639
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "SSM1643",
+      "unomag_id": 695472
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Автокран КС-3577 (на шасси МАЗ-5337)",
+      "unomag_id": 695472
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Автокран КС-4561 (257)",
+      "unomag_id": 301593
     }
   ],
   "ignored_articles": [
