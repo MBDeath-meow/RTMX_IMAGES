@@ -6664,6 +6664,56 @@
       "supplier": "Scalebay",
       "article": "NAME::АС 38 (4013)",
       "unomag_id": 176768
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::АТ-Т хаки",
+      "unomag_id": 179187
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::АЦ 30 (205)",
+      "unomag_id": 180885
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::АЦ 30 (205) красн",
+      "unomag_id": 179466
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::АЦ 4.0 131 (1056)",
+      "unomag_id": 176051
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::АЦ 4.0 131 (1060)",
+      "unomag_id": 176052
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::АЦ 4.0 131 МЧС (1074)",
+      "unomag_id": 176054
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::АЦ 4.0 131 пожарный (1059)",
+      "unomag_id": 176053
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::АЦ 40 (130) (Шарья)",
+      "unomag_id": 158092
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::АЦ 40 (130) красный (Москва)",
+      "unomag_id": 198002
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::АЦ-30(66) ПЧ №33 г. Кашин",
+      "unomag_id": 323869
     }
   ],
   "ignored_articles": [
