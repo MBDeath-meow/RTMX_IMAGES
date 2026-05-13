@@ -7154,6 +7154,46 @@
       "supplier": "Scalebay",
       "article": "NAME::камаз 5320 кр.гол",
       "unomag_id": 204678
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::зил 130 лумз",
+      "unomag_id": 153927
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::зил 157 кунг",
+      "unomag_id": 152965
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::зил 157 тент",
+      "unomag_id": 153603
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::зил ММЗ 4502 сер.гол.",
+      "unomag_id": 179806
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::зил ММЗ 4502 хаки",
+      "unomag_id": 179805
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::камаз 43118 синий",
+      "unomag_id": 186057
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::камаз 65117",
+      "unomag_id": 191460
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::камаз 6522",
+      "unomag_id": 196679
     }
   ],
   "ignored_articles": [
@@ -7888,6 +7928,14 @@
     {
       "supplier": "Scalebay",
       "article": "NAME::полуприцеп Алка 12"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::камаз 54112 с п.пр. АСП сер.жёлт (!!!АРХИВ!!!)"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::камаз 6522 бел.син (!!!АРХИВ!!!)"
     }
   ],
   "manufacturer_map": [
