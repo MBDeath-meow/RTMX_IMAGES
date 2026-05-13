@@ -7644,6 +7644,16 @@
       "supplier": "Scalebay",
       "article": "NAME::Audi TT 1998",
       "unomag_id": 222511
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Autobianchi A112 Abarth 1974",
+      "unomag_id": 484273
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::BMW 2000 CS, Maxichamps 1/43",
+      "unomag_id": 358499
     }
   ],
   "ignored_articles": [
@@ -8398,6 +8408,10 @@
     {
       "supplier": "Scalebay",
       "article": "NAME::1:43 Audi Q3,Spark(Minimax)"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::BENTLEY AZURE - 1996 - BLACK"
     }
   ],
   "manufacturer_map": [
