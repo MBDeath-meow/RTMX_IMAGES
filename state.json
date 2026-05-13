@@ -6714,6 +6714,26 @@
       "supplier": "Scalebay",
       "article": "NAME::АЦ-30(66) ПЧ №33 г. Кашин",
       "unomag_id": 323869
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::АЦ-40 (130) 63Б Аварийная служба, 026 из 450",
+      "unomag_id": 174309
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::АЦ-7,5-40 (4320) СЧ Иваново",
+      "unomag_id": 191972
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::АЦ40 (130) (1144)",
+      "unomag_id": 178685
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::АЦ40 (133ГЯ) красная _Полтава_",
+      "unomag_id": 179465
     }
   ],
   "ignored_articles": [
