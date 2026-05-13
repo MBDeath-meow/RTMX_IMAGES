@@ -7739,6 +7739,26 @@
       "supplier": "Scalebay",
       "article": "NAME::Bugatti Type 57C Atalante 1939",
       "unomag_id": 159001
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Bugatti Type 57C Coupe 1939",
+      "unomag_id": 155502
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Bugatti Veyron Contennaire 2009",
+      "unomag_id": 155022
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Cadillac Le Mans Dream Car 1953",
+      "unomag_id": 180909
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Chevrolet Corvette 1963 (142820)",
+      "unomag_id": 4614
     }
   ],
   "ignored_articles": [
