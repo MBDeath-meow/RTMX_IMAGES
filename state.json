@@ -7919,6 +7919,36 @@
       "supplier": "Scalebay",
       "article": "103511",
       "unomag_id": 572218
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "103467",
+      "unomag_id": 636031
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "103252",
+      "unomag_id": 559032
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "102989",
+      "unomag_id": 356447
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "102927",
+      "unomag_id": 348786
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "102798",
+      "unomag_id": 327189
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "Н991",
+      "unomag_id": 218538
     }
   ],
   "ignored_articles": [
@@ -8763,6 +8793,10 @@
     {
       "unomag_name": "ПАО КАМАЗ",
       "variation": "Автоистория (АИСТ)"
+    },
+    {
+      "unomag_name": "Наш Автопром",
+      "variation": "Наш Автопром"
     }
   ],
   "suppliers": [
