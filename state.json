@@ -7004,6 +7004,11 @@
       "supplier": "Scalebay",
       "article": "NAME::Зил 130В с п.пр. Одаз 794 (7016)",
       "unomag_id": 182580
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Зил 130В1 с п.пр К4 АМГ син.жёлт",
+      "unomag_id": 196766
     }
   ],
   "ignored_articles": [
@@ -7718,6 +7723,10 @@
     {
       "supplier": "Scalebay",
       "article": "NAME::Зил 130 Цистерна Прочистка Канализация SSM / мастерская Москва Models 1:43"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Зил 130В1 (1018)"
     }
   ],
   "manufacturer_map": [
