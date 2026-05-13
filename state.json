@@ -6404,6 +6404,26 @@
       "supplier": "Scalebay",
       "article": "NAME::SSM. Артиллерийский гусеничный тягач АТС-59",
       "unomag_id": 367925
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::SSM. БелАЗ-75473",
+      "unomag_id": 321743
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::SSM. Бронетранспортёр ГТ-МУ, МЧС",
+      "unomag_id": 377537
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::SSM. ЗИЛ-ММЗ-45085 Аварийная служба",
+      "unomag_id": 263181
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::SSM. ЗИЛ-Э167",
+      "unomag_id": 258922
     }
   ],
   "ignored_articles": [
