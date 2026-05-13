@@ -6187,11 +6187,6 @@
     },
     {
       "supplier": "Scalebay",
-      "article": "0234MP",
-      "unomag_id": 491550
-    },
-    {
-      "supplier": "Scalebay",
       "article": "0192MP",
       "unomag_id": 378073
     },
@@ -6219,6 +6214,61 @@
       "supplier": "Scalebay",
       "article": "0230MP",
       "unomag_id": 472728
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Аэросани КА-30",
+      "unomag_id": 361438
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "0160MP",
+      "unomag_id": 332874
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "0195MP",
+      "unomag_id": 383850
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Икарус 222   ModelPro",
+      "unomag_id": 696912
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Икарус-222. ModelPro.",
+      "unomag_id": 696912
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "0247MP",
+      "unomag_id": 582410
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "0234MP",
+      "unomag_id": 491550
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "0237MP",
+      "unomag_id": 486149
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "0268MP",
+      "unomag_id": 588724
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "0261MP",
+      "unomag_id": 567922
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "0202MP",
+      "unomag_id": 394615
     }
   ],
   "ignored_articles": [
