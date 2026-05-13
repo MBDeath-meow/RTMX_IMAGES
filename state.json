@@ -7569,6 +7569,41 @@
       "supplier": "Scalebay",
       "article": "NAME::Форд Edsel (Ford Elite) Citation Convertible 1958 Spark 1:43 S2961",
       "unomag_id": 154776
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "940166001",
+      "unomag_id": 300846
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "940039004",
+      "unomag_id": 455550
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "940038130",
+      "unomag_id": 577531
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "940038121",
+      "unomag_id": 574218
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "940035122",
+      "unomag_id": 559956
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "940017100",
+      "unomag_id": 382253
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "940 034008",
+      "unomag_id": 507651
     }
   ],
   "ignored_articles": [
@@ -8389,6 +8424,14 @@
     {
       "unomag_name": "Spark",
       "variation": "Spark"
+    },
+    {
+      "unomag_name": "Maxichamps",
+      "variation": "Maxichamps"
+    },
+    {
+      "unomag_name": "Maxichamps",
+      "variation": "Minichamps"
     }
   ],
   "suppliers": [
