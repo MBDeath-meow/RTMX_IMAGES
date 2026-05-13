@@ -6489,6 +6489,41 @@
       "supplier": "Scalebay",
       "article": "NAME::SSM. Подметально-уборочная машина ПУ-53 (53)",
       "unomag_id": 410139
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::SSM. Полуприцеп-самосвал МАЗ-5232В",
+      "unomag_id": 331735
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::SSM. Т-246 (51)",
+      "unomag_id": 562443
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::SSM. Трактор Т-150 гусеничный (красный/белый)",
+      "unomag_id": 182203
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::SSM. Трактор Т-150К (серо-красный)",
+      "unomag_id": 192518
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::SSM. Трамвай МТВ-82",
+      "unomag_id": 334255
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::SSM. Трамвай РВЗ-6М2",
+      "unomag_id": 300106
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::SSM. Тяжелый артиллерийский тягач АТ-Т, парадный",
+      "unomag_id": 205678
     }
   ],
   "ignored_articles": [
