@@ -7794,6 +7794,11 @@
       "supplier": "Scalebay",
       "article": "NAME::Ford C Max Compact 2010 (9000)",
       "unomag_id": 159085
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Ford Capri II 1974 (81208)",
+      "unomag_id": 179984
     }
   ],
   "ignored_articles": [
