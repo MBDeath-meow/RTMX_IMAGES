@@ -7604,6 +7604,26 @@
       "supplier": "Scalebay",
       "article": "940 034008",
       "unomag_id": 507651
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "940 034007",
+      "unomag_id": 507652
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Audi 100 C3 Avant 1990",
+      "unomag_id": 572248
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Audi 100 black 1:43 Maxichamps",
+      "unomag_id": 298183
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Audi A3 Cabriolet 1:43, Maxichamps",
+      "unomag_id": 316786
     }
   ],
   "ignored_articles": [
