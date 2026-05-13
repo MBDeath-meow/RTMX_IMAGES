@@ -8059,6 +8059,16 @@
       "supplier": "Scalebay",
       "article": "#285",
       "unomag_id": 172873
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::ВАЗ 2101 БЕЛАЯ",
+      "unomag_id": 2644
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Ассенизаторская машина (АСМ) на базе ЗИС-5  НАП",
+      "unomag_id": 235112
     }
   ],
   "ignored_articles": [
@@ -8829,6 +8839,10 @@
     {
       "supplier": "Scalebay",
       "article": "NAME::GAZон Next. C42R31.НАП. Уценка!!!"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::ВАЗ 2101"
     }
   ],
   "manufacturer_map": [
