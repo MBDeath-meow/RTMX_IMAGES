@@ -7724,6 +7724,21 @@
       "supplier": "Scalebay",
       "article": "NAME::AUDI TYP A - 1910 - WHITEBLUE",
       "unomag_id": 193515
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Bugatti Type 54 Roadster 1931",
+      "unomag_id": 173574
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Bugatti Type 57C Aravis 1939",
+      "unomag_id": 174591
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Bugatti Type 57C Atalante 1939",
+      "unomag_id": 159001
     }
   ],
   "ignored_articles": [
