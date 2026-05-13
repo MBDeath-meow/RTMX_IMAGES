@@ -7799,6 +7799,26 @@
       "supplier": "Scalebay",
       "article": "NAME::Ford Capri II 1974 (81208)",
       "unomag_id": 179984
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::первый хэтчбек в истории - Рено Renault 16 1965 Черный Minichamps 1:43 400113105",
+      "unomag_id": 152358
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::лимузин Мерседес Бенц Mercedes Benz 300 B 1955 W186 Minichamps 1:43 410039000",
+      "unomag_id": 156280
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Ягуар Jaguar MK II 1959 Police Minichamps 1:43 430130690",
+      "unomag_id": 214312
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Мерседес Бенц Mercedes Benz W124 300 CE - 124 Cabriolet 1990 Minichamps 1:43 400037030",
+      "unomag_id": 4947
     }
   ],
   "ignored_articles": [
@@ -8557,6 +8577,10 @@
     {
       "supplier": "Scalebay",
       "article": "NAME::BENTLEY AZURE - 1996 - BLACK"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::лимузин Майбах Maybach Zeppelin Cabrio 1932 Minichamps 1:43 Limited Edition БЕСПЛАТНАЯ доставка"
     }
   ],
   "manufacturer_map": [
