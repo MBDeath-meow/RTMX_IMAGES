@@ -7759,6 +7759,21 @@
       "supplier": "Scalebay",
       "article": "NAME::Chevrolet Corvette 1963 (142820)",
       "unomag_id": 4614
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Citroen CX Break 1980 (111412)",
+      "unomag_id": 155024
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Citroen CX Break 1980 Hearse (111495)",
+      "unomag_id": 155025
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Dodge Monaco Minichamps 1/43",
+      "unomag_id": 5648
     }
   ],
   "ignored_articles": [
