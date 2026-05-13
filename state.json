@@ -6894,6 +6894,31 @@
       "supplier": "Scalebay",
       "article": "NAME::ЗИЛ 157 Пожарный ПМЗ 27 ДПД белые полосы СССР SSM 1:43 SSM1067",
       "unomag_id": 177908
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::ЗИЛ 157 Пожарный ПМЗ 27 ДПД им Дзержинского SSM 1 43",
+      "unomag_id": 177908
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::ЗИЛ 157 бортовой, хаки",
+      "unomag_id": 6379
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "1002",
+      "unomag_id": 7575
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::ЗИЛ-130-76 бортовой",
+      "unomag_id": 150038
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "SSM1003",
+      "unomag_id": 150038
     }
   ],
   "ignored_articles": [
@@ -7592,6 +7617,14 @@
     {
       "supplier": "Scalebay",
       "article": "NAME::Дилер. БелАЗ-7547"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::ЗИЛ-ММЗ-4505"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "1259-1"
     }
   ],
   "manufacturer_map": [
