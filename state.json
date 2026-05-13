@@ -7474,6 +7474,26 @@
       "supplier": "Scalebay",
       "article": "NAME::Audi RS Q e-tron #211  Rally Dakar 2023",
       "unomag_id": 486283
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::1/43 F1 March 761 Peterson 1976",
+      "unomag_id": 358944
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Audi Quattro 1/43 Spark quattro S1 No.1 Pikes Peak 1985 M.Mouton",
+      "unomag_id": 239367
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Cadillac Type 61 Coupe 1950 Spark",
+      "unomag_id": 181492
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Hammer H3T 2008 or.",
+      "unomag_id": 258182
     }
   ],
   "ignored_articles": [
@@ -8224,6 +8244,10 @@
     {
       "supplier": "Scalebay",
       "article": "NAME::Хаммер Hummer H3 2006 4x4 4WD Spark 1:43 S0874"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::1:43 Audi Q3,Spark(Minimax)"
     }
   ],
   "manufacturer_map": [
