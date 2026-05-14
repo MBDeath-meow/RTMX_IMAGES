@@ -8604,6 +8604,36 @@
       "supplier": "Scalebay",
       "article": "NAME::Volvo F12",
       "unomag_id": 180993
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "B66960435",
+      "unomag_id": 213650
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "B66960286",
+      "unomag_id": 187096
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "B66040630",
+      "unomag_id": 191090
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "420165",
+      "unomag_id": 291035
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "420164",
+      "unomag_id": 291034
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "188537",
+      "unomag_id": 652284
     }
   ],
   "ignored_articles": [
@@ -9528,6 +9558,10 @@
     {
       "unomag_name": "NEO",
       "variation": "Neo Scale Models"
+    },
+    {
+      "unomag_name": "Norev",
+      "variation": "Norev"
     }
   ],
   "suppliers": [
