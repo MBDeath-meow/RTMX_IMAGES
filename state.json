@@ -8659,6 +8659,26 @@
       "supplier": "Scalebay",
       "article": "NAME::1/43 Т-30А-ТРАКТОРЫ №82 HACHETTE",
       "unomag_id": 215399
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::трактор №9 СХТЗ НАТИ СССР Hachette Тракторы: история, люди, машины 1:43",
+      "unomag_id": 179393
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::трактор Фордзон Путиловец Fordson 1924 СССР IXO Hachette серия Тракторы 1:43",
+      "unomag_id": 179049
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::трактор Т 16 1962 СССР серия ’Тракторы’ IXO Hachette 1:43",
+      "unomag_id": 168846
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::трактор Сталинец 65 1937 СССР IXO Hachette серия Тракторы 1:43",
+      "unomag_id": 178562
     }
   ],
   "ignored_articles": [
@@ -9485,6 +9505,10 @@
     {
       "supplier": "Scalebay",
       "article": "NAME::Бокс Коробка Мерседес Mercedes Benz G55 XXL W463 Ежик серия ГОН Dip models 1:43 БЕСПЛАТНАЯ доставка"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::трактор МТЗ 50 Беларусь 1962 СССР серия ’Тракторы’ IXO Hachette 1:43"
     }
   ],
   "manufacturer_map": [
