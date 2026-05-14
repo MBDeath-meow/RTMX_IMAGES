@@ -8584,6 +8584,26 @@
       "supplier": "Scalebay",
       "article": "NAME::Мерседес Бенц Mercedes Benz NG73 1973 Neo 1:43 NEO44490",
       "unomag_id": 3634
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::S_S Landau Hearse",
+      "unomag_id": 4765
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Suzuki LJ80",
+      "unomag_id": 159503
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Volvo 242 DL",
+      "unomag_id": 173553
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Volvo F12",
+      "unomag_id": 180993
     }
   ],
   "ignored_articles": [
