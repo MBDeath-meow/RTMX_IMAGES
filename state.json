@@ -8199,6 +8199,21 @@
       "supplier": "Scalebay",
       "article": "NAME::лимузин Зил 114 Генерального Секретаря ЦК КПСС СССР Брежнев серия ГОН Dip 1:43 GON114",
       "unomag_id": 173809
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::автобус Зис 127 маршрут Ставрополь Пятигорск СССР Dip Models 1:43 112704",
+      "unomag_id": 158650
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Уаз Патриот Patriot 4х4 Милиция ДПС 2010 Dip 1:43 231632",
+      "unomag_id": 7816
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Уаз Uaz Cargo Patriot Пикап (Белая кабина) Ранний 4х4 Дип Dip 1:43 231637",
+      "unomag_id": 151527
     }
   ],
   "ignored_articles": [
@@ -9005,6 +9020,14 @@
     {
       "supplier": "Scalebay",
       "article": "NAME::сертификат Паз 652 Аэропорт Киев Жуляны СССР Лимит Dip 1:43 165201"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::ким-10-51 1-43 dip models 190511 сертификат есть"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Уаз 3163 Patriot Патриот 4x4 Черный Dip 1:43 231631"
     }
   ],
   "manufacturer_map": [
