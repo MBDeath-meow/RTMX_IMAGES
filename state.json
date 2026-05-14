@@ -8744,6 +8744,26 @@
       "supplier": "Scalebay",
       "article": "NAME::Hachette. Москвич 400-422 Буратино №67",
       "unomag_id": 301120
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "G1470003",
+      "unomag_id": 632707
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "G1470010",
+      "unomag_id": 632714
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "G1470012",
+      "unomag_id": 632715
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Freightliner Cascadia Truck 2018",
+      "unomag_id": 632711
     }
   ],
   "ignored_articles": [
