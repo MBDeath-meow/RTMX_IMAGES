@@ -8439,6 +8439,26 @@
       "supplier": "Scalebay",
       "article": "NEO44050",
       "unomag_id": 3398
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Опель Opel Commodore C 4 1978 Neo 1:43 NEO43691",
+      "unomag_id": 3915
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Опель Opel Kapitan P1 2.5L Limousine Red/Grey 1958 Neo 1:43 NEO43942",
+      "unomag_id": 190215
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Понтиак Pontiac Star Chief Convertible 1956 Neo 1:43 NEO44060",
+      "unomag_id": 3399
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Фольксваген VW Volkswagen Golf 1 GTI 1981 Черный Neo 1:43 NEO45555",
+      "unomag_id": 174247
     }
   ],
   "ignored_articles": [
