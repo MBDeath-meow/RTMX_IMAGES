@@ -8174,6 +8174,31 @@
       "supplier": "Scalebay",
       "article": "NAME::правительственный лимузин Зил 4102 1988 СССР L.e. 252 pcs. Dip 1:43 241021",
       "unomag_id": 180126
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::лимузин Мерседес Бенц Mercedes Benz W221 Pullman президент Медведев серия ГОН Dip 1:43",
+      "unomag_id": 154152
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::лимузин Мерседес Бенц Mercedes Benz S600 Pullman Guard W220 президент Путин ГОН Dip 1:43 GON220",
+      "unomag_id": 153050
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::лимузин Мерседес Бенц Mercedes Benz S500 Pullman Guard (W140) (Первый президент России Борис Ельцин) 1997 Dip 1:43 GON140",
+      "unomag_id": 154151
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::лимузин Зил 4104 ГОН Ген.Сек. ЦК КПСС Андропов серия ГОН СССР Dip 1:43 GON040",
+      "unomag_id": 168749
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::лимузин Зил 114 Генерального Секретаря ЦК КПСС СССР Брежнев серия ГОН Dip 1:43 GON114",
+      "unomag_id": 173809
     }
   ],
   "ignored_articles": [
