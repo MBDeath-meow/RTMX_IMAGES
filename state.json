@@ -8369,6 +8369,21 @@
       "supplier": "Scalebay",
       "article": "NAME::Dip Models. АМ-3 1970 г. Специальная Медицинская Служба г. Ленинград",
       "unomag_id": 316678
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::«АМ – 3» 1965 г. (автомобиль милицейский, третья модель) DIP Models",
+      "unomag_id": 316929
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::АМ-3  1965 г. (милицейский автомобиль, третья модель)",
+      "unomag_id": 316929
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::ЗИЛ-130 Автоэкспорт",
+      "unomag_id": 316194
     }
   ],
   "ignored_articles": [
