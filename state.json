@@ -8459,6 +8459,16 @@
       "supplier": "Scalebay",
       "article": "NAME::Фольксваген VW Volkswagen Golf 1 GTI 1981 Черный Neo 1:43 NEO45555",
       "unomag_id": 174247
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Шевроле Chevrolet Corvette XP-700 1959 Neo 1:43 NEO46515",
+      "unomag_id": 189790
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::лимузин Мерседес Бенц Mercedes Benz W124 E250 Diesel V124 Lang 1994 Neo 1:43 NEO44305",
+      "unomag_id": 3625
     }
   ],
   "ignored_articles": [
