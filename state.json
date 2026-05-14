@@ -8419,6 +8419,26 @@
       "supplier": "Scalebay",
       "article": "NAME::КАвЗ ’тип 651А’, «Штабной» г. Калуга – 1970е г. DIP models",
       "unomag_id": 501523
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Зис 151 ’Техпомощь’, Тираж 720 экз. (красно-желтый) 1957 СССР Dip 1:43 115102",
+      "unomag_id": 156500
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Зис 151 121 Б (защитный) 6x6 СССР Dip 1:43 115103 Выпуск прекращен",
+      "unomag_id": 157113
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NEO44240",
+      "unomag_id": 4960
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NEO44050",
+      "unomag_id": 3398
     }
   ],
   "ignored_articles": [
@@ -9335,6 +9355,14 @@
     {
       "unomag_name": "DiP Models",
       "variation": "DiP Models"
+    },
+    {
+      "unomag_name": "NEO",
+      "variation": "NEO"
+    },
+    {
+      "unomag_name": "NEO",
+      "variation": "Neo Scale Models"
     }
   ],
   "suppliers": [
