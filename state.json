@@ -8234,6 +8234,26 @@
       "supplier": "Scalebay",
       "article": "NAME::Москвич 400 401 422 Универсал Буратино 1954 СССР Дип Dip 1:43 140101",
       "unomag_id": 154147
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Мерседес Бенц Mercedes Benz Гелендваген G55 XXL W463 Скорая помощь Dip серия ГОН 1:43 246303",
+      "unomag_id": 175433
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Мерседес Бенц Mercedes Benz Гелендваген G55 XXL W463 4x4 2013 Машина сопровождения Dip серия ГОН 1:43 GON463 БЕСПЛАТНАЯ доставка",
+      "unomag_id": 154933
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Ким 10 51 Кабриолет СССР 1941 Dip 1:43 190511",
+      "unomag_id": 7856
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Ким 10 50 Красный СССР 1941 Dip 1:43 190501",
+      "unomag_id": 154145
     }
   ],
   "ignored_articles": [
@@ -9048,6 +9068,14 @@
     {
       "supplier": "Scalebay",
       "article": "NAME::Уаз 3163 Patriot Патриот 4x4 Черный Dip 1:43 231631"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Ким 10-50 (серый) СССР 1941 Dip 1:43 190502"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Каталог Лимузины Серия 90 лет ГОН Гараж Собого Назначения Лимитированный тираж"
     }
   ],
   "manufacturer_map": [
