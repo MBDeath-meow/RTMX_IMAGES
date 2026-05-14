@@ -8089,6 +8089,26 @@
       "supplier": "Scalebay",
       "article": "NAME::ПЕРВЫЙ Советский лимузин Ленинград Л 1 Черный 1932 СССР НАП Наш Автопром 1:43",
       "unomag_id": 5671
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Маз-504В с полуприцепом маз-5205(А)",
+      "unomag_id": 183904
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Краз 260 6х6 с Тентом Бежевый 1989 СССР НАП Наш Автопром 1:43",
+      "unomag_id": 178051
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Краз 6510 1985 Самосвал СССР НАП Наш Автопром 1:43 H775",
+      "unomag_id": 181803
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Краз-255Б борт/тент. НАП.",
+      "unomag_id": 176937
     }
   ],
   "ignored_articles": [
