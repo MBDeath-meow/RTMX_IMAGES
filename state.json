@@ -8649,6 +8649,11 @@
       "supplier": "Scalebay",
       "article": "183566",
       "unomag_id": 193910
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "86570",
+      "unomag_id": 429957
     }
   ],
   "ignored_articles": [
@@ -9581,6 +9586,10 @@
     {
       "unomag_name": "Greenlight",
       "variation": "Greenlight"
+    },
+    {
+      "unomag_name": "Greenlight",
+      "variation": "Greenlight Collectibles"
     }
   ],
   "suppliers": [
