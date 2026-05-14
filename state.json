@@ -8109,6 +8109,16 @@
       "supplier": "Scalebay",
       "article": "NAME::Краз-255Б борт/тент. НАП.",
       "unomag_id": 176937
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::КрАЗ-260 БРО-200. НАП.",
+      "unomag_id": 205900
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::КрАЗ-260 экскаватор ЭО-4421А (зелёный/бежевый) Наш Автопром  М.1283",
+      "unomag_id": 205904
     }
   ],
   "ignored_articles": [
@@ -8899,6 +8909,10 @@
     {
       "supplier": "Scalebay",
       "article": "NAME::Мазы ( 5 моделей ) . НАП . Новое"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Краз-260 эо-4422 1/43 экскаватор"
     }
   ],
   "manufacturer_map": [
