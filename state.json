@@ -8634,6 +8634,21 @@
       "supplier": "Scalebay",
       "article": "188537",
       "unomag_id": 652284
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "183945",
+      "unomag_id": 480197
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "183575",
+      "unomag_id": 173686
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "183566",
+      "unomag_id": 193910
     }
   ],
   "ignored_articles": [
@@ -9562,6 +9577,10 @@
     {
       "unomag_name": "Norev",
       "variation": "Norev"
+    },
+    {
+      "unomag_name": "Greenlight",
+      "variation": "Greenlight"
     }
   ],
   "suppliers": [
