@@ -8729,6 +8729,21 @@
       "supplier": "Scalebay",
       "article": "NAME::Трактор Т 54 1968 СССР серия ’Тракторы’ IXO Hachette 1:43",
       "unomag_id": 181089
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Горький-24 «Волга» в масштабе 1:24. Новая.",
+      "unomag_id": 220787
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Hachette. Москвич-407 Такси №68",
+      "unomag_id": 301121
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Hachette. Москвич 400-422 Буратино №67",
+      "unomag_id": 301120
     }
   ],
   "ignored_articles": [
@@ -9651,6 +9666,26 @@
     {
       "supplier": "Scalebay",
       "article": "NAME::Корабль Линкор Бисмарк № 8 Hachette 1:200 Длина 125 см"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Трактор ХТЗ 7 1950 СССР серия ’Тракторы’ IXO Hachette 1:43"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::ЗАЗ 1122 Таврия Hachette 1/24"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::К 700 доработанный . ( Hachette ) . Новое ."
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Горький 69 МИЛИЦИЯ."
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Hachette. DACIA 1300 №84"
     }
   ],
   "manufacturer_map": [
