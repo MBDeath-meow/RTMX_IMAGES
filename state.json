@@ -8469,6 +8469,36 @@
       "supplier": "Scalebay",
       "article": "NAME::лимузин Мерседес Бенц Mercedes Benz W124 E250 Diesel V124 Lang 1994 Neo 1:43 NEO44305",
       "unomag_id": 3625
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Форд Ford Thunderbird Landau Turqoise Metallic 1969 Neo 1:43 NEO44715 БЕСПЛАТНАЯ доставка",
+      "unomag_id": 150196
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Тойота Toyota Land Cruiser 70 4х4 1988 Neo 1:43 БЕСПЛАТНАЯ доставка",
+      "unomag_id": 4959
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Опель Opel Commodore B 4-door 1973 Neo 1:43 NEO43686 БЕСПЛАТНАЯ доставка",
+      "unomag_id": 190197
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Мерседес Бенц Mercedes Benz W123 V123 Lang Лимузин Черный 1978 Neo 1:43 NEO44245",
+      "unomag_id": 3622
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Крайслер Chrysler Dual Ghia L6.4 Черный NEO 1:43 NEO45415",
+      "unomag_id": 153250
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::БМВ BMW 525i E39 Милиция ДПС г. Москва 2002 Neo 1:43 NEO44443",
+      "unomag_id": 222667
     }
   ],
   "ignored_articles": [
