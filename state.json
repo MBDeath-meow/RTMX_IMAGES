@@ -8309,6 +8309,41 @@
       "supplier": "Scalebay",
       "article": "NAME::ЗИЛ-112С, Шасси №2, 1967 г.",
       "unomag_id": 159490
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Горьковский-52-03",
+      "unomag_id": 470589
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::ЗАЗ 965С ’Связь’ 1962 г.",
+      "unomag_id": 226360
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::ЗИЛ 130 ММЗ-555, Великолукское АТХ - 1976 г",
+      "unomag_id": 455484
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Горьковский автомобиль 51 фургон КИ-51  кремы",
+      "unomag_id": 181039
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::ЗИЛ 130 самосвал ММЗ-555, Телави, Грузия - 1980 г.",
+      "unomag_id": 441756
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Бочка на колесах (DiP models)",
+      "unomag_id": 7859
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::ЗИЛ 49061 МЧС Синяя птица белый DIP Models",
+      "unomag_id": 205682
     }
   ],
   "ignored_articles": [
@@ -9131,6 +9166,10 @@
     {
       "supplier": "Scalebay",
       "article": "NAME::Каталог Лимузины Серия 90 лет ГОН Гараж Собого Назначения Лимитированный тираж"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Бокс Коробка Мерседес Mercedes Benz G55 XXL W463 Ежик серия ГОН Dip models 1:43 БЕСПЛАТНАЯ доставка"
     }
   ],
   "manufacturer_map": [
