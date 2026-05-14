@@ -9686,6 +9686,14 @@
     {
       "supplier": "Scalebay",
       "article": "NAME::Hachette. DACIA 1300 №84"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::коробка под модель Опель Opel Olympia 1951 IXO Altaya 1:43"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::коробка под модель Опель Opel IXO Altaya 1:43"
     }
   ],
   "manufacturer_map": [
@@ -9804,6 +9812,14 @@
     {
       "unomag_name": "Hachette",
       "variation": "Тракторы. История, люди, машины. (Hachette collections)"
+    },
+    {
+      "unomag_name": "Altaya",
+      "variation": "Altaya"
+    },
+    {
+      "unomag_name": "Altaya",
+      "variation": "Hachette"
     }
   ],
   "suppliers": [
