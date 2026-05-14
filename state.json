@@ -8714,6 +8714,21 @@
       "supplier": "Scalebay",
       "article": "NAME::Трактор Т 25 А 1967 СССР серия ’Тракторы’ IXO Hachette 1:43",
       "unomag_id": 179426
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Легендарные советские автомобили ваз 2103",
+      "unomag_id": 224173
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Легендарные советские автомобили ваз 2101",
+      "unomag_id": 198561
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Трактор Т 54 1968 СССР серия ’Тракторы’ IXO Hachette 1:43",
+      "unomag_id": 181089
     }
   ],
   "ignored_articles": [
@@ -9576,6 +9591,66 @@
     {
       "supplier": "Scalebay",
       "article": "NAME::Легендарные советские автомобили москвич 407"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Легендарные советские автомобили ваз 2121"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Корабль Линкор Бисмарк № 37 Hachette 1:200 Длина 125 см"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Корабль Линкор Бисмарк № 45 Hachette 1:200 Длина 125 см"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Корабль Линкор Бисмарк № 46 Hachette 1:200 Длина 125 см"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Корабль Линкор Бисмарк № 48 Hachette 1:200 Длина 125 см"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Корабль Линкор Бисмарк № 49 Hachette 1:200 Длина 125 см"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Корабль Линкор Бисмарк № 50 Hachette 1:200 Длина 125 см"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Корабль Линкор Бисмарк № 51 Hachette 1:200 Длина 125 см"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Корабль Линкор Бисмарк № 56 Hachette 1:200 Длина 125 см"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Корабль Линкор Бисмарк № 57 Hachette 1:200 Длина 125 см"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Корабль Линкор Бисмарк № 58 Hachette 1:200 Длина 125 см"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Корабль Линкор Бисмарк № 59 Hachette 1:200 Длина 125 см"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Корабль Линкор Бисмарк № 61 Hachette 1:200 Длина 125 см"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Корабль Линкор Бисмарк № 62 Hachette 1:200 Длина 125 см"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Корабль Линкор Бисмарк № 8 Hachette 1:200 Длина 125 см"
     }
   ],
   "manufacturer_map": [
