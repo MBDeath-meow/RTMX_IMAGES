@@ -8699,6 +8699,21 @@
       "supplier": "Scalebay",
       "article": "NAME::Москвич 407 двухцветный Hachette 1/24",
       "unomag_id": 223705
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Т-30А ( Hachette ) . Новое",
+      "unomag_id": 215399
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Трактор ДТ 54 1950 СССР серия ’Тракторы’ IXO Hachette 1:43",
+      "unomag_id": 168751
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Трактор Т 25 А 1967 СССР серия ’Тракторы’ IXO Hachette 1:43",
+      "unomag_id": 179426
     }
   ],
   "ignored_articles": [
@@ -9537,6 +9552,30 @@
     {
       "supplier": "Scalebay",
       "article": "NAME::УДВОЮ**! - Pegaso 3040 ’Quitanieves’ 4x4 Atlas 1/43 Пегасо, снегоуборочная машина с ’пескоразбрасывателем’ 1:43"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Москвич 2137 универсал Hachette 1/24"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Легендарные советские автомобили №11   заз 966"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Легендарные советские автомобили уаз 469"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::СШ-75 Таганрожец Тракторы 80"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Сталинец 65  ( Hachette ) .  новый"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Легендарные советские автомобили москвич 407"
     }
   ],
   "manufacturer_map": [
