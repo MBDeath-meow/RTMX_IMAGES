@@ -8159,6 +8159,21 @@
       "supplier": "Scalebay",
       "article": "NAME::МАЗ 516 Автоэкспорт Желтый СССР 1970 Наш Автопром НАП 1:43",
       "unomag_id": 179447
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::AURUS KOMENDANT universe black Dip Models",
+      "unomag_id": 594794
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::UAZ УАЗ 450Д (синий) 4х4 СССР 1961 Дип Dip 1:43 145001",
+      "unomag_id": 152596
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::правительственный лимузин Зил 4102 1988 СССР L.e. 252 pcs. Dip 1:43 241021",
+      "unomag_id": 180126
     }
   ],
   "ignored_articles": [
@@ -8953,6 +8968,18 @@
     {
       "supplier": "Scalebay",
       "article": "NAME::Краз-260 эо-4422 1/43 экскаватор"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::сертификат Уаз 3163 Патриот Пикап Uaz Patriot Pick up 4x4 Dip Дип 1:43 231635"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::сертификат Паз 652 Сталинград Михайловка СССР Лимит Dip 1:43 165202"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::сертификат Паз 652 Аэропорт Киев Жуляны СССР Лимит Dip 1:43 165201"
     }
   ],
   "manufacturer_map": [
@@ -9039,6 +9066,10 @@
     {
       "unomag_name": "Наш Автопром",
       "variation": "Наш Автопром"
+    },
+    {
+      "unomag_name": "DiP Models",
+      "variation": "DiP Models"
     }
   ],
   "suppliers": [
