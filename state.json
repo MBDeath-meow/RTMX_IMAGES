@@ -8789,6 +8789,11 @@
       "supplier": "Scalebay",
       "article": "NAME::Mercedes-Benz NG2232 КАЧЕСТВО = ЦЕНА (ВЫБОРКА)",
       "unomag_id": 501648
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Praga V3S FEK  SSM",
+      "unomag_id": 416281
     }
   ],
   "ignored_articles": [
@@ -9743,6 +9748,10 @@
     {
       "supplier": "Scalebay",
       "article": "SSM7075"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::SSM ЗИЛ-130 бортовой синий"
     }
   ],
   "manufacturer_map": [
