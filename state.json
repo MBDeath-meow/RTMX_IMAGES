@@ -8784,6 +8784,11 @@
       "supplier": "Scalebay",
       "article": "NAME::Mercedes-Benz NG 2232 с полуприцепом Fruehauf Savoyarde",
       "unomag_id": 701542
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Mercedes-Benz NG2232 КАЧЕСТВО = ЦЕНА (ВЫБОРКА)",
+      "unomag_id": 501648
     }
   ],
   "ignored_articles": [
