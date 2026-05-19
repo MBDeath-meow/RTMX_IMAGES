@@ -15894,6 +15894,46 @@
       "supplier": "Scalebay",
       "article": "NAME::ЗиЛ 111д кабрио",
       "unomag_id": 283037
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Луаз 969М ’Волынь’",
+      "unomag_id": 301119
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Сталинец-65",
+      "unomag_id": 178562
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Т-175 ’Волгарь’ Тракторы: история, люди, машины №24",
+      "unomag_id": 183996
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Т-28Х3. Hachette 1/43 (трактор)",
+      "unomag_id": 183352
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Т-54B. Hachette 1/43 (трактор)",
+      "unomag_id": 181089
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Трактор гусеничный Т-70С (красный/белый) Hachette М.1080",
+      "unomag_id": 194658
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Трактор колёсный ЮМЗ-6АЛ (бирюзовый/белый) Hachette М.1083",
+      "unomag_id": 198008
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "EU 3235",
+      "unomag_id": 179393
     }
   ],
   "ignored_articles": [
@@ -17768,6 +17808,18 @@
     {
       "supplier": "Scalebay",
       "article": "NAME::ВАЗ 21011 Жигули зелёный с боксом 1/24 Hachette"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::ЗИС-110"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Сталинец 2 артиллерийский тягач (Hachette трактора)"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Трактор ХТЗ 7 1950 СССР серия Тракторы № 21 Hachette 1/43 Доработан"
     }
   ],
   "manufacturer_map": [
