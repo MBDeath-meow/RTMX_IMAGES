@@ -10499,6 +10499,31 @@
       "supplier": "Scalebay",
       "article": "NAME::Шкода Skoda 706 RS Самовал Ангарагэсстрой 1953 СССР SSM 1:43 SSM1463",
       "unomag_id": 350046
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Шкода Skoda 706 R бортовой 1952 SSM 1:43 SSM1461",
+      "unomag_id": 352443
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Шкода Skoda 706 R Jelcz Вахта Кунг 1946 SSM 1:43 SSM1459",
+      "unomag_id": 359155
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::УралЗИС 355м",
+      "unomag_id": 150426
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Урал-375Д тягач",
+      "unomag_id": 176462
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Урал УралЗИС 355 М АЦПТ-2.2 Цистерна Вода 1960 СССР SSM 1:43 SSM1027",
+      "unomag_id": 158377
     }
   ],
   "ignored_articles": [
