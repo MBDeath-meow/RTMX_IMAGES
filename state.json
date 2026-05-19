@@ -14199,6 +14199,21 @@
       "supplier": "Scalebay",
       "article": "NAME::Aston Martin V8 Volante 1987 Minichamps дефект",
       "unomag_id": 4611
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Audi 100 Coupe S Minichamps",
+      "unomag_id": 185133
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Audi 100 GL 1979 (015102)",
+      "unomag_id": 157384
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Audi 80 GT 1972 (015001)",
+      "unomag_id": 159431
     }
   ],
   "ignored_articles": [
