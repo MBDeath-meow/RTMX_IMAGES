@@ -14894,6 +14894,21 @@
       "supplier": "Scalebay",
       "article": "NAME::1/43 ЗИЛ-118КЛ Криминалистическая лаборатория  - АНС",
       "unomag_id": 2541
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "UAZSRV0007RCMC1-LN1",
+      "unomag_id": 392323
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::ARO 240 Автолегенды СССР №166",
+      "unomag_id": 179744
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::AVIA A31 DA 12, Kultowe Ciezarowki PRL-u 112",
+      "unomag_id": 623759
     }
   ],
   "ignored_articles": [
@@ -16300,6 +16315,14 @@
     {
       "supplier": "Scalebay",
       "article": "NAME::1/43     Deagostini        FERRARI  250 GT CALIFORNIA"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Alfa Romeo Giulietta 1962 полиция Италии (зелёный) DeAgostini  М.0601"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::ARO M461 на службе армии ГДР (конверсия) (М-1/43)."
     }
   ],
   "manufacturer_map": [
