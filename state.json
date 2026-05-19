@@ -12949,6 +12949,46 @@
       "supplier": "Scalebay",
       "article": "NAME::Москвич 400 420 А Серый 1949 СССР НАП Наш Автопром 1:43",
       "unomag_id": 386
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Маз 64227 1985 седельный тягач СССР Наш Автопром НАП 1:43",
+      "unomag_id": 190475
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Маз 55514020 1996 Самосвал НАП Наш Автопром 1:43",
+      "unomag_id": 187872
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Маз 5433 (1991-1997) седельный тягач, белый СССР НАП Наш Автопром 1:43",
+      "unomag_id": 179749
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Маз 5429 оливковый 1977 тягач СССР НАП Наш Автопром 1:43 H762G",
+      "unomag_id": 174110
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Маз 5429 Белый тягач СССР НАП Наш Автопром 1:43",
+      "unomag_id": 174111
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Маз 5428 (1977) седельный тягач СССР НАП Наш Автопром 1:43 H700",
+      "unomag_id": 183012
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Маз 53352 (1977-90), желтый СССР НАП Наш Автопром 1:43 H297",
+      "unomag_id": 179122
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Маз 520 Тягач Специальный (2 оси спереди) 1965 СССР НАП Наш Автопром 1:43",
+      "unomag_id": 198226
     }
   ],
   "ignored_articles": [
@@ -14267,6 +14307,10 @@
     {
       "supplier": "Scalebay",
       "article": "NAME::ЗИС-36 бортовой (белый) Наш Автопром  М.0724"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Модель автомобиля КИМ-10-51 в масштабе 1:43"
     }
   ],
   "manufacturer_map": [
