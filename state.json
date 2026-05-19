@@ -11864,6 +11864,56 @@
       "supplier": "Scalebay",
       "article": "NAME::МАЗ 5215 (7010)",
       "unomag_id": 177911
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::МАЗ 502 зел",
+      "unomag_id": 181235
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::МАЗ 502 (1024)",
+      "unomag_id": 181234
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::МАЗ 205 ор",
+      "unomag_id": 159460
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::МАЗ 200В с п_пр МАЗ 5215 (7003)",
+      "unomag_id": 175411
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::МАЗ 200В (1115)",
+      "unomag_id": 175410
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::МАЗ 200 серый",
+      "unomag_id": 151941
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::МАЗ 200 бортовой (серый) СССР SSM 1:43 SSM1009",
+      "unomag_id": 151941
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::МАЗ 200 SSM",
+      "unomag_id": 151941
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::МАЗ - 5215 (7011)",
+      "unomag_id": 177912
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::МА3-5440",
+      "unomag_id": 183061
     }
   ],
   "ignored_articles": [
@@ -13074,6 +13124,14 @@
     {
       "supplier": "Scalebay",
       "article": "NAME::МАЗ 5337 бел.коричнев"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::МАЗ 503А+ МАЗ 5549"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Лумз-890Б на шасси ЗИЛ-164 SSM 1:43"
     }
   ],
   "manufacturer_map": [
