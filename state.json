@@ -9029,6 +9029,51 @@
       "supplier": "Scalebay",
       "article": "NAME::SSM. IFA W50LA 4x4 бортовой с тентом",
       "unomag_id": 374139
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::SSM. MAN-630",
+      "unomag_id": 322198
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::SSM. MAN-630 санитарный",
+      "unomag_id": 322200
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::SSM. PRAGA V3S ASC-16/3,5",
+      "unomag_id": 636030
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::SSM. Praga S5T Czech Himalayan Expedition",
+      "unomag_id": 458380
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::SSM. Praga S5T-3 самосвал",
+      "unomag_id": 317047
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::SSM. Praga V3S AV-3",
+      "unomag_id": 391909
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::SSM. Praga V3S CR",
+      "unomag_id": 390424
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::SSM. Praga V3S бортовой (с тентом)",
+      "unomag_id": 389003
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::SSM. Praga V3S бортовой с тентом",
+      "unomag_id": 458379
     }
   ],
   "ignored_articles": [
