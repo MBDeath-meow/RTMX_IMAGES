@@ -12539,6 +12539,31 @@
       "supplier": "Scalebay",
       "article": "NAME::Маз 8926",
       "unomag_id": 334587
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Маз 6422",
+      "unomag_id": 180428
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Маз 6303 Бортовой с Тентом АИСТ Автоистория 1:43",
+      "unomag_id": 184601
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Маз 6303 (гол.сер.))",
+      "unomag_id": 180954
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Маз 5551 Самосвал низкий кузов 1988 СССР АИСТ Автоистория 1:43",
+      "unomag_id": 179917
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Маз 5551 Самосвал 1988 СССР АИСТ Автоистория 1:43",
+      "unomag_id": 180224
     }
   ],
   "ignored_articles": [
@@ -13825,6 +13850,10 @@
     {
       "supplier": "Scalebay",
       "article": "NAME::Маз-938920 полуприцеп-контейнеровоз, коричневый+серый контейнеры"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Маз 6430 с полуприцепом нефаз 93341"
     }
   ],
   "manufacturer_map": [
