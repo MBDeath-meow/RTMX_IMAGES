@@ -11209,6 +11209,31 @@
       "supplier": "Scalebay",
       "article": "NAME::Мусоровоз КО-415А",
       "unomag_id": 559032
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Мусоровоз с манипулятором МКМ-4503 (43253)",
+      "unomag_id": 198014
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::ПАО КАМАЗ. KAMAZ-6522",
+      "unomag_id": 652272
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::ПАО КАМАЗ. KAMAZ-65225",
+      "unomag_id": 669591
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::ПАО КАМАЗ. КАМАЗ-43118",
+      "unomag_id": 666531
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::ПАО КАМАЗ. КАМАЗ-5490 с полуприцепом НЕФАЗ-93341, ПЭК",
+      "unomag_id": 350371
     }
   ],
   "ignored_articles": [
@@ -12375,6 +12400,14 @@
     {
       "supplier": "Scalebay",
       "article": "NAME::Миасский грузовик 4320 бортовой  АИСТ"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Надстройка автобетоносмеситель СБ 92, 1/43"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::НефАЗ 93341 серый"
     }
   ],
   "manufacturer_map": [
