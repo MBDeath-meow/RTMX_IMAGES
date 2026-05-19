@@ -9114,6 +9114,36 @@
       "supplier": "Scalebay",
       "article": "NAME::SSM. Tatra 815 V26",
       "unomag_id": 472729
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::SSM. Tatra-128 кунг",
+      "unomag_id": 260225
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::SSM. Tatra-138 NT 4х4",
+      "unomag_id": 430984
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::SSM. Tatra-148S1",
+      "unomag_id": 427417
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::SSM. Tatra-815S3",
+      "unomag_id": 470904
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::SSM. UDS-110 (Tatra-148)",
+      "unomag_id": 426874
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::SSM. АЛ-17(51)",
+      "unomag_id": 513025
     }
   ],
   "ignored_articles": [
