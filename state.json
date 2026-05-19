@@ -12564,6 +12564,51 @@
       "supplier": "Scalebay",
       "article": "NAME::Маз 5551 Самосвал 1988 СССР АИСТ Автоистория 1:43",
       "unomag_id": 180224
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Маз 5432 седельный тягач Зеленый 1981 СССР АИСТ Автоистория 1:43",
+      "unomag_id": 180455
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Маз 5432 с п.пр маз 5232В",
+      "unomag_id": 181033
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Маз 5432 Поздняя кабина бежевый Откидывающаяся кабина 1981 СССР АИСТ Автоистория 1:43",
+      "unomag_id": 180454
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Маз 5337(АЦИП-7,7)",
+      "unomag_id": 185707
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Маз 5337 Цистерна АЦИП 7,7 Молоко 1990 СССР АИСТ Автоистория 1:43",
+      "unomag_id": 185707
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Маз 205 самосвал, синий СССР АИСТ Автоистория 1:43 100701",
+      "unomag_id": 187204
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Маз 205 самосвал СССР Автоистория 1:43 100695",
+      "unomag_id": 187203
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Маз 200 В седельный тягач",
+      "unomag_id": 179477
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Маз 200 В + полуприцеп Маз 5215 (голубой/коричневый) 1952 СССР АИСТ Автоистория 1:43",
+      "unomag_id": 179474
     }
   ],
   "ignored_articles": [
