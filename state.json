@@ -8949,6 +8949,26 @@
       "supplier": "Scalebay",
       "article": "NAME::SSM Каток СД-802 (Т-150)",
       "unomag_id": 192516
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::SSM в боксе АГВТ-100 (131), без надписей",
+      "unomag_id": 179481
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::SSM в боксе БТР-152К (хаки), знак Гвардия",
+      "unomag_id": 179191
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::SSM в боксе КамАЗ 6520, дорестайлинг, белый",
+      "unomag_id": 598571
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::SSM в боксе КамАЗ 65225, дорестайлинг, желтый",
+      "unomag_id": 630928
     }
   ],
   "ignored_articles": [
@@ -9919,6 +9939,14 @@
     {
       "supplier": "Scalebay",
       "article": "NAME::SSM КрАЗ-257Б1, шасси с платформой"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::SSM МАЗ-200В (светло-синий)"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::SSM Полуприцеп МАЗ 5215 бортовой, светло-серый"
     }
   ],
   "manufacturer_map": [
