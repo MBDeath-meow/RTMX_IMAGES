@@ -11299,6 +11299,36 @@
       "supplier": "Scalebay",
       "article": "NAME::камаз 6540",
       "unomag_id": 198337
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Трамвай Tatra-T3SU синий",
+      "unomag_id": 655467
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Трамвай КТМ-8 (красно-белый)   SSM",
+      "unomag_id": 365331
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Трамвай ЛМ-68 (бело-голубой)   SSM",
+      "unomag_id": 345095
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Троллейбус Skoda-14TR (Ростов-на-Дону)",
+      "unomag_id": 296783
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Троллейбус Skoda-14TR (Ростов-на-Дону)  SSM",
+      "unomag_id": 296783
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Тяжелый артиллерийский тягач АТ-Т, парадный  SSM",
+      "unomag_id": 205678
     }
   ],
   "ignored_articles": [
