@@ -15294,6 +15294,41 @@
       "supplier": "Scalebay",
       "article": "NAME::Волга 3110",
       "unomag_id": 257827
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Горький 13Б «Чайка» «Фаэтон» «Кабриолет»",
+      "unomag_id": 245371
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Горький М415",
+      "unomag_id": 222299
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Горький-31105 ’Волга’ Автолегенды СССР №270 / 211 КАЧЕСТВО = ЦЕНА (ВЫБОРКА)",
+      "unomag_id": 278362
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Горький-31105 ’Волга’ Автолегенды СССР №270 КАЧЕСТВО = ЦЕНА (ВЫБОРКА)",
+      "unomag_id": 278362
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Горький-53-12 бортовой (голубой/зелёный) DeAgostini  М.1305",
+      "unomag_id": 256633
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Горький-66 бортовой (хаки) DeAgostini  М.1306",
+      "unomag_id": 242553
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Горький-САЗ-3507 сельскохозяйственный самосвал (бежевый/синий) DeAgostini  М.1304",
+      "unomag_id": 250734
     }
   ],
   "ignored_articles": [
@@ -16876,6 +16911,22 @@
     {
       "supplier": "Scalebay",
       "article": "NAME::Вольво Volvo 240 Sjöpolisen Stockholm Police IXO IST Полиция Мира De Agostini 1:43"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Горький-32214 Скорая медицинская помощь (белый) DeAgostini  М.0944"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Журнальная серия Полицейские машины мира №1-№80 полностью"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Заз 966 ’Запорожец’ 1967 - 1971 гг. голубой IXO IST Автолегенды СССР 1:43"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Заз 966 Запорожец 1967 1967 СССР IXO IST 1:43"
     }
   ],
   "manufacturer_map": [
