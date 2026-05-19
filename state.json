@@ -12764,6 +12764,21 @@
       "supplier": "Scalebay",
       "article": "NAME::КАМАЗ-54901 с полуприцепом НЕФАЗ-93341 NATCAR .SSM.",
       "unomag_id": 632178
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "Н947",
+      "unomag_id": 205299
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "Н859",
+      "unomag_id": 215417
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "Н951",
+      "unomag_id": 205657
     }
   ],
   "ignored_articles": [
