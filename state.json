@@ -15784,6 +15784,51 @@
       "supplier": "Scalebay",
       "article": "NAME::1:24 DACIA 1300",
       "unomag_id": 331763
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::1:24 ВАЗ 2108 ’Наташа’",
+      "unomag_id": 298608
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::1:24 ВАЗ 21083",
+      "unomag_id": 324650
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::1:24 ЗАЗ-968М ’Запорожец’ (Без журнала)",
+      "unomag_id": 278576
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::1:24 ИЖ-27156 скорая помощь",
+      "unomag_id": 329154
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::1:24 ЛУАЗ-969М ’Волынь’",
+      "unomag_id": 301119
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::1:24 МОСКВИЧ 400-422",
+      "unomag_id": 301120
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::1:24 МОСКВИЧ-410",
+      "unomag_id": 267773
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::1:24 НАМИ-1",
+      "unomag_id": 303961
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Hachette.  ВАЗ-2108 Наташа №62",
+      "unomag_id": 298608
     }
   ],
   "ignored_articles": [
@@ -17630,6 +17675,10 @@
     {
       "supplier": "Scalebay",
       "article": "NAME::1/43 Т-100 ТРАКТОРЫ №32 HACHETTE"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Hachette Тракторы №23 Т-28Х3 1/43"
     }
   ],
   "manufacturer_map": [
