@@ -15589,6 +15589,46 @@
       "supplier": "Scalebay",
       "article": "NAME::Москвич 400 АЗЛК АПА 7 Аэродромная служба IXO IST Автолегенды СССР 1:43",
       "unomag_id": 156213
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Москвич -403",
+      "unomag_id": 202
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Москвич 407   Автолегенды СССР № 1",
+      "unomag_id": 48
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Москвич ВНИИТЭ ПТ Такси 1964 IXO Автолегенды СССР 1:43",
+      "unomag_id": 5603
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Москвич Г 5 АЗЛК 1969 - 1972 гг. IXO IST Автолегенды СССР 1:43",
+      "unomag_id": 8094
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Москвич Г-5. Автолегенды СССР. DeAgostini 1/43",
+      "unomag_id": 8094
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Москвич С3 Меридиан 1978 IST IXO Автолегенды СССР 1:43",
+      "unomag_id": 5601
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Москвич-2139.АВТОЛЕГЕНДЫ DeAgostini 1/43",
+      "unomag_id": 5605
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Москвич-2150. Автолегенды СССР. DeAgostini 1/43",
+      "unomag_id": 8098
     }
   ],
   "ignored_articles": [
@@ -17311,6 +17351,34 @@
     {
       "supplier": "Scalebay",
       "article": "NAME::Москвич 402 АЗЛК 1956 - 1958 гг. сине-зеленый IXO IST Автолегенды СССР 1:43"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Москвич 415 АЗЛК 1957 4х4 IST Автолегенды СССР 1:43"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::москвич 427"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Москвич АЗЛК 3 5 6 1980 СССР IXO IST 1:43 Проработан салон"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Москвич ИЖ 2125 Комби 1973 СССР IXO IST 1:43"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Москвич НАМИ Охта 1986 IST IXO Автолегенды СССР 1:43"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Москвич С 1 Меридиан АЗЛК IXO IST Автолегенды СССР 1:43"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Москвич-2142R5 ’Князь Владимир’ Милиция-ГАИ (1/43) ’АЛС’ Спецвыпуск. Милиция СССР №11"
     }
   ],
   "manufacturer_map": [
