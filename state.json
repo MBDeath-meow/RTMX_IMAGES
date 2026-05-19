@@ -12139,6 +12139,21 @@
       "supplier": "Scalebay",
       "article": "NAME::Камаз 53212 контейнеровоз с прицепом ГКБ 8350",
       "unomag_id": 208330
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Камаз 53212 Кран Автокран КС 3575А (53213) 1991 СССР SSM 1:43 SSM1508",
+      "unomag_id": 428196
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Камаз 53212 Кран Автокран КС 3575А (53213) 1989 СССР SSM 1:43 SSM1507 Лимитированная серия",
+      "unomag_id": 411964
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Камаз 43502 SSM",
+      "unomag_id": 189890
     }
   ],
   "ignored_articles": [
@@ -13381,6 +13396,18 @@
     {
       "supplier": "Scalebay",
       "article": "NAME::Камаз 6520-21010-53"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Камаз 53212 гол. (!!!АРХИВ!!!)"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Камаз 53212 бортовой SSM 1:43"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::КамАЗ 6522 рестайл+ КамАЗ 65225 оранж"
     }
   ],
   "manufacturer_map": [
