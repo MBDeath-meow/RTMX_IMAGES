@@ -12304,6 +12304,31 @@
       "supplier": "Scalebay",
       "article": "NAME::КАМАЗ 65952 ssm   металл!!!",
       "unomag_id": 455164
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::КАМАЗ-43118 рестайлинг.SSM.",
+      "unomag_id": 582411
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::КАМАЗ-53212 контейнеровоз с прицепом ГКБ-8350",
+      "unomag_id": 208330
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::КАМАЗ-5490 бел.",
+      "unomag_id": 196624
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::КАМАЗ-54901 с полуприцепом НЕФАЗ-93341",
+      "unomag_id": 326092
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::КАМАЗ-5511 самосвал",
+      "unomag_id": 461814
     }
   ],
   "ignored_articles": [
