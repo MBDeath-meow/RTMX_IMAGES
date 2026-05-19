@@ -14389,6 +14389,16 @@
       "supplier": "Scalebay",
       "article": "NAME::BMW 520 E12 1974",
       "unomag_id": 318141
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::✔ В НАЛИЧИИ! ★ СКИДКА! ⬊ ✮  Ford Focus II (Mk2) hatchback Minichamps 1/43 Форд Фокус 2005 Мк2 хэтч 5дв 1:43 серебристо -голубоватый (зеленоватый)",
+      "unomag_id": 512610
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::​BMW 3 SERIES E36 1991г. Maxichamps green",
+      "unomag_id": 358506
     }
   ],
   "ignored_articles": [
@@ -15763,6 +15773,14 @@
     {
       "supplier": "Scalebay",
       "article": "NAME::МАЗ-555102 самосвал 1991-1999 (жёлтый/оранжевый) Наш Автопром М.0669"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Форд Ford Scorpio II Седан 1995 Зеленый металлик Minichamps 1:43 430084002"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Форд Ford Mustang Fastback 2+2 1968 Черный Minichamps 1:43 400082020 БЕСПЛАТНАЯ доставка"
     }
   ],
   "manufacturer_map": [
