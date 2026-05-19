@@ -10664,6 +10664,41 @@
       "supplier": "Scalebay",
       "article": "NAME::АЦ 4.0 (131)",
       "unomag_id": 198015
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::АЦ-40(133ГЯ)-181А. АИСТ.",
+      "unomag_id": 661881
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::АЦ-40-181А (133ГЯ)",
+      "unomag_id": 661881
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Автокран АК-75В (130)",
+      "unomag_id": 203393
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Ал-17(51)",
+      "unomag_id": 680100
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Бурильная машина БМ-302 (66)",
+      "unomag_id": 224669
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::ГА3(53) КС-1562Б",
+      "unomag_id": 482111
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::ГТК-32 (51)",
+      "unomag_id": 694056
     }
   ],
   "ignored_articles": [
@@ -11750,6 +11785,14 @@
     {
       "supplier": "Scalebay",
       "article": "NAME::АЛ-17 (51) автолестница"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Гидробак с площадкой обслуживания, 1/43"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Груз в кузов. Уголь. Краз-256"
     }
   ],
   "manufacturer_map": [
