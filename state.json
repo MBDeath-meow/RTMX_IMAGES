@@ -10024,6 +10024,21 @@
       "supplier": "Scalebay",
       "article": "NAME::АЦ-40 (ЗИЛ 130) Куба   SSM",
       "unomag_id": 193966
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::АЦ-40(130)  (SSM)",
+      "unomag_id": 158092
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::АЦ-40(131) FEUERWEHR  (SSM)",
+      "unomag_id": 172883
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::АЦ-40(133ГЯ)   (SSM)",
+      "unomag_id": 180887
     }
   ],
   "ignored_articles": [
