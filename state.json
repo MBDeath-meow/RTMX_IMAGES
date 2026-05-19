@@ -15249,6 +15249,31 @@
       "supplier": "Scalebay",
       "article": "NAME::АУРУС СЕНАТ",
       "unomag_id": 333162
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::БТР-40. Авто легенды СССР. DeAgostini 1/43",
+      "unomag_id": 154489
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Ваз 1801 Lada Пони 1979 IXO IST Автолегенды СССР 1:43",
+      "unomag_id": 154642
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::ВАЗ 2114",
+      "unomag_id": 387799
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Ваз 21213 Нива",
+      "unomag_id": 204495
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Ваз 2802 Lada ’Пони’ 1980 IXO IST Автолегенды СССР 1:43",
+      "unomag_id": 158621
     }
   ],
   "ignored_articles": [
@@ -16807,6 +16832,10 @@
     {
       "supplier": "Scalebay",
       "article": "NAME::АМО Ф-15 скорая медицинская помощь (DeA Автолегенды СССР)"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::АЦ-8-200  (DeA легендарные советские грузовики)"
     }
   ],
   "manufacturer_map": [
