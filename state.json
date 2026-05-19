@@ -15444,6 +15444,21 @@
       "supplier": "Scalebay",
       "article": "NAME::Лада Калина Седан",
       "unomag_id": 381244
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::лимузин Зис 101 Черный 1936 IST IXO Автолегенды СССР 1:43",
+      "unomag_id": 5544
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::ЛуАЗ 969 А ’Волынь’ 1975—1979 гг. голубой с зеленым IXO IST Автолегенды СССР 1:43",
+      "unomag_id": 2443
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Луаз 969 М ’Волынь’ 1979 - 1994 гг. бежевый IXO IST Автолегенды СССР 1:43",
+      "unomag_id": 306
     }
   ],
   "ignored_articles": [
@@ -17138,6 +17153,10 @@
     {
       "supplier": "Scalebay",
       "article": "NAME::лимузин Зис 101 А 1940 - 1941 гг. IXO IST Автолегенды СССР 1:43"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::ЛуАЗ 969 А ’Волынь’ 4х4 1975 IXO IST Автолегенды СССР 1:43"
     }
   ],
   "manufacturer_map": [
