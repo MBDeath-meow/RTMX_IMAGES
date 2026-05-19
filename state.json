@@ -14924,6 +14924,61 @@
       "supplier": "Scalebay",
       "article": "NAME::Donkervoort D8 GTO. DeAGOSTINI 1/43",
       "unomag_id": 154503
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::GAZ-AA",
+      "unomag_id": 5308
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::GAZelle Next Автолегенды. Новая эпоха №4",
+      "unomag_id": 343574
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "20",
+      "unomag_id": 365560
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::IFA H6 (1952), Kultowe Ciezarowki PRL-u 35",
+      "unomag_id": 383507
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::IKARUS 526, Kultowe Ciezarowki PRL-u 101",
+      "unomag_id": 568226
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::JELCZ 315 (1971), Kultowe Ciezarowki PRL-u 34",
+      "unomag_id": 383504
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::JELCZ 315M SM-81, Kultowe Ciezarowki PRL-u 73",
+      "unomag_id": 461443
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::JELCZ 325 Plugopiaskarka P1, Kultowe Ciezarowki PRL-u 99",
+      "unomag_id": 561359
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::JELCZ 325 SC-21, Kultowe Ciezarowki PRL-u 116",
+      "unomag_id": 635830
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::JELCZ 642, Kultowe Ciezarowki PRL-u 46",
+      "unomag_id": 391796
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::JELCZ Hydromil II, Kultowe Ciezarowki PRL-u 89",
+      "unomag_id": 500990
     }
   ],
   "ignored_articles": [
@@ -16394,6 +16449,14 @@
     {
       "supplier": "Scalebay",
       "article": "NAME::FORD Transit следственный комитет России (серия «Автомобили на службе»)"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Jaguar Mark 2 (Mk II) 1959 полиция Великобритании (белый) DeAgostini  М.0587"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Jeep Wagoneer полиция штата Пенсильвания (белый/синий) DeAgostini М.0607"
     }
   ],
   "manufacturer_map": [
