@@ -11464,6 +11464,26 @@
       "supplier": "Scalebay",
       "article": "NAME::ПСА 2 (Воронеж)",
       "unomag_id": 205948
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::ПНС - 100 (157К) (1134)",
+      "unomag_id": 178860
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::ПМЗ-17А (164) (с белыми полосами)    SSM",
+      "unomag_id": 302130
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::ПМЗ-17 (150)  SSM",
+      "unomag_id": 291904
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::ПМЗ 17А ( ЗИЛ 164) SSM",
+      "unomag_id": 302130
     }
   ],
   "ignored_articles": [
@@ -12642,6 +12662,10 @@
     {
       "supplier": "Scalebay",
       "article": "NAME::ПМЗ-27(157)  (SSM)"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::ПНС - 100 (157К) (1135)"
     }
   ],
   "manufacturer_map": [
