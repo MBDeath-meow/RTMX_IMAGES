@@ -13549,6 +13549,16 @@
       "supplier": "Scalebay",
       "article": "NAME::ЗиС 32 4х4 бортовой 1941 белый СССР НАП Наш Автопром 1:43 H269w",
       "unomag_id": 154092
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::ЗиС 36 6х6 бортовой 1941 СССР НАП Наш Автопром 1:43 H270w",
+      "unomag_id": 154094
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::ЗиС 5В (УралЗиС) бортовой 1947 СССР НАП Наш Автопром 1:43 H267b",
+      "unomag_id": 154091
     }
   ],
   "ignored_articles": [
