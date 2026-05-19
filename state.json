@@ -16149,6 +16149,16 @@
       "supplier": "Scalebay",
       "article": "NAME::SINPAR CASTOR 1200 LEVE-POTEAU EDF 1966",
       "unomag_id": 440505
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::SOMUA JL 19 LIVRAISONS BP ENERGOL",
+      "unomag_id": 352007
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Steyr Typ 1500A/01 Kfz.21  Kommandeurwagen DAK Tunisia, February 1943танк",
+      "unomag_id": 342464
     }
   ],
   "ignored_articles": [
@@ -18051,6 +18061,14 @@
     {
       "supplier": "Scalebay",
       "article": "NAME::MB LP 334"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "FC098"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "EX03"
     }
   ],
   "manufacturer_map": [
