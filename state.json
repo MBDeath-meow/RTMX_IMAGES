@@ -13819,6 +13819,31 @@
       "supplier": "Scalebay",
       "article": "NAME::КрАЗ-255Б бортовой с тентом 1967-1969 (тёмно-зелёный) Наш Автопром  М.0654",
       "unomag_id": 176938
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::КрАЗ-255Б бортовой с тентом 1969-1979 (песочный/серый) Наш Автопром  М.0655",
+      "unomag_id": 176941
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::КрАЗ-255Б1 экскаватор ЭОВ-4421UN UN / ООН (белый) Наш Автопром  М.0657",
+      "unomag_id": 245950
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::КрАЗ-257Б бортовой 1969-1977 (тёмно-зелёный) Наш Автопром  М.0653",
+      "unomag_id": 178791
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::КрАЗ-260",
+      "unomag_id": 177282
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::КрАЗ-6322 экскаватор ЭОВ-4422 (тёмно-зелёный) Наш Автопром  М.0656",
+      "unomag_id": 246676
     }
   ],
   "ignored_articles": [
