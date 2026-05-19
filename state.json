@@ -15179,6 +15179,31 @@
       "supplier": "Scalebay",
       "article": "№47",
       "unomag_id": 636
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "№5",
+      "unomag_id": 52
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Автолегенды СССР АМО-Ф-15(DeAgostini) 1/43",
+      "unomag_id": 5602
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Автолегенды СССР и Соцстран №167 MULTICAR M25 (ГДР) зеленый",
+      "unomag_id": 180051
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Автолегенды СССР и Соцстран №228 УАЗ-3160",
+      "unomag_id": 214206
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Автолегенды СССР. БА-20 № 124",
+      "unomag_id": 154638
     }
   ],
   "ignored_articles": [
@@ -16729,6 +16754,10 @@
     {
       "supplier": "Scalebay",
       "article": "NAME::Volvo 244 1978 полиция Норвегии (чёрный/белый) DeAgostini  М.0594"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Автолегенды СССР №97 Москвич-2150"
     }
   ],
   "manufacturer_map": [
