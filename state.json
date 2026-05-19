@@ -15104,6 +15104,31 @@
       "supplier": "Scalebay",
       "article": "KULC056",
       "unomag_id": 412316
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::RAYTON FISSORE MAGNUM 2.5 TDI 1997. DeAGOSTINI 1/43",
+      "unomag_id": 158087
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "MAS017",
+      "unomag_id": 8091
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::SKODA 706 R, Kultowe Ciezarowki PRL-u 74",
+      "unomag_id": 463551
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::SKODA 706 RT Podnosnik, Kultowe Ciezarowki PRL-u 77",
+      "unomag_id": 472672
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Skoda felicia Автолегенды СССР №184",
+      "unomag_id": 185914
     }
   ],
   "ignored_articles": [
@@ -16630,6 +16655,18 @@
     {
       "supplier": "Scalebay",
       "article": "NAME::Rayton Fissore Magnum 2.5 TDI 1997 полиция Италии (синий) DeAgostini  М.0597"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Skoda 1201"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Toyota Land Cruiser 70  Tow Truck Police white (эвакуатор) 1-43 DeAgostini"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Toyota Land Cruiser FJ40 полиция Греции (белый/синий) DeAgostini  М.0583"
     }
   ],
   "manufacturer_map": [
