@@ -15489,6 +15489,26 @@
       "supplier": "Scalebay",
       "article": "NAME::Модель Chrysler Airflow CRS 1936 POLICE Сан-Франциско 1:43 DeAgostini",
       "unomag_id": 173781
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Модель FIAT 126P (POLSKI) белый 1:43 IXO/DEA/Hungary",
+      "unomag_id": 375074
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Модель FIAT 238 Minivan Carabinieri italy 1:43 DeAgostini",
+      "unomag_id": 152652
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Модель Ford Fordor 1947 Police San Diego USA 1:43 DeAgostini",
+      "unomag_id": 173789
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Модель FORD TRANSIT MKI Accident Unit/POLICE United Kingdom’ (1967) 1:43 DeAgostini",
+      "unomag_id": 156219
     }
   ],
   "ignored_articles": [
@@ -17187,6 +17207,10 @@
     {
       "supplier": "Scalebay",
       "article": "NAME::ЛуАЗ 969 А ’Волынь’ 4х4 1975 IXO IST Автолегенды СССР 1:43"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Модель Ford Fairlane POLICE Oakland Detroit USA 1:43 DeAgostini"
     }
   ],
   "manufacturer_map": [
