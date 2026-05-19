@@ -11444,6 +11444,26 @@
       "supplier": "Scalebay",
       "article": "NAME::Полуприцеп Маз 5215 зелёный СССР SSM 1:43 SSM7011",
       "unomag_id": 177912
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Полуприцеп МАЗ-5215 SSM",
+      "unomag_id": 177912
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Пескоразбрасыватель ПР-53(52)   SSM",
+      "unomag_id": 441039
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Передвижной стоматологический кабинет (КСП-2001) (66)",
+      "unomag_id": 190615
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::ПСА 2 (Воронеж)",
+      "unomag_id": 205948
     }
   ],
   "ignored_articles": [
@@ -12618,6 +12638,10 @@
     {
       "supplier": "Scalebay",
       "article": "NAME::НефАЗ 93341 серый"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::ПМЗ-27(157)  (SSM)"
     }
   ],
   "manufacturer_map": [
