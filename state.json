@@ -12804,6 +12804,31 @@
       "supplier": "Scalebay",
       "article": "NAME::Горький Некст С41R33 бортовой (зелёный/серый) Наш Автопром М.0679",
       "unomag_id": 272991
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::ЗИС 101А Спорт закр.верх (золотой)",
+      "unomag_id": 158803
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::ЗИС(АМО)-3 бортовой (тёмно-зелёный) Наш Автопром  М.0722",
+      "unomag_id": 154089
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::ЗИС(УралЗИС)-5В бортовой (бежевый) Наш Автопром М.0726",
+      "unomag_id": 154091
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::ЗИС-22М бортовой, зеленый  НАП",
+      "unomag_id": 239360
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::ЗИС-35М бортовой  НАП",
+      "unomag_id": 254777
     }
   ],
   "ignored_articles": [
@@ -14114,6 +14139,14 @@
     {
       "supplier": "Scalebay",
       "article": "NAME::МАЗ-6422 ранний, зеленая кабина, белые диски"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::ЗИС-32 бортовой (белый) Наш Автопром  М.0723"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::ЗИС-36 бортовой (белый) Наш Автопром  М.0724"
     }
   ],
   "manufacturer_map": [
