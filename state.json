@@ -14804,6 +14804,26 @@
       "supplier": "Scalebay",
       "article": "NAME::Опель Opel Astra 2012 Minichamps 1:43 410042000",
       "unomag_id": 156282
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Опель Opel Ascona Voyage 1970 Minichamps 1:43 400045810",
+      "unomag_id": 155012
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Модель Opel Zafira B 2005 red/красный 1:43 Minichamps",
+      "unomag_id": 211225
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Мицубиси Mitsubishi Colt 1978 Minichamps 1:43 400163500",
+      "unomag_id": 184694
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Мерседес Мерседес Mercedes Benz W116 канцлер Германии Schmidt + фигурка Minichamps 1:43 436039200",
+      "unomag_id": 199688
     }
   ],
   "ignored_articles": [
@@ -16194,6 +16214,10 @@
     {
       "supplier": "Scalebay",
       "article": "NAME::Феррари Ferrari 333 SP Daytona 1996 Minichamps 1:43 430967430"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Мицубиси Mitsubishi Pajero LWB 1994 4x4 Черный Minichamps 1:43 430163471"
     }
   ],
   "manufacturer_map": [
