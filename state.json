@@ -14379,6 +14379,16 @@
       "supplier": "Scalebay",
       "article": "NAME::BMW 507 1957",
       "unomag_id": 419839
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::BMW 520 1972",
+      "unomag_id": 508793
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::BMW 520 E12 1974",
+      "unomag_id": 318141
     }
   ],
   "ignored_articles": [
