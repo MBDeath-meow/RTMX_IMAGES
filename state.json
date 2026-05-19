@@ -9814,6 +9814,21 @@
       "supplier": "Scalebay",
       "article": "NAME::КАМАЗ-5320 с прицепом ГКБ-8350",
       "unomag_id": 235129
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::КАМАЗ-53212 бортовой с тентом",
+      "unomag_id": 226062
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::КАМАЗ-5490 с полуприцепом НЕФАЗ-93341",
+      "unomag_id": 327189
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "102965",
+      "unomag_id": 350371
     }
   ],
   "ignored_articles": [
