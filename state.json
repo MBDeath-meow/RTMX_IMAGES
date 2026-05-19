@@ -15829,6 +15829,46 @@
       "supplier": "Scalebay",
       "article": "NAME::Hachette.  ВАЗ-2108 Наташа №62",
       "unomag_id": 298608
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Hachette. ARO-240, Легендарные Советские Автомобили 85",
+      "unomag_id": 331764
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Hachette. Fiat 125Р Легендарные Советские Автомобили №87",
+      "unomag_id": 334354
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Hachette. ВАЗ-21083-02, Легендарные Советские Автомобили 93",
+      "unomag_id": 346635
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Hachette. Варшава 223К, Легендарные Советские Автомобили 90",
+      "unomag_id": 340515
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Hachette. ЗИЛ-111В №73",
+      "unomag_id": 317370
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Hachette. МОСКВИЧ 400-420А №15",
+      "unomag_id": 226125
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Hachette. Москвич-408Э, Легендарные Советские Автомобили 97",
+      "unomag_id": 359689
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Hachette. НАМИ-1 №70",
+      "unomag_id": 303961
     }
   ],
   "ignored_articles": [
@@ -17679,6 +17719,14 @@
     {
       "supplier": "Scalebay",
       "article": "NAME::Hachette Тракторы №23 Т-28Х3 1/43"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Holt (Hachette трактора)"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Lanz Bulldog D7506A Allzweck 1952 с отвалом . Новый ."
     }
   ],
   "manufacturer_map": [
