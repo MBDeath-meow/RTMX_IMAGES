@@ -14524,6 +14524,46 @@
       "supplier": "Scalebay",
       "article": "NAME::Форд Ford Escort 1600 SPORT II 1975 Minichamps 1:43 400084471",
       "unomag_id": 152354
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Форд Ford C-Max 2010 Minichamps 1:43 403089003",
+      "unomag_id": 151308
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Фольксваген VW Volkswagen T3 Transporter DOKA Bundeswehr Minichamps 1:43 400055291",
+      "unomag_id": 157367
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Фольксваген VW Volkswagen Scirocco Streetfighter 1974 Minichamps 1:43 430050424 БЕСПЛАТНАЯ доставка",
+      "unomag_id": 3248
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Фольксваген VW Volkswagen Caddy Maxi Shuttle 2007 Красный Minichamps 1:43 400057000",
+      "unomag_id": 3090
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Фольксваген VW Volkswagen Golf Cabriolet 1980 Minichamps 1:43 400055130",
+      "unomag_id": 158266
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Фольксваген VW Volkswagen Golf III Variant Универсал 1993 Minichamps 1:43 400055510",
+      "unomag_id": 4540
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Фольксваген VW Volkswagen Beetle Kafer 1200 Minichamps 1:43 430052106",
+      "unomag_id": 153229
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Фольксваген VW Volkswagen 181 Kubelwagen 4x4 1969 Minichamps 1:43 430050035",
+      "unomag_id": 218563
     }
   ],
   "ignored_articles": [
@@ -15910,6 +15950,10 @@
     {
       "supplier": "Scalebay",
       "article": "NAME::Форд Ford Escort Mk5 RS Cosworth 4x4 1993 Minichamps 1:43 Ранний"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Феррари Ferrari 333 SP Daytona 1996 Minichamps 1:43 430967430"
     }
   ],
   "manufacturer_map": [
