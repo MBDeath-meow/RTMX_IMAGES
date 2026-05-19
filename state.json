@@ -9219,6 +9219,31 @@
       "supplier": "Scalebay",
       "article": "NAME::SSM. Грузовой троллейбус КТГ-1",
       "unomag_id": 323122
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::SSM. Грузовой троллейбус ТГ-3",
+      "unomag_id": 318472
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::SSM. Грузовой троллейбус ТГ-3 (бело-голубой)",
+      "unomag_id": 325220
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::SSM. Гусеничный транспортёр-тягач ГТ-Т, Новолазаревская РАЭ",
+      "unomag_id": 377538
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::SSM. ДУК-1 (51)",
+      "unomag_id": 661880
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::SSM. ЗИЛ-131 КМ-131",
+      "unomag_id": 694055
     }
   ],
   "ignored_articles": [
