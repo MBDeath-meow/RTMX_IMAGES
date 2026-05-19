@@ -10224,6 +10224,41 @@
       "supplier": "Scalebay",
       "article": "NAME::ЗИЛ 157 Tanker Militari",
       "unomag_id": 152936
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::ЗИЛ-4333 бортовой  SSM",
+      "unomag_id": 226063
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::ЗИЛ-ММЗ-164АН с полуприцепом ОДАЗ-857Б",
+      "unomag_id": 288392
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::ЗИЛ-ММЗ-45085 Аварийная служба  SSM",
+      "unomag_id": 263181
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::ЗИЛ-ММЗ-585Л ЛЗАП-40",
+      "unomag_id": 282357
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::ЗИЛ-ММЗ-585Л с гидрокраном ЛЗАП-40 Start Scale Models (SSM)",
+      "unomag_id": 282357
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::ЗИЛ-ММЗ-585Л самосвал.SSM.",
+      "unomag_id": 280346
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::ЗИС-121Д (151)  SSM",
+      "unomag_id": 567921
     }
   ],
   "ignored_articles": [
