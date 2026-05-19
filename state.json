@@ -15714,6 +15714,26 @@
       "supplier": "Scalebay",
       "article": "NAME::Уаз 3172 4х4 1986 IST IXO Автолегенды СССР 1:43",
       "unomag_id": 8095
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Уаз 452 Д (3303) 4х4 Автоклуб ’Кубанец’ СССР IXO IST Автомобиль на службе 1:43",
+      "unomag_id": 153976
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::УАЗ.",
+      "unomag_id": 346307
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::УАЗ-3163 ПАТРИОТ UAZ PATRIOT Автолегенды СССР №283 КАЧЕСТВО = ЦЕНА (ВЫБОРКА)",
+      "unomag_id": 318920
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::УАЗ-3163 Патриот, выпуск 182",
+      "unomag_id": 185157
     }
   ],
   "ignored_articles": [
@@ -17528,6 +17548,30 @@
     {
       "supplier": "Scalebay",
       "article": "NAME::Уаз 452 В 4х4 микро автобус 1968 - 1985 гг. песочный IXO IST Автолегенды СССР 1:43"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::УАЗ пикап"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::УАЗ-452В Милиция (1/43) ’АЛС’ Спецвыпуск. Милиция СССР №6"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::УАЗ-469 - ППС (1/43) Автомобиль на службе №48"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::УАЗ-469 Милиция (1/43) ’АЛС’ Спецвыпуск. Милиция СССР №4"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::УАЗ-469Б"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Уайт-АМО (DeA Автолегенды СССР)"
     }
   ],
   "manufacturer_map": [
