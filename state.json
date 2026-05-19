@@ -9604,6 +9604,61 @@
       "supplier": "Scalebay",
       "article": "NAME::4320 кунг",
       "unomag_id": 255698
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "103061",
+      "unomag_id": 457284
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::TATRA 815 S1",
+      "unomag_id": 290172
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::TATRA-815 S1 самосвал 1/43 АИСТ",
+      "unomag_id": 477433
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Tatra - 815 S1 синий",
+      "unomag_id": 477433
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Tatra - 815 S3 желтый",
+      "unomag_id": 477434
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::skoda 706 RTTN",
+      "unomag_id": 279548
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::АИСТ.  Skoda 14TR",
+      "unomag_id": 490442
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::АИСТ.  АНР-127Б (130)",
+      "unomag_id": 627171
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::АИСТ.  АЦ-40(133ГЯ)-181А",
+      "unomag_id": 661881
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::АИСТ.  Полуприцеп МАЗ-5205",
+      "unomag_id": 714391
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::АИСТ. Skoda 706 MTTN",
+      "unomag_id": 485253
     }
   ],
   "ignored_articles": [
@@ -10606,10 +10661,6 @@
       "variation": "evr"
     },
     {
-      "unomag_name": "Автоистория (АИСТ)",
-      "variation": "Автоистория (АИСТ)"
-    },
-    {
       "unomag_name": "IXO",
       "variation": "IXO"
     },
@@ -10727,6 +10778,14 @@
     },
     {
       "unomag_name": "Premium ClassiXXs",
+      "variation": "Start Scale Models (SSM)"
+    },
+    {
+      "unomag_name": "Автоистория (АИСТ)",
+      "variation": "Автоистория (АИСТ)"
+    },
+    {
+      "unomag_name": "Автоистория (АИСТ)",
       "variation": "Start Scale Models (SSM)"
     }
   ],
