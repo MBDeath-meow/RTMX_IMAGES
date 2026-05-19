@@ -13524,6 +13524,31 @@
       "supplier": "Scalebay",
       "article": "H203B",
       "unomag_id": 179503
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::ЗИС-5 / ВМЗ  темно-зеленый НАП",
+      "unomag_id": 242432
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::ЗИС-6 БЗ, зеленый  НАП",
+      "unomag_id": 240709
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::ЗиС (АМО) 2 бортовой 1931 СССР НАП Наш Автопром 1:43",
+      "unomag_id": 154085
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::ЗиС 32 4х4 бортовой 1941 Хаки СССР НАП Наш Автопром 1:43 H269g",
+      "unomag_id": 154093
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::ЗиС 32 4х4 бортовой 1941 белый СССР НАП Наш Автопром 1:43 H269w",
+      "unomag_id": 154092
     }
   ],
   "ignored_articles": [
@@ -14862,6 +14887,10 @@
     {
       "supplier": "Scalebay",
       "article": "Н217, Н904, Н218"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::ЗИС-6 бортовой (т.синий) Наш Автопром М.0725"
     }
   ],
   "manufacturer_map": [
