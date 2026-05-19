@@ -12689,6 +12689,36 @@
       "supplier": "Scalebay",
       "article": "NAME::МАЗ-5432 с полуприцепом МАЗ-5232В, (серый/голубой)",
       "unomag_id": 181033
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::МАЗ-5432 (красный)",
+      "unomag_id": 180280
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::МАЗ 5516 белый_жёлтый",
+      "unomag_id": 179918
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::МАЗ 5432 1982г",
+      "unomag_id": 180280
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::МА3-6303 бортовой с тентом",
+      "unomag_id": 184601
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Кунг К 66 аварийная служба",
+      "unomag_id": 214007
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::КО-829А (ЗиЛ-4333)",
+      "unomag_id": 509635
     }
   ],
   "ignored_articles": [
