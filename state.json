@@ -10279,6 +10279,31 @@
       "supplier": "Scalebay",
       "article": "NAME::трактор Каток ДУ 49 1981 СССР SSM 1:43 SSM8002",
       "unomag_id": 178288
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::маз 5429",
+      "unomag_id": 678487
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::маз 5340",
+      "unomag_id": 202911
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::маз 504",
+      "unomag_id": 289258
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::кубань Г1 А1 02",
+      "unomag_id": 159394
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::краз 256 Б1",
+      "unomag_id": 159338
     }
   ],
   "ignored_articles": [
