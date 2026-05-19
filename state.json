@@ -11044,6 +11044,36 @@
       "supplier": "Scalebay",
       "article": "NAME::СКП-11(130). Автоистория.",
       "unomag_id": 634947
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::САЗ-3507 (53)    АИСТ",
+      "unomag_id": 430982
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::РЖМ-52 (4333)",
+      "unomag_id": 245789
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Прицеп ГКБ-8535   АИСТ",
+      "unomag_id": 489591
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Прицеп ГКБ-8350 бортовой (с надставными бортами)",
+      "unomag_id": 222318
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Прицеп ГКБ-8350",
+      "unomag_id": 211577
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Полуприцеп-контейнеровоз МАЗ-938920 с контейнерами EVERGREEN",
+      "unomag_id": 190487
     }
   ],
   "ignored_articles": [
@@ -12178,6 +12208,14 @@
     {
       "supplier": "Scalebay",
       "article": "NAME::СКП-11 (130) Пункт управления полетов АИСТ"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::СБ-92 (5511) бетоносмеситель ПАО КАМАЗ"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Прицеп ГКБ-8535 АИСТ"
     }
   ],
   "manufacturer_map": [
