@@ -10304,6 +10304,51 @@
       "supplier": "Scalebay",
       "article": "NAME::краз 256 Б1",
       "unomag_id": 159338
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::краз 255Б самосвал, беж",
+      "unomag_id": 182790
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::камаз 65206",
+      "unomag_id": 196626
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::камаз 5460",
+      "unomag_id": 207407
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::камаз 44108",
+      "unomag_id": 193063
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::камаз 4310",
+      "unomag_id": 332875
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::зиу 9",
+      "unomag_id": 151269
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::зис 151 техпомощь",
+      "unomag_id": 153286
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::зис 150",
+      "unomag_id": 158794
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::зил 4333",
+      "unomag_id": 226063
     }
   ],
   "ignored_articles": [
@@ -11378,6 +11423,10 @@
     {
       "supplier": "Scalebay",
       "article": "NAME::подставка под модель Маз SSM 1:43"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::коробка бокс под модель Белаз 540 Ф СССР SSM 1:43 SSML016"
     }
   ],
   "manufacturer_map": [
