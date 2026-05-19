@@ -16239,6 +16239,26 @@
       "supplier": "Scalebay",
       "article": "NAME::Модель FORD CONTOUR (1997) blue 1:43 EDITORIAL PLANETA DEAGOSTINI MEXICO",
       "unomag_id": 415947
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Модель VOLKSWAGEN Brasilia 1974 white 1:43 EDITORIAL PLANETA DEAGOSTINI MEXICO",
+      "unomag_id": 414744
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Опель Opel Astra F Cabriolet 1992 Altaya 1:43",
+      "unomag_id": 153237
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Опель Opel Blitz 1.75 1952 грузовой Altaya 1:43",
+      "unomag_id": 151719
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Опель Opel Olympia 1951 (прототип Москвич 401) Altaya 1:43",
+      "unomag_id": 153239
     }
   ],
   "ignored_articles": [
