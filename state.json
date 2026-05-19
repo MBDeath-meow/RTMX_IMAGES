@@ -10789,6 +10789,26 @@
       "supplier": "Scalebay",
       "article": "NAME::маз 6303",
       "unomag_id": 254248
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::маз 5440",
+      "unomag_id": 293136
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::маз 5337 хаки 1987",
+      "unomag_id": 180279
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::маз 5337 АЦИП 7_7",
+      "unomag_id": 185707
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::маз 205",
+      "unomag_id": 187204
     }
   ],
   "ignored_articles": [
@@ -11895,6 +11915,10 @@
     {
       "supplier": "Scalebay",
       "article": "NAME::полуприцеп МАЗ-9758"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::коробка Зил 131 СССР Арек Элекон 1:43"
     }
   ],
   "manufacturer_map": [
