@@ -11814,6 +11814,56 @@
       "supplier": "Scalebay",
       "article": "NAME::МАЗ 6422 син",
       "unomag_id": 180250
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::МАЗ 6422 седельный тягач (ранний, синий) /откидывающаяся кабина/ SSM 1:43 SSM1172",
+      "unomag_id": 180250
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::МАЗ 6303 синий_серый",
+      "unomag_id": 180249
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::МАЗ 5551 самосвал (поздний, белый/жёлтый) /откидывающаяся кабина/ SSM 1:43 SSM1167",
+      "unomag_id": 179551
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::МАЗ 5550 оранж.сер",
+      "unomag_id": 203922
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::МАЗ 5440 белый",
+      "unomag_id": 183061
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::МАЗ 537",
+      "unomag_id": 151519
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::МАЗ 5337 сер",
+      "unomag_id": 179839
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::МАЗ 525 (L005)",
+      "unomag_id": 174308
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::МАЗ 525 (L004)",
+      "unomag_id": 174308
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::МАЗ 5215 (7010)",
+      "unomag_id": 177911
     }
   ],
   "ignored_articles": [
@@ -13016,6 +13066,14 @@
     {
       "supplier": "Scalebay",
       "article": "NAME::МАЗ ТЗ 200"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::МАЗ 5432 поздний"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::МАЗ 5337 бел.коричнев"
     }
   ],
   "manufacturer_map": [
