@@ -11234,6 +11234,31 @@
       "supplier": "Scalebay",
       "article": "NAME::ПАО КАМАЗ. КАМАЗ-5490 с полуприцепом НЕФАЗ-93341, ПЭК",
       "unomag_id": 350371
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::ПАО КАМАЗ. КАМАЗ-54901 с полуприцепом НЕФАЗ-93341",
+      "unomag_id": 361017
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::ПАО КАМАЗ. КАМАЗ-54901 с полуприцепом НЕФАЗ-93341 ITECO",
+      "unomag_id": 356447
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::ПАО КАМАЗ. КАМАЗ-6520",
+      "unomag_id": 655982
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::ПАО КАМАЗ. КАМАЗ-6522 Рестайлинг",
+      "unomag_id": 657404
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::ПАО КАМАЗ. КС-3575А (53213)",
+      "unomag_id": 563393
     }
   ],
   "ignored_articles": [
