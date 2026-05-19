@@ -9499,6 +9499,51 @@
       "supplier": "Scalebay",
       "article": "NAME::SSM. Трамвай Tatra-T3SU",
       "unomag_id": 388262
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::SSM. Трамвай Tatra-T3SU  Мосгортранс",
+      "unomag_id": 655467
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::SSM. Трамвай КТМ-8",
+      "unomag_id": 352080
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::SSM. Трамвай ЛМ-49",
+      "unomag_id": 464452
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::SSM. Трамвай ЛМ-68",
+      "unomag_id": 343158
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::SSM. Трамвай ЛМ-68 (бело-голубой)",
+      "unomag_id": 345095
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::SSM. Троллейбус Skoda-14TR (Ростов-на-Дону)",
+      "unomag_id": 296783
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::SSM. УАЗ-3741 Почта России",
+      "unomag_id": 329733
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::SSM. УАЗ-3741 жёлтый",
+      "unomag_id": 271696
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::SSM. Урал-43206-0551 (песочный)",
+      "unomag_id": 216696
     }
   ],
   "ignored_articles": [
