@@ -14262,8 +14262,28 @@
     },
     {
       "supplier": "Scalebay",
+      "article": "NAME::Audi RS 6 Avant (C6) 2007",
+      "unomag_id": 428450
+    },
+    {
+      "supplier": "Scalebay",
       "article": "NAME::Audi RS 6 Avant 2019",
-      "unomag_id": 484275
+      "unomag_id": 358495
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Audi RS4 2005 (014601)",
+      "unomag_id": 4511
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Audi RS4 Saloon 2004 bluemetallic lim.500 Minichamps 1:43",
+      "unomag_id": 348620
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Audi RS5 Cabriolet 2012 (011230)",
+      "unomag_id": 156455
     }
   ],
   "ignored_articles": [
