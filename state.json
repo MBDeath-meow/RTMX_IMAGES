@@ -14149,6 +14149,21 @@
       "supplier": "Scalebay",
       "article": "NAME::1:43 Mercedes-Benz W 126 Minichamps",
       "unomag_id": 153228
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::1:43 Mercedes-Benz W 126 Minichamps  TAXI",
+      "unomag_id": 159216
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::1:43 Mercedes-Benz W 140 Minichamps",
+      "unomag_id": 157210
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::AUDI  A3 CABRIOLET MINICHAMPS",
+      "unomag_id": 178816
     }
   ],
   "ignored_articles": [
