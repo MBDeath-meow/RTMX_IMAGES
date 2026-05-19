@@ -14909,6 +14909,11 @@
       "supplier": "Scalebay",
       "article": "NAME::AVIA A31 DA 12, Kultowe Ciezarowki PRL-u 112",
       "unomag_id": 623759
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::AVIA A31 OPS, Kultowe Ciezarowki PRL-u 117",
+      "unomag_id": 640125
     }
   ],
   "ignored_articles": [
@@ -16323,6 +16328,10 @@
     {
       "supplier": "Scalebay",
       "article": "NAME::ARO M461 на службе армии ГДР (конверсия) (М-1/43)."
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Citroën 2CV полиция страны Басков (белый/синий) DeAgostini  М.0602"
     }
   ],
   "manufacturer_map": [
