@@ -9969,6 +9969,61 @@
       "supplier": "Scalebay",
       "article": "NAME::АЛМ-30(157).SSM.",
       "unomag_id": 535119
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::АСРТ 2.2 вода",
+      "unomag_id": 158377
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::АСРТ 2.2 молоко",
+      "unomag_id": 158378
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::АСРТ-2.2 на шасси УралЗис-355М",
+      "unomag_id": 158378
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::АТЗ 2,4 (52)",
+      "unomag_id": 267593
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::АЦ-3,2-40 (43253) Санкт-Петербург",
+      "unomag_id": 195103
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::АЦ-3-40 (43502)",
+      "unomag_id": 194309
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::АЦ-30(53)-106Г   SSM",
+      "unomag_id": 224668
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::АЦ-40 (130) 63Б Аварийная служба, 002 из 450",
+      "unomag_id": 174309
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::АЦ-40 (130) 63Б Аварийная служба, 097 из 450",
+      "unomag_id": 174309
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::АЦ-40 (130) 63Б Аварийная служба, 278 из 450",
+      "unomag_id": 174309
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::АЦ-40 (ЗИЛ 130) Куба   SSM",
+      "unomag_id": 193966
     }
   ],
   "ignored_articles": [
