@@ -15519,6 +15519,21 @@
       "supplier": "Scalebay",
       "article": "NAME::Модель GAZ M-24 Volga черный 1:43 Deagostini/HUNGARY",
       "unomag_id": 1402
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Модель Moszkvics/Москвич-408 зеленый 1:43 DEA/HUNGARY",
+      "unomag_id": 5776
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Модель NISSAN GT-R (R35) ABU DHABI POLICE 1:43 DeAgostini",
+      "unomag_id": 173790
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Модель SYRENA 105 (ПНР) красный 1:43 DeA/Hungary",
+      "unomag_id": 375179
     }
   ],
   "ignored_articles": [
