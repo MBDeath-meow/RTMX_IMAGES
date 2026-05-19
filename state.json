@@ -9829,6 +9829,36 @@
       "supplier": "Scalebay",
       "article": "102965",
       "unomag_id": 350371
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::КАМАЗ-5490 седельный тягач",
+      "unomag_id": 199535
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::КАМАЗ-54901 с полуприцепом НЕФАЗ-93341.ПАО Камаз.",
+      "unomag_id": 361017
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::КАМАЗ-5511 ПАО КАМАЗ КАЧЕСТВО = ЦЕНА (ВЫБОРКА)",
+      "unomag_id": 633016
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "103474",
+      "unomag_id": 633016
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "104158",
+      "unomag_id": 657404
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "102972",
+      "unomag_id": 364917
     }
   ],
   "ignored_articles": [
