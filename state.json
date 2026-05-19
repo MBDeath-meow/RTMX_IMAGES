@@ -11184,6 +11184,21 @@
       "supplier": "Scalebay",
       "article": "NAME::Камаз 5320 бел.голуб",
       "unomag_id": 211924
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Камаз 54115 ПАО камаз 1/43",
+      "unomag_id": 198466
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Камаз 6350",
+      "unomag_id": 197624
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Масштабная модель Автоистория (АИСТ)",
+      "unomag_id": 666531
     }
   ],
   "ignored_articles": [
@@ -12342,6 +12357,10 @@
     {
       "supplier": "Scalebay",
       "article": "NAME::КАМАЗ-6520"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Камаз КС-3537А Автокран"
     }
   ],
   "manufacturer_map": [
