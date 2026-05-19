@@ -10744,6 +10744,11 @@
       "supplier": "Scalebay",
       "article": "NAME::Зил 164 серый",
       "unomag_id": 153496
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Зиф 55",
+      "unomag_id": 218730
     }
   ],
   "ignored_articles": [
@@ -11842,6 +11847,10 @@
     {
       "supplier": "Scalebay",
       "article": "NAME::ЗиЛ-ММЗ-4502 (аварийная служба Московского метро)"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Из коллекции. ЗИЛ-130 Кунг аварийная служба Горсвет из к/ф Ночной Дозор SSM 1:43"
     }
   ],
   "manufacturer_map": [
