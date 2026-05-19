@@ -13584,6 +13584,36 @@
       "supplier": "Scalebay",
       "article": "NAME::ЗиС-5 АЦ Молоко, серый / белый   НАП",
       "unomag_id": 254778
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::ЗиС-5 в АСМ",
+      "unomag_id": 241834
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::ЗиС-5В БЗ-42М, белый   НАП",
+      "unomag_id": 254474
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::ЗиС-6А",
+      "unomag_id": 242431
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Зис 101 А Спорт Зеленый Закрытый 1939 СССР НАП Наш Автопром 1:43",
+      "unomag_id": 2207
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Зис 101 А Спорт Синий Открытый 1939 СССР НАП Наш Автопром 1:43",
+      "unomag_id": 158807
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Зис 5 (АМО 3) бортовой Голубой СССР НАП Наш Автопром 1:43",
+      "unomag_id": 154087
     }
   ],
   "ignored_articles": [
