@@ -15414,6 +15414,11 @@
       "supplier": "Scalebay",
       "article": "NAME::ИЖ (Москвич) 412 028 1982 - 2001 гг. синий IXO IST Автолегенды СССР 1:43",
       "unomag_id": 5600
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::ИЖ-2126 ОДА",
+      "unomag_id": 367993
     }
   ],
   "ignored_articles": [
@@ -17060,6 +17065,22 @@
     {
       "supplier": "Scalebay",
       "article": "NAME::ИЖ 14 (Москвич) 1972 - 1973 гг. IXO IST Автолегенды СССР 1:43"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::ИЖ-2125 Комби Москвич (оранжевый) DeAgostini  М.0771"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::ИЖ-27156 Москвич грузопассажирский фургон (белый) DeAgostini  М.0776"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::ИЖ-412 Москвич (зелёный) DeAgostini  М.0774"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::КАМАЗ-43509"
     }
   ],
   "manufacturer_map": [
