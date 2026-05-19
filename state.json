@@ -9939,6 +9939,36 @@
       "supplier": "Scalebay",
       "article": "NAME::АК-34 (151) КУНГ ЗИС-151  SSM",
       "unomag_id": 559033
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::АК75А (164) гол.",
+      "unomag_id": 180402
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::АЛ 30 (131)",
+      "unomag_id": 180254
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::АЛ-30 (ЗИЛ-131) Start Scale Models (SSM)",
+      "unomag_id": 665277
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::АЛ-30(131)   (SSM)",
+      "unomag_id": 180253
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::АЛ-30(131).SSM.",
+      "unomag_id": 665277
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::АЛМ-30(157).SSM.",
+      "unomag_id": 535119
     }
   ],
   "ignored_articles": [
