@@ -12789,6 +12789,21 @@
       "supplier": "Scalebay",
       "article": "NAME::ГОРЬКИЙ- 03-30",
       "unomag_id": 1801
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Горький Некст C41A23 4х4 бортовой (оранжевый/серый) Наш Автопром М.0681",
+      "unomag_id": 275657
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Горький Некст С41R33 бортовой (зелёный/серый) Наш Автопром М.0678",
+      "unomag_id": 272991
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Горький Некст С41R33 бортовой (зелёный/серый) Наш Автопром М.0679",
+      "unomag_id": 272991
     }
   ],
   "ignored_articles": [
