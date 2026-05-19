@@ -14262,11 +14262,6 @@
     },
     {
       "supplier": "Scalebay",
-      "article": "NAME::Audi RS 6 Avant (C6) 2007",
-      "unomag_id": 428450
-    },
-    {
-      "supplier": "Scalebay",
       "article": "NAME::Audi RS 6 Avant 2019",
       "unomag_id": 358495
     },
@@ -14339,6 +14334,21 @@
       "supplier": "Scalebay",
       "article": "NAME::Audi A4 Avant 1995",
       "unomag_id": 487990
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Audi A6 C5 1997",
+      "unomag_id": 382254
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Audi RS 6 Avant (C6) 2007",
+      "unomag_id": 429522
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Audi RS4 2004",
+      "unomag_id": 351608
     }
   ],
   "ignored_articles": [
