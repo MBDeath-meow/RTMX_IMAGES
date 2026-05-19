@@ -9169,6 +9169,16 @@
       "supplier": "Scalebay",
       "article": "NAME::SSM. АЦ-40(43202) ПМ-102Б Ликино-Дулево",
       "unomag_id": 195398
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::SSM. АЦПТ-4,1 (130)",
+      "unomag_id": 560237
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::SSM. АЦУ-20 (51А)",
+      "unomag_id": 595429
     }
   ],
   "ignored_articles": [
