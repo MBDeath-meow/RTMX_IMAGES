@@ -12654,6 +12654,41 @@
       "supplier": "Scalebay",
       "article": "NAME::МАЗ-6422 с полуприцепом-контейнеровозом МАЗ-938920",
       "unomag_id": 192782
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::МАЗ-6303 бортовой с тентом вишневый/синий",
+      "unomag_id": 184601
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::МАЗ-6303 бортовой с тентом   АИСТ",
+      "unomag_id": 184601
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::МАЗ-6303 бортовой (голубой/серый)",
+      "unomag_id": 180954
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::МАЗ-5551, высокий кузов, 1998 г., АИСТ",
+      "unomag_id": 180226
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::МАЗ-5550 самосвал (рестайлинг)   АИСТ",
+      "unomag_id": 206487
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::МАЗ-5516 самосвал 1994 (серый/жёлтый) Авто История (АИСТ) М.1299",
+      "unomag_id": 179919
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::МАЗ-5432 с полуприцепом МАЗ-5232В, (серый/голубой)",
+      "unomag_id": 181033
     }
   ],
   "ignored_articles": [
@@ -13948,6 +13983,14 @@
     {
       "supplier": "Scalebay",
       "article": "NAME::МАЗ-9506-30 самосвальный полуприцеп-щеповоз"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::МАЗ-6303 бортовой с тентом   АИСТ"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::МАЗ-5432 + НАМИ-790,Автоистория (АИСТ)"
     }
   ],
   "manufacturer_map": [
