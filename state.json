@@ -9274,6 +9274,21 @@
       "supplier": "Scalebay",
       "article": "NAME::SSM. К-67 (500)",
       "unomag_id": 654955
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::SSM. КАВЗ-3270 (бело-жёлтый)",
+      "unomag_id": 287460
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::SSM. КАВЗ-685",
+      "unomag_id": 272536
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::SSM. КАЗ-608 с п/п АППА-4 ’Аэрофлот’",
+      "unomag_id": 205828
     }
   ],
   "ignored_articles": [
