@@ -8994,6 +8994,41 @@
       "supplier": "Scalebay",
       "article": "NAME::SSM. AVIA A31N DA-12 пожарный",
       "unomag_id": 429916
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::SSM. AVIA A31N бортовой (с тентом)",
+      "unomag_id": 409683
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::SSM. Csepel D-344.00",
+      "unomag_id": 511227
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::SSM. Csepel D-445",
+      "unomag_id": 528564
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::SSM. Csepel D-450",
+      "unomag_id": 528561
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::SSM. IFA W50L бортовой с тентом (серый)",
+      "unomag_id": 378074
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::SSM. IFA W50L самосвал",
+      "unomag_id": 362743
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::SSM. IFA W50LA 4x4 бортовой с тентом",
+      "unomag_id": 374139
     }
   ],
   "ignored_articles": [
