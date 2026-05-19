@@ -13794,6 +13794,31 @@
       "supplier": "Scalebay",
       "article": "NAME::КрАЗ 6444 (1985-94), седельный тягач, синий СССР НАП Наш Автопром 1:43 H780b",
       "unomag_id": 182558
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::КрАЗ 6444 (1985-94г.) синий  НАП",
+      "unomag_id": 182558
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::КрАЗ 6510 (1985-94г.) бежевый НАП",
+      "unomag_id": 181803
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::КрАЗ-214Б (1963-67), аварийный",
+      "unomag_id": 178548
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::КрАЗ-251 самосвал (оранжевый/красный) Наш Автопром  М.0659",
+      "unomag_id": 185523
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::КрАЗ-255Б бортовой с тентом 1967-1969 (тёмно-зелёный) Наш Автопром  М.0654",
+      "unomag_id": 176938
     }
   ],
   "ignored_articles": [
@@ -15144,6 +15169,10 @@
     {
       "supplier": "Scalebay",
       "article": "NAME::КИМ 10-51"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::КрАЗ-251 самосвал (оранжевый/красный) Наш Автопром  М.0658"
     }
   ],
   "manufacturer_map": [
