@@ -12879,6 +12879,36 @@
       "supplier": "Scalebay",
       "article": "NAME::Я Яг 6 оливковый светлый 1930 СССР НАП Наш Автопром 1:43",
       "unomag_id": 158949
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Урал ЗиС-5 В АСМ",
+      "unomag_id": 235112
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::УльЗИС-5В бортовой, зеленый   НАП",
+      "unomag_id": 254473
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::СПб Москвич 408 + КИМ 10-51 (НАП )",
+      "unomag_id": 532
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Полуприцеп Маз 5205 1972 СССР НАП Наш Автопром 1:43",
+      "unomag_id": 180912
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Полуприцеп МАЗ-9380-2 (серый) НАП",
+      "unomag_id": 181061
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Передвижная ремонтная мастерская (ПАРМ) на базе ЗИС-6  НАП",
+      "unomag_id": 242623
     }
   ],
   "ignored_articles": [
