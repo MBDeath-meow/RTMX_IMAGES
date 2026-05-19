@@ -12499,6 +12499,46 @@
       "supplier": "Scalebay",
       "article": "NAME::Мусоровоз МКМ-2 (ЗиЛ-4333)",
       "unomag_id": 499998
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Миасский грузовик 43206-0551 бортовой",
+      "unomag_id": 259654
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Миасский грузовик 4320-0911",
+      "unomag_id": 184494
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Миасский грузовик 375Д бортовой с тентом (бежевый)",
+      "unomag_id": 179229
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Миасский грузовик 375Д бортовой (зеленый)",
+      "unomag_id": 179230
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Масштабная модель Т-246 (51)",
+      "unomag_id": 707011
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Масштабная модель КММ-2 (51)",
+      "unomag_id": 707012
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Масштабная модель TATRA 815 S3",
+      "unomag_id": 477434
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Маз 8926",
+      "unomag_id": 334587
     }
   ],
   "ignored_articles": [
@@ -13777,6 +13817,14 @@
     {
       "supplier": "Scalebay",
       "article": "NAME::КРАЗ-256Б1 самосвал SSM с прицепом"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Модель МАЗ 6312 бортовой тент  1/43 АИСТ"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Маз-938920 полуприцеп-контейнеровоз, коричневый+серый контейнеры"
     }
   ],
   "manufacturer_map": [
