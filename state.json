@@ -13559,6 +13559,31 @@
       "supplier": "Scalebay",
       "article": "NAME::ЗиС 5В (УралЗиС) бортовой 1947 СССР НАП Наш Автопром 1:43 H267b",
       "unomag_id": 154091
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::ЗиС-22 бортовой, зеленый  НАП",
+      "unomag_id": 237762
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::ЗиС-22М",
+      "unomag_id": 239360
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::ЗиС-32 (нати)",
+      "unomag_id": 235113
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::ЗиС-42-5в",
+      "unomag_id": 240710
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::ЗиС-5 АЦ Молоко, серый / белый   НАП",
+      "unomag_id": 254778
     }
   ],
   "ignored_articles": [
