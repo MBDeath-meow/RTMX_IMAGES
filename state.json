@@ -9569,6 +9569,31 @@
       "supplier": "Scalebay",
       "article": "NAME::Skoda 706 MTTN с полуприцепом ALKA N12CH Sovtransavto",
       "unomag_id": 278311
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Skoda 706 SSM",
+      "unomag_id": 465704
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Skoda-706 MTTN седельный тягач",
+      "unomag_id": 465703
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Skoda-706 RTTN седельный тягач",
+      "unomag_id": 465704
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Studebaker US6 БМ-13 «Катюша»",
+      "unomag_id": 262785
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Studebaker US6- БМ - 13",
+      "unomag_id": 262785
     }
   ],
   "ignored_articles": [
