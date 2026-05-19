@@ -12609,6 +12609,16 @@
       "supplier": "Scalebay",
       "article": "NAME::Маз 200 В + полуприцеп Маз 5215 (голубой/коричневый) 1952 СССР АИСТ Автоистория 1:43",
       "unomag_id": 179474
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Маз 200 (Зеленая кабина) СССР АИСТ Автоистория 1:43",
+      "unomag_id": 154750
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::МКМ-2 (4333). Автоистория.",
+      "unomag_id": 499998
     }
   ],
   "ignored_articles": [
@@ -13899,6 +13909,10 @@
     {
       "supplier": "Scalebay",
       "article": "NAME::Маз 6430 с полуприцепом нефаз 93341"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::МАЗ-9506-30 самосвальный полуприцеп-щеповоз"
     }
   ],
   "manufacturer_map": [
