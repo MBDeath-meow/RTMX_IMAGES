@@ -8889,6 +8889,21 @@
       "supplier": "Scalebay",
       "article": "NAME::Norba KI-12 (5334)  SSM",
       "unomag_id": 630206
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Norba KI-12 (МАЗ-5334)",
+      "unomag_id": 630206
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Praga S5T-3 бортовой   SSM",
+      "unomag_id": 317048
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Praga S5T-3 самосвал   SSM",
+      "unomag_id": 317047
     }
   ],
   "ignored_articles": [
