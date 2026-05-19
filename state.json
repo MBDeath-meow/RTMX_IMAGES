@@ -14449,6 +14449,41 @@
       "supplier": "Scalebay",
       "article": "NAME::Форд Ford Transit Бортовой 2001 Minichamps 1:43",
       "unomag_id": 2311
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Форд Ford Transit 2001 Minichamps 1:43",
+      "unomag_id": 216876
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Форд Ford Taunus 12M Turnier 1962 Minichamps 1:43 400086110",
+      "unomag_id": 4582
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Форд Ford Taunus 12M 1961 Minichamps 1:43 400086101",
+      "unomag_id": 184972
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Форд Ford Taunus 12M 1957 Minichamps 1:43 400085610",
+      "unomag_id": 3254
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Форд Ford OSI 20M TS 1967 Minichamps 1:43 400087021",
+      "unomag_id": 174552
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Форд Ford Mustang Fastback 2+2 1968 Белый Minichamps 1:43 400082025",
+      "unomag_id": 152353
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Форд Ford KA Digital 2009 Minichamps 1:43 400088200",
+      "unomag_id": 3281
     }
   ],
   "ignored_articles": [
