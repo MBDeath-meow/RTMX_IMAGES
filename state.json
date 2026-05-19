@@ -12989,6 +12989,31 @@
       "supplier": "Scalebay",
       "article": "NAME::Маз 520 Тягач Специальный (2 оси спереди) 1965 СССР НАП Наш Автопром 1:43",
       "unomag_id": 198226
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Маз 504 А синий Тягач 1970 СССР НАП Наш Автопром 1:43 H761B",
+      "unomag_id": 174108
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Маз 504 А красный тягач 1970 СССР НАП Наш Автопром 1:43 H761R",
+      "unomag_id": 174109
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Маз 503 Б Самосвал 1958 СССР НАП Наш Автопром 1:43 H756BS",
+      "unomag_id": 173669
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Маз 503 Б Самосвал 1958 СССР Двухцветный НАП Наш Автопром 1:43",
+      "unomag_id": 173670
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Маз 500 бортовой, светло-зеленый 1962 СССР НАП Наш Автопром 1:43",
+      "unomag_id": 172870
     }
   ],
   "ignored_articles": [
@@ -14311,6 +14336,18 @@
     {
       "supplier": "Scalebay",
       "article": "NAME::Модель автомобиля КИМ-10-51 в масштабе 1:43"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::МАЗ-55514-023 фургон Мебель (красный/серый) Конверсия Наш Автопром М.0727"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::МАЗ-5о3А самосвал 1975 (синий) Наш Автопром М.0666"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::МАЗ-6422 седельный тягач 1981-1985 (синий) Наш Автопром М.0670"
     }
   ],
   "manufacturer_map": [
