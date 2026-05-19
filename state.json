@@ -11119,6 +11119,36 @@
       "supplier": "Scalebay",
       "article": "NAME::Бетономешалка СБ-92 (Камаз-5511). ПАО Камаз.",
       "unomag_id": 636031
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::КАМАЗ-5511 самосвал (ПАО)",
+      "unomag_id": 633016
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::КАМАЗ-5511 самосвал темно-зеленый",
+      "unomag_id": 633016
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::КАМАЗ-6520 Рестайлинг зеленый",
+      "unomag_id": 641239
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::КАМАЗ-6520 самосвал серый .ПАО Камаз.",
+      "unomag_id": 655982
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::КАМАЗ-6520 серый",
+      "unomag_id": 655982
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::КАМАЗ-65206 с полуприцепом НЕФАЗ-93341. ПАО Камаз.",
+      "unomag_id": 364917
     }
   ],
   "ignored_articles": [
@@ -12273,6 +12303,10 @@
     {
       "supplier": "Scalebay",
       "article": "NAME::Полуприцеп НЕФАЗ-93341 зеленый, без надписей"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::КАМАЗ-6520"
     }
   ],
   "manufacturer_map": [
