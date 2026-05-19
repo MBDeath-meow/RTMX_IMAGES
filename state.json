@@ -13174,6 +13174,61 @@
       "supplier": "Scalebay",
       "article": "Н453",
       "unomag_id": 177816
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "Н351",
+      "unomag_id": 378
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "Н297",
+      "unomag_id": 179122
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "Н290",
+      "unomag_id": 177282
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "Н285",
+      "unomag_id": 172872
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "Н284",
+      "unomag_id": 169756
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "Н226",
+      "unomag_id": 260015
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "Н201",
+      "unomag_id": 178789
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "Н 286",
+      "unomag_id": 169757
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "OBT02",
+      "unomag_id": 461730
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "LMK-45013",
+      "unomag_id": 457825
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "H976",
+      "unomag_id": 215681
     }
   ],
   "ignored_articles": [
@@ -14508,6 +14563,10 @@
     {
       "supplier": "Scalebay",
       "article": "NAME::МАЗ-6422 седельный тягач 1981-1985 (синий) Наш Автопром М.0670"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "Н217, Н904, Н218"
     }
   ],
   "manufacturer_map": [
