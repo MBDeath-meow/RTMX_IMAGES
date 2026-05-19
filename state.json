@@ -15734,6 +15734,26 @@
       "supplier": "Scalebay",
       "article": "NAME::УАЗ-3163 Патриот, выпуск 182",
       "unomag_id": 185157
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::1/43 Dutra DR-50-ТРАКТОРЫ №68 - HACHETTE",
+      "unomag_id": 206138
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::1/43 ДТ-20 ТРАКТОРЫ №71 - HACHETTE",
+      "unomag_id": 207142
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::1/43 Запорожец - ТРАКТОРЫ №69 HACHETTE",
+      "unomag_id": 206365
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::1/43 МТЗ-7 ТРАКТОРЫ №74 HACHETTE",
+      "unomag_id": 208595
     }
   ],
   "ignored_articles": [
@@ -17572,6 +17592,10 @@
     {
       "supplier": "Scalebay",
       "article": "NAME::Уайт-АМО (DeA Автолегенды СССР)"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::↪︎ Под ЗАКАЗ! См.ТЕКСТ! -  Volkswagen Crossfox 1.6 AWD 1/43 Фольксваген КроссФокс 4x4’ 2006 года красный / RED  1:43"
     }
   ],
   "manufacturer_map": [
