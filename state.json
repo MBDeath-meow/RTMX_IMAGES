@@ -14599,6 +14599,41 @@
       "supplier": "Scalebay",
       "article": "NAME::Скания Scania L110 + полуприцеп цистерна Fina 1955 Minichamps 1:43 499126970",
       "unomag_id": 154332
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Ситроен Citroen CX Break Hearse Катафалк 1980 Minichamps 1:43 400111495",
+      "unomag_id": 155025
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Ситроен Citroen CX Break 1980 Универсал Minichamps 1:43 400111411",
+      "unomag_id": 214213
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Ситроен Citroen Ami 6 Break 1967 Minichamps 1:43 400111671",
+      "unomag_id": 4594
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Сеат Seat Arosa 1997 Minichamps 1:43 430057101",
+      "unomag_id": 184931
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Сааб Saab 900 SE Saloon 1995 Черный Minichamps 1:43 430170500",
+      "unomag_id": 186513
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Сааб Saab 900 SE Saloon 1995 Nurnberg Toy Fair 2001 Minichamps 1:43 430170500",
+      "unomag_id": 186513
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Роллс Ройс Rolls Royce Silver Cloud II Cabriolet 1960 Minichamps 1:43 436134930",
+      "unomag_id": 202997
     }
   ],
   "ignored_articles": [
