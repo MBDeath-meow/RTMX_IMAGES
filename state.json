@@ -11104,6 +11104,21 @@
       "supplier": "Scalebay",
       "article": "NAME::Полуприцеп МАЗ-5205  АИСТ",
       "unomag_id": 714391
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::АЦ-3.2-40 (43502)",
+      "unomag_id": 203072
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Автобетоносмеситель СБ 92 (5511)",
+      "unomag_id": 636031
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Бетономешалка СБ-92 (Камаз-5511). ПАО Камаз.",
+      "unomag_id": 636031
     }
   ],
   "ignored_articles": [
