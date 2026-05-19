@@ -10039,6 +10039,61 @@
       "supplier": "Scalebay",
       "article": "NAME::АЦПТ-4,1 (130)  SSM",
       "unomag_id": 560237
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Автокран АК-75 на Зил-164.SSM.",
+      "unomag_id": 180403
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Автокран К-51 (МАЗ-200), зеленый/серый",
+      "unomag_id": 181754
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Автокран К-67 (500) Start Scale Models (SSM)",
+      "unomag_id": 654955
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Автокран КС-3575А (КамАЗ-53213)",
+      "unomag_id": 411964
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Автокран КС-3575А (КамАЗ-53213). SSM.",
+      "unomag_id": 411964
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Автокран КС-3577 (500А)",
+      "unomag_id": 676639
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Армейский автобус АС 38, хаки SSM",
+      "unomag_id": 176767
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Артиллерийский гусеничный тягач АТС-59Г, парадный   SSM",
+      "unomag_id": 205679
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Ассенизационная машина АНМ-53 (53А)",
+      "unomag_id": 244966
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Ассенизационная машина АНМ-53 (53А) г.ор.",
+      "unomag_id": 250766
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::БМД-1  SSM",
+      "unomag_id": 633015
     }
   ],
   "ignored_articles": [
@@ -11065,6 +11120,10 @@
     {
       "supplier": "Scalebay",
       "article": "NAME::АЦ-40(133ГЯ)   (SSM)"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Автокран К-67 (500) + KАМАЗ-65801-T5 Start Scale Models (SSM)"
     }
   ],
   "manufacturer_map": [
