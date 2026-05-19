@@ -16034,6 +16034,11 @@
       "supplier": "Scalebay",
       "article": "NAME::Бугатти Bugatti Type 41 Royale 1929 Altaya 1:43",
       "unomag_id": 188934
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Крайслер Chrysler Diesel Taxi Barcelona Такси Барселоны 1980 IXO Altaya 1:43",
+      "unomag_id": 232457
     }
   ],
   "ignored_articles": [
@@ -17928,6 +17933,10 @@
     {
       "supplier": "Scalebay",
       "article": "NAME::Автобус ЗИС-154 (бежевый/красный) Hachette М.0566"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::ЗИЛ 130 АЦ40 ’Куба’"
     }
   ],
   "manufacturer_map": [
