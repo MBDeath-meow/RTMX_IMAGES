@@ -11714,6 +11714,56 @@
       "supplier": "Scalebay",
       "article": "NAME::МАЗ-6430",
       "unomag_id": 183397
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::МАЗ-6422 с самосвальным полуприцепом МАЗ-9506-20",
+      "unomag_id": 187983
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::МАЗ-6422 с полуприцепом-контейнеровозом МАЗ-938920, Maersk",
+      "unomag_id": 187201
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::МАЗ-6422 с полуприцепом Lamberet Sovtransavto. SSM.",
+      "unomag_id": 499999
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::МАЗ-5440 седельный тягач",
+      "unomag_id": 187124
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::МАЗ-5440 Мосметро  SSM",
+      "unomag_id": 248732
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::МАЗ-5429 Совтрансавто.SSM.",
+      "unomag_id": 678487
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::МАЗ-5340, оранжевый зеленый",
+      "unomag_id": 189078
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::МАЗ-5340 борт/тент. SSM.",
+      "unomag_id": 202911
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::МАЗ-525  25 тонн Выставочный 1959г (Лимитированное издание)",
+      "unomag_id": 174308
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::МАЗ-504А с полуприцепом МАЗ-5205   SSM",
+      "unomag_id": 490441
     }
   ],
   "ignored_articles": [
@@ -12908,6 +12958,10 @@
     {
       "supplier": "Scalebay",
       "article": "NAME::Маз 504в с п/п Алка"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::МАЗ-504 с полуприцепом’Пропан-Огнеопасно’"
     }
   ],
   "manufacturer_map": [
