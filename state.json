@@ -8844,6 +8844,51 @@
       "supplier": "Scalebay",
       "article": "NAME::1/43  Volvo-F12-1",
       "unomag_id": 489590
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Chevrolet G7117",
+      "unomag_id": 262279
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::GAZ Tiger double cab Pick up",
+      "unomag_id": 6463
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "SSM1543",
+      "unomag_id": 480349
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Kamaz-65801-T5   SSM",
+      "unomag_id": 483603
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Kamaз-65801-68",
+      "unomag_id": 482150
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::KО-829А (4333)      SSM",
+      "unomag_id": 459312
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::KамAЗ-43253 бортовой синий рестайлинг",
+      "unomag_id": 487535
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Norba KI-12 (5334)",
+      "unomag_id": 630206
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Norba KI-12 (5334)  SSM",
+      "unomag_id": 630206
     }
   ],
   "ignored_articles": [
