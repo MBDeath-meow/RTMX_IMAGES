@@ -10764,6 +10764,16 @@
       "supplier": "Scalebay",
       "article": "NAME::полуприцеп тц-4",
       "unomag_id": 191461
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::п.прицеп ЧМЗАП 5523",
+      "unomag_id": 186617
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::п.пр НЕФАЗ 96742",
+      "unomag_id": 204461
     }
   ],
   "ignored_articles": [
@@ -11866,6 +11876,10 @@
     {
       "supplier": "Scalebay",
       "article": "NAME::Из коллекции. ЗИЛ-130 Кунг аварийная служба Горсвет из к/ф Ночной Дозор SSM 1:43"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::полуприцеп МАЗ-9758"
     }
   ],
   "manufacturer_map": [
