@@ -14119,6 +14119,26 @@
       "supplier": "Scalebay",
       "article": "NAME::1/43 McLaren 675LT 2016 Solis Yellow - Minichamps",
       "unomag_id": 627363
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::1/43 Porsche 928 S 1978 Grey - Minichamps",
+      "unomag_id": 391527
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::1928 Ford Model A Standart Coupe Minichamps",
+      "unomag_id": 360342
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::1949 Ford Custom Minichamps",
+      "unomag_id": 192624
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::1955 Ford Thunderbird Minichamps",
+      "unomag_id": 192613
     }
   ],
   "ignored_articles": [
