@@ -12154,6 +12154,31 @@
       "supplier": "Scalebay",
       "article": "NAME::Камаз 43502 SSM",
       "unomag_id": 189890
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::КамАЗ 6520 , SSM",
+      "unomag_id": 196699
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Зил 130 (ТСВ 6) сине_оранж",
+      "unomag_id": 169769
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Зил 130 (ТСВ 6) хаки",
+      "unomag_id": 169768
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Зил 157 6х6 АГВТ 100 (157) ЧСПТ Симферополь Пожарный 1973 СССР SSM 1:43 SSM1072.1",
+      "unomag_id": 178862
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Зил 157 6х6 ПМЗ-27 (157К) г. Томск, ПЧ №7 SSM 1:43 SSM1113",
+      "unomag_id": 177910
     }
   ],
   "ignored_articles": [
@@ -13408,6 +13433,14 @@
     {
       "supplier": "Scalebay",
       "article": "NAME::КамАЗ 6522 рестайл+ КамАЗ 65225 оранж"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::КамАЗ 6520 SSM 1251"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Каз 608В синий (!!!АРХИВ!!!)"
     }
   ],
   "manufacturer_map": [
