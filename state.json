@@ -13434,6 +13434,21 @@
       "supplier": "Scalebay",
       "article": "H244.1",
       "unomag_id": 275657
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "H243.1",
+      "unomag_id": 272991
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "H242.1",
+      "unomag_id": 274170
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "H2412",
+      "unomag_id": 367915
     }
   ],
   "ignored_articles": [
