@@ -13854,6 +13854,46 @@
       "supplier": "Scalebay",
       "article": "NAME::Краз 222 Б / 256 Б 1969 СССР НАП Наш Автопром 1:43 H767",
       "unomag_id": 189079
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Краз 250 1995 6х6 СССР НАП Наш Автопром 1:43",
+      "unomag_id": 179338
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::МАЗ  5337  (1991-99г.)  серо - голубой  НАП",
+      "unomag_id": 187455
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::МАЗ 503а Самосвал Наш Автопром 1:43",
+      "unomag_id": 173426
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::МАЗ 504 Б 1965 СССР НАП Наш Автопром 1:43",
+      "unomag_id": 174107
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::МАЗ 504В (1970-77г.)  НАП",
+      "unomag_id": 179854
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::МАЗ 515А Автопробег (1974г.) темно-красный НАП",
+      "unomag_id": 188441
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::МАЗ 5428 тягач (1977г.) белый НАП",
+      "unomag_id": 183012
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::МАЗ 5428 тягач (1977г.) бирюзовый НАП",
+      "unomag_id": 183011
     }
   ],
   "ignored_articles": [
@@ -15208,6 +15248,10 @@
     {
       "supplier": "Scalebay",
       "article": "NAME::КрАЗ-251 самосвал (оранжевый/красный) Наш Автопром  М.0658"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::МАЗ 511 самосвал с прицепом"
     }
   ],
   "manufacturer_map": [
