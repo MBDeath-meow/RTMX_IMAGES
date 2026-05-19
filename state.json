@@ -14914,6 +14914,16 @@
       "supplier": "Scalebay",
       "article": "NAME::AVIA A31 OPS, Kultowe Ciezarowki PRL-u 117",
       "unomag_id": 640125
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::CSEPEL D-750, Kultowe Ciezarowki PRL-u 60",
+      "unomag_id": 412968
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Donkervoort D8 GTO. DeAGOSTINI 1/43",
+      "unomag_id": 154503
     }
   ],
   "ignored_articles": [
@@ -16332,6 +16342,58 @@
     {
       "supplier": "Scalebay",
       "article": "NAME::Citroën 2CV полиция страны Басков (белый/синий) DeAgostini  М.0602"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Deagostini Автолегенды СССР №114 ЕрАЗ-3730 1995—2002 гг."
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Deagostini Автолегенды СССР №119 ЗиЛ-112С"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Deagostini Автолегенды СССР №128 ВАЗ-1801 Пони"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Deagostini Автолегенды СССР №88 ВНИИТЭ-ПТ"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Fiat 126Р и Горький-69 Т-3 «Снегоуборочные автомобили»"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Ford Cortina MkV полиция Великобритании (белый/т.синий) DeAgostini  М.0576"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Ford Crown Victoria - ДПС-ГАИ (1/43) Автомобиль на службе №58"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Ford Crown Victoria 1998 полиция Нью-Йорка, США (белый) DeAgostini  М.0590"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Ford Crown Victoria ДПС ГАИ (белый) DeAgostini М.0606"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Ford Crown Victoria полиция Мексики (белый) DeAgostini  М.0612"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Ford Econoline полиция Колумбии (белый/голубой) DeAgostini  М.0582"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Ford Transit MK1 городская полиция Великобритании (оранжевый/белый) DeAgostini  М.0575"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::FORD Transit следственный комитет России (серия «Автомобили на службе»)"
     }
   ],
   "manufacturer_map": [
