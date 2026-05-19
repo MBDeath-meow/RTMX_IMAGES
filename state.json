@@ -8969,6 +8969,31 @@
       "supplier": "Scalebay",
       "article": "NAME::SSM в боксе КамАЗ 65225, дорестайлинг, желтый",
       "unomag_id": 630928
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::SSM в боксе, ГТ-С, 1954 г., с тентом",
+      "unomag_id": 173587
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::SSM.  УАЗ-469 (31512), голубой",
+      "unomag_id": 379009
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::SSM. 93М (51)",
+      "unomag_id": 572219
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::SSM. 9П140 РСЗО 9К57 Ураган на шасси ЗИЛ-135ЛМ",
+      "unomag_id": 299319
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::SSM. AVIA A31N DA-12 пожарный",
+      "unomag_id": 429916
     }
   ],
   "ignored_articles": [
@@ -9955,6 +9980,10 @@
     {
       "supplier": "Scalebay",
       "article": "NAME::SSM в боксе УралЗИС-355М хаки с тентом"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::SSM.  КрАЗ-258Б1"
     }
   ],
   "manufacturer_map": [
