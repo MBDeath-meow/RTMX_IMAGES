@@ -14249,6 +14249,11 @@
       "supplier": "Scalebay",
       "article": "NAME::Audi FRONT 225 ROADSTER BLACK 1935",
       "unomag_id": 4674
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Audi Front 225 Roadster 1935",
+      "unomag_id": 4673
     }
   ],
   "ignored_articles": [
