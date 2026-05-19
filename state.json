@@ -16159,6 +16159,31 @@
       "supplier": "Scalebay",
       "article": "NAME::Steyr Typ 1500A/01 Kfz.21  Kommandeurwagen DAK Tunisia, February 1943танк",
       "unomag_id": 342464
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "FFES34",
+      "unomag_id": 509631
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Talbot Lago 2500 Sport 1956 Altaya 1:43",
+      "unomag_id": 366670
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Talbot Lago T 150 SS Figoni Falaschi 1938 Altaya 1:43",
+      "unomag_id": 6794
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Talbot Lago T 150 SS Figoni Falaschi 1938 Altaya IXO Museum 1:43",
+      "unomag_id": 6794
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Suzuki Swift 1992",
+      "unomag_id": 474707
     }
   ],
   "ignored_articles": [
