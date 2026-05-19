@@ -9659,6 +9659,41 @@
       "supplier": "Scalebay",
       "article": "NAME::АИСТ. Skoda 706 MTTN",
       "unomag_id": 485253
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::АИСТ. Skoda 706 RTTN",
+      "unomag_id": 485254
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::АИСТ. Tatra-148 NT 6x6",
+      "unomag_id": 455163
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::АИСТ. АТ-Л",
+      "unomag_id": 379634
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::АИСТ. АЦ-30(130)63А Москва, ПЧ №68",
+      "unomag_id": 188489
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::АИСТ. АЦ-9 (5337)",
+      "unomag_id": 334254
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::АИСТ. Бронетранспортёр БТР-152К",
+      "unomag_id": 198336
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::АИСТ. ЗИЛ-4331 бортовой, учебный (хаки)",
+      "unomag_id": 178138
     }
   ],
   "ignored_articles": [
