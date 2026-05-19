@@ -9464,6 +9464,41 @@
       "supplier": "Scalebay",
       "article": "NAME::SSM. СКП-11 (130) с прицепом",
       "unomag_id": 597239
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::SSM. ТВГ-15",
+      "unomag_id": 438741
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::SSM. ТВГ-15М (51А)",
+      "unomag_id": 675784
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::SSM. Танк КВ-2",
+      "unomag_id": 257284
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::SSM. Трамвай Tatra-KT4",
+      "unomag_id": 457839
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::SSM. Трамвай Tatra-T1",
+      "unomag_id": 394616
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::SSM. Трамвай Tatra-T2",
+      "unomag_id": 381192
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::SSM. Трамвай Tatra-T3SU",
+      "unomag_id": 388262
     }
   ],
   "ignored_articles": [
