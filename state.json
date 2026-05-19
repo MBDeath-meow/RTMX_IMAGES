@@ -12179,6 +12179,31 @@
       "supplier": "Scalebay",
       "article": "NAME::Зил 157 6х6 ПМЗ-27 (157К) г. Томск, ПЧ №7 SSM 1:43 SSM1113",
       "unomag_id": 177910
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Зил 157 АТ_2",
+      "unomag_id": 153500
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Зил 157 СА",
+      "unomag_id": 152936
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Зил 157 аэрофлот",
+      "unomag_id": 154341
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Зил 157 пожарный",
+      "unomag_id": 154342
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Зил 164 ЛуМЗ 890Б (на шасси ЗИЛ 164) 1969 SSM 1:43 SSM1044 БЕСПЛАТНАЯ доставка",
+      "unomag_id": 154530
     }
   ],
   "ignored_articles": [
