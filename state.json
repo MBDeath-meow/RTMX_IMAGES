@@ -14439,6 +14439,16 @@
       "supplier": "Scalebay",
       "article": "NAME::Форд Ford V8 Deluxe Woody 1940 Универсал Minichamps 1:43 400082112",
       "unomag_id": 184903
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Форд Ford Transit микроавтобус 2000 Minichamps 1:43",
+      "unomag_id": 2312
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Форд Ford Transit Бортовой 2001 Minichamps 1:43",
+      "unomag_id": 2311
     }
   ],
   "ignored_articles": [
