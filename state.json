@@ -12454,6 +12454,51 @@
       "supplier": "Scalebay",
       "article": "NAME::ПУ-20 (51А)",
       "unomag_id": 694057
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::ПУ-20 (51) подметалка АИСТ",
+      "unomag_id": 694057
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::ПР-53(52) АИСТ",
+      "unomag_id": 464451
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::ПНС-110 (131), МосМетро",
+      "unomag_id": 187126
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::ПНС-110 (131), МЧС",
+      "unomag_id": 187127
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::ОДАЗ 794",
+      "unomag_id": 206717
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::НАМИ-890 АИСТ",
+      "unomag_id": 695471
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::НАМИ-790  АИСТ",
+      "unomag_id": 695471
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::НАМИ-790",
+      "unomag_id": 695471
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Мусоровоз МКМ-2 (ЗиЛ-4333)",
+      "unomag_id": 499998
     }
   ],
   "ignored_articles": [
