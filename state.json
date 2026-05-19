@@ -10859,6 +10859,11 @@
       "supplier": "Scalebay",
       "article": "NAME::ЯАЗ-210Е самосвал",
       "unomag_id": 186835
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::ЯАЗ-200 бортовой (зелёный)",
+      "unomag_id": 186058
     }
   ],
   "ignored_articles": [
@@ -11969,6 +11974,10 @@
     {
       "supplier": "Scalebay",
       "article": "NAME::коробка Зил 131 СССР Арек Элекон 1:43"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Шасси полуприцепа МАЗ-938920, БЕЗ КОНТЕЙНЕРОВ"
     }
   ],
   "manufacturer_map": [
