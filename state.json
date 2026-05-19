@@ -10724,6 +10724,26 @@
       "supplier": "Scalebay",
       "article": "NAME::ЗИЛ-131 бортовой с тентом (6x6) ООН",
       "unomag_id": 175435
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::ЗИЛ-133ГЯ хаки. Автоистория.",
+      "unomag_id": 637000
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::ЗИЛ-ММЗ-4505 самосвал",
+      "unomag_id": 248140
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::ЗИС 150 Аэрофлот",
+      "unomag_id": 159807
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Зил 164 серый",
+      "unomag_id": 153496
     }
   ],
   "ignored_articles": [
@@ -11818,6 +11838,10 @@
     {
       "supplier": "Scalebay",
       "article": "NAME::Груз в кузов. Уголь. Краз-256"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::ЗиЛ-ММЗ-4502 (аварийная служба Московского метро)"
     }
   ],
   "manufacturer_map": [
