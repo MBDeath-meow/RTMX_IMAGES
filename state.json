@@ -11379,6 +11379,46 @@
       "supplier": "Scalebay",
       "article": "NAME::ТЗ-200 (на шасси МАЗ-200) SSM",
       "unomag_id": 176766
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::ТВГ-15М (51А)   SSM",
+      "unomag_id": 675784
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::ТВ-3 (51А).SSM.",
+      "unomag_id": 637802
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::ТВ-3 (51А)  SSM",
+      "unomag_id": 637802
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Т 150Д ж.бел",
+      "unomag_id": 182202
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Т 150 кр.бел",
+      "unomag_id": 182203
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Т 150 К хаки",
+      "unomag_id": 192519
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Самоходный трехвальцовый каток ДУ-50   SSM",
+      "unomag_id": 187477
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Самоходный трехвальцовый каток ДУ-50",
+      "unomag_id": 187477
     }
   ],
   "ignored_articles": [
