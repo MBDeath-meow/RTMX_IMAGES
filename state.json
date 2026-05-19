@@ -9694,6 +9694,36 @@
       "supplier": "Scalebay",
       "article": "NAME::АИСТ. ЗИЛ-4331 бортовой, учебный (хаки)",
       "unomag_id": 178138
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::АИСТ. ЗИС-ММЗ-120Н седельный тягач",
+      "unomag_id": 283073
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::АИСТ. КАВЗ-3976",
+      "unomag_id": 250765
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::АИСТ. КАВЗ-3976 МЧС",
+      "unomag_id": 232492
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::АИСТ. КАЗ-4540",
+      "unomag_id": 503314
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::АИСТ. КАМАЗ-65801-T5",
+      "unomag_id": 521776
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::АИСТ. КММ-2 (51)",
+      "unomag_id": 707012
     }
   ],
   "ignored_articles": [
@@ -10822,6 +10852,10 @@
     {
       "unomag_name": "Автоистория (АИСТ)",
       "variation": "Start Scale Models (SSM)"
+    },
+    {
+      "unomag_name": "Автоистория (АИСТ)",
+      "variation": "ПАО КАМАЗ"
     }
   ],
   "suppliers": [
