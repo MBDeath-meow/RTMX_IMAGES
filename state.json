@@ -11484,6 +11484,36 @@
       "supplier": "Scalebay",
       "article": "NAME::ПМЗ 17А ( ЗИЛ 164) SSM",
       "unomag_id": 302130
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::ПМГ-19 (63) ПЧ №199 Лосино-Петровский   SSM",
+      "unomag_id": 324507
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::ПМ 102Б (Ликино - Дулево)",
+      "unomag_id": 195398
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::ПД-4М (51)",
+      "unomag_id": 660809
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::ОДАЗ 885 (7012)",
+      "unomag_id": 178804
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::НАМИ 012",
+      "unomag_id": 184600
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Мусоровоз с боковой загрузкой МКМ-2 (на шасси ЗИЛ-4333)   SSM",
+      "unomag_id": 468355
     }
   ],
   "ignored_articles": [
@@ -12666,6 +12696,10 @@
     {
       "supplier": "Scalebay",
       "article": "NAME::ПНС - 100 (157К) (1135)"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Надстройка КУНГ КМ 131, 1/43"
     }
   ],
   "manufacturer_map": [
