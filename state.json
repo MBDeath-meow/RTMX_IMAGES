@@ -8929,6 +8929,26 @@
       "supplier": "Scalebay",
       "article": "NAME::SSM ЗИЛ-131 бортовой, Автоэкспорт",
       "unomag_id": 153283
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::SSM КамАЗ-6520 белый",
+      "unomag_id": 598571
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::SSM КамАЗ-6522 желтый",
+      "unomag_id": 588726
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::SSM КамАЗ-6522 оранжевый",
+      "unomag_id": 579241
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::SSM Каток СД-802 (Т-150)",
+      "unomag_id": 192516
     }
   ],
   "ignored_articles": [
@@ -9895,6 +9915,10 @@
     {
       "supplier": "Scalebay",
       "article": "NAME::SSM Горький 233001 пикап, в боксе 14см"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::SSM КрАЗ-257Б1, шасси с платформой"
     }
   ],
   "manufacturer_map": [
