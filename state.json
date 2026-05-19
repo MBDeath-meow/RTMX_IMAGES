@@ -12009,6 +12009,41 @@
       "supplier": "Scalebay",
       "article": "NAME::КрАЗ-258Б1 с полуприцепом ТЗ-22.SSM.",
       "unomag_id": 590780
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::КрАЗ-214 бортовой (Мосгортранс)",
+      "unomag_id": 214442
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::КрАЗ 257 Б1 бортовой 1965 СССР SSM 1:43 SSM1070",
+      "unomag_id": 172733
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Каток СД-802 (Т-150)   SSM",
+      "unomag_id": 192516
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Камаз-65802-87(S5) самосвал.SSM.",
+      "unomag_id": 477068
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Камаз-65801-Т5 самосвал.SSM.",
+      "unomag_id": 483603
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Камаз-65801-68 самосвал.SSM.",
+      "unomag_id": 482150
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Камаз-65801-68",
+      "unomag_id": 482150
     }
   ],
   "ignored_articles": [
@@ -13231,6 +13266,18 @@
     {
       "supplier": "Scalebay",
       "article": "NAME::Краз 257 SSM"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::КрАЗ-257Б1, бортовой"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Контейнерный мусоровоз М-30 (53) бирюзовый"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Камаз-65802-87 (S5)"
     }
   ],
   "manufacturer_map": [
