@@ -11329,6 +11329,56 @@
       "supplier": "Scalebay",
       "article": "NAME::Тяжелый артиллерийский тягач АТ-Т, парадный  SSM",
       "unomag_id": 205678
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Урал 375 Миасский грузовик 375Д 4х4 1963 СССР SSM 1:43 SSM1103",
+      "unomag_id": 176461
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Урал 375 Миасский грузовик 375Д бортовой с тентом (оранжевый) SSM 1:43",
+      "unomag_id": 176460
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Трамвай Tatra-T2",
+      "unomag_id": 381192
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Трамвай Tatra-T1  SSM",
+      "unomag_id": 384989
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Трамвай Tatra-KT4 SSM",
+      "unomag_id": 457839
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Тигр-233001 пикап песочный",
+      "unomag_id": 6463
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Тигр 233001 пикап SSM",
+      "unomag_id": 6463
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Телескопическая вышка ТВГ-15(52)",
+      "unomag_id": 438741
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Танк Т-54-1   SSM",
+      "unomag_id": 198708
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::ТЗ-200 (на шасси МАЗ-200) SSM",
+      "unomag_id": 176766
     }
   ],
   "ignored_articles": [
