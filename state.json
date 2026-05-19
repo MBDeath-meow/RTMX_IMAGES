@@ -15559,6 +15559,36 @@
       "supplier": "Scalebay",
       "article": "NAME::Модель УАЗ-469Б ’Эльбрус’ (УАЗ на службе №2) 1:43 DEA",
       "unomag_id": 346307
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Москвич 141КР",
+      "unomag_id": 232465
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Москвич 2143 АЗЛК ’Яуза’ 1991 г. красный IXO IST Автолегенды СССР 1:43",
+      "unomag_id": 154639
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::МОСКВИЧ -2144 Истра. Автолегенды СССР. DeAGOSTINI 1/43",
+      "unomag_id": 5311
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Москвич 2150 АЗЛК 4х4 1973 г. оранжевый IXO IST Автолегенды СССР 1:43",
+      "unomag_id": 8098
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Москвич 400 401 АЗЛК 1954 - 1956 гг. серый IXO IST Автолегенды СССР 1:43",
+      "unomag_id": 1831
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Москвич 400 АЗЛК АПА 7 Аэродромная служба IXO IST Автолегенды СССР 1:43",
+      "unomag_id": 156213
     }
   ],
   "ignored_articles": [
@@ -17265,6 +17295,22 @@
     {
       "supplier": "Scalebay",
       "article": "NAME::МОСКВИЧ   3-5-6"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Москвич 2139 АЗЛК ’Арбат’ 1991 г. голубой с белым IXO IST Автолегенды СССР 1:43"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Москвич 400 420 А АЗЛК 1949 - 1952 гг. тёмно-синий IXO IST Автолегенды СССР 1:43"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Москвич 400-420А"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Москвич 402 АЗЛК 1956 - 1958 гг. сине-зеленый IXO IST Автолегенды СССР 1:43"
     }
   ],
   "manufacturer_map": [
