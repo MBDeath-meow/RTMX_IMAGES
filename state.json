@@ -12044,6 +12044,51 @@
       "supplier": "Scalebay",
       "article": "NAME::Камаз-65801-68",
       "unomag_id": 482150
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Камаз-6520-21010-53",
+      "unomag_id": 480349
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Камаз-6520 самосвал белый. SSM.",
+      "unomag_id": 598571
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Камаз-6520 рестайлинг самосвал.SSM.",
+      "unomag_id": 584696
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Камаз-53212 Почта России.SSM.",
+      "unomag_id": 214008
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Камаз-43118 бортовой 6х6. SSM.",
+      "unomag_id": 596922
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Камаз-4310 к4320д, ssm, обмен.",
+      "unomag_id": 334934
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Камаз-4310  К4320Д",
+      "unomag_id": 334934
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Камаз 65951 Самосвал (Mercedes Benz Arocs) 2022 SSM 1:43 SSM1533 Раритет",
+      "unomag_id": 457283
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Камаз 65802-87",
+      "unomag_id": 477068
     }
   ],
   "ignored_articles": [
@@ -13278,6 +13323,10 @@
     {
       "supplier": "Scalebay",
       "article": "NAME::Камаз-65802-87 (S5)"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Камаз- 43502"
     }
   ],
   "manufacturer_map": [
