@@ -10349,6 +10349,36 @@
       "supplier": "Scalebay",
       "article": "NAME::зил 4333",
       "unomag_id": 226063
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::зил 131 экспортная версия",
+      "unomag_id": 153283
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::зил 131 green",
+      "unomag_id": 153284
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::зил 130Г blue",
+      "unomag_id": 154531
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::зил 130 новая решётка радиатора хаки",
+      "unomag_id": 156502
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::зил - ммз 4505 з.с",
+      "unomag_id": 226840
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::автокран АК-75В (130)   SSM",
+      "unomag_id": 486148
     }
   ],
   "ignored_articles": [
