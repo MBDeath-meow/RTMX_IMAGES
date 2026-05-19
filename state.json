@@ -14884,6 +14884,16 @@
       "supplier": "Scalebay",
       "article": "NAME::Мерседес Бенц Mercedes Benz B klasse 2007 Minichamps 1:43 400037400",
       "unomag_id": 4519
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::1/43 Lada Vesta",
+      "unomag_id": 333160
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::1/43 ЗИЛ-118КЛ Криминалистическая лаборатория  - АНС",
+      "unomag_id": 2541
     }
   ],
   "ignored_articles": [
@@ -16278,6 +16288,18 @@
     {
       "supplier": "Scalebay",
       "article": "NAME::Мицубиси Mitsubishi Pajero LWB 1994 4x4 Черный Minichamps 1:43 430163471"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::!!! Уценка Спец. выпуск УАЗ на службе. №1 Автолегенды CCCР. УАЗ марторелли"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::√ В НАЛИЧИИ!★Редкая! « Niewiadow N126» - ’Прицеп дача’ 1/43 Жилой-модуль - прицеп -’кемпер’ 1:43  1:43"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::1/43     Deagostini        FERRARI  250 GT CALIFORNIA"
     }
   ],
   "manufacturer_map": [
