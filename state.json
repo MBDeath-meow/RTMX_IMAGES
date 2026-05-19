@@ -16019,6 +16019,21 @@
       "supplier": "Scalebay",
       "article": "TTC002",
       "unomag_id": 632706
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Альфа Ромео Alfa Romeo 8C 1st Le Mans 1934 Etancelin - Chinetti IXO Altaya Museum 1:43",
+      "unomag_id": 6796
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Бугатти Bugatti Type 101 1951 IXO Museum Altaya 1:43",
+      "unomag_id": 188922
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Бугатти Bugatti Type 41 Royale 1929 Altaya 1:43",
+      "unomag_id": 188934
     }
   ],
   "ignored_articles": [
@@ -17905,6 +17920,14 @@
     {
       "supplier": "Scalebay",
       "article": "NAME::Трактор ХТЗ 7 1950 СССР серия Тракторы № 21 Hachette 1/43 Доработан"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Автобус Leyland Victory MKII Hong Kong (голубой/бежевый) Hachette М.0562"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Автобус ЗИС-154 (бежевый/красный) Hachette М.0566"
     }
   ],
   "manufacturer_map": [
