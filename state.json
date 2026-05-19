@@ -10094,6 +10094,26 @@
       "supplier": "Scalebay",
       "article": "NAME::БМД-1  SSM",
       "unomag_id": 633015
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::БМД-2 SSM",
+      "unomag_id": 666534
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::БТР-152К (хаки)",
+      "unomag_id": 179191
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Бронетранспортёр ГТ-МУ SSM3042",
+      "unomag_id": 366086
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Бронетранспортёр ГТ-МУ, МЧС  SSM",
+      "unomag_id": 377537
     }
   ],
   "ignored_articles": [
@@ -11124,6 +11144,10 @@
     {
       "supplier": "Scalebay",
       "article": "NAME::Автокран К-67 (500) + KАМАЗ-65801-T5 Start Scale Models (SSM)"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Бокс 32х10,5х10,5 С креплением.SSM."
     }
   ],
   "manufacturer_map": [
