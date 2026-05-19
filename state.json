@@ -16224,6 +16224,21 @@
       "supplier": "Scalebay",
       "article": "NAME::Toyota Land Cruiser FJ40 (1982) (Altaya)",
       "unomag_id": 392225
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Модель Chevrolet S-10 pick-up (1995) dark-green met. 1:43 SAlVAT/BRASIL",
+      "unomag_id": 211028
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Модель Dodge Attitude (2008) lightgreen-met. 1:43 EDITORIAL PLANETA DEAGOSTINI MEXICO",
+      "unomag_id": 415736
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Модель FORD CONTOUR (1997) blue 1:43 EDITORIAL PLANETA DEAGOSTINI MEXICO",
+      "unomag_id": 415947
     }
   ],
   "ignored_articles": [
