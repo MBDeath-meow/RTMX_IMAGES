@@ -10524,6 +10524,46 @@
       "supplier": "Scalebay",
       "article": "NAME::Урал УралЗИС 355 М АЦПТ-2.2 Цистерна Вода 1960 СССР SSM 1:43 SSM1027",
       "unomag_id": 158377
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Урал УРАЛЗИС 355М бортовой СССР SSM 1:43 SSM1006",
+      "unomag_id": 150426
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Урал 4320 АЦ-40 (43202) ПМ 102Б (хаки) Пожарный 1985 Армия СССР SSM 1:43 SSM1233",
+      "unomag_id": 195400
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Урал 4320 6х6 Кран Автокран КС 3574 (4320-31) ’Ивановец’ 1989 СССР SSM 1:43 SSM1411",
+      "unomag_id": 298351
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Урал 375Д шасси, хаки SSM 1:43 SSM9006",
+      "unomag_id": 176462
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Урал 375Д шасси (9006)",
+      "unomag_id": 176462
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Урал 375Д бортовой с тентом (1104)",
+      "unomag_id": 176460
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Урал 375Д бортовой с тентом (1103)",
+      "unomag_id": 176461
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Урал 375Д бортовой  (1055)",
+      "unomag_id": 176459
     }
   ],
   "ignored_articles": [
