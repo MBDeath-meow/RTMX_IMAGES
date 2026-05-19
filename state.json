@@ -12749,6 +12749,11 @@
       "supplier": "Scalebay",
       "article": "NAME::КАЗ-608 с полуприцепом ОДАЗ-857Б",
       "unomag_id": 298352
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::КО-505 (КамАЗ-53213). ПАО Камаз.",
+      "unomag_id": 262121
     }
   ],
   "ignored_articles": [
@@ -14087,14 +14092,6 @@
       "variation": "IXO грузовики (серии TRU)"
     },
     {
-      "unomag_name": "Start Scale Models",
-      "variation": "Start Scale Models"
-    },
-    {
-      "unomag_name": "Start Scale Models",
-      "variation": "Start Scale Models (SSM)"
-    },
-    {
       "unomag_name": "Minichamps",
       "variation": "Minichamps"
     },
@@ -14201,6 +14198,18 @@
     {
       "unomag_name": "ПАО КАМАЗ",
       "variation": "ПАО КАМАЗ"
+    },
+    {
+      "unomag_name": "Start Scale Models",
+      "variation": "Start Scale Models"
+    },
+    {
+      "unomag_name": "Start Scale Models",
+      "variation": "Start Scale Models (SSM)"
+    },
+    {
+      "unomag_name": "Start Scale Models",
+      "variation": "Автоистория (АИСТ)"
     }
   ],
   "suppliers": [
