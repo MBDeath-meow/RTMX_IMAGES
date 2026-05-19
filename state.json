@@ -10699,6 +10699,31 @@
       "supplier": "Scalebay",
       "article": "NAME::ГТК-32 (51)",
       "unomag_id": 694056
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::ЗИЛ 130 красный",
+      "unomag_id": 151912
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::ЗИЛ 130 хаки",
+      "unomag_id": 152239
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::ЗИЛ 157К бежевый",
+      "unomag_id": 151240
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::ЗИЛ-130В1 с полуприцепом ОДАЗ-885",
+      "unomag_id": 186436
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::ЗИЛ-131 бортовой с тентом (6x6) ООН",
+      "unomag_id": 175435
     }
   ],
   "ignored_articles": [
