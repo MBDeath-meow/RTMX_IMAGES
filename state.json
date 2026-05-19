@@ -14364,6 +14364,21 @@
       "supplier": "Scalebay",
       "article": "NAME::BMW 3-Series (E36) sedan 1991",
       "unomag_id": 358505
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::BMW 3-series coupe E36 1992",
+      "unomag_id": 351609
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::BMW 328 CI E46 Coupe 1999",
+      "unomag_id": 464097
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::BMW 507 1957",
+      "unomag_id": 419839
     }
   ],
   "ignored_articles": [
