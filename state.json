@@ -8904,6 +8904,21 @@
       "supplier": "Scalebay",
       "article": "NAME::Praga S5T-3 самосвал   SSM",
       "unomag_id": 317047
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Premium Classixxs. Tatra 815S3 (1985)",
+      "unomag_id": 245744
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::SSM Бурильная машина БМ-302 (66), Аварийная служба",
+      "unomag_id": 207028
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::SSM ГЗСА-893А (52) Мебельный фургон",
+      "unomag_id": 214234
     }
   ],
   "ignored_articles": [
@@ -9988,6 +10003,14 @@
     {
       "unomag_name": "Altaya",
       "variation": "Hachette"
+    },
+    {
+      "unomag_name": "Premium ClassiXXs",
+      "variation": "Premium ClassiXXs"
+    },
+    {
+      "unomag_name": "Premium ClassiXXs",
+      "variation": "Start Scale Models (SSM)"
     }
   ],
   "suppliers": [
