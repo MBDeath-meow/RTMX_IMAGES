@@ -11034,6 +11034,16 @@
       "supplier": "Scalebay",
       "article": "NAME::ТВГ-15(52) АИСТ",
       "unomag_id": 461812
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Т-246 (51)",
+      "unomag_id": 707011
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::СКП-11(130). Автоистория.",
+      "unomag_id": 634947
     }
   ],
   "ignored_articles": [
@@ -12160,6 +12170,14 @@
     {
       "supplier": "Scalebay",
       "article": "NAME::ТГ-3"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Т-246 перевозка мебели АИСТ"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::СКП-11 (130) Пункт управления полетов АИСТ"
     }
   ],
   "manufacturer_map": [
