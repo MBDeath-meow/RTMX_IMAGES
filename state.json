@@ -10864,6 +10864,21 @@
       "supplier": "Scalebay",
       "article": "NAME::ЯАЗ-200 бортовой (зелёный)",
       "unomag_id": 186058
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Фургон с грузоподъёмным бортом У-165 Почта России (на шасси ЗИЛ-130)",
+      "unomag_id": 195397
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::УралЗИС-355М, бежево-синий",
+      "unomag_id": 156926
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::УралЗИС 355М синий СССР АИСТ Автоистория 1:43 44100169",
+      "unomag_id": 156927
     }
   ],
   "ignored_articles": [
@@ -11978,6 +11993,14 @@
     {
       "supplier": "Scalebay",
       "article": "NAME::Шасси полуприцепа МАЗ-938920, БЕЗ КОНТЕЙНЕРОВ"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::УралЗИС-355М без тента"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Шасси с кабиной КамАЗ-53213, серая кабина, длинный задний свес"
     }
   ],
   "manufacturer_map": [
