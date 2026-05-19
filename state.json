@@ -16214,6 +16214,16 @@
       "supplier": "Scalebay",
       "article": "NAME::Toyota Celica LB 2000 GT 1973",
       "unomag_id": 438273
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Toyota Corolla 1974",
+      "unomag_id": 387535
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Toyota Land Cruiser FJ40 (1982) (Altaya)",
+      "unomag_id": 392225
     }
   ],
   "ignored_articles": [
