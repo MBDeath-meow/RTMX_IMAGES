@@ -14254,6 +14254,16 @@
       "supplier": "Scalebay",
       "article": "NAME::Audi Front 225 Roadster 1935",
       "unomag_id": 4673
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Audi Quattro 1981 (019428)",
+      "unomag_id": 157380
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Audi RS 6 Avant 2019",
+      "unomag_id": 484275
     }
   ],
   "ignored_articles": [
