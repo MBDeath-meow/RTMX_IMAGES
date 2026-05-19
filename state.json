@@ -15389,6 +15389,31 @@
       "supplier": "Scalebay",
       "article": "NAME::ЗИЛ-5301 ’Бычок’ бортовой с тентом (зелёный/серый/синий) DeAgostini  М.1303",
       "unomag_id": 238028
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::ЗИС-101.Автолегенды СССР. DeAgostini 1/43",
+      "unomag_id": 5544
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::ЗИС-101А",
+      "unomag_id": 69
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::ЗИС-110.  Автолегенды СССР. DeAgostini 1/43",
+      "unomag_id": 63
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::ЗИС-5В, Автолегенды СССР Грузовики 53 АЛГ.",
+      "unomag_id": 259752
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::ИЖ (Москвич) 412 028 1982 - 2001 гг. синий IXO IST Автолегенды СССР 1:43",
+      "unomag_id": 5600
     }
   ],
   "ignored_articles": [
@@ -17023,6 +17048,18 @@
     {
       "supplier": "Scalebay",
       "article": "NAME::ЗИС 110 в золотом"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Иж (Москвич) 19 Старт 1975 IST IXO Автолегенды СССР 1:43"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::ИЖ (Москвич) 21251 Комби 1982 - 1997 гг. голубой IXO IST Автолегенды СССР 1:43 БЕСПЛАТНАЯ доставка"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::ИЖ 14 (Москвич) 1972 - 1973 гг. IXO IST Автолегенды СССР 1:43"
     }
   ],
   "manufacturer_map": [
