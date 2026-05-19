@@ -6582,6 +6582,11 @@
     },
     {
       "supplier": "Scalebay",
+      "article": "SSM7075",
+      "unomag_id": 701542
+    },
+    {
+      "supplier": "Scalebay",
       "article": "SSМL012",
       "unomag_id": 190351
     },
@@ -7002,6 +7007,11 @@
     },
     {
       "supplier": "Scalebay",
+      "article": "NAME::SSM. ДЭ-210(131)",
+      "unomag_id": 714392
+    },
+    {
+      "supplier": "Scalebay",
       "article": "NAME::АИСТ. Tatra-138 NT 6x6",
       "unomag_id": 434214
     },
@@ -7019,6 +7029,16 @@
       "supplier": "Scalebay",
       "article": "NAME::АИСТ. Пассажирский полуприцеп АППА-4",
       "unomag_id": 210773
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::SSM. ГЗСА-3711 (53) Почтовый фургон",
+      "unomag_id": 221707
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::SSM. МАЗ-5550 самосвал (рестайлинг)",
+      "unomag_id": 203922
     },
     {
       "supplier": "Scalebay",
@@ -7077,8 +7097,18 @@
     },
     {
       "supplier": "Scalebay",
+      "article": "NAME::SSM. Танк Т-54-1",
+      "unomag_id": 198708
+    },
+    {
+      "supplier": "Scalebay",
       "article": "NAME::SSM. ЗИЛ-Э167",
       "unomag_id": 258922
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::SSM. Mercedes-Benz NG 2232 с полуприцепом Fruehauf Savoyarde",
+      "unomag_id": 701542
     },
     {
       "supplier": "Scalebay",
@@ -7109,6 +7139,11 @@
       "supplier": "Scalebay",
       "article": "NAME::SSM. АЦ-30(53-12)-106В. Без надписей",
       "unomag_id": 192925
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::SSM. МАЗ-5429",
+      "unomag_id": 678487
     },
     {
       "supplier": "Scalebay",
@@ -7167,6 +7202,11 @@
     },
     {
       "supplier": "Scalebay",
+      "article": "NAME::SSM.  Гусеничный транспортёр-тягач ГТ-Т",
+      "unomag_id": 361016
+    },
+    {
+      "supplier": "Scalebay",
       "article": "NAME::АИСТ. КС-1562Б (53)",
       "unomag_id": 482111
     },
@@ -7189,6 +7229,11 @@
       "supplier": "Scalebay",
       "article": "NAME::Hachette. Москвич 400-422 Буратино №67",
       "unomag_id": 301120
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::SSM. Praga S5T-3 бортовой",
+      "unomag_id": 309572
     },
     {
       "supplier": "Scalebay",
@@ -7269,6 +7314,11 @@
       "supplier": "Scalebay",
       "article": "NAME::INTERNATIONAL Lonestar (2010), Brown Metallic/Black    IXO",
       "unomag_id": 434139
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Praga V3S FEK  SSM",
+      "unomag_id": 416281
     },
     {
       "supplier": "Scalebay",
@@ -7439,6 +7489,11 @@
       "supplier": "Scalebay",
       "article": "NAME::ЗИЛ 130 ММЗ-555, Великолукское АТХ - 1976 г",
       "unomag_id": 455484
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Mercedes-Benz NG 2232 с полуприцепом Fruehauf Savoyarde",
+      "unomag_id": 701542
     },
     {
       "supplier": "Scalebay",
@@ -8702,6 +8757,11 @@
     },
     {
       "supplier": "Scalebay",
+      "article": "NAME::Mercedes-Benz NG2232 КАЧЕСТВО = ЦЕНА (ВЫБОРКА)",
+      "unomag_id": 501648
+    },
+    {
+      "supplier": "Scalebay",
       "article": "NAME::KAMAZ-65207-87 (S5)",
       "unomag_id": 477640
     },
@@ -8777,63 +8837,13 @@
     },
     {
       "supplier": "Scalebay",
-      "article": "SSM7075",
-      "unomag_id": 701542
+      "article": "NAME::1/43    DAF 95XF 430",
+      "unomag_id": 498734
     },
     {
       "supplier": "Scalebay",
-      "article": "NAME::Mercedes-Benz NG 2232 с полуприцепом Fruehauf Savoyarde",
-      "unomag_id": 701542
-    },
-    {
-      "supplier": "Scalebay",
-      "article": "NAME::Mercedes-Benz NG2232 КАЧЕСТВО = ЦЕНА (ВЫБОРКА)",
-      "unomag_id": 501648
-    },
-    {
-      "supplier": "Scalebay",
-      "article": "NAME::Praga V3S FEK  SSM",
-      "unomag_id": 416281
-    },
-    {
-      "supplier": "Scalebay",
-      "article": "NAME::SSM.  Гусеничный транспортёр-тягач ГТ-Т",
-      "unomag_id": 361016
-    },
-    {
-      "supplier": "Scalebay",
-      "article": "NAME::SSM. Mercedes-Benz NG 2232 с полуприцепом Fruehauf Savoyarde",
-      "unomag_id": 701542
-    },
-    {
-      "supplier": "Scalebay",
-      "article": "NAME::SSM. Praga S5T-3 бортовой",
-      "unomag_id": 309572
-    },
-    {
-      "supplier": "Scalebay",
-      "article": "NAME::SSM. ГЗСА-3711 (53) Почтовый фургон",
-      "unomag_id": 221707
-    },
-    {
-      "supplier": "Scalebay",
-      "article": "NAME::SSM. ДЭ-210(131)",
-      "unomag_id": 714392
-    },
-    {
-      "supplier": "Scalebay",
-      "article": "NAME::SSM. МАЗ-5429",
-      "unomag_id": 678487
-    },
-    {
-      "supplier": "Scalebay",
-      "article": "NAME::SSM. МАЗ-5550 самосвал (рестайлинг)",
-      "unomag_id": 203922
-    },
-    {
-      "supplier": "Scalebay",
-      "article": "NAME::SSM. Танк Т-54-1",
-      "unomag_id": 198708
+      "article": "NAME::1/43  Volvo-F12-1",
+      "unomag_id": 489590
     }
   ],
   "ignored_articles": [
