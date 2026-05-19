@@ -9749,6 +9749,21 @@
       "supplier": "Scalebay",
       "article": "NAME::КамАЗ 4310 ац-7",
       "unomag_id": 338228
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::КамАЗ 65206, оранжевая кабина",
+      "unomag_id": 349369
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::КамАЗ-43118 бортовой белый",
+      "unomag_id": 666531
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::КамАЗ-53212 контейнеровоз",
+      "unomag_id": 226838
     }
   ],
   "ignored_articles": [
@@ -10743,6 +10758,10 @@
     {
       "supplier": "Scalebay",
       "article": "NAME::КамАЗ 4310 Сортиментовоз"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::КамАЗ 43118 с тентом, белый, дорестайлинг"
     }
   ],
   "manufacturer_map": [
