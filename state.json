@@ -11004,6 +11004,36 @@
       "supplier": "Scalebay",
       "article": "NAME::Троллейбус ТГ-3",
       "unomag_id": 488956
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Троллейбус Skoda-9TR желто-синий",
+      "unomag_id": 491552
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Топливозаправщик ТЗ-200, бежевый",
+      "unomag_id": 187985
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Топливозаправщик ТЗ-200, Аэрофлот",
+      "unomag_id": 187984
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Топливозаправщик ТЗ 200 , бежевый  АИСТ",
+      "unomag_id": 187985
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::ТСВ 6 (130)",
+      "unomag_id": 196767
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::ТВГ-15(52) АИСТ",
+      "unomag_id": 461812
     }
   ],
   "ignored_articles": [
@@ -12126,6 +12156,10 @@
     {
       "supplier": "Scalebay",
       "article": "NAME::Шасси с кабиной КамАЗ-53213, серая кабина, длинный задний свес"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::ТГ-3"
     }
   ],
   "manufacturer_map": [
