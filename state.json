@@ -10194,6 +10194,36 @@
       "supplier": "Scalebay",
       "article": "NAME::Гусеничный транспортёр-тягач ГТ-Т   SSM",
       "unomag_id": 361016
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Гусеничный транспортёр-тягач ГТ-Т, Новолазаревская РАЭ   SSM",
+      "unomag_id": 377538
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::ДЭ-210 (ЗиЛ-131)",
+      "unomag_id": 714392
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::ДЭ-210(131)",
+      "unomag_id": 714392
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::ДЭ-210(131)  SSM",
+      "unomag_id": 714392
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Ду-50. Каток. SSM",
+      "unomag_id": 187477
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::ЗИЛ 157 Tanker Militari",
+      "unomag_id": 152936
     }
   ],
   "ignored_articles": [
@@ -11232,6 +11262,10 @@
     {
       "supplier": "Scalebay",
       "article": "NAME::ГT-С (1954) снегоболотоход SSM 1:43"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::ЗИЛ 130 В с полуприцепом ТЦ-4"
     }
   ],
   "manufacturer_map": [
