@@ -11764,6 +11764,56 @@
       "supplier": "Scalebay",
       "article": "NAME::МАЗ-504А с полуприцепом МАЗ-5205   SSM",
       "unomag_id": 490441
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::МАЗ-504 с полуприцепом Alka N12CH Sovtransavto",
+      "unomag_id": 293135
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::МАЗ-503А (1975) Start Scale Models (SSM)",
+      "unomag_id": 657405
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::МАЗ-500 бортовой   SSM",
+      "unomag_id": 292711
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::МАЗ-205 самосвал (оранжевый) SSM 1:43",
+      "unomag_id": 159460
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::МАЗ-205 самосвал",
+      "unomag_id": 182048
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::МАЗ-205 SSM",
+      "unomag_id": 195255
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::МАЗ-200В с полуприцепом МАЗ-5232В  SSM",
+      "unomag_id": 328975
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::МАЗ-200В с п/п МАЗ-5217 синий/белый",
+      "unomag_id": 209251
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::МАЗ 6430 Баклажановый",
+      "unomag_id": 203921
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::МАЗ 6422 син",
+      "unomag_id": 180250
     }
   ],
   "ignored_articles": [
@@ -12962,6 +13012,10 @@
     {
       "supplier": "Scalebay",
       "article": "NAME::МАЗ-504 с полуприцепом’Пропан-Огнеопасно’"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::МАЗ ТЗ 200"
     }
   ],
   "manufacturer_map": [
