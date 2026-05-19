@@ -12329,6 +12329,51 @@
       "supplier": "Scalebay",
       "article": "NAME::КАМАЗ-5511 самосвал",
       "unomag_id": 461814
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::КАМАЗ-65115 самосвал, аварийная служба",
+      "unomag_id": 190488
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::КАМАЗ-Э5320   SSM",
+      "unomag_id": 474504
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::КАМАЗ-Э5510 самосвал предсерийный.SSM.",
+      "unomag_id": 473692
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::КММ-2 (51)  SSM",
+      "unomag_id": 518059
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::КММ-2 (51) SSM",
+      "unomag_id": 512117
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::КММ-2 (51) мусорные бачки",
+      "unomag_id": 518059
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::КММ-2 (51) хаки/серый",
+      "unomag_id": 518059
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::КО 505 (5320) ор.сер",
+      "unomag_id": 205604
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::КО-829А на шасси ЗИЛ-4333.SSM.",
+      "unomag_id": 459312
     }
   ],
   "ignored_articles": [
@@ -13595,6 +13640,10 @@
     {
       "supplier": "Scalebay",
       "article": "NAME::КАМАЗ 6560 ЛЕСОВОЗ С КМУ"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::КО-505 (53213)"
     }
   ],
   "manufacturer_map": [
