@@ -10604,6 +10604,41 @@
       "supplier": "Scalebay",
       "article": "NAME::1/43    Камаз 65207-87",
       "unomag_id": 518058
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::АИСТ. КО-829А (4333)",
+      "unomag_id": 509635
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::АИСТ. КРАЗ-260 бортовой (поздний)",
+      "unomag_id": 251233
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::АИСТ. МАЗ-5340 бортовой с тентом (белый/синий тент)",
+      "unomag_id": 205676
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::АИСТ. МАЗ-6501 самосвал, красный/жёлтый",
+      "unomag_id": 207029
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::АИСТ. Прицеп ГКБ-8535",
+      "unomag_id": 489591
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::АИСТ. Т-246 (51)",
+      "unomag_id": 707011
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::АИСТ. Урал -4322 кунг",
+      "unomag_id": 226340
     }
   ],
   "ignored_articles": [
