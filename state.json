@@ -15419,6 +15419,31 @@
       "supplier": "Scalebay",
       "article": "NAME::ИЖ-2126 ОДА",
       "unomag_id": 367993
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::КАМАЗ-43509 Автолегенды ралли спецвыпуск №1 КАЧЕСТВО = ЦЕНА (ВЫБОРКА)",
+      "unomag_id": 333595
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::КИМ Москвич 10 50 1940—1941 гг. серый IXO Автолегенды СССР 1:43",
+      "unomag_id": 842
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::ЛАДА 4Х4 Brontosaurus 1922 Marsh",
+      "unomag_id": 388935
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Лада Fora",
+      "unomag_id": 393524
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Лада Калина Седан",
+      "unomag_id": 381244
     }
   ],
   "ignored_articles": [
@@ -17081,6 +17106,38 @@
     {
       "supplier": "Scalebay",
       "article": "NAME::КАМАЗ-43509"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Ким 10 50 1941 IXO IST DeAgostini Автолегенды СССР 1:43"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::коллекционная модель ИЖ 2125 комби автолегенды 1-43"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::коллекционная модель москвич 407 1-43 автолегенды 1"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::коробка Москвич 407 АЗЛК № 1 IXO Автолегенды СССР 1:43 Уникальный экземпляр"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::лимузин Зил 114 1967 IXO IST Автолегенды СССР 1:43"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::лимузин Зил 4104 (115) чёрный генсек Андропов 1982 IST IXO Автолегенды СССР 1:43"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::лимузин Зил 41045 1983 Черный IST IXO Автолегенды СССР 1:43"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::лимузин Зис 101 А 1940 - 1941 гг. IXO IST Автолегенды СССР 1:43"
     }
   ],
   "manufacturer_map": [
