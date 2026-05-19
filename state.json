@@ -12619,6 +12619,41 @@
       "supplier": "Scalebay",
       "article": "NAME::МКМ-2 (4333). Автоистория.",
       "unomag_id": 499998
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::МАЗ-6516 самосвал 8x4",
+      "unomag_id": 209114
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::МАЗ-6501 самосвал рестайлинг (белый/оранжевый) Авто история (Аист)  М.1097",
+      "unomag_id": 207030
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::МАЗ-6501 самосвал   АИСТ",
+      "unomag_id": 207029
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::МАЗ-6501 самосвал",
+      "unomag_id": 207029
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::МАЗ-6422 с самосвальным полуприцепом МАЗ-9506-30",
+      "unomag_id": 199151
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::МАЗ-6422 с самосвальным полуприцепом МАЗ-9506-20 КАЧЕСТВО = ЦЕНА (ВЫБОРКА)",
+      "unomag_id": 197435
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::МАЗ-6422 с полуприцепом-контейнеровозом МАЗ-938920",
+      "unomag_id": 192782
     }
   ],
   "ignored_articles": [
