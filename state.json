@@ -15329,6 +15329,46 @@
       "supplier": "Scalebay",
       "article": "NAME::Горький-САЗ-3507 сельскохозяйственный самосвал (бежевый/синий) DeAgostini  М.1304",
       "unomag_id": 250734
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::ЗАЗ-1102 таврия автолегенды 1-43",
+      "unomag_id": 1830
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Зил 112 С 1962 белый IXO IST Автолегенды СССР 1:43",
+      "unomag_id": 154373
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::ЗИЛ 130г",
+      "unomag_id": 259090
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::ЗИЛ-111Г",
+      "unomag_id": 199
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::ЗИЛ-111Г   Автолегенды СССР № 29",
+      "unomag_id": 199
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::ЗИЛ-114",
+      "unomag_id": 336
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::ЗИЛ-114. Автолегенды СССР. DeAGOSTINI 1/43",
+      "unomag_id": 336
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::ЗиЛ-117В",
+      "unomag_id": 154644
     }
   ],
   "ignored_articles": [
@@ -16927,6 +16967,26 @@
     {
       "supplier": "Scalebay",
       "article": "NAME::Заз 966 Запорожец 1967 1967 СССР IXO IST 1:43"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::ЗАЗ-968А «Запорожец» с Фигуркой Владимира Путина"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Запчасти Набор из 10 номеров на Додж Dodge Charger Черный 1969 из к/ф Форсаж IXO DeAgostini ДеАгостини 1:8"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Зил 118 микро автобус правительственный 1962 IXO IST Автолегенды СССР 1:43"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::ЗИЛ-118 Юность Deagostini Автолегенды СССР №28"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::ЗИЛ-118А Медпомощь  ’Автомобиль на службе’ №49 (ДОРАБОТКА !!!)"
     }
   ],
   "manufacturer_map": [
