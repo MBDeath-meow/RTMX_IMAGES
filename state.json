@@ -16194,6 +16194,26 @@
       "supplier": "Scalebay",
       "article": "POM10",
       "unomag_id": 178461
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Toyota Carina HT 2000GT A15-MQ(R) 1974 1:43 Hachette Japan Collection",
+      "unomag_id": 438304
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "FFES26",
+      "unomag_id": 434666
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Toyota Carina HT 2000GT A15-MQ(R) 1974,Hachette Japan Collection",
+      "unomag_id": 438304
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Toyota Celica LB 2000 GT 1973",
+      "unomag_id": 438273
     }
   ],
   "ignored_articles": [
