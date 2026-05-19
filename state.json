@@ -15669,6 +15669,31 @@
       "supplier": "Scalebay",
       "article": "NAME::Мотолегенды СССР. Мотоцикл ЯВА-354-04 . №2",
       "unomag_id": 309742
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::ПМЗ-2, Автолегенды СССР Грузовики Спецвыпуск 6. АЛГ",
+      "unomag_id": 245714
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::ПНС-110(131)-131",
+      "unomag_id": 206933
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Раф 2203 22034 АШ Пожарный 1976 СССР IST IXO Автомобиль на Службе 1:43",
+      "unomag_id": 2502
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::РУССО-БАЛТ Тип С24/40",
+      "unomag_id": 215914
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "45",
+      "unomag_id": 557
     }
   ],
   "ignored_articles": [
@@ -17455,6 +17480,18 @@
     {
       "supplier": "Scalebay",
       "article": "NAME::НАМИ-750 (DeA Автолегенды СССР)"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::РАФ 2203"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::РАФ-22033 - ГАИ СССР (1/43) Автомобиль на службе №25"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "047"
     }
   ],
   "manufacturer_map": [
