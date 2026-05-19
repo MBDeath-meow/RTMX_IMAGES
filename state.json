@@ -15979,6 +15979,26 @@
       "supplier": "Scalebay",
       "article": "NAME::Универсал",
       "unomag_id": 178358
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::УНИВЕРСАЛ. Hachette 1/43",
+      "unomag_id": 178358
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::ФОРДЗОН - ПУТИЛОВЕЦ. ТРАКТОРЫ. HACHETTE 1/43",
+      "unomag_id": 179049
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::ХТЗ-7. Hachette 1/43",
+      "unomag_id": 182738
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::ХТЗ-Т2Г. Hachette 1/43",
+      "unomag_id": 182992
     }
   ],
   "ignored_articles": [
@@ -17961,14 +17981,6 @@
       "variation": "Тракторы. История, люди, машины. (Hachette collections)"
     },
     {
-      "unomag_name": "Altaya",
-      "variation": "Altaya"
-    },
-    {
-      "unomag_name": "Altaya",
-      "variation": "Hachette"
-    },
-    {
       "unomag_name": "Premium ClassiXXs",
       "variation": "Premium ClassiXXs"
     },
@@ -18019,6 +18031,14 @@
     {
       "unomag_name": "Start Scale Models",
       "variation": "ПАО КАМАЗ"
+    },
+    {
+      "unomag_name": "Altaya",
+      "variation": "Altaya"
+    },
+    {
+      "unomag_name": "Altaya",
+      "variation": "Hachette"
     }
   ],
   "suppliers": [
