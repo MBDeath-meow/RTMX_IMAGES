@@ -11964,6 +11964,51 @@
       "supplier": "Scalebay",
       "article": "NAME::Краз 257Б1_2 контейнера",
       "unomag_id": 198945
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Краз 257Б1 с контейнером",
+      "unomag_id": 198946
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Краз 257 Б1 Бортовой Двухцветный 1965 СССР SSM 1:43 SSM1071",
+      "unomag_id": 172734
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Краз 257 (1071)",
+      "unomag_id": 172734
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Краз 257 (1070)",
+      "unomag_id": 172733
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Краз 256 Б Самосвал (двухцветный) СССР SSM 1:43 SSM1025",
+      "unomag_id": 159337
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Краз 214 6х6 Бортовой (Мосгортранс) 1958 СССР SSM 1:43 SSM1322",
+      "unomag_id": 214442
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::КрАЗ-258Б1 с полуприцепом-тяжеловозом ЧМЗАП-5523",
+      "unomag_id": 188916
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::КрАЗ-258Б1 с полуприцепом ЧМЗАП-5523.SSM.",
+      "unomag_id": 586295
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::КрАЗ-258Б1 с полуприцепом ТЗ-22.SSM.",
+      "unomag_id": 590780
     }
   ],
   "ignored_articles": [
@@ -13182,6 +13227,10 @@
     {
       "supplier": "Scalebay",
       "article": "NAME::Лумз-890Б на шасси ЗИЛ-164 SSM 1:43"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Краз 257 SSM"
     }
   ],
   "manufacturer_map": [
