@@ -14184,6 +14184,21 @@
       "supplier": "Scalebay",
       "article": "NAME::Aston Martin  Rapide",
       "unomag_id": 5647
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Aston Martin AMR23 #18 Бахрейн GP 2023 Lance Stroll",
+      "unomag_id": 441838
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Aston Martin V8 Vantage Roadster 2009 (137430)",
+      "unomag_id": 150157
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Aston Martin V8 Volante 1987 Minichamps дефект",
+      "unomag_id": 4611
     }
   ],
   "ignored_articles": [
