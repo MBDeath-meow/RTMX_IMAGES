@@ -10004,6 +10004,41 @@
       "supplier": "Scalebay",
       "article": "NAME::АЦ-30(53)-106Г   SSM",
       "unomag_id": 224668
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::АЦ-40 (130) 63Б Аварийная служба, 002 из 450",
+      "unomag_id": 174309
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::АЦ-40 (130) 63Б Аварийная служба, 097 из 450",
+      "unomag_id": 174309
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::АЦ-40 (130) 63Б Аварийная служба, 278 из 450",
+      "unomag_id": 174309
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::АЦ-40 (ЗИЛ 130) Куба   SSM",
+      "unomag_id": 193966
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::АЦ-40(43202) ПМ-102Б Ликино-Дулево.SSM.",
+      "unomag_id": 195398
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::АЦ-7,5-40 (4320) с белыми полосами",
+      "unomag_id": 191971
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::АЦПТ-4,1 (130)  SSM",
+      "unomag_id": 560237
     }
   ],
   "ignored_articles": [
@@ -11018,6 +11053,18 @@
     {
       "supplier": "Scalebay",
       "article": "NAME::Комплект колес НЕФАЗ-93341 (6+1)"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::АЦ-40(130)  (SSM)"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::АЦ-40(131) FEUERWEHR  (SSM)"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::АЦ-40(133ГЯ)   (SSM)"
     }
   ],
   "manufacturer_map": [
