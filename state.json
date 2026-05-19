@@ -13614,6 +13614,16 @@
       "supplier": "Scalebay",
       "article": "NAME::Зис 5 (АМО 3) бортовой Голубой СССР НАП Наш Автопром 1:43",
       "unomag_id": 154087
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Зис 5 В бортовой 1942 СССР НАП Наш Автопром 1:43",
+      "unomag_id": 154084
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::КИМ-10-50 Наш Автопром 1:43",
+      "unomag_id": 377
     }
   ],
   "ignored_articles": [
@@ -14956,6 +14966,14 @@
     {
       "supplier": "Scalebay",
       "article": "NAME::ЗИС-6 бортовой (т.синий) Наш Автопром М.0725"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::КИМ 10-50, белый НАП"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::КИМ 10-51"
     }
   ],
   "manufacturer_map": [
