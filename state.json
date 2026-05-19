@@ -12269,6 +12269,41 @@
       "supplier": "Scalebay",
       "article": "NAME::КАЗ-ММЗ-4502 самосвал",
       "unomag_id": 199553
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::КАМАЗ - 53212 КОНТЕЙНЕРОВОЗ",
+      "unomag_id": 206219
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::КАМАЗ 4310 армейский 1/43 SSM",
+      "unomag_id": 334934
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::КАМАЗ 43118 ssm",
+      "unomag_id": 186057
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::КАМАЗ 6520 рестайлинг ssm",
+      "unomag_id": 206485
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::КАМАЗ 6522",
+      "unomag_id": 196616
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::КАМАЗ 6560",
+      "unomag_id": 269876
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::КАМАЗ 65952 ssm   металл!!!",
+      "unomag_id": 455164
     }
   ],
   "ignored_articles": [
@@ -13531,6 +13566,10 @@
     {
       "supplier": "Scalebay",
       "article": "NAME::Каз 608В синий (!!!АРХИВ!!!)"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::КАМАЗ 6560 ЛЕСОВОЗ С КМУ"
     }
   ],
   "manufacturer_map": [
