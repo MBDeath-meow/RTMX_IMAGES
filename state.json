@@ -11649,6 +11649,71 @@
       "supplier": "Scalebay",
       "article": "NAME::Маз 203",
       "unomag_id": 361437
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Маз 200 бортовой (зеленый) СССР SSM 1:43 SSM1008",
+      "unomag_id": 151939
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Маз 200 ТЗ 200 (на шасси МАЗ-200) Аэрофлот СССР SSM 1:43 SSM1084",
+      "unomag_id": 176766
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Маз 200 ТЗ 200 (на шасси МАЗ 200) Армейский 1949 СССР SSM 1:43 SSM1078",
+      "unomag_id": 176765
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Маз 200 Кран Автокран К-51 1959 СССР SSM 1:43 SSM1164",
+      "unomag_id": 181754
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Маз 200 К 51 (1165))",
+      "unomag_id": 181755
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Маз 200 К 51 (1164)",
+      "unomag_id": 181754
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::МТБ - 82 (4003)",
+      "unomag_id": 154001
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::МП-300 (51А) моторный подогреватель.SSM.",
+      "unomag_id": 677348
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::МЗ-3904 (51) хаки",
+      "unomag_id": 575033
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::МАЗ-6516 самосвал, U-образный кузов    SSM",
+      "unomag_id": 192708
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::МАЗ-6501 самосвал U-образный кузов. SSM.",
+      "unomag_id": 199149
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::МАЗ-6501 самосвал (рестайлинг)",
+      "unomag_id": 191091
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::МАЗ-6430",
+      "unomag_id": 183397
     }
   ],
   "ignored_articles": [
