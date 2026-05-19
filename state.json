@@ -10259,6 +10259,26 @@
       "supplier": "Scalebay",
       "article": "NAME::ЗИС-121Д (151)  SSM",
       "unomag_id": 567921
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::ЗиЛ 131 АЦ-40 (131)-137 без полос Пожарный SSM 1:43 SSM1075",
+      "unomag_id": 172884
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::ЗиЛ-4333 КО-829А пескоразбрасыватель",
+      "unomag_id": 460537
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::​ПМЗ 17 ( ЗИС 150) SSM",
+      "unomag_id": 291904
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::трактор Каток ДУ 49 1981 СССР SSM 1:43 SSM8002",
+      "unomag_id": 178288
     }
   ],
   "ignored_articles": [
@@ -11329,6 +11349,10 @@
     {
       "supplier": "Scalebay",
       "article": "NAME::ЗиЛ 130(ранний и поздний)"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::подставка под модель Маз SSM 1:43"
     }
   ],
   "manufacturer_map": [
