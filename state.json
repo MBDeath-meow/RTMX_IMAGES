@@ -15369,6 +15369,26 @@
       "supplier": "Scalebay",
       "article": "NAME::ЗиЛ-117В",
       "unomag_id": 154644
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::ЗИЛ-118А Юность. Автомобиль на службе. DeAGOSTINI 1/43",
+      "unomag_id": 2101
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::ЗИЛ-164А бортовой (бежевый/синий) DeAgostini  М.1302",
+      "unomag_id": 281662
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::ЗИЛ-164А фургон-холодильник ЛуМЗ-890Б (голубой/серебристый) DeAgostini  М.1301",
+      "unomag_id": 261718
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::ЗИЛ-5301 ’Бычок’ бортовой с тентом (зелёный/серый/синий) DeAgostini  М.1303",
+      "unomag_id": 238028
     }
   ],
   "ignored_articles": [
@@ -16987,6 +17007,22 @@
     {
       "supplier": "Scalebay",
       "article": "NAME::ЗИЛ-118А Медпомощь  ’Автомобиль на службе’ №49 (ДОРАБОТКА !!!)"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::ЗиЛ-119 ’ЮНОСТЬ’    (DeA Автолегенды СССР)"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::ЗИЛ-138 бортовой (голубой/зелёный) DeAgostini  М.1307"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::ЗИЛ-4104"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::ЗИС 110 в золотом"
     }
   ],
   "manufacturer_map": [
