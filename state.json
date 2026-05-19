@@ -11149,6 +11149,41 @@
       "supplier": "Scalebay",
       "article": "NAME::КАМАЗ-65206 с полуприцепом НЕФАЗ-93341. ПАО Камаз.",
       "unomag_id": 364917
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::КАМАЗ-6522 самосвал белый .ПАО Камаз.",
+      "unomag_id": 652272
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::КАМАЗ-6522(рестайлинг) самосвал .ПАО Камаз.",
+      "unomag_id": 657404
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::КАМАЗ-65225 .ПАО Камаз.",
+      "unomag_id": 669591
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::КАМАЗ-65225(рестайлинг)  .ПАО Камаз.",
+      "unomag_id": 301595
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::КамАЗ-65952 самосвал красный",
+      "unomag_id": 564883
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Камаз 4310",
+      "unomag_id": 337998
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Камаз 5320 бел.голуб",
+      "unomag_id": 211924
     }
   ],
   "ignored_articles": [
