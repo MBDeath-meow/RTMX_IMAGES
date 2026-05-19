@@ -9414,6 +9414,56 @@
       "supplier": "Scalebay",
       "article": "NAME::SSM. Маз-200 Кран К-51",
       "unomag_id": 181755
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::SSM. Мусоровоз КО-413 (53)",
+      "unomag_id": 441961
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::SSM. НЗАС-4211 (Урал-4322)",
+      "unomag_id": 218731
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::SSM. ПМГ-36 (51) Олимпийский",
+      "unomag_id": 323548
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::SSM. ПМЗ-17 (150)",
+      "unomag_id": 291904
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::SSM. ПМЗ-17А (164) (с белыми полосами)",
+      "unomag_id": 302130
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::SSM. ПМЗМ-3 (151)",
+      "unomag_id": 557618
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::SSM. Пескоразбрасыватель ПР-53(52)",
+      "unomag_id": 441039
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::SSM. Пожарная машина ПМГ-19 (63) ПЧ №199 Лосино-Петровский",
+      "unomag_id": 324507
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::SSM. СКП-11 (130)",
+      "unomag_id": 553076
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::SSM. СКП-11 (130) с прицепом",
+      "unomag_id": 597239
     }
   ],
   "ignored_articles": [
