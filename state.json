@@ -10774,6 +10774,21 @@
       "supplier": "Scalebay",
       "article": "NAME::п.пр НЕФАЗ 96742",
       "unomag_id": 204461
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::маз 6516",
+      "unomag_id": 248729
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::маз 6430",
+      "unomag_id": 204976
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::маз 6303",
+      "unomag_id": 254248
     }
   ],
   "ignored_articles": [
