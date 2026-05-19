@@ -12374,6 +12374,51 @@
       "supplier": "Scalebay",
       "article": "NAME::КО-829А на шасси ЗИЛ-4333.SSM.",
       "unomag_id": 459312
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::КО-829А пескоразбрасыватель на шасси ЗИЛ-4333.SSM.",
+      "unomag_id": 460537
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::КРАЗ-256Б1 SSM",
+      "unomag_id": 629011
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::КРАЗ-257Б1 контейнер",
+      "unomag_id": 198946
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::КС 3575 (255Б)",
+      "unomag_id": 183889
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::КС 3575 (255Б) беж.сер",
+      "unomag_id": 183890
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::КС 3577 (5334) голубой/жёлтый SSM 1/43",
+      "unomag_id": 680101
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::КС-3577 (5337) Мосметро",
+      "unomag_id": 245790
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::КС-3577 (МАЗ-500А) ’ИВАНОВЕЦ’",
+      "unomag_id": 676639
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Каз 4540 ГКБ 8535, обмен возможен",
+      "unomag_id": 486774
     }
   ],
   "ignored_articles": [
@@ -13644,6 +13689,14 @@
     {
       "supplier": "Scalebay",
       "article": "NAME::КО-505 (53213)"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::КРАЗ-256Б1 самосвал"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::КРАЗ-256Б1 самосвал SSM с прицепом"
     }
   ],
   "manufacturer_map": [
