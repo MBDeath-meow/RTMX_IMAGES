@@ -9744,6 +9744,11 @@
       "supplier": "Scalebay",
       "article": "NAME::КамАЗ 4310",
       "unomag_id": 337998
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::КамАЗ 4310 ац-7",
+      "unomag_id": 338228
     }
   ],
   "ignored_articles": [
@@ -10734,6 +10739,10 @@
     {
       "supplier": "Scalebay",
       "article": "NAME::SSM.  КрАЗ-258Б1"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::КамАЗ 4310 Сортиментовоз"
     }
   ],
   "manufacturer_map": [
