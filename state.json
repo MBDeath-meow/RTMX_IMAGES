@@ -12759,6 +12759,11 @@
       "supplier": "Scalebay",
       "article": "NAME::Маз 5551 1985_1993",
       "unomag_id": 179596
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::КАМАЗ-54901 с полуприцепом НЕФАЗ-93341 NATCAR .SSM.",
+      "unomag_id": 632178
     }
   ],
   "ignored_articles": [
@@ -14201,6 +14206,14 @@
       "variation": "ПАО КАМАЗ"
     },
     {
+      "unomag_name": "Наш Автопром",
+      "variation": "Наш Автопром"
+    },
+    {
+      "unomag_name": "Наш Автопром",
+      "variation": "Автоистория (АИСТ)"
+    },
+    {
       "unomag_name": "Start Scale Models",
       "variation": "Start Scale Models"
     },
@@ -14213,12 +14226,8 @@
       "variation": "Автоистория (АИСТ)"
     },
     {
-      "unomag_name": "Наш Автопром",
-      "variation": "Наш Автопром"
-    },
-    {
-      "unomag_name": "Наш Автопром",
-      "variation": "Автоистория (АИСТ)"
+      "unomag_name": "Start Scale Models",
+      "variation": "ПАО КАМАЗ"
     }
   ],
   "suppliers": [
