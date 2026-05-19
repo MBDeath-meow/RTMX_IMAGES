@@ -9244,6 +9244,36 @@
       "supplier": "Scalebay",
       "article": "NAME::SSM. ЗИЛ-131 КМ-131",
       "unomag_id": 694055
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::SSM. ЗИЛ-133ГЯ",
+      "unomag_id": 610705
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::SSM. ЗИЛ-4333 бортовой",
+      "unomag_id": 226063
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::SSM. ЗИЛ-ММЗ-4505 самосвал (зелёный/серый)",
+      "unomag_id": 226840
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::SSM. ЗИС-11 ПММ-2",
+      "unomag_id": 396018
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::SSM. ИСУ-152 Освобожденный Кировоград",
+      "unomag_id": 288778
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::SSM. К-67 (500)",
+      "unomag_id": 654955
     }
   ],
   "ignored_articles": [
