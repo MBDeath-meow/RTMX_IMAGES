@@ -14349,6 +14349,21 @@
       "supplier": "Scalebay",
       "article": "NAME::Audi RS4 2004",
       "unomag_id": 351608
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::BMW 1er M Coupe 2011",
+      "unomag_id": 654648
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::BMW 3 Series (E30) 1986",
+      "unomag_id": 392284
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::BMW 3-Series (E36) sedan 1991",
+      "unomag_id": 358505
     }
   ],
   "ignored_articles": [
