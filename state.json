@@ -9594,6 +9594,16 @@
       "supplier": "Scalebay",
       "article": "NAME::Studebaker US6- БМ - 13",
       "unomag_id": 262785
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "101265",
+      "unomag_id": 207029
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::4320 кунг",
+      "unomag_id": 255698
     }
   ],
   "ignored_articles": [
