@@ -12089,6 +12089,56 @@
       "supplier": "Scalebay",
       "article": "NAME::Камаз 65802-87",
       "unomag_id": 477068
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Камаз 6560",
+      "unomag_id": 269876
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Камаз 65225 чёрный",
+      "unomag_id": 198016
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Камаз 65225 хаки_арм.",
+      "unomag_id": 196698
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Камаз 6522 ssm",
+      "unomag_id": 579241
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Камаз 6520 белый",
+      "unomag_id": 206485
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Камаз 65117 МЧС Гуманитарная помощь Донбасс 2015 SSM 1:43 SSM1245 Тираж распродан БЕСПЛАТНАЯ доставка",
+      "unomag_id": 186618
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Камаз 6460 бел.син.",
+      "unomag_id": 198017
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Камаз 5490 С5",
+      "unomag_id": 196625
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Камаз 5490 S5 седельный тягач (кабина Mercedes Axor) SSM 1:43 SSM1275",
+      "unomag_id": 196625
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Камаз 53212 контейнеровоз с прицепом ГКБ 8350",
+      "unomag_id": 208330
     }
   ],
   "ignored_articles": [
@@ -13327,6 +13377,10 @@
     {
       "supplier": "Scalebay",
       "article": "NAME::Камаз- 43502"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Камаз 6520-21010-53"
     }
   ],
   "manufacturer_map": [
