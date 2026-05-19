@@ -14214,6 +14214,31 @@
       "supplier": "Scalebay",
       "article": "NAME::Audi 80 GT 1972 (015001)",
       "unomag_id": 159431
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Audi A4 2011 (011000)",
+      "unomag_id": 202985
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Audi A4 Avant (011010)",
+      "unomag_id": 156453
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Audi A6 Avant 2006 (013011)",
+      "unomag_id": 5641
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Audi A6 Avant Minichamps",
+      "unomag_id": 257814
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Audi A6 c5",
+      "unomag_id": 178826
     }
   ],
   "ignored_articles": [
