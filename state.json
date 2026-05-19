@@ -15754,6 +15754,36 @@
       "supplier": "Scalebay",
       "article": "NAME::1/43 МТЗ-7 ТРАКТОРЫ №74 HACHETTE",
       "unomag_id": 208595
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::1/43 Т-140 ТРАКТОРЫ №40 HACHETTE",
+      "unomag_id": 190495
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::1/43 Т-28Х ТРАКТОРЫ №39 HACHETTE",
+      "unomag_id": 189960
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::1/43 Т-4А ТРАКТОРЫ №79 HACHETTE",
+      "unomag_id": 211865
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::1/43 Т-50В ТРАКТОРЫ №70 HACHETTE",
+      "unomag_id": 206784
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::1/43 ТДТ-40 ТРАКТОРЫ №32 HACHETTE",
+      "unomag_id": 191795
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::1:24 DACIA 1300",
+      "unomag_id": 331763
     }
   ],
   "ignored_articles": [
@@ -17596,6 +17626,10 @@
     {
       "supplier": "Scalebay",
       "article": "NAME::↪︎ Под ЗАКАЗ! См.ТЕКСТ! -  Volkswagen Crossfox 1.6 AWD 1/43 Фольксваген КроссФокс 4x4’ 2006 года красный / RED  1:43"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::1/43 Т-100 ТРАКТОРЫ №32 HACHETTE"
     }
   ],
   "manufacturer_map": [
