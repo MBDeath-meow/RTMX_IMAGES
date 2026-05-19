@@ -12754,6 +12754,11 @@
       "supplier": "Scalebay",
       "article": "NAME::КО-505 (КамАЗ-53213). ПАО Камаз.",
       "unomag_id": 262121
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Маз 5551 1985_1993",
+      "unomag_id": 179596
     }
   ],
   "ignored_articles": [
@@ -14128,10 +14133,6 @@
       "variation": "Minichamps"
     },
     {
-      "unomag_name": "Наш Автопром",
-      "variation": "Наш Автопром"
-    },
-    {
       "unomag_name": "DiP Models",
       "variation": "DiP Models"
     },
@@ -14209,6 +14210,14 @@
     },
     {
       "unomag_name": "Start Scale Models",
+      "variation": "Автоистория (АИСТ)"
+    },
+    {
+      "unomag_name": "Наш Автопром",
+      "variation": "Наш Автопром"
+    },
+    {
+      "unomag_name": "Наш Автопром",
       "variation": "Автоистория (АИСТ)"
     }
   ],
