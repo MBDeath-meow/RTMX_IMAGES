@@ -12829,6 +12829,21 @@
       "supplier": "Scalebay",
       "article": "NAME::ЗИС-35М бортовой  НАП",
       "unomag_id": 254777
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::ЗИС-42 бортовой с тентом, зеленый  НАП",
+      "unomag_id": 244069
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Яг Яаг 5 бордовый 1928 СССР НАП Наш Автопром 1:43 H278",
+      "unomag_id": 158948
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Яг Яа Яаз Я 9 Трехосный 1933 СССР НАП Наш Автопром 1:43",
+      "unomag_id": 158036
     }
   ],
   "ignored_articles": [
