@@ -12419,6 +12419,41 @@
       "supplier": "Scalebay",
       "article": "NAME::Каз 4540 ГКБ 8535, обмен возможен",
       "unomag_id": 486774
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Каз 608В ММЗ 4502 зел.сер",
+      "unomag_id": 199553
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Каз 608В с п.пр.Одаз 794",
+      "unomag_id": 209115
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Полуприцеп МАЗ-5205",
+      "unomag_id": 714391
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Полуприцеп МАЗ 5215, голубой СССР Автоистория 1:43",
+      "unomag_id": 179475
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Пожарная автолестница АЛ-17(51).  АИСт.",
+      "unomag_id": 680100
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::ПУ-20(51А)",
+      "unomag_id": 694057
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::ПУ-20 (51А)",
+      "unomag_id": 694057
     }
   ],
   "ignored_articles": [
