@@ -9764,6 +9764,21 @@
       "supplier": "Scalebay",
       "article": "NAME::КамАЗ-53212 контейнеровоз",
       "unomag_id": 226838
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::КамАЗ-5511 самосвал",
+      "unomag_id": 414167
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::КамАЗ-6520 самосвал зеленый рестайлинг",
+      "unomag_id": 641239
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Камаз-5511 самосвал хаки. ПАО Камаз.",
+      "unomag_id": 633016
     }
   ],
   "ignored_articles": [
@@ -10762,6 +10777,14 @@
     {
       "supplier": "Scalebay",
       "article": "NAME::КамАЗ 43118 с тентом, белый, дорестайлинг"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::КамАЗ-5490 высокая кабина со спойлером, цвет кабины слоновая кость"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::КамАЗ-54901 с полуприцепом НЕФАЗ-93341"
     }
   ],
   "manufacturer_map": [
