@@ -15869,6 +15869,31 @@
       "supplier": "Scalebay",
       "article": "NAME::Hachette. НАМИ-1 №70",
       "unomag_id": 303961
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Lanz Bulldog D7506A Allzweck 1952. Hachette 1/43",
+      "unomag_id": 198329
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::MAN 4L1 ( Hachette ) .  ( Тракторы 96 ) . новое .",
+      "unomag_id": 234948
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::ДТ-24-2 Тракторы: история, люди, машины №31",
+      "unomag_id": 186666
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::ЗиЛ 111д",
+      "unomag_id": 221646
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::ЗиЛ 111д кабрио",
+      "unomag_id": 283037
     }
   ],
   "ignored_articles": [
@@ -17727,6 +17752,22 @@
     {
       "supplier": "Scalebay",
       "article": "NAME::Lanz Bulldog D7506A Allzweck 1952 с отвалом . Новый ."
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Lanz Bulldog D7506A Allzweck 1952 с прицепом-платформой . Новое"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Lanz Bulldog D7506A Allzweck 1952 с плугом . Новый ."
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Warszawa Победа М20 Hachette с колпаком 1:24"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::ВАЗ 21011 Жигули зелёный с боксом 1/24 Hachette"
     }
   ],
   "manufacturer_map": [
