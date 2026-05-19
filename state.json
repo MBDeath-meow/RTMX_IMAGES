@@ -10149,6 +10149,51 @@
       "supplier": "Scalebay",
       "article": "NAME::ГЗСА-893А (52) Мебельный фургон.SSM.",
       "unomag_id": 214234
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Городской автобус МАЗ-203 Санкт-Петербург",
+      "unomag_id": 361437
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Горький 93А (51А)  SSM",
+      "unomag_id": 588723
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Горький-33081 4х4  SSM",
+      "unomag_id": 179544
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Горький-51Т      SSM",
+      "unomag_id": 519216
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Горький-53А   SSM",
+      "unomag_id": 250361
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Грузовой троллейбус КТГ-1   SSM",
+      "unomag_id": 323122
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Грузовой троллейбус ТГ-3",
+      "unomag_id": 318472
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Грузовой троллейбус ТГ-3 (бело-голубой)   SSM",
+      "unomag_id": 325220
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Гусеничный транспортёр-тягач ГТ-Т   SSM",
+      "unomag_id": 361016
     }
   ],
   "ignored_articles": [
