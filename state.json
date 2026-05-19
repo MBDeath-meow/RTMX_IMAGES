@@ -9179,6 +9179,46 @@
       "supplier": "Scalebay",
       "article": "NAME::SSM. АЦУ-20 (51А)",
       "unomag_id": 595429
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::SSM. БМД-1",
+      "unomag_id": 633015
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::SSM. БМД-2",
+      "unomag_id": 666534
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::SSM. БТР-РД",
+      "unomag_id": 707010
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::SSM. Бронетранспортёр БТР-152К",
+      "unomag_id": 179192
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::SSM. ГЗСА-3723 (53А) Автолавка",
+      "unomag_id": 221706
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::SSM. Горький 93А (51А)",
+      "unomag_id": 588723
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::SSM. Горький-51Т",
+      "unomag_id": 519216
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::SSM. Грузовой троллейбус КТГ-1",
+      "unomag_id": 323122
     }
   ],
   "ignored_articles": [
