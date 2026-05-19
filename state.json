@@ -8919,6 +8919,16 @@
       "supplier": "Scalebay",
       "article": "NAME::SSM ГЗСА-893А (52) Мебельный фургон",
       "unomag_id": 214234
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::SSM ЗИЛ-131 КМ-131",
+      "unomag_id": 694055
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::SSM ЗИЛ-131 бортовой, Автоэкспорт",
+      "unomag_id": 153283
     }
   ],
   "ignored_articles": [
@@ -9877,6 +9887,14 @@
     {
       "supplier": "Scalebay",
       "article": "NAME::SSM ЗИЛ-130 бортовой синий"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::SSM Горький 233001 пикап в боксе 19см"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::SSM Горький 233001 пикап, в боксе 14см"
     }
   ],
   "manufacturer_map": [
