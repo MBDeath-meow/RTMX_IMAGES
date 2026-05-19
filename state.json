@@ -10114,6 +10114,41 @@
       "supplier": "Scalebay",
       "article": "NAME::Бронетранспортёр ГТ-МУ, МЧС  SSM",
       "unomag_id": 377537
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Вакуумная машина КО-520 ( ЗИЛ-4333)",
+      "unomag_id": 232493
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Вахтовый автобус (66), пожарная служба   SSM",
+      "unomag_id": 210771
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Вахтовый автобус НЗАС-4211 (4322) SSM",
+      "unomag_id": 218731
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::ГЗСА-893А (52) Мебельный фургон",
+      "unomag_id": 214234
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::ГЗСА-893А (52) Мебельный фургон   SSM",
+      "unomag_id": 214234
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::ГЗСА-893А (52) Мебельный фургон Start Scale Models (SSM)",
+      "unomag_id": 214234
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::ГЗСА-893А (52) Мебельный фургон.SSM.",
+      "unomag_id": 214234
     }
   ],
   "ignored_articles": [
@@ -11148,6 +11183,10 @@
     {
       "supplier": "Scalebay",
       "article": "NAME::Бокс 32х10,5х10,5 С креплением.SSM."
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::ГT-С (1954) снегоболотоход SSM 1:43"
     }
   ],
   "manufacturer_map": [
