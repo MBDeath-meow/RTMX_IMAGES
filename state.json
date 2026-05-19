@@ -16104,6 +16104,31 @@
       "supplier": "Scalebay",
       "article": "MA062",
       "unomag_id": 197683
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::MAN TGX Woman 2014,Hachette",
+      "unomag_id": 632712
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::MAN TGX 2014",
+      "unomag_id": 632712
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::MAN TGS 35.540 8х6 BAI PROTEUS VSAT 13000 S 2013",
+      "unomag_id": 338193
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "POM103",
+      "unomag_id": 338193
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Mazda Savanna RX-7 1978,Hachette Japan Collection",
+      "unomag_id": 438277
     }
   ],
   "ignored_articles": [
@@ -18002,6 +18027,10 @@
     {
       "supplier": "Scalebay",
       "article": "NAME::ЗИЛ 130 АЦ40 ’Куба’"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::MB LP 334"
     }
   ],
   "manufacturer_map": [
