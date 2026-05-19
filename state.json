@@ -10379,6 +10379,56 @@
       "supplier": "Scalebay",
       "article": "NAME::автокран АК-75В (130)   SSM",
       "unomag_id": 486148
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::автобус Кубань Г1А1 02 бело синий 1989 СССР SSM 1:43 SSM4008",
+      "unomag_id": 159394
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Яаз 210 (Маз, Краз) Бортовой Тяжелый 1958 СССР SSM 1:43 SSM1081",
+      "unomag_id": 184743
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Яаз (Маз) 200 бортовой (хаки) 1955 СССР SSM 1:43 SSM1023",
+      "unomag_id": 174094
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Яаз (Краз) 210 Е Самосвал Кирпичный 1952 СССР SSM 1:43 SSM1141",
+      "unomag_id": 180222
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::ЯАЗ-210Е самосвал, тёмно-зелёный",
+      "unomag_id": 180223
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::ЯАЗ-210Е самосвал Start Scale Models (SSM)",
+      "unomag_id": 180221
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::ЯАЗ-205 самосвал, (серый)",
+      "unomag_id": 183351
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::ЯАЗ-205 самосвал серый",
+      "unomag_id": 183351
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::ЯАЗ-205 самосвал зеленый",
+      "unomag_id": 183350
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::ЯАЗ 210Е (1141)",
+      "unomag_id": 180222
     }
   ],
   "ignored_articles": [
@@ -11457,6 +11507,10 @@
     {
       "supplier": "Scalebay",
       "article": "NAME::коробка бокс под модель Белаз 540 Ф СССР SSM 1:43 SSML016"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::автокран АК-75 (шасси ЗИЛ-164), выставочный ВДНХ (бирюзовый)"
     }
   ],
   "manufacturer_map": [
