@@ -15694,6 +15694,26 @@
       "supplier": "Scalebay",
       "article": "45",
       "unomag_id": 557
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::СПб. √47 РАФ 977дм Запечатан",
+      "unomag_id": 636
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Спец. выпуск УАЗ на службе. №1 Автолегенды CCCР. УАЗ марторелли",
+      "unomag_id": 345125
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::СТАРТ  Автолегенды СССР. DeAgostini 1/43",
+      "unomag_id": 1832
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Уаз 3172 4х4 1986 IST IXO Автолегенды СССР 1:43",
+      "unomag_id": 8095
     }
   ],
   "ignored_articles": [
@@ -17492,6 +17512,22 @@
     {
       "supplier": "Scalebay",
       "article": "047"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Т 72 б"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Тарпан Tarpan 237 1985 Белый IXO IST Автолегенды De Agostini 1:43"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Уаз 450 Фургон Ткани 4х4 СССР IXO IST 1:43 Проработан салон"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Уаз 452 В 4х4 микро автобус 1968 - 1985 гг. песочный IXO IST Автолегенды СССР 1:43"
     }
   ],
   "manufacturer_map": [
