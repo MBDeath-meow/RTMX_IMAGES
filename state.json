@@ -12239,6 +12239,36 @@
       "supplier": "Scalebay",
       "article": "NAME::Зис 151 бортовой Техпомощь Мосгортранс Москва СССР SSM 1:43 SSM1045",
       "unomag_id": 153286
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::К 701 пожарный",
+      "unomag_id": 158630
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::К 701 хаки",
+      "unomag_id": 158629
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::КАВЗ-3270 (бело-жёлтый)   SSM",
+      "unomag_id": 287460
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::КАЗ 608В с п.пр АППА4 аэропорт",
+      "unomag_id": 205828
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::КАЗ-608 с полуприцепом АППА-4 Аэрофлот",
+      "unomag_id": 205828
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::КАЗ-ММЗ-4502 самосвал",
+      "unomag_id": 199553
     }
   ],
   "ignored_articles": [
