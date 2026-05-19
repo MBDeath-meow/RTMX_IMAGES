@@ -15129,6 +15129,16 @@
       "supplier": "Scalebay",
       "article": "NAME::Skoda felicia Автолегенды СССР №184",
       "unomag_id": 185914
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::UAZ Patriot (УАЗ). Автомобиль на службе. DeAgostini 1/4",
+      "unomag_id": 154494
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::WARSAWA 223. Полицейские машины мира. DeAgostini 1/43",
+      "unomag_id": 156217
     }
   ],
   "ignored_articles": [
@@ -16667,6 +16677,18 @@
     {
       "supplier": "Scalebay",
       "article": "NAME::Toyota Land Cruiser FJ40 полиция Греции (белый/синий) DeAgostini  М.0583"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Volvo 164 1970 полиция Швеции (т.синий/белый) DeAgostini  М.0593"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Volvo 240 GL Break 1986 полиция Стокгольма, Швеция (белый) DeAgostini  М.0592"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Volvo 244 1978 полиция Норвегии (чёрный/белый) DeAgostini  М.0594"
     }
   ],
   "manufacturer_map": [
