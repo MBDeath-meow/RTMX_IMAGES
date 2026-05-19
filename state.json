@@ -10312,16 +10312,6 @@
     },
     {
       "supplier": "Scalebay",
-      "article": "NAME::камаз 65206",
-      "unomag_id": 196626
-    },
-    {
-      "supplier": "Scalebay",
-      "article": "NAME::камаз 5460",
-      "unomag_id": 207407
-    },
-    {
-      "supplier": "Scalebay",
       "article": "NAME::камаз 44108",
       "unomag_id": 193063
     },
@@ -11259,6 +11249,56 @@
       "supplier": "Scalebay",
       "article": "NAME::ПАО КАМАЗ. КС-3575А (53213)",
       "unomag_id": 563393
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::ПАО КАМАЗ. СБ-92 (5511)",
+      "unomag_id": 636031
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::камаз 43502",
+      "unomag_id": 198706
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::камаз 5460",
+      "unomag_id": 301594
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::камаз 5490 S5",
+      "unomag_id": 326616
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::камаз 5490 кр",
+      "unomag_id": 270777
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::камаз 6520",
+      "unomag_id": 309570
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::камаз 65206",
+      "unomag_id": 326617
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::камаз 65225",
+      "unomag_id": 301595
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::камаз 65225 хаки",
+      "unomag_id": 303951
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::камаз 6540",
+      "unomag_id": 198337
     }
   ],
   "ignored_articles": [
