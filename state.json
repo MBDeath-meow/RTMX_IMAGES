@@ -18169,6 +18169,26 @@
     {
       "supplier": "Scalebay",
       "article": "EX03"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Acmat TPK 6.35 6x6"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Alfa Romeo 6C (журнальная серия Hachette Fascicoli ’1000 Miglia’)"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "FC003"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "FC059"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "FC026"
     }
   ],
   "manufacturer_map": [
@@ -18199,22 +18219,6 @@
     {
       "unomag_name": "Minichamps",
       "variation": "Minichamps"
-    },
-    {
-      "unomag_name": "DeAgostini",
-      "variation": "DeAgostini"
-    },
-    {
-      "unomag_name": "DeAgostini",
-      "variation": "Автолегенды СССР журнал от DeAgostini"
-    },
-    {
-      "unomag_name": "DeAgostini",
-      "variation": "Автолегенды DeAgostini"
-    },
-    {
-      "unomag_name": "DeAgostini",
-      "variation": "Полицейские машины мира, Deagostini"
     },
     {
       "unomag_name": "ModelPro",
@@ -18322,6 +18326,26 @@
     },
     {
       "unomag_name": "Altaya",
+      "variation": "Hachette"
+    },
+    {
+      "unomag_name": "DeAgostini",
+      "variation": "DeAgostini"
+    },
+    {
+      "unomag_name": "DeAgostini",
+      "variation": "Автолегенды DeAgostini"
+    },
+    {
+      "unomag_name": "DeAgostini",
+      "variation": "Автолегенды СССР журнал от DeAgostini"
+    },
+    {
+      "unomag_name": "DeAgostini",
+      "variation": "Полицейские машины мира, Deagostini"
+    },
+    {
+      "unomag_name": "DeAgostini",
       "variation": "Hachette"
     }
   ],
