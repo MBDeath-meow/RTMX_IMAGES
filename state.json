@@ -13894,6 +13894,61 @@
       "supplier": "Scalebay",
       "article": "NAME::МАЗ 5428 тягач (1977г.) бирюзовый НАП",
       "unomag_id": 183011
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::МАЗ 54321  (1988-1991г.)  зеленый   НАП",
+      "unomag_id": 183291
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::МАЗ 54321 1988 седельный тягач СССР НАП Наш Автопром 1:43",
+      "unomag_id": 183291
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::МАЗ 54322  (1985-1988г.) оранжевый  НАП",
+      "unomag_id": 183290
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::МАЗ 5433 1987 седельный тягач голубой НАП Наш Автопром 1:43",
+      "unomag_id": 179597
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::МАЗ 55514020  (1996-1999г.), серый / синий  НАП",
+      "unomag_id": 187872
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::МАЗ 64224  (1989-1999г.)   НАП",
+      "unomag_id": 193878
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::МАЗ 64226 (1989-1993)",
+      "unomag_id": 183775
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::МАЗ 64227  (1985-1988г.)  НАП",
+      "unomag_id": 190475
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::МАЗ-504 седельный тягач 1963 (голубой) Наш Автопром М.0665",
+      "unomag_id": 218538
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::МАЗ-504Б Наш Автопром 1:43",
+      "unomag_id": 174106
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::МАЗ-510Б (1962) самосвал, голубой  НАП",
+      "unomag_id": 214350
     }
   ],
   "ignored_articles": [
@@ -15252,6 +15307,14 @@
     {
       "supplier": "Scalebay",
       "article": "NAME::МАЗ 511 самосвал с прицепом"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::МАЗ 54321  (1988-1991г.)  голубой   НАП"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::МАЗ 64221  (1989-1991г.) зелёный   НАП"
     }
   ],
   "manufacturer_map": [
