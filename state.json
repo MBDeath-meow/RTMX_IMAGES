@@ -15059,6 +15059,51 @@
       "supplier": "Scalebay",
       "article": "NAME::MERCEDES-BENZ L608D, Kultowe Ciezarowki PRL-u 104",
       "unomag_id": 579213
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::MERCEDES-BENZ LP 334, Kultowe Ciezarowki PRL-u 62",
+      "unomag_id": 431155
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "MB038",
+      "unomag_id": 174069
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Nysa 522 ambulans Польская серия",
+      "unomag_id": 6360
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::NYSA 522 KW Milicja 1981 DeAgostini",
+      "unomag_id": 2473
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::OPEL Blitz M0bel-Werke Eiweilar Saar",
+      "unomag_id": 348585
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::RABA F26, Kultowe Ciezarowki PRL-u 76",
+      "unomag_id": 469387
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::RABA H18.188-6.6, Kultowe Ciezarowki PRL-u 115",
+      "unomag_id": 633038
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::RABA H9, Kultowe Ciezarowki PRL-u 58",
+      "unomag_id": 412966
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "KULC056",
+      "unomag_id": 412316
     }
   ],
   "ignored_articles": [
@@ -16557,6 +16602,34 @@
     {
       "supplier": "Scalebay",
       "article": "NAME::Mercedes-Benz 450 SEL Милиция (1/43) ’Полицейские машины мира №22’"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "PCW996"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Nissan GT-R полиция Абу-Даби, ОАЭ (красный/белый) DeAgostini  М.0596"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Nissan Patrol полиция Португалии (т.зелёный/белый) DeAgostini  М.0578"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Opel Kapitän 1951 полиция Западной Германии (чёрный) DeAgostini  М.0598"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Opel Kapitän 1960 полиция Германии (зелёный) DeAgostini  М.0603"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Plymouth Savoy 1959 полиция штата Оклахома, США (чёрный/белый) DeAgostini  М.0573"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Rayton Fissore Magnum 2.5 TDI 1997 полиция Италии (синий) DeAgostini  М.0597"
     }
   ],
   "manufacturer_map": [
