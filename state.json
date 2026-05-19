@@ -15274,6 +15274,26 @@
       "supplier": "Scalebay",
       "article": "NAME::Ваз 2802 Lada ’Пони’ 1980 IXO IST Автолегенды СССР 1:43",
       "unomag_id": 158621
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::ВАЗ-2802 Пони. Авто легенды СССР. DeAgostini 1/43",
+      "unomag_id": 158621
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::ВИС-2349",
+      "unomag_id": 387798
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Вис-294611",
+      "unomag_id": 253728
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Волга 3110",
+      "unomag_id": 257827
     }
   ],
   "ignored_articles": [
@@ -16836,6 +16856,26 @@
     {
       "supplier": "Scalebay",
       "article": "NAME::АЦ-8-200  (DeA легендарные советские грузовики)"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::ВАЗ-2101 ’Жигули’ - ГАИ СССР (1/43) Автомобиль на службе №18"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::ВАЗ-2107 милиция ДПС Украины (синий) DeAgostini М.0610"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "21"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::ВАЗ-2112 - ДПС (1/43) Автомобиль на службе №10"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Вольво Volvo 240 Sjöpolisen Stockholm Police IXO IST Полиция Мира De Agostini 1:43"
     }
   ],
   "manufacturer_map": [
