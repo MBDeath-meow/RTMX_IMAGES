@@ -9544,6 +9544,31 @@
       "supplier": "Scalebay",
       "article": "NAME::SSM. Урал-43206-0551 (песочный)",
       "unomag_id": 216696
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::SSM. Фургон для перевозки яиц и цыплят ШЗСА-3716 (53)",
+      "unomag_id": 264774
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::SSM. ЭО-3532 (5511)",
+      "unomag_id": 484585
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::SSM. Экскаватор ЭО-3532 (5511)",
+      "unomag_id": 350370
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::SSM. Экскаватор-планировщик UDS-114A (на шасси Tatra-815)",
+      "unomag_id": 246995
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Skoda 706 MTTN с полуприцепом ALKA N12CH Sovtransavto",
+      "unomag_id": 278311
     }
   ],
   "ignored_articles": [
