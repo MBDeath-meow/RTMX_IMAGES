@@ -13974,6 +13974,46 @@
       "supplier": "Scalebay",
       "article": "NAME::МАЗ-520 с полуприцепом МАЗ-5205   НАП",
       "unomag_id": 215417
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::МАЗ-5334 АЦПТ-6,2    НАП",
+      "unomag_id": 205913
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::МАЗ-53352 бортовой с тентом 1974-1976 (оранжевый/т.синий) Наш Автопром  М.0663",
+      "unomag_id": 178864
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::МАЗ-5337 бортовой 1987-1994 (красный/синий) Наш Автопром  М.0662",
+      "unomag_id": 186462
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::МАЗ-5337 бортовой 1991-1999 (синий/серый) Наш Автопром  М.0661",
+      "unomag_id": 187455
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::МАЗ-54322 седельный тягач 1985-1988 (оранжевый) Наш Автопром М.0671",
+      "unomag_id": 183290
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::МАЗ-54322 седельный тягач 1985-1988 (оранжевый) Наш Автопром М.0672",
+      "unomag_id": 183290
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::МАЗ-5551. НАП.",
+      "unomag_id": 179596
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::МАЗ-55514-023 самосвал 1997-1999 (красный/оранжевый) Наш Автопром М.0667",
+      "unomag_id": 185016
     }
   ],
   "ignored_articles": [
@@ -15340,6 +15380,14 @@
     {
       "supplier": "Scalebay",
       "article": "NAME::МАЗ 64221  (1989-1991г.) зелёный   НАП"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::МАЗ-555102 самосвал 1991-1999 (жёлтый/оранжевый) Наш Автопром М.0668"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::МАЗ-555102 самосвал 1991-1999 (жёлтый/оранжевый) Наш Автопром М.0669"
     }
   ],
   "manufacturer_map": [
