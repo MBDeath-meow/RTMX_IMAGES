@@ -9724,6 +9724,26 @@
       "supplier": "Scalebay",
       "article": "NAME::АИСТ. КММ-2 (51)",
       "unomag_id": 707012
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::АИСТ. КО-415А (53213)",
+      "unomag_id": 559032
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Автокран КС-3575А (КамАЗ-53213). ПАО Камаз.",
+      "unomag_id": 563393
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Автокран КС-3575А (53213)",
+      "unomag_id": 563393
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::КамАЗ 4310",
+      "unomag_id": 337998
     }
   ],
   "ignored_articles": [
@@ -10786,14 +10806,6 @@
       "variation": "Minichamps"
     },
     {
-      "unomag_name": "ПАО КАМАЗ",
-      "variation": "ПАО КАМАЗ"
-    },
-    {
-      "unomag_name": "ПАО КАМАЗ",
-      "variation": "Автоистория (АИСТ)"
-    },
-    {
       "unomag_name": "Наш Автопром",
       "variation": "Наш Автопром"
     },
@@ -10855,6 +10867,14 @@
     },
     {
       "unomag_name": "Автоистория (АИСТ)",
+      "variation": "ПАО КАМАЗ"
+    },
+    {
+      "unomag_name": "ПАО КАМАЗ",
+      "variation": "Автоистория (АИСТ)"
+    },
+    {
+      "unomag_name": "ПАО КАМАЗ",
       "variation": "ПАО КАМАЗ"
     }
   ],
