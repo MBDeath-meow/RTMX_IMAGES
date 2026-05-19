@@ -9289,6 +9289,46 @@
       "supplier": "Scalebay",
       "article": "NAME::SSM. КАЗ-608 с п/п АППА-4 ’Аэрофлот’",
       "unomag_id": 205828
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::SSM. КАЗ-ММЗ-4502 самосвал",
+      "unomag_id": 199553
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::SSM. КАМАЗ-2Э5410",
+      "unomag_id": 475229
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::SSM. КАМАЗ-43118",
+      "unomag_id": 596922
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::SSM. КАМАЗ-54901 с полуприцепом НЕФАЗ-93341",
+      "unomag_id": 326092
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::SSM. КАМАЗ-54901 седельный тягач",
+      "unomag_id": 329409
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::SSM. КАМАЗ-65207",
+      "unomag_id": 477640
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::SSM. КАМАЗ-65801-68",
+      "unomag_id": 482150
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::SSM. КАМАЗ-65801-T5",
+      "unomag_id": 483603
     }
   ],
   "ignored_articles": [
