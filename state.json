@@ -11619,6 +11619,36 @@
       "supplier": "Scalebay",
       "article": "NAME::Маз 5432 седельный тягач со спойлером (поздний, красный) Откидывающаяся кабина СССР SSM 1:43 SSM1173",
       "unomag_id": 179552
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Маз 5432 Седельный тягач Автоэкспорт откидывающаяся кабина 1983 СССР SSM 1:43 SS1171",
+      "unomag_id": 179553
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Маз 5337 бортовой Автоэкспорт (ранний) 1988 СССР SSM 1:43 SSM1174",
+      "unomag_id": 179840
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Маз 504 А + полуприцеп Alka N12CH Sovtransavto Совтрансавто 1969 СССР SSM 1:43 SSM7063",
+      "unomag_id": 303514
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Маз 504 А + полупМаз 504 А + полуприцеп Alka N12CH Sovtransavto Совтрансавто 1972 СССР SSM 1:43 SSM7065",
+      "unomag_id": 293135
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Маз 205 Самосвал Мосгортранс 1947 СССР SSM 1:43 SSM1053",
+      "unomag_id": 159461
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Маз 203",
+      "unomag_id": 361437
     }
   ],
   "ignored_articles": [
@@ -12809,6 +12839,10 @@
     {
       "supplier": "Scalebay",
       "article": "NAME::Мусоровоз с боковой загрузкой МКМ-2 (На базе шасси ЗИЛ 4333)"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Маз 504в с п/п Алка"
     }
   ],
   "manufacturer_map": [
