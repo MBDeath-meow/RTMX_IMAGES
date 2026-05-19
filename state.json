@@ -14859,6 +14859,31 @@
       "supplier": "Scalebay",
       "article": "NAME::Мерседес Бенц Mercedes Benz ML 63 AMG W164 4х4 2006 Minichamps 1:43 400034570",
       "unomag_id": 203042
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Мерседес Бенц Mercedes Benz CLS Klasse C219 2004 Minichamps 1:43 400034302",
+      "unomag_id": 3300
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Мерседес Бенц Mercedes Benz C klasse W202 DTM Klasse 1 1994 Minichamps 1:43 430943300",
+      "unomag_id": 222324
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Мерседес Бенц Mercedes Benz C class T Modell 2001 NEF Notazt Minichamps 1:43 430030190",
+      "unomag_id": 203724
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Мерседес Бенц Mercedes Benz Brabus G V12 800 Гелендваген 2012 4x4 Черный Minichamps 1:18 107032200",
+      "unomag_id": 193365
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Мерседес Бенц Mercedes Benz B klasse 2007 Minichamps 1:43 400037400",
+      "unomag_id": 4519
     }
   ],
   "ignored_articles": [
