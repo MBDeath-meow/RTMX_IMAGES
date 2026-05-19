@@ -14169,6 +14169,21 @@
       "supplier": "Scalebay",
       "article": "NAME::Alfa Romeo 155 V6 TI 1993 Minichamps",
       "unomag_id": 151314
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Alfa Romeo GTV 2003 (120302)",
+      "unomag_id": 4600
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Alfa Romeo T33_3 Stommelen_Galli ADAC Nurburgring 71",
+      "unomag_id": 159404
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Aston Martin  Rapide",
+      "unomag_id": 150158
     }
   ],
   "ignored_articles": [
