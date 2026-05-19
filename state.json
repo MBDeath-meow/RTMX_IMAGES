@@ -15544,6 +15544,21 @@
       "supplier": "Scalebay",
       "article": "NAME::Модель TRABANT 601 UNIVERSAL (DDR) 1:43 DeA/Hungary",
       "unomag_id": 375080
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Модель VOLGA GAZ M-21 черный 1:43 Deagostini/HUNGARY",
+      "unomag_id": 1401
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Модель М-72 ’Урал’ (ИМЗ) с коляской зеленый 1:24 DEA/Мотолегенды СССР №1",
+      "unomag_id": 309741
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Модель УАЗ-469Б ’Эльбрус’ (УАЗ на службе №2) 1:43 DEA",
+      "unomag_id": 346307
     }
   ],
   "ignored_articles": [
@@ -17246,6 +17261,10 @@
     {
       "supplier": "Scalebay",
       "article": "NAME::Модель Ford Fairlane POLICE Oakland Detroit USA 1:43 DeAgostini"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::МОСКВИЧ   3-5-6"
     }
   ],
   "manufacturer_map": [
