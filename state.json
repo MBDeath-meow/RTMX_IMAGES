@@ -15239,6 +15239,16 @@
       "supplier": "Scalebay",
       "article": "NAME::Автолегенды УАЗ на Службе.  Эльбрус №2 Коричневый",
       "unomag_id": 346308
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::АПА-7. Автомобиль на службе. DeAgostini 1/43",
+      "unomag_id": 156213
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::АУРУС СЕНАТ",
+      "unomag_id": 333162
     }
   ],
   "ignored_articles": [
@@ -16793,6 +16803,10 @@
     {
       "supplier": "Scalebay",
       "article": "NAME::Автолегенды СССР №97 Москвич-2150"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::АМО Ф-15 скорая медицинская помощь (DeA Автолегенды СССР)"
     }
   ],
   "manufacturer_map": [
