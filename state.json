@@ -10639,6 +10639,31 @@
       "supplier": "Scalebay",
       "article": "NAME::АИСТ. Урал -4322 кунг",
       "unomag_id": 226340
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::АИСТ. Урал 4322 бортовой с тентом",
+      "unomag_id": 225567
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::АИСТ. ЯАЗ-210 бортовой",
+      "unomag_id": 185363
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::АНР-127Б (130). АИСТ.",
+      "unomag_id": 627171
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::АПМ-90 (130) прожектор, хакизеленый",
+      "unomag_id": 192266
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::АЦ 4.0 (131)",
+      "unomag_id": 198015
     }
   ],
   "ignored_articles": [
@@ -11721,6 +11746,10 @@
     {
       "supplier": "Scalebay",
       "article": "NAME::автокран АК-75 (шасси ЗИЛ-164), выставочный ВДНХ (бирюзовый)"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::АЛ-17 (51) автолестница"
     }
   ],
   "manufacturer_map": [
