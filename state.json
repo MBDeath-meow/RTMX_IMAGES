@@ -15029,6 +15029,36 @@
       "supplier": "Scalebay",
       "article": "NAME::LADA VESTA SW Новая эпоха. DeAgostini 1/43",
       "unomag_id": 359812
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Lada X-RAY",
+      "unomag_id": 393114
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::MAGIRUS Deutz S6500 Edeka",
+      "unomag_id": 348586
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::MERCEDES-BENZ 300 SL Gullwing 1954",
+      "unomag_id": 154648
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::MERCEDES-BENZ 300 SLR Racing Sports Car 1955",
+      "unomag_id": 173083
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "MB054",
+      "unomag_id": 180577
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::MERCEDES-BENZ L608D, Kultowe Ciezarowki PRL-u 104",
+      "unomag_id": 579213
     }
   ],
   "ignored_articles": [
@@ -16507,6 +16537,26 @@
     {
       "supplier": "Scalebay",
       "article": "NAME::Jeep Wagoneer полиция штата Пенсильвания (белый/синий) DeAgostini М.0607"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "1"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Land Rover 109 LWB полиция Гонконга (т.синий/жёлтый) DeAgostini М.0608"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Mercedes-Benz 280E W123 Госавтоинспекция СССР (коричневый) DeAgostini М.0604"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Mercedes-Benz 450 SEL W116 Милиция СССР (жёлтый) DeAgostini М.0605"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Mercedes-Benz 450 SEL Милиция (1/43) ’Полицейские машины мира №22’"
     }
   ],
   "manufacturer_map": [
