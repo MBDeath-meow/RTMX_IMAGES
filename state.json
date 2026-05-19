@@ -11199,6 +11199,16 @@
       "supplier": "Scalebay",
       "article": "NAME::Масштабная модель Автоистория (АИСТ)",
       "unomag_id": 666531
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Масштабная модель КАМАЗ-43118",
+      "unomag_id": 666531
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Мусоровоз КО-415А",
+      "unomag_id": 559032
     }
   ],
   "ignored_articles": [
@@ -12361,6 +12371,10 @@
     {
       "supplier": "Scalebay",
       "article": "NAME::Камаз КС-3537А Автокран"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Миасский грузовик 4320 бортовой  АИСТ"
     }
   ],
   "manufacturer_map": [
