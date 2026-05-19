@@ -9144,6 +9144,31 @@
       "supplier": "Scalebay",
       "article": "NAME::SSM. АЛ-17(51)",
       "unomag_id": 513025
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::SSM. АЛМ-30(157)",
+      "unomag_id": 535119
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::SSM. АСМ-3 (51)",
+      "unomag_id": 585496
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::SSM. АЦ-30 (66) ПЧ №33 г. Кашин",
+      "unomag_id": 323869
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::SSM. АЦ-40 (131) армейский",
+      "unomag_id": 261461
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::SSM. АЦ-40(43202) ПМ-102Б Ликино-Дулево",
+      "unomag_id": 195398
     }
   ],
   "ignored_articles": [
