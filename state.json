@@ -9914,6 +9914,31 @@
       "supplier": "Scalebay",
       "article": "NAME::Tatra UDS-110 (Tatra-148) экскаваторSSM.",
       "unomag_id": 426874
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Tatra-138 NT 4х4   SSM",
+      "unomag_id": 430984
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Tatra-815S3 самосвал",
+      "unomag_id": 470904
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Volvo F12 с полуприцепом Lamberet",
+      "unomag_id": 693380
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::АГВТ 100 (ЗИЛ 131), SSM",
+      "unomag_id": 179481
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::АК-34 (151) КУНГ ЗИС-151  SSM",
+      "unomag_id": 559033
     }
   ],
   "ignored_articles": [
