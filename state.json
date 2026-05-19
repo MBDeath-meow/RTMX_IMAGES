@@ -10474,6 +10474,31 @@
       "supplier": "Scalebay",
       "article": "NAME::Экскаватор-планировщик UDS-114A (Tatra-815) пожарный.SSM.",
       "unomag_id": 319772
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Экскаватор-планировщик UDS-110 (на шасси Tatra-148) армейский",
+      "unomag_id": 319771
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Экскаватор-планировщик UDS-110 (Татра-148) Hasici пожарный.SSM.",
+      "unomag_id": 319769
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Экскаватор ЭО-3532 (5511)",
+      "unomag_id": 347386
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::ЭО-3532 (5511)",
+      "unomag_id": 484585
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Шкода Skoda 706 RS Самовал Ангарагэсстрой 1953 СССР SSM 1:43 SSM1463",
+      "unomag_id": 350046
     }
   ],
   "ignored_articles": [
