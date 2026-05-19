@@ -10749,6 +10749,21 @@
       "supplier": "Scalebay",
       "article": "NAME::Зиф 55",
       "unomag_id": 218730
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::урал 43202 -31",
+      "unomag_id": 183035
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::прицеп ГКБ 8350 контейнер",
+      "unomag_id": 213386
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::полуприцеп тц-4",
+      "unomag_id": 191461
     }
   ],
   "ignored_articles": [
