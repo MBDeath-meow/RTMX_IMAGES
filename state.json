@@ -13624,6 +13624,71 @@
       "supplier": "Scalebay",
       "article": "NAME::КИМ-10-50 Наш Автопром 1:43",
       "unomag_id": 377
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::КИМ-10-51 Наш Автопром 1:43",
+      "unomag_id": 370
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::КИТ Изотермический фургон  НАП",
+      "unomag_id": 437331
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::КРАЗ 219Б  экспортный (1966-1969г.) желто-оранжевый НАП",
+      "unomag_id": 184581
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::КРАЗ 221Б/258Б седельный тягач (1966-69г.) автоэкспорт НАП",
+      "unomag_id": 187175
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::КРАЗ 222Б/256Б (1969г.) желто-оранжевый НАП",
+      "unomag_id": 189079
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::КРАЗ 250 (1977-1989), хаки / зеленый НАП",
+      "unomag_id": 178976
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::КРАЗ 250 бортовой поздний (1985-1995), бежевый НАП",
+      "unomag_id": 179338
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::КРАЗ 250 бортовой поздний (1985-1995), серый НАП",
+      "unomag_id": 179337
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::КРАЗ 251 выставочный (1979-1981г.)  НАП",
+      "unomag_id": 185523
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::КРАЗ 255Б1 (1967), голубой НАП",
+      "unomag_id": 176937
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::КРАЗ 256Б1 самосвал (1987-1995), бежевый / серый    НАП",
+      "unomag_id": 179814
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::КРАЗ 257Б (1969-1977), бежевый / серый НАП",
+      "unomag_id": 178790
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::КРАЗ 257Б1 бортовой (1987-1994) хаки НАП",
+      "unomag_id": 179503
     }
   ],
   "ignored_articles": [
