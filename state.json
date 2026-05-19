@@ -11514,6 +11514,21 @@
       "supplier": "Scalebay",
       "article": "NAME::Мусоровоз с боковой загрузкой МКМ-2 (на шасси ЗИЛ-4333)   SSM",
       "unomag_id": 468355
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Мусоровоз КО-415А (КАМАЗ-53213)",
+      "unomag_id": 413450
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Мусоровоз КО-413 (53). SSM.",
+      "unomag_id": 441961
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Мусоровоз 53М (53). SSM.",
+      "unomag_id": 395748
     }
   ],
   "ignored_articles": [
@@ -12700,6 +12715,10 @@
     {
       "supplier": "Scalebay",
       "article": "NAME::Надстройка КУНГ КМ 131, 1/43"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Мусоровоз с боковой загрузкой МКМ-2 (На базе шасси ЗИЛ 4333)"
     }
   ],
   "manufacturer_map": [
