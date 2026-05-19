@@ -11529,6 +11529,46 @@
       "supplier": "Scalebay",
       "article": "NAME::Мусоровоз 53М (53). SSM.",
       "unomag_id": 395748
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Модель ЗИЛ 130 ТСВ-6 цистерна армейская 1/43 SSM",
+      "unomag_id": 169768
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Миасский грузовик 43223 бортовой с тентом",
+      "unomag_id": 187435
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Миасский грузовик 43206-0551   SSM",
+      "unomag_id": 216696
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Миасский грузовик 43206-0551",
+      "unomag_id": 216696
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Масштабная модель КАМАЗ-65952 самосвал",
+      "unomag_id": 455164
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Ман Man 630 1959 SSM 1:43 SSM1434",
+      "unomag_id": 322198
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Маз Белаз 7522 Тяжелый карьерный самосвал Ранний 1988 СССР SSM 1:43 SSM1313",
+      "unomag_id": 207965
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Маз Белаз 540 А карьерный самосвал бежевый СССР SSM 1:43 SSML018",
+      "unomag_id": 199321
     }
   ],
   "ignored_articles": [
