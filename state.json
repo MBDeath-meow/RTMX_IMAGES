@@ -16734,6 +16734,66 @@
       "supplier": "Scalebay",
       "article": "NAME::Пассажирский полуприцеп АППА-4",
       "unomag_id": 210773
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Полуприцеп-муковоз К4-АМГ",
+      "unomag_id": 199330
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Прицеп МАЗ-8926",
+      "unomag_id": 334587
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::СКП-11 (130)   АИСТ",
+      "unomag_id": 634947
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Т-246 (51)    АИСТ",
+      "unomag_id": 707011
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::ТВГ-15 (52) хаки/серый/желтый",
+      "unomag_id": 461812
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::ТСВ-6 (130), зеленый/серый",
+      "unomag_id": 196767
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::УМП 350 (на шасси ЗИЛ-131)  хаки  1975 г. АИСТ",
+      "unomag_id": 181036
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Урал-4320 бортовой с тентом оранжевый",
+      "unomag_id": 181100
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Урал-4420 седельный тягач синий",
+      "unomag_id": 186153
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::ЯАЗ-210Е самосвал синий",
+      "unomag_id": 186835
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::1/43     Камаз 65207-87",
+      "unomag_id": 477640
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::KамАЗ-65801-T5 самосвал",
+      "unomag_id": 483603
     }
   ],
   "ignored_articles": [
