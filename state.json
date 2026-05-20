@@ -16374,6 +16374,51 @@
       "supplier": "Scalebay",
       "article": "NAME::Tatra 815 V26 бортовая с тентом",
       "unomag_id": 472729
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Tatra-815S1 самосвал",
+      "unomag_id": 469263
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Tatra-T3SU",
+      "unomag_id": 655467
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::АЛ-30 (131)",
+      "unomag_id": 665277
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::АЛМ-30(157)",
+      "unomag_id": 535119
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::АСМ-3 (51) ассенизационная машина SSM",
+      "unomag_id": 585496
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::АТ-Т бортовой с тентом (оранжевый)  SSM",
+      "unomag_id": 179188
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::АТ-Т оранж",
+      "unomag_id": 179188
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::АЦУ-20 (51А)  SSM",
+      "unomag_id": 595429
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Автокран АК-75(Зил-130).SSM.",
+      "unomag_id": 486148
     }
   ],
   "ignored_articles": [
