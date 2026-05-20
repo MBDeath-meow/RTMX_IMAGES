@@ -16559,6 +16559,11 @@
       "supplier": "Scalebay",
       "article": "NAME::Масштабная модель ЗИЛ-131 КМ-131",
       "unomag_id": 694055
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::KAMAZ-65952 самосвал",
+      "unomag_id": 564883
     }
   ],
   "ignored_articles": [
@@ -18621,14 +18626,6 @@
       "variation": "ПАО КАМАЗ"
     },
     {
-      "unomag_name": "ПАО КАМАЗ",
-      "variation": "Автоистория (АИСТ)"
-    },
-    {
-      "unomag_name": "ПАО КАМАЗ",
-      "variation": "ПАО КАМАЗ"
-    },
-    {
       "unomag_name": "Наш Автопром",
       "variation": "Наш Автопром"
     },
@@ -18679,6 +18676,14 @@
     {
       "unomag_name": "DeAgostini",
       "variation": "Hachette"
+    },
+    {
+      "unomag_name": "ПАО КАМАЗ",
+      "variation": "Автоистория (АИСТ)"
+    },
+    {
+      "unomag_name": "ПАО КАМАЗ",
+      "variation": "ПАО КАМАЗ"
     }
   ],
   "suppliers": [
