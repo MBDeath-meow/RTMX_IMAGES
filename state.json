@@ -16264,6 +16264,36 @@
       "supplier": "Scalebay",
       "article": "NAME::Norba KI-12 (5334) мусоровоз",
       "unomag_id": 630206
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::SSM КамАЗ-5490 высокая кабина со спойлером, белая кабина",
+      "unomag_id": 283070
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::SSM в боксе АГВТ-100 (157), без надписей",
+      "unomag_id": 178863
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::SSM в боксе БТР-152К (хаки)",
+      "unomag_id": 179191
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::SSM. Tatra-148 NT 6х6",
+      "unomag_id": 430983
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::SSM. Volvo F12 с полуприцепом Lamberet",
+      "unomag_id": 693380
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::SSM. Volvo F89",
+      "unomag_id": 508808
     }
   ],
   "ignored_articles": [
@@ -18206,6 +18236,10 @@
     {
       "supplier": "Scalebay",
       "article": "HP6799-60"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::SSM ОдАЗ-935 белый/красный"
     }
   ],
   "manufacturer_map": [
