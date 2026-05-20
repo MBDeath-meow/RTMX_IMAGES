@@ -16419,6 +16419,41 @@
       "supplier": "Scalebay",
       "article": "NAME::Автокран АК-75(Зил-130).SSM.",
       "unomag_id": 486148
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Горький -51    SSM",
+      "unomag_id": 621960
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Горький-3308 4х4 (двигатель ЗМЗ-513) бортовой с тентом, Милиция",
+      "unomag_id": 179545
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Горький-3308 4х4 бортовой с тентом, Милиция",
+      "unomag_id": 179545
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::ДУК-1 (51)  SSM",
+      "unomag_id": 661880
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::ЗИЛ-130 бортовой (ранняя облицовка радиатора)",
+      "unomag_id": 7575
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::ЗИЛ-131 бортовой, Автоэкспорт",
+      "unomag_id": 153283
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::ЗИС-151 бортовой",
+      "unomag_id": 153285
     }
   ],
   "ignored_articles": [
@@ -18365,6 +18400,18 @@
     {
       "supplier": "Scalebay",
       "article": "NAME::SSM ОдАЗ-935 белый/красный"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::ЗиЛ 130 АКПМ3"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Зил 130В1 с полуприцепом ОДАЗ 885"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::КО-829А Пескоразбрасыватель"
     }
   ],
   "manufacturer_map": [
