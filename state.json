@@ -16294,6 +16294,26 @@
       "supplier": "Scalebay",
       "article": "NAME::SSM. Volvo F89",
       "unomag_id": 508808
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::SSM. АНР-АГ-24 (130)",
+      "unomag_id": 576164
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::SSM. Автокран К-2,5-1Э (51)",
+      "unomag_id": 319362
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::SSM. КАЗ-4540 самосвал",
+      "unomag_id": 313171
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::SSM. КАМАЗ-43253 Рестайлинг",
+      "unomag_id": 487535
     }
   ],
   "ignored_articles": [
