@@ -16564,6 +16564,31 @@
       "supplier": "Scalebay",
       "article": "NAME::KAMAZ-65952 самосвал",
       "unomag_id": 564883
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::КамАЗ-54901 c п/п НефАЗ-93341 белый/синий",
+      "unomag_id": 513024
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::КамАЗ-65206 с полуприцепом НЕФАЗ-93341",
+      "unomag_id": 364917
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Камаз 53213 КО-505  1/43 ПАО Камаз",
+      "unomag_id": 262121
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Камаз 5490 магистральный седельный тягач, красная кабина 1:43",
+      "unomag_id": 270777
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Камаз 65206 седельный тягач трёхосный, оранжевая кабина 1:43",
+      "unomag_id": 349369
     }
   ],
   "ignored_articles": [
