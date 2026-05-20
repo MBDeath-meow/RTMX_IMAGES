@@ -16454,6 +16454,21 @@
       "supplier": "Scalebay",
       "article": "NAME::ЗИС-151 бортовой",
       "unomag_id": 153285
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::КамАЗ-6520-21010-53 самосвал",
+      "unomag_id": 480349
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::КамАЗ-65951 самосвал красный",
+      "unomag_id": 457283
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Камаз-6522 самосвал.SSM.",
+      "unomag_id": 588726
     }
   ],
   "ignored_articles": [
@@ -18412,6 +18427,10 @@
     {
       "supplier": "Scalebay",
       "article": "NAME::КО-829А Пескоразбрасыватель"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::МАЗ 504б + Полуприцеп МАЗ 5215"
     }
   ],
   "manufacturer_map": [
