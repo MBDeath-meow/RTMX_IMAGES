@@ -16604,6 +16604,61 @@
       "supplier": "Scalebay",
       "article": "NAME::ПАО КАМАЗ. КАМАЗ-65952",
       "unomag_id": 564883
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::KAMAZ-65801-68.ПАО Камаз.",
+      "unomag_id": 535118
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Praga V3S AV-3   АИСТ",
+      "unomag_id": 457289
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::АИСТ.  ЗИЛ-133ГЯ",
+      "unomag_id": 637000
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::АИСТ. Tatra 111R бортовой",
+      "unomag_id": 428195
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::АИСТ. АЦ-4,0 (131) зеленый/серый",
+      "unomag_id": 198015
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::АИСТ. АЦПТ-3,3 (53)",
+      "unomag_id": 393613
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::АИСТ. АЦПТ-4,1 (130)",
+      "unomag_id": 630207
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::АИСТ. ГТ-МУ",
+      "unomag_id": 379633
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::АИСТ. ЗИЛ-4333 бортовой (серый)",
+      "unomag_id": 245787
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::АИСТ. ЗИС-10 с полуприцепом",
+      "unomag_id": 412531
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::АИСТ. У-165 Почта России (на шасси ЗИЛ-130)",
+      "unomag_id": 195397
     }
   ],
   "ignored_articles": [
