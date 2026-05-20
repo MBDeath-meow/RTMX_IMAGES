@@ -16659,6 +16659,81 @@
       "supplier": "Scalebay",
       "article": "NAME::АИСТ. У-165 Почта России (на шасси ЗИЛ-130)",
       "unomag_id": 195397
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::МАЗ-5516 самосвал",
+      "unomag_id": 179918
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::МАЗ-6516 самосвал, U-образный кузов (синий/серый)  АИСТ",
+      "unomag_id": 248729
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::МКЗ-10 (4333)    АИСТ",
+      "unomag_id": 509636
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::МКМ-2 (4333)    АИСТ",
+      "unomag_id": 499998
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::МКМ-2 (ЗиЛ-4333) синий/серый",
+      "unomag_id": 499998
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Масштабная модель Skoda 100.05",
+      "unomag_id": 677346
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Масштабная модель ГТК-32 (51)",
+      "unomag_id": 694056
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Масштабная модель НАМИ-790",
+      "unomag_id": 695471
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Масштабная модель ПУ-20 (51А)",
+      "unomag_id": 694057
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Миасский грузовик 4420 седельный тягач  АИСТ",
+      "unomag_id": 186153
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Модель АЦПТ-4,1 (ЗИЛ-130) ’МОЛОКО’ 1:43 АИСТ",
+      "unomag_id": 630207
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::НАМИ-790  Артикул: 104547  Автоистория (АИСТ)",
+      "unomag_id": 695471
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::ПНС-110 (131), МЧС    АИСТ",
+      "unomag_id": 187127
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::ПР-53 (52)",
+      "unomag_id": 464451
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Пассажирский полуприцеп АППА-4",
+      "unomag_id": 210773
     }
   ],
   "ignored_articles": [
