@@ -16589,6 +16589,21 @@
       "supplier": "Scalebay",
       "article": "NAME::Камаз 65206 седельный тягач трёхосный, оранжевая кабина 1:43",
       "unomag_id": 349369
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Масштабная модель KAMAZ-65225",
+      "unomag_id": 669591
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::ПАО КАМАЗ. КАМАЗ-6520 Рестайлинг",
+      "unomag_id": 641239
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::ПАО КАМАЗ. КАМАЗ-65952",
+      "unomag_id": 564883
     }
   ],
   "ignored_articles": [
@@ -18551,6 +18566,10 @@
     {
       "supplier": "Scalebay",
       "article": "NAME::МАЗ 504б + Полуприцеп МАЗ 5215"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Шасси с кабиной КамАЗ-53213, серая кабина, короткий задний свес"
     }
   ],
   "manufacturer_map": [
@@ -18639,18 +18658,6 @@
       "variation": "Start Scale Models (SSM)"
     },
     {
-      "unomag_name": "Автоистория (АИСТ)",
-      "variation": "Автоистория (АИСТ)"
-    },
-    {
-      "unomag_name": "Автоистория (АИСТ)",
-      "variation": "Start Scale Models (SSM)"
-    },
-    {
-      "unomag_name": "Автоистория (АИСТ)",
-      "variation": "ПАО КАМАЗ"
-    },
-    {
       "unomag_name": "Наш Автопром",
       "variation": "Наш Автопром"
     },
@@ -18708,6 +18715,18 @@
     },
     {
       "unomag_name": "ПАО КАМАЗ",
+      "variation": "ПАО КАМАЗ"
+    },
+    {
+      "unomag_name": "Автоистория (АИСТ)",
+      "variation": "Start Scale Models (SSM)"
+    },
+    {
+      "unomag_name": "Автоистория (АИСТ)",
+      "variation": "Автоистория (АИСТ)"
+    },
+    {
+      "unomag_name": "Автоистория (АИСТ)",
       "variation": "ПАО КАМАЗ"
     }
   ],
