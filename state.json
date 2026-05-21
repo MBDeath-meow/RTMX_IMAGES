@@ -17719,6 +17719,66 @@
       "supplier": "Scalebay",
       "article": "145025",
       "unomag_id": 534883
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "145024",
+      "unomag_id": 534882
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "145023",
+      "unomag_id": 534881
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "145022",
+      "unomag_id": 534880
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "145021",
+      "unomag_id": 534879
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "145007",
+      "unomag_id": 516759
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "145006",
+      "unomag_id": 516760
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "116401",
+      "unomag_id": 182468
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "115109",
+      "unomag_id": 585610
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "115103",
+      "unomag_id": 157113
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "113067",
+      "unomag_id": 518021
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "113050",
+      "unomag_id": 316507
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "113047",
+      "unomag_id": 514763
     }
   ],
   "ignored_articles": [
@@ -19713,6 +19773,18 @@
     {
       "supplier": "Scalebay",
       "article": "NAME::Урал 4320 песочный, без тента"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "145005 + 145003 + 145007"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "115701"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "115103+C60111"
     }
   ],
   "manufacturer_map": [
