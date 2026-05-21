@@ -18014,6 +18014,26 @@
       "supplier": "Scalebay",
       "article": "NAME::Зил 164 А СССР Dip 1:43 116401",
       "unomag_id": 182468
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Зил 164 А КПМ 2 СССР СССР ДИП Dip Models 1:43 116404 Раритет",
+      "unomag_id": 7862
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::ЗиС-101А НКВД г. Москва 1940 DIP Models art. 110104",
+      "unomag_id": 436896
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::ЗИЛ Седельный тягач 130В1, «АВТОЭКСПОРТ» - 1982 г DIP models",
+      "unomag_id": 457767
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::ЗИЛ 130 самосвал ММЗ-555, Тында «Мостострой – 10» - 1971 г.",
+      "unomag_id": 441755
     }
   ],
   "ignored_articles": [
