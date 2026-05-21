@@ -16924,6 +16924,16 @@
       "supplier": "Scalebay",
       "article": "NAME::Volvo F89  SSM",
       "unomag_id": 508808
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::АК-32 (51)   SSM",
+      "unomag_id": 696911
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::ЯАЗ-205 самосвал, (зеленый)  SSM",
+      "unomag_id": 183350
     }
   ],
   "ignored_articles": [
@@ -18894,6 +18904,10 @@
     {
       "supplier": "Scalebay",
       "article": "NAME::SSM Полуприцеп ОДАЗ 885 хаки"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Шасси КАМАЗ-65225 ’ПАО КАМАЗ (Аист)’ 1:43"
     }
   ],
   "manufacturer_map": [
@@ -18990,22 +19004,6 @@
       "variation": "Автоистория (АИСТ)"
     },
     {
-      "unomag_name": "Start Scale Models",
-      "variation": "Start Scale Models"
-    },
-    {
-      "unomag_name": "Start Scale Models",
-      "variation": "Start Scale Models (SSM)"
-    },
-    {
-      "unomag_name": "Start Scale Models",
-      "variation": "Автоистория (АИСТ)"
-    },
-    {
-      "unomag_name": "Start Scale Models",
-      "variation": "ПАО КАМАЗ"
-    },
-    {
       "unomag_name": "Altaya",
       "variation": "Altaya"
     },
@@ -19052,6 +19050,14 @@
     {
       "unomag_name": "Автоистория (АИСТ)",
       "variation": "ПАО КАМАЗ"
+    },
+    {
+      "unomag_name": "Start Scale Models",
+      "variation": "Start Scale Models"
+    },
+    {
+      "unomag_name": "Start Scale Models",
+      "variation": "Start Scale Models (SSM)"
     }
   ],
   "suppliers": [
