@@ -18054,6 +18054,16 @@
       "supplier": "Scalebay",
       "article": "NAME::Dip Models. ЗИЛ 4102 с видоизмененным бампером",
       "unomag_id": 178630
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::AURUS KOMENDANT Dip Models",
+      "unomag_id": 594794
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Зил 164 Поливомоечная машина ПМ 10 1960 СССР ДИП Dip Models 1:43 116403 Раритет",
+      "unomag_id": 7858
     }
   ],
   "ignored_articles": [
@@ -20064,6 +20074,10 @@
     {
       "supplier": "Scalebay",
       "article": "110106"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "Н955"
     }
   ],
   "manufacturer_map": [
