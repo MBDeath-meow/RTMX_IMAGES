@@ -16859,6 +16859,71 @@
       "supplier": "Scalebay",
       "article": "NAME::SSM. ЗИЛ-ММЗ-164АН с полуприцепом ММЗ-584Б",
       "unomag_id": 281374
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::SSM. ЗИУ-10 Москва",
+      "unomag_id": 351440
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Skoda 100.05 SSM",
+      "unomag_id": 525506
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Skoda 100.850 SA8    SSM",
+      "unomag_id": 652273
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Skoda 100.850 SA8   SSM",
+      "unomag_id": 673452
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Skoda AKVS-706    SSM",
+      "unomag_id": 359154
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Skoda-706 MTTN седельный тягач  SSM",
+      "unomag_id": 465703
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Skoda-706 RTTN седельный тягач SSM",
+      "unomag_id": 465704
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Skoda-706R Jelcz (1946)   SSM",
+      "unomag_id": 359155
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Tatra 815 UDS114A  SSM",
+      "unomag_id": 246995
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Tatra 815 V26  SSM",
+      "unomag_id": 472729
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Tatra-138 NT 6х6   SSM",
+      "unomag_id": 427418
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Tatra-148 NT 6х6   SSM",
+      "unomag_id": 430983
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Volvo F89  SSM",
+      "unomag_id": 508808
     }
   ],
   "ignored_articles": [
