@@ -17419,6 +17419,71 @@
       "supplier": "Scalebay",
       "article": "NAME::Миасский грузовик 43206-0551 бортовой  АИСТ",
       "unomag_id": 259654
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Миасский грузовик 44202 седельный тягач 6х6   АИСТ",
+      "unomag_id": 185606
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Мусоровоз 53М     АИСТ",
+      "unomag_id": 415569
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::ПНС-110 (131), Метро    АИСТ",
+      "unomag_id": 187126
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::ПР-53 (52)   АИСТ",
+      "unomag_id": 464451
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::ПУ-20 (51А)  АИСТ",
+      "unomag_id": 694057
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Пассажирский полуприцеп АППА-4  АИСТ",
+      "unomag_id": 210773
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::ТВГ-15 (52)    АИСТ",
+      "unomag_id": 461812
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::ТСВ-6 (130), зеленый/серый  АИСТ",
+      "unomag_id": 196767
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Топливозаправщик ТЗ-200 , Аэрофлот  АИСТ",
+      "unomag_id": 187984
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::УРАЛ 375Н 6х6 бортовой, 1974 г. (бежевый) АИСТ",
+      "unomag_id": 182793
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::УРАЛ 43202 6x6 (деревянная платформа ) АИСТ",
+      "unomag_id": 182047
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::УрАЛ-4420 (АИСТ) 1/43",
+      "unomag_id": 186153
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Урал 375 Д АИСТ",
+      "unomag_id": 179230
     }
   ],
   "ignored_articles": [
