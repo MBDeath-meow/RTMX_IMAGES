@@ -17969,6 +17969,21 @@
       "supplier": "Scalebay",
       "article": "NAME::УАЗ-450Д",
       "unomag_id": 152597
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::УАЗ-450А  ’ Милиция’ 1963г",
+      "unomag_id": 534880
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::УАЗ 450 фургон (Ткани) - 1959 г.  DIP models",
+      "unomag_id": 534887
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::УАЗ 450 фургон (Книги) - 1959 г. DIP models",
+      "unomag_id": 534888
     }
   ],
   "ignored_articles": [
