@@ -16934,6 +16934,61 @@
       "supplier": "Scalebay",
       "article": "NAME::ЯАЗ-205 самосвал, (зеленый)  SSM",
       "unomag_id": 183350
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::АЛМ-30(157) SSM",
+      "unomag_id": 535119
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::АЦ-40 (131) армейский SSM",
+      "unomag_id": 261461
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::АЦ-40(133ГЯ), Павлово   SSM",
+      "unomag_id": 180887
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::АЦПТ-3,3 (53) Молоко, Автоэкспорт   SSM",
+      "unomag_id": 218447
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Автокран К-2,5-1Э (51)   SSM",
+      "unomag_id": 319362
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Автокран К-51 (МАЗ-200), зеленый  SSM",
+      "unomag_id": 181755
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Автокран К-51 (МАЗ-200), зеленый/серый  SSM",
+      "unomag_id": 181754
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Автокран КС-1562Б (53)   SSM",
+      "unomag_id": 442746
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Автокран КС-4561(Краз-250).SSM.",
+      "unomag_id": 507828
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Автофургон Т-246 (51)  SSM",
+      "unomag_id": 562443
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Армейский автобус АПП 66, жёлто-синий SSM",
+      "unomag_id": 172877
     }
   ],
   "ignored_articles": [
