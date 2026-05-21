@@ -18034,6 +18034,26 @@
       "supplier": "Scalebay",
       "article": "NAME::ЗИЛ 130 самосвал ММЗ-555, Тында «Мостострой – 10» - 1971 г.",
       "unomag_id": 441755
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::ЗИЛ 130 1972 г. без номеров",
+      "unomag_id": 330437
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Горький-52-06 с полуприцепом ’Мосовощтранс’ (DIP)",
+      "unomag_id": 173817
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Ваз 2190 Granta Гранта Белое облако DIP models",
+      "unomag_id": 192896
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Dip Models. ЗИЛ 4102 с видоизмененным бампером",
+      "unomag_id": 178630
     }
   ],
   "ignored_articles": [
