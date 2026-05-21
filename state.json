@@ -17034,6 +17034,66 @@
       "supplier": "Scalebay",
       "article": "NAME::ГТ-С снегоболотоход  1954г.  SSM",
       "unomag_id": 173586
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::ГТ-С снегоболотоход с тентом 1954г.  SSM",
+      "unomag_id": 173587
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Горький-51 (1946 г.)    SSM",
+      "unomag_id": 655983
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Грузовой троллейбус ТГ-3   SSM",
+      "unomag_id": 318472
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::ЗИЛ-131 КМ-131   SSM",
+      "unomag_id": 694055
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::ЗИЛ-133ГЯ  SSM",
+      "unomag_id": 610705
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "SSM1011",
+      "unomag_id": 152936
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::ЗИЛ-ММЗ-164АН с полуприцепом ММЗ-584Б   SSM",
+      "unomag_id": 281374
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::ЗИЛ-ММЗ-164АН с полуприцепом ОДАЗ-857Б  SSM",
+      "unomag_id": 288392
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::ЗиЛ-164 АК-75 голубой/жёлтый",
+      "unomag_id": 180403
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::КАЗ-4540  с прицепом ГКБ 8535. SSM.",
+      "unomag_id": 486774
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::КАЗ-608 с полуприцепом АППА-4 Аэрофлот  SSM",
+      "unomag_id": 205828
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::КАЗ-608В с полуприцепом ОДАЗ-885 SSM",
+      "unomag_id": 220896
     }
   ],
   "ignored_articles": [
