@@ -17944,6 +17944,31 @@
       "supplier": "Scalebay",
       "article": "101208",
       "unomag_id": 459100
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "101207",
+      "unomag_id": 459099
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "101206",
+      "unomag_id": 459077
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "101205",
+      "unomag_id": 461785
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::1/43 ЗИЛ 130 Автоцистерна АЦПТ-4.1 Dipmodels 113022",
+      "unomag_id": 501524
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::УАЗ-450Д",
+      "unomag_id": 152597
     }
   ],
   "ignored_articles": [
