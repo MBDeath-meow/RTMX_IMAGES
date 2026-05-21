@@ -17484,6 +17484,21 @@
       "supplier": "Scalebay",
       "article": "NAME::Урал 375 Д АИСТ",
       "unomag_id": 179230
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Урал-4320 бортовой с тентом бежевый",
+      "unomag_id": 181101
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::ЯАЗ-200 бортовой (зелёный)  АИСТ",
+      "unomag_id": 186058
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::ЯАЗ-210Е самосвал  АИСТ",
+      "unomag_id": 186835
     }
   ],
   "ignored_articles": [
@@ -19470,6 +19485,14 @@
     {
       "supplier": "Scalebay",
       "article": "NAME::Камаз- 6520-21010-53"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Урал 4320 оранжевый, без тента"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Урал 4320 песочный, без тента"
     }
   ],
   "manufacturer_map": [
