@@ -17094,6 +17094,81 @@
       "supplier": "Scalebay",
       "article": "NAME::КАЗ-608В с полуприцепом ОДАЗ-885 SSM",
       "unomag_id": 220896
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::КАМАЗ-54901 с полуприцепом НЕФАЗ-93341 SSM",
+      "unomag_id": 326092
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::КАМАЗ-6520    SSM",
+      "unomag_id": 598571
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::КАМАЗ-Э5510  SSM",
+      "unomag_id": 473692
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::КМ-500 (5334)   SSM",
+      "unomag_id": 641850
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::КО-829А пескоразбрасыватель      SSM",
+      "unomag_id": 460537
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::КРАЗ-257Б1 бортовой с контейнерами  SSM",
+      "unomag_id": 198945
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::КРАЗ-260 бортовой (поздний)  SSM",
+      "unomag_id": 222317
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::КамАЗ-6520-21010-53",
+      "unomag_id": 480349
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::МАЗ-200В с полуприцепом МАЗ-5217   SSM",
+      "unomag_id": 209251
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::МАЗ-500А бортовой (оранжевый)   SSM",
+      "unomag_id": 303954
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::МАЗ-503Б   SSM",
+      "unomag_id": 668685
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::МАЗ-5335 бортовой  SSM",
+      "unomag_id": 316266
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::МАЗ-5549  SSM",
+      "unomag_id": 637001
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::МЗ-3904 (51)  SSM",
+      "unomag_id": 575033
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::МКЗ-10 (4333)    SSM",
+      "unomag_id": 436938
     }
   ],
   "ignored_articles": [
