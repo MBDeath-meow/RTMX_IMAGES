@@ -16819,6 +16819,46 @@
       "supplier": "Scalebay",
       "article": "NAME::Praga S5T-3 бортовой  SSM",
       "unomag_id": 309572
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::SSM Tatra - 815S3",
+      "unomag_id": 470904
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::SSM. Studebaker US6 U3 бортовой",
+      "unomag_id": 261780
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::SSM. Studebaker US6 БМ-13 «Катюша»",
+      "unomag_id": 262785
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::SSM. Tatra-815S1",
+      "unomag_id": 469263
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::SSM. АК-75 (на шасси ЗИЛ-164)",
+      "unomag_id": 180403
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::SSM. Артиллерийский гусеничный тягач АТС-59Г, парадный",
+      "unomag_id": 205679
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::SSM. БТР-ЗД",
+      "unomag_id": 641240
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::SSM. ЗИЛ-ММЗ-164АН с полуприцепом ММЗ-584Б",
+      "unomag_id": 281374
     }
   ],
   "ignored_articles": [
@@ -18785,6 +18825,10 @@
     {
       "supplier": "Scalebay",
       "article": "NAME::Шасси с кабиной КамАЗ-53213, серая кабина, короткий задний свес"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::SSM Полуприцеп ОДАЗ 885 хаки"
     }
   ],
   "manufacturer_map": [
