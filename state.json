@@ -17499,6 +17499,41 @@
       "supplier": "Scalebay",
       "article": "NAME::ЯАЗ-210Е самосвал  АИСТ",
       "unomag_id": 186835
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::КАМАЗ-5490  ПАО КАМАЗ",
+      "unomag_id": 349370
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::КАМАЗ-5490-S5  ПАО КАМАЗ",
+      "unomag_id": 326616
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::КАМАЗ-6520 самосвал зеленый .ПАО Камаз.",
+      "unomag_id": 641239
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::КАМАЗ-65225 седельный тягач (ПАО)",
+      "unomag_id": 303951
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::КО-415А (53213)   АИСТ",
+      "unomag_id": 559032
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::КО-415А (КамАЗ-53213). ПАО Камаз.",
+      "unomag_id": 559032
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Масштабная модель KAMAZ-65225 restyling",
+      "unomag_id": 654956
     }
   ],
   "ignored_articles": [
@@ -19617,32 +19652,32 @@
       "variation": "Hachette"
     },
     {
-      "unomag_name": "ПАО КАМАЗ",
-      "variation": "Автоистория (АИСТ)"
-    },
-    {
-      "unomag_name": "ПАО КАМАЗ",
-      "variation": "ПАО КАМАЗ"
-    },
-    {
-      "unomag_name": "Автоистория (АИСТ)",
-      "variation": "Start Scale Models (SSM)"
-    },
-    {
-      "unomag_name": "Автоистория (АИСТ)",
-      "variation": "Автоистория (АИСТ)"
-    },
-    {
-      "unomag_name": "Автоистория (АИСТ)",
-      "variation": "ПАО КАМАЗ"
-    },
-    {
       "unomag_name": "Start Scale Models",
       "variation": "Start Scale Models"
     },
     {
       "unomag_name": "Start Scale Models",
       "variation": "Start Scale Models (SSM)"
+    },
+    {
+      "unomag_name": "Автоистория (АИСТ)",
+      "variation": "Start Scale Models (SSM)"
+    },
+    {
+      "unomag_name": "Автоистория (АИСТ)",
+      "variation": "Автоистория (АИСТ)"
+    },
+    {
+      "unomag_name": "gf",
+      "variation": "gf"
+    },
+    {
+      "unomag_name": "gf",
+      "variation": "Автоистория (АИСТ)"
+    },
+    {
+      "unomag_name": "ПАО КАМАЗ",
+      "variation": "ПАО КАМАЗ"
     }
   ],
   "suppliers": [
