@@ -17264,6 +17264,71 @@
       "supplier": "Scalebay",
       "article": "NAME::ПМЗМ-3 (151)  SSM",
       "unomag_id": 557618
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::ПУ-20 (51А)    SSM",
+      "unomag_id": 561495
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Самоходный вибрационный каток ДУ-54 SSM",
+      "unomag_id": 197251
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Трактор Т-150К  (серо-красный)  SSM",
+      "unomag_id": 192518
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Трактор Т-150К  (хаки)  SSM",
+      "unomag_id": 192519
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Трамвай Tatra-T2  SSM",
+      "unomag_id": 381192
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Трамвай ЛМ-49  SSM",
+      "unomag_id": 464452
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Трамвай ЛМ-68   SSM",
+      "unomag_id": 343158
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::УРАЛ  43223 бортовой с тентом SSM",
+      "unomag_id": 187435
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::УРБ-2А-2(131)   SSM",
+      "unomag_id": 669592
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Урал-377С с полуприцепом ОДАЗ-935",
+      "unomag_id": 252866
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Уральский грузовик-43206   бортовой с тентом    SSM",
+      "unomag_id": 376268
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::ЯАЗ 210Е кирпичный SSM",
+      "unomag_id": 180222
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::ЯАЗ-210Е самосвал, кирпичный SSM",
+      "unomag_id": 180222
     }
   ],
   "ignored_articles": [
@@ -19242,6 +19307,10 @@
     {
       "supplier": "Scalebay",
       "article": "NAME::Надстройка УРБ-2А-2(131)"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Яаз 210 Е"
     }
   ],
   "manufacturer_map": [
