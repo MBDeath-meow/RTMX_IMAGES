@@ -16989,6 +16989,51 @@
       "supplier": "Scalebay",
       "article": "NAME::Армейский автобус АПП 66, жёлто-синий SSM",
       "unomag_id": 172877
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Армейский автобус АС 38, двухцветный SSM",
+      "unomag_id": 176768
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Артиллерийский гусеничный тягач АТС-59   SSM",
+      "unomag_id": 367925
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Большой бокс SSM.  32x10.5x10.5 см.",
+      "unomag_id": 159743
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Бронетранспортёр ГТ-МУ  SSM",
+      "unomag_id": 366086
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Вахтовый автобус НЕФАЗ-42112 (4320)  SSM",
+      "unomag_id": 213385
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Вездеход ЗИЛ-Э167   SSM",
+      "unomag_id": 258922
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::ГЗСА-3704 (52) ХЛЕБ ранняя облицовка радиатора  SSM",
+      "unomag_id": 215536
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::ГЗСА-3711 (52) Почтовый фургон  SSM",
+      "unomag_id": 221707
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::ГТ-С снегоболотоход  1954г.  SSM",
+      "unomag_id": 173586
     }
   ],
   "ignored_articles": [
