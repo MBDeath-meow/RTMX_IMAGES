@@ -17329,6 +17329,36 @@
       "supplier": "Scalebay",
       "article": "NAME::ЯАЗ-210Е самосвал, кирпичный SSM",
       "unomag_id": 180222
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Praga V3S FEK   АИСТ",
+      "unomag_id": 457285
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Praga V3S бортовой с тентом   АИСТ",
+      "unomag_id": 457287
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::АИСТ.  Praga V3S AV-3",
+      "unomag_id": 457289
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::МАЗ-5550 самосвал   АИСТ",
+      "unomag_id": 206486
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::МАЗ-6501 самосвал  (рестайлинг)  АИСТ",
+      "unomag_id": 207030
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::МАЗ-6501 самосвал U-образный кузов. АИСТ.",
+      "unomag_id": 248731
     }
   ],
   "ignored_articles": [
@@ -19311,6 +19341,10 @@
     {
       "supplier": "Scalebay",
       "article": "NAME::Яаз 210 Е"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Камаз- 6520-21010-53"
     }
   ],
   "manufacturer_map": [
