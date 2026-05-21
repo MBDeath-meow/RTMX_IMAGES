@@ -17229,6 +17229,41 @@
       "supplier": "Scalebay",
       "article": "NAME::Масштабная модель ПМЗ-27 (157К)",
       "unomag_id": 177907
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Мусоровоз 53М (53) SSM",
+      "unomag_id": 395748
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Мусоровоз КО-413 (53)  SSM",
+      "unomag_id": 441961
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::ПД-4М (51)  SSM",
+      "unomag_id": 660809
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::ПМГ-36 (51) Олимпийский  SSM",
+      "unomag_id": 323548
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::ПМЗ-27 (157К) ДПД колхоза им. Дзержинского   SSM",
+      "unomag_id": 177908
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::ПМЗ-27 (157К) белые полосы, без надписей   SSM",
+      "unomag_id": 177909
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::ПМЗМ-3 (151)  SSM",
+      "unomag_id": 557618
     }
   ],
   "ignored_articles": [
@@ -19203,6 +19238,10 @@
     {
       "supplier": "Scalebay",
       "article": "NAME::Шасси КАМАЗ-65225 ’ПАО КАМАЗ (Аист)’ 1:43"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Надстройка УРБ-2А-2(131)"
     }
   ],
   "manufacturer_map": [
