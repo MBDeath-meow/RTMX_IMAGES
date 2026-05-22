@@ -18562,11 +18562,6 @@
     },
     {
       "supplier": "Scalebay",
-      "article": "105189",
-      "unomag_id": 485952
-    },
-    {
-      "supplier": "Scalebay",
       "article": "NAME::90 лет ГОН ЗИЛ-111A Н.С. Хрущёв",
       "unomag_id": 180856
     },
@@ -18824,6 +18819,86 @@
       "supplier": "Scalebay",
       "article": "109303",
       "unomag_id": 174172
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "106401",
+      "unomag_id": 7823
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "106301",
+      "unomag_id": 181603
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "105537",
+      "unomag_id": 624174
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "105502",
+      "unomag_id": 186706
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "105355",
+      "unomag_id": 344400
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "105253",
+      "unomag_id": 470590
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "105243",
+      "unomag_id": 316673
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "105232",
+      "unomag_id": 182349
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "105202",
+      "unomag_id": 154243
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "105189",
+      "unomag_id": 485952
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "105187",
+      "unomag_id": 479216
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "105179",
+      "unomag_id": 191468
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "105177",
+      "unomag_id": 173393
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "105172",
+      "unomag_id": 179371
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "105170",
+      "unomag_id": 180125
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "105141",
+      "unomag_id": 387479
     }
   ],
   "ignored_articles": [
