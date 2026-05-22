@@ -18119,6 +18119,46 @@
       "supplier": "Scalebay",
       "article": "NAME::SSM. Бронетранспортёр ГТ-МУ",
       "unomag_id": 366086
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::SSM. Горький-51 (1946 г.)",
+      "unomag_id": 655983
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::SSM. Горький-51Р SSM1580 (ГА3-51Р такси)",
+      "unomag_id": 514765
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::SSM. ЗИЛ-ММЗ-164АН с полуприцепом ОДАЗ-857Б",
+      "unomag_id": 288392
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::SSM. ЗИС-121Д (151)",
+      "unomag_id": 567921
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::SSM. Кубань-Г1А1-02 Автоклуб",
+      "unomag_id": 177914
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::SSM. МАЗ-200В с полуприцепом МАЗ-5217",
+      "unomag_id": 209251
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::SSM. МАЗ-5432 с полуприцепом-самосвалом МАЗ-5232В",
+      "unomag_id": 331736
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::SSM. ПМЗ-16В",
+      "unomag_id": 563394
     }
   ],
   "ignored_articles": [
