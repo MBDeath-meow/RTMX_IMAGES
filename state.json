@@ -19119,6 +19119,51 @@
       "supplier": "Scalebay",
       "article": "NAME::Зил-130В1 Dip models. арт 113043",
       "unomag_id": 462637
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Зис 150 (Зил 164) Топливозаправщик ТЗМ 150 СССР Ранний",
+      "unomag_id": 7833
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Зис 150 (Зил 164) Топливозаправщик ТЗМ 150 СССР Ранний Лимитированный выпуск Dip 1:43 115002",
+      "unomag_id": 7833
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Зис 150 ПМ 8 Поливомоечная машина 1950 СССР Dip  1:43 115003",
+      "unomag_id": 7836
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::КАВЗ 685М АГДЗС г.Барнаул 1985г. арт.168508 DIP 1:43",
+      "unomag_id": 584536
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::КАВЗ-685М 1985 год",
+      "unomag_id": 579238
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::КИ 51  ПЛАСТИНКИ  DIP Models",
+      "unomag_id": 178629
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::КИ 51  ТКАНИ DIP Models",
+      "unomag_id": 179371
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::КИ 51 АЭРОФЛОТ DIP MODELS",
+      "unomag_id": 154155
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::КИ 51 КИРГИЗСТАН  DIP MODELS",
+      "unomag_id": 157345
     }
   ],
   "ignored_articles": [
@@ -21173,6 +21218,14 @@
     {
       "supplier": "Scalebay",
       "article": "NAME::Зил 41052 ВКЛАДЫШ В БОКС"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Зис-121Б DIP models 1:43"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Ищу ЗАЗ-965 Запорожец ’DIP Models’"
     }
   ],
   "manufacturer_map": [
