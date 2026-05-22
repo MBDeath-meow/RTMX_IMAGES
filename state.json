@@ -19749,6 +19749,41 @@
       "supplier": "Scalebay",
       "article": "NAME::МАЗ-6422 (ранний) с самосвальным полуприцепом МАЗ-9506-20",
       "unomag_id": 197435
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::МАЗ-6422 с самосвальным полуприцепом МАЗ-9506-30  АИСТ",
+      "unomag_id": 199151
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::МАЗ-6422 седельный тягач (поздняя кабина, желтый)",
+      "unomag_id": 180428
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::МАЗ-6422 седельный тягач (ранний, синий)",
+      "unomag_id": 180427
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::МАЗ-6422 седельный тягач Автоистория (АИСТ) 1:43",
+      "unomag_id": 180428
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::МАЗ-6501 самосвал вишневый/желтый",
+      "unomag_id": 207029
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::МКЗ-10 (ЗиЛ-4333) серый",
+      "unomag_id": 509636
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Маз 200В с п.пр НАМИ 790 (101081)",
+      "unomag_id": 181032
     }
   ],
   "ignored_articles": [
@@ -21919,6 +21954,10 @@
     {
       "supplier": "Scalebay",
       "article": "NAME::МАЗ-5432 седельный тягач 1981г"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::МАЗ-6422 + МАЗ-9506-20 (п/п самосвал) сцепка (1/43) Металлические рамы !!!)."
     }
   ],
   "manufacturer_map": [
