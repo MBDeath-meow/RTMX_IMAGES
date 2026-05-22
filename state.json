@@ -19104,6 +19104,21 @@
       "supplier": "Scalebay",
       "article": "NAME::ЗиЛ 130 1972 г. Лимитированное издание 40 штук DIP",
       "unomag_id": 330437
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::ЗиЛ-4906 «Синяя птица»",
+      "unomag_id": 7821
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::ЗиМ такси Москва 1962г  арт. 101208",
+      "unomag_id": 459100
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Зил-130В1 Dip models. арт 113043",
+      "unomag_id": 462637
     }
   ],
   "ignored_articles": [
@@ -21146,6 +21161,18 @@
     {
       "supplier": "Scalebay",
       "article": "NAME::ЗИЛ-157 бортовой с тентом ( учебный )"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::ЗиС-101А, 1940 г."
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::ЗиС-101А, НКВД г. Москва - 1940 г."
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Зил 41052 ВКЛАДЫШ В БОКС"
     }
   ],
   "manufacturer_map": [
