@@ -18994,6 +18994,36 @@
       "supplier": "Scalebay",
       "article": "NAME::АЦТ-8 Приозерск DIP Models",
       "unomag_id": 289756
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::АЦУ 10 (52) 1975 г (105230) . L.E 96 pcs ( dip models)",
+      "unomag_id": 182347
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::АЦУ 10(52) Чапаевский",
+      "unomag_id": 182348
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::АЦУ-10(157) DIP Models",
+      "unomag_id": 221046
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::АЦУ-20(51)-60 1977, L.e. 96 pcs.",
+      "unomag_id": 187764
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::АЦУ-20(51)-60 колхоз Искра DIP Models",
+      "unomag_id": 187765
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Горький-51 «АМ – 3» (автомобиль милицейский, третья модель)",
+      "unomag_id": 316929
     }
   ],
   "ignored_articles": [
@@ -21028,6 +21058,10 @@
     {
       "supplier": "Scalebay",
       "article": "110103"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::АЦУ-20(63)-60 (DiP models)"
     }
   ],
   "manufacturer_map": [
