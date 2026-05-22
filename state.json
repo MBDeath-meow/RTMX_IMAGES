@@ -19644,6 +19644,36 @@
       "supplier": "Scalebay",
       "article": "NAME::Урал-375Д, SSM",
       "unomag_id": 176461
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Экскаватор-планировщик UDS-114A (Tatra-815) КАЧЕСТВО = ЦЕНА (ВЫБОРКА)",
+      "unomag_id": 246995
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::ЯАЗ-200 (SSM)",
+      "unomag_id": 174094
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::ЯАЗ-200 бортовой (хаки)",
+      "unomag_id": 174094
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::ЯАЗ-210 Start Scale Models (SSM)",
+      "unomag_id": 184743
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::ЯАЗ-210 бортовой, синий",
+      "unomag_id": 179142
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::ЯАЗ-210Е самосвал КАЧЕСТВО = ЦЕНА (ВЫБОРКА)",
+      "unomag_id": 180223
     }
   ],
   "ignored_articles": [
@@ -21790,6 +21820,10 @@
     {
       "supplier": "Scalebay",
       "article": "NAME::Фургон с грузоподъёмным бортом У-165 ’Молоко’ (шасси ЗИЛ-130)"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::автоцистерна АЦ-4,0-131 ( шасси ЗИЛ-131 )  хаки"
     }
   ],
   "manufacturer_map": [
