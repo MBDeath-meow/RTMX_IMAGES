@@ -18344,6 +18344,36 @@
       "supplier": "Scalebay",
       "article": "SSM1581",
       "unomag_id": 519216
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::ЗИЛ-130  новая решётка радиатора",
+      "unomag_id": 150038
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::ЗИЛ-131 АЦ-4,0 (131), МЧС",
+      "unomag_id": 176054
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::ЗИЛ-133ГЯ бортовой с тентом",
+      "unomag_id": 610705
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::ЗИЛ-157 АЦ-4,3 пожарный",
+      "unomag_id": 154342
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::ЗИЛ-4333 KО-829А поливалка",
+      "unomag_id": 459312
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::ЗИЛ-4333 бортовой",
+      "unomag_id": 226063
     }
   ],
   "ignored_articles": [
