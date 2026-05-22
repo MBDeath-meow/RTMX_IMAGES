@@ -19509,6 +19509,31 @@
       "supplier": "Scalebay",
       "article": "NAME::Камаз Ац 3-40 43502 SSM 1:43",
       "unomag_id": 194309
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Карьерный самосвал БелАЗ-540А SSM",
+      "unomag_id": 199800
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::КрАЗ-257",
+      "unomag_id": 172734
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Краз 256Б1 (1033)",
+      "unomag_id": 159336
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Краз 256Б1 (1086)",
+      "unomag_id": 173723
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Кубань Г1А1-02, SSM",
+      "unomag_id": 159394
     }
   ],
   "ignored_articles": [
@@ -21611,6 +21636,14 @@
     {
       "supplier": "Scalebay",
       "article": "NAME::Камаз-54901 тягач красный.SSM."
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Каток ДУ-49, ( желтый )"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Кубань Г1А1-02"
     }
   ],
   "manufacturer_map": [
