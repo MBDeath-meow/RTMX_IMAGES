@@ -19359,6 +19359,26 @@
       "supplier": "Scalebay",
       "article": "NAME::ПКС ЗИЛ 130 DIP Models",
       "unomag_id": 267664
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::ПАЗ 661 ОДЕЖДА DIP Models",
+      "unomag_id": 178078
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::ПАЗ 661 DIP Models МОСГОРТРАНС",
+      "unomag_id": 178077
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::ПАЗ 651 А DIP Models",
+      "unomag_id": 172621
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Мотоцикл ММЗ / ИМЗ М-72М 1957 г",
+      "unomag_id": 205500
     }
   ],
   "ignored_articles": [
@@ -21445,6 +21465,10 @@
     {
       "supplier": "Scalebay",
       "article": "NAME::ПКС ЗИЛ-157 1982 г. Москва L.e. 144 pcs. DIP  ЗИС-151 Техпомощь (DiP+Мастер Колесов)"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::ПАЗ-651А (DiP models)"
     }
   ],
   "manufacturer_map": [
