@@ -18074,6 +18074,26 @@
       "supplier": "Scalebay",
       "article": "NAME::Magirus  -290D26K самосвал",
       "unomag_id": 197873
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::SSM МАЗ-205 Лимитированный",
+      "unomag_id": 195255
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::SSM. IFA W50L бортовой с тентом",
+      "unomag_id": 360081
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::SSM. Praga V3S FEK",
+      "unomag_id": 416281
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::SSM. Praga V3S S1 самосвал",
+      "unomag_id": 397788
     }
   ],
   "ignored_articles": [
