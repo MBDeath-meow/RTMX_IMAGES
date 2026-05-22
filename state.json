@@ -19874,6 +19874,41 @@
       "supplier": "Scalebay",
       "article": "NAME::Фургон с грузоподъёмным бортом У-165 Почта России (на шасси ЗИЛ-130)  АИСТ",
       "unomag_id": 195397
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::ЯАЗ-200 бортовой (бордовый)",
+      "unomag_id": 186059
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::ЯАЗ-200 бортовой (т.красный) Авто история (Аист)  Н.0359",
+      "unomag_id": 186059
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::ЯАЗ-210 бортовой, оранжевый/серый",
+      "unomag_id": 185363
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::ЯАЗ-210 бортовой, оранжевый/серый   АИСТ",
+      "unomag_id": 185363
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::автоцистерна АЦ-9 ( на шасси МАЗ-5337)",
+      "unomag_id": 333216
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::УрАЛ-375С (тентованная кабина) седельный тягач",
+      "unomag_id": 182194
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Полуприцеп ЧМЗАП-5523 серый",
+      "unomag_id": 186617
     }
   ],
   "ignored_articles": [
@@ -22064,6 +22099,10 @@
     {
       "supplier": "Scalebay",
       "article": "NAME::Урал-377С 6х4 седельный тягач, 1965 г. (хаки) АИСТ Без покрышек!!!"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::прицеп МАЗ-83781 бортовой"
     }
   ],
   "manufacturer_map": [
