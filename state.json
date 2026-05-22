@@ -19919,6 +19919,56 @@
       "supplier": "Scalebay",
       "article": "NAME::1/43   Камаз-6540",
       "unomag_id": 198337
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::КАМАЗ-65206 с полуприцепом НЕФАЗ-93341",
+      "unomag_id": 364917
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::КО-415А (53213)",
+      "unomag_id": 559032
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::КО-415А (53213) ПАО КАМАЗ 1:43",
+      "unomag_id": 559032
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::КО-415А (КамАЗ-53213)",
+      "unomag_id": 559032
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::КамАЗ-4310 К4320Д кунг",
+      "unomag_id": 338942
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "104127",
+      "unomag_id": 640208
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::КамАЗ-5490 с полуприцепом НЕФАЗ-93341 ПЭК",
+      "unomag_id": 350371
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::КамАЗ-5511 самосвал хаки",
+      "unomag_id": 633016
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::КамАЗ-6520 самосвал серый",
+      "unomag_id": 655982
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::КамАЗ-6522 оранжевый",
+      "unomag_id": 657404
     }
   ],
   "ignored_articles": [
@@ -22117,6 +22167,14 @@
     {
       "supplier": "Scalebay",
       "article": "NAME::Автобетоносмеситель сб-92 КамАЗ 5511 пао"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::КО-505 на шасси КАМАЗ-53213"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::КС-3575А (53213) на базе КАМАЗ"
     }
   ],
   "manufacturer_map": [
