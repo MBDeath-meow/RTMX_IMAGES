@@ -18399,6 +18399,51 @@
       "supplier": "Scalebay",
       "article": "NAME::Зил 130 Кунг (1066)",
       "unomag_id": 172878
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Зил 130 поздняя облицовка радиатора (1003)",
+      "unomag_id": 150038
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Зил 130 шасси новая облицовка радиатора (9001)",
+      "unomag_id": 150457
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Зил 130В1 с полуприцепом ОДАЗ 885 (7001)",
+      "unomag_id": 172880
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Зил 131 НВ (1088)",
+      "unomag_id": 175375
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Зил 131 НВ (СА 1069)",
+      "unomag_id": 175376
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Зил 131 вахта (1089)",
+      "unomag_id": 173830
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Зил 131 шасси (9005)",
+      "unomag_id": 173828
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Зил 133 ГЯ (1051)",
+      "unomag_id": 158065
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Зил 4331 (1048)",
+      "unomag_id": 155948
     }
   ],
   "ignored_articles": [
@@ -20417,6 +20462,10 @@
     {
       "supplier": "Scalebay",
       "article": "NAME::ГТ-С (SSM)"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Зил-130 (тягач)"
     }
   ],
   "manufacturer_map": [
