@@ -18309,6 +18309,41 @@
       "supplier": "Scalebay",
       "article": "NAME::Бецема АЦ/АТЗ-16 (KAMAZ-65207-87) КАЧЕСТВО = ЦЕНА (ВЫБОРКА)",
       "unomag_id": 479744
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Бецема АЦ/АТЗ-16 (КамАЗ-65207-87)",
+      "unomag_id": 479744
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Вахтовый автобус (66), пожарная служба",
+      "unomag_id": 210771
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::ГТ-СМ (71) снегоболотоход",
+      "unomag_id": 6759
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::ГТК 40 (53) (1390)",
+      "unomag_id": 266090
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Горький-33081 4х4 (двиг. Д-245.7 Diesel Turbo) выставочный",
+      "unomag_id": 179544
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Горький-51Р      SSM",
+      "unomag_id": 514765
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "SSM1581",
+      "unomag_id": 519216
     }
   ],
   "ignored_articles": [
@@ -20323,6 +20358,10 @@
     {
       "supplier": "Scalebay",
       "article": "Н955"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::ГТ-С (SSM)"
     }
   ],
   "manufacturer_map": [
