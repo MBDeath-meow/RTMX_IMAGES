@@ -19559,6 +19559,91 @@
       "supplier": "Scalebay",
       "article": "NAME::МАЗ-205 самосвал, Мосготранс",
       "unomag_id": 159461
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::МАЗ-504А с полуприцепом Alka N12CH Sovtransavto",
+      "unomag_id": 303514
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::МАЗ-5550 Мосметро",
+      "unomag_id": 223983
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::МАЗ-5550 самосвал",
+      "unomag_id": 202910
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::МАЗ-5550 самосвал аварийный",
+      "unomag_id": 223983
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::МАЗ-5550 самосвал аварийный (Метро)",
+      "unomag_id": 223983
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::МАЗ-6422 с полуприцепом Lamberet Sovtransavto",
+      "unomag_id": 499999
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::МАЗ-6422 с полуприцепом-контейнеровозом МАЗ-938920 Maersk",
+      "unomag_id": 187201
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Мусоровоз КО-413 (53) голубой/оранжевый",
+      "unomag_id": 441961
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Одаз 885 (7002)",
+      "unomag_id": 173585
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Пескоразбрасыватель ПР-53(52) SSM 1:43",
+      "unomag_id": 441039
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Пожарная цистерна АЦ-30 (53А)-106А, ДПД им. Дзержинского",
+      "unomag_id": 191316
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Полуприцеп МАЗ-5215 светло коричневый",
+      "unomag_id": 177911
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Танк Т-64Б",
+      "unomag_id": 226249
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Трамвай Tatra-T1",
+      "unomag_id": 384989
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Трамвай КТМ-8 красно-белый",
+      "unomag_id": 365331
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Троллейбус Skoda-9TR бело-голубой",
+      "unomag_id": 485255
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Урал-375Д, SSM",
+      "unomag_id": 176461
     }
   ],
   "ignored_articles": [
@@ -21681,6 +21766,30 @@
     {
       "supplier": "Scalebay",
       "article": "NAME::МАЗ-205 (Start Scale models)"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Маз"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Трамвай Tatra-T3SU синий, г. Москва"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::УрАЛ-ЗиС-355М  (SSM)"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Урал-375Д бортовой с тентом"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Урал-ЗиС 355М"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Фургон с грузоподъёмным бортом У-165 ’Молоко’ (шасси ЗИЛ-130)"
     }
   ],
   "manufacturer_map": [
