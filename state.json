@@ -18374,6 +18374,31 @@
       "supplier": "Scalebay",
       "article": "NAME::ЗИЛ-4333 бортовой",
       "unomag_id": 226063
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::ЗИС-151 бортовой ( SSM )",
+      "unomag_id": 153285
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::ЗиЛ-157 АЦ-4,3 заправщик Аэрофлот (SSM)",
+      "unomag_id": 154341
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::ЗиЛ-157 Танкер аэрофлот",
+      "unomag_id": 154341
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::ЗиУ-10 (ЗиУ-683) г. Москва, маршрут №48",
+      "unomag_id": 351440
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Зил 130 Кунг (1066)",
+      "unomag_id": 172878
     }
   ],
   "ignored_articles": [
