@@ -19274,6 +19274,31 @@
       "supplier": "Scalebay",
       "article": "NAME::УАЗ",
       "unomag_id": 516761
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Скидка АСТБ-53-12 - 1992 г. РФ  DIP MODELS",
+      "unomag_id": 344400
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Сборная модель  СТБ1-52 ( DIP Models )",
+      "unomag_id": 346965
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::СТБ1 -52-1981 Г. УзССР DIP Models",
+      "unomag_id": 316673
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::СТБ1 -52-1976 Г. DIP Models",
+      "unomag_id": 316672
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::СКИДКА СТБ1-52-08 - 1990 г. ЛатвССР DiP Models",
+      "unomag_id": 316674
     }
   ],
   "ignored_articles": [
@@ -21348,6 +21373,10 @@
     {
       "supplier": "Scalebay",
       "article": "NAME::УАЗ Патриот Cargo (DiP models)"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Сертификаты моделей DIP models"
     }
   ],
   "manufacturer_map": [
