@@ -19469,6 +19469,46 @@
       "supplier": "Scalebay",
       "article": "NAME::КамАЗ-6520 самосвал белый",
       "unomag_id": 598571
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::КамАЗ-65207 бортовой с тентом белый/синий",
+      "unomag_id": 477640
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::КамАЗ-65225",
+      "unomag_id": 198016
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::КамАЗ-65801-68 красный самосвал",
+      "unomag_id": 482150
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::КамАЗ-65802-87 (S5) красный",
+      "unomag_id": 477068
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::КамАЗ-65951 самосвал белый/синий",
+      "unomag_id": 457283
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::КамАЗ-65952 самосвал белый/синий",
+      "unomag_id": 455164
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Камаз 43502 SSM 1:43",
+      "unomag_id": 189890
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Камаз Ац 3-40 43502 SSM 1:43",
+      "unomag_id": 194309
     }
   ],
   "ignored_articles": [
@@ -21563,6 +21603,14 @@
     {
       "supplier": "Scalebay",
       "article": "NAME::Кузов"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Камаз 53212"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Камаз-54901 тягач красный.SSM."
     }
   ],
   "manufacturer_map": [
