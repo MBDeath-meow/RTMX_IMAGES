@@ -19024,6 +19024,21 @@
       "supplier": "Scalebay",
       "article": "NAME::Горький-51 «АМ – 3» (автомобиль милицейский, третья модель)",
       "unomag_id": 316929
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::ЗИЛ 130  1972 Г.DIP Models",
+      "unomag_id": 309568
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::ЗИЛ 130  1972 Г.DIP Models  без надписей и номеров",
+      "unomag_id": 330437
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::ЗИЛ 130 БОРТ 1982 Г.DIP Models",
+      "unomag_id": 334240
     }
   ],
   "ignored_articles": [
