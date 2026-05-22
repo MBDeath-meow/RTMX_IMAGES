@@ -19699,6 +19699,56 @@
       "supplier": "Scalebay",
       "article": "NAME::Контейнерный мусоровоз M-30 (53)",
       "unomag_id": 414794
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::МАЗ-5432 (ранняя кабина, зелёный)",
+      "unomag_id": 180455
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::МАЗ-5550 самосвал жёлтый/серый",
+      "unomag_id": 206486
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::МАЗ-5551 1998г. АИСТ.",
+      "unomag_id": 180226
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::МАЗ-5551 самосвал (поздняя кабина, жёлто-оранжевый, высокий кузов), 1988 г.",
+      "unomag_id": 180226
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::МАЗ-5551 самосвал (ранняя кабина, хаки-синий), 1988 г.",
+      "unomag_id": 180225
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::МАЗ-5551 самосвал желтый/оранжевый",
+      "unomag_id": 180226
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::МАЗ-5551 самосвал хаки/синий",
+      "unomag_id": 180225
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::МАЗ-6303 бортовой с тентом",
+      "unomag_id": 184601
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::МАЗ-6303 бортовой синий/серый",
+      "unomag_id": 180954
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::МАЗ-6422 (ранний) с самосвальным полуприцепом МАЗ-9506-20",
+      "unomag_id": 197435
     }
   ],
   "ignored_articles": [
@@ -21865,6 +21915,10 @@
     {
       "supplier": "Scalebay",
       "article": "NAME::МАЗ 5432 седельный тягач (ранний , белый) АИСТ"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::МАЗ-5432 седельный тягач 1981г"
     }
   ],
   "manufacturer_map": [
