@@ -19409,6 +19409,21 @@
       "supplier": "Scalebay",
       "article": "NAME::КаВЗ  3270  Краснодар Ильский Dip Models",
       "unomag_id": 279631
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::КАМАЗ-Э5510 самосвал",
+      "unomag_id": 473692
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::КО-829А пескоразбрасыватель ЗИЛ-4333",
+      "unomag_id": 460537
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::КРАЗ-214 Мосгортранс",
+      "unomag_id": 214442
     }
   ],
   "ignored_articles": [
@@ -21623,14 +21638,6 @@
       "variation": "Hachette"
     },
     {
-      "unomag_name": "Start Scale Models",
-      "variation": "Start Scale Models"
-    },
-    {
-      "unomag_name": "Start Scale Models",
-      "variation": "Start Scale Models (SSM)"
-    },
-    {
       "unomag_name": "Автоистория (АИСТ)",
       "variation": "Start Scale Models (SSM)"
     },
@@ -21661,6 +21668,14 @@
     {
       "unomag_name": "DiP Models",
       "variation": "DiP Models"
+    },
+    {
+      "unomag_name": "Start Scale Models",
+      "variation": "Start Scale Models"
+    },
+    {
+      "unomag_name": "Start Scale Models",
+      "variation": "Start Scale Models (SSM)"
     }
   ],
   "suppliers": [
