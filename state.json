@@ -19164,6 +19164,101 @@
       "supplier": "Scalebay",
       "article": "NAME::КИ 51 КИРГИЗСТАН  DIP MODELS",
       "unomag_id": 157345
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::КИ 51 ПИВО DIP MODELS",
+      "unomag_id": 7830
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::КИ 51 ПОСУДА DIP Models",
+      "unomag_id": 176755
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::КИ 51 ПРАЧЕЧНЫЕ  DIP Models",
+      "unomag_id": 192921
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::КИ 51 РЕСТОРАНЫ ПРИ ВОКЗАЛАХ  DIP MODELS",
+      "unomag_id": 172737
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::КИ 51 СОВЕТСКОЕ ВИСКИ  DIP Models",
+      "unomag_id": 346745
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::КИ 51 ЧАСЫ DIP Models",
+      "unomag_id": 192922
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::КИ-51 ’С Новым Годом!’ Dip Models",
+      "unomag_id": 350011
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::КИМ 10-50",
+      "unomag_id": 154145
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::КИМ-10-50 (серый) DIP Models  Б.7378",
+      "unomag_id": 186706
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::КИМ-10-50, DIP",
+      "unomag_id": 154145
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::набор вспомнить все  КИ 51 DIP MODELS",
+      "unomag_id": 356942
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::уаз 450д бежево-борд 1 43 dip models",
+      "unomag_id": 152597
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::ким-10-50 1-43 dip models 190502 сертификат есть",
+      "unomag_id": 186706
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::ки 51 фото dip models",
+      "unomag_id": 191467
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::ки 51 подарки детям DIP Models",
+      "unomag_id": 191468
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::ки 51 зонты DIP Models",
+      "unomag_id": 173393
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::ки 51 Украина dip models",
+      "unomag_id": 346424
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::ки 51 Мосмолоко Dip Models",
+      "unomag_id": 346425
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::зил АС-157 Ленинград Аэропорт Dip models",
+      "unomag_id": 392962
     }
   ],
   "ignored_articles": [
@@ -21226,6 +21321,10 @@
     {
       "supplier": "Scalebay",
       "article": "NAME::Ищу ЗАЗ-965 Запорожец ’DIP Models’"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::модель мотоцикла М72 (ММЗ), 1941г DIP"
     }
   ],
   "manufacturer_map": [
@@ -21384,10 +21483,6 @@
     {
       "unomag_name": "DiP Models",
       "variation": "DiP Models"
-    },
-    {
-      "unomag_name": "DiP Models",
-      "variation": "Start Scale Models (SSM)"
     }
   ],
   "suppliers": [
