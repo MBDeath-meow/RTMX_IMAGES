@@ -19064,6 +19064,46 @@
       "supplier": "Scalebay",
       "article": "NAME::ЗИЛ 41072 Скорпион серия ГОН Dip",
       "unomag_id": 151809
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::ЗИЛ «АЦПТ-4,1» Ленинград - 1967 г. DIP MODELS",
+      "unomag_id": 395655
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::ЗИЛ-157К/ТВ-5 тягач с роспуском для перевозки труб большого диаметра",
+      "unomag_id": 177423
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::ЗИЛ-49061",
+      "unomag_id": 205681
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::ЗИС 151 БОРТ С ТЕНТОМ DIP Models",
+      "unomag_id": 155818
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::ЗИС 151 техпомощь DIP Models",
+      "unomag_id": 156500
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::ЗИС-112 1951, DIP",
+      "unomag_id": 7861
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::ЗИС-121Б седельный тягач (грязно-зеленый)",
+      "unomag_id": 157113
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::ЗиЛ 130 1972 г. Лимитированное издание 40 штук DIP",
+      "unomag_id": 330437
     }
   ],
   "ignored_articles": [
@@ -21102,6 +21142,10 @@
     {
       "supplier": "Scalebay",
       "article": "NAME::АЦУ-20(63)-60 (DiP models)"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::ЗИЛ-157 бортовой с тентом ( учебный )"
     }
   ],
   "manufacturer_map": [
