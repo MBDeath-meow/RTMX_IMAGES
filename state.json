@@ -19259,6 +19259,21 @@
       "supplier": "Scalebay",
       "article": "NAME::зил АС-157 Ленинград Аэропорт Dip models",
       "unomag_id": 392962
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::зил 130 Олимпиада 80 dip models",
+      "unomag_id": 335551
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::УАЗ-450Д ’РА-10’ - Москва 1965г. машина для разогрева асфальта DIP MODELS",
+      "unomag_id": 516760
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::УАЗ",
+      "unomag_id": 516761
     }
   ],
   "ignored_articles": [
@@ -21325,6 +21340,14 @@
     {
       "supplier": "Scalebay",
       "article": "NAME::модель мотоцикла М72 (ММЗ), 1941г DIP"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::зил 164 dip models"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::УАЗ Патриот Cargo (DiP models)"
     }
   ],
   "manufacturer_map": [
