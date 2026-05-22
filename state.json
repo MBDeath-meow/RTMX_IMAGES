@@ -19849,6 +19849,31 @@
       "supplier": "Scalebay",
       "article": "NAME::УрАЛ-375Д бортовой (зеленый)",
       "unomag_id": 179230
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::УрАЛ-4320 КУНГ",
+      "unomag_id": 255698
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Урал 377С (916)",
+      "unomag_id": 182792
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::УралЗИС-355М, с тентом",
+      "unomag_id": 156928
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Функциональный самосвальный полуприцеп МАЗ-5232В",
+      "unomag_id": 181047
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Фургон с грузоподъёмным бортом У-165 Почта России (на шасси ЗИЛ-130)  АИСТ",
+      "unomag_id": 195397
     }
   ],
   "ignored_articles": [
@@ -22031,6 +22056,14 @@
     {
       "supplier": "Scalebay",
       "article": "NAME::ПУ-53 (53) Автоистория (АИСТ) КАЧЕСТВО = ЦЕНА (ВЫБОРКА)"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Урал - 44202. Читать описание !"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Урал-377С 6х4 седельный тягач, 1965 г. (хаки) АИСТ Без покрышек!!!"
     }
   ],
   "manufacturer_map": [
@@ -22151,14 +22184,6 @@
       "variation": "Hachette"
     },
     {
-      "unomag_name": "Автоистория (АИСТ)",
-      "variation": "Start Scale Models (SSM)"
-    },
-    {
-      "unomag_name": "Автоистория (АИСТ)",
-      "variation": "Автоистория (АИСТ)"
-    },
-    {
       "unomag_name": "gf",
       "variation": "gf"
     },
@@ -22197,6 +22222,14 @@
     {
       "unomag_name": "Demprice",
       "variation": "Demprice"
+    },
+    {
+      "unomag_name": "Автоистория (АИСТ)",
+      "variation": "Start Scale Models (SSM)"
+    },
+    {
+      "unomag_name": "Автоистория (АИСТ)",
+      "variation": "Автоистория (АИСТ)"
     }
   ],
   "suppliers": [
