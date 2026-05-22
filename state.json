@@ -7657,6 +7657,11 @@
     },
     {
       "supplier": "Scalebay",
+      "article": "NAME::МАЗ-5551 1998г. АИСТ.",
+      "unomag_id": 180226
+    },
+    {
+      "supplier": "Scalebay",
       "article": "NAME::МАЗ-5340 борт/тент. SSM.",
       "unomag_id": 202911
     },
@@ -7849,6 +7854,11 @@
       "supplier": "Scalebay",
       "article": "NAME::Praga V3S ASC-16/3.5 пожарный грузовик.SSM.",
       "unomag_id": 636030
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Полуприцеп МАЗ-5205.Автоистория.",
+      "unomag_id": 714391
     },
     {
       "supplier": "Scalebay",
@@ -10237,6 +10247,11 @@
     },
     {
       "supplier": "Scalebay",
+      "article": "NAME::МАЗ-6422 с самосвальным полуприцепом МАЗ-9506-30  АИСТ",
+      "unomag_id": 199151
+    },
+    {
+      "supplier": "Scalebay",
       "article": "NAME::КРАЗ-256Б1 SSM",
       "unomag_id": 629011
     },
@@ -11607,6 +11622,11 @@
     },
     {
       "supplier": "Scalebay",
+      "article": "NAME::УМП 350 (на шасси ЗИЛ-131), Аэропорт, 1975 г. АИСТ",
+      "unomag_id": 181035
+    },
+    {
+      "supplier": "Scalebay",
       "article": "NAME::Гусеничный транспортёр-тягач ГТ-Т, Новолазаревская РАЭ   SSM",
       "unomag_id": 377538
     },
@@ -11704,6 +11724,11 @@
       "supplier": "Scalebay",
       "article": "NAME::ПУ-20 (51А)  АИСТ",
       "unomag_id": 694057
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::ТГ-3   АИСТ",
+      "unomag_id": 488956
     },
     {
       "supplier": "Scalebay",
@@ -12232,6 +12257,11 @@
     },
     {
       "supplier": "Scalebay",
+      "article": "NAME::МАЗ-6422 седельный тягач (ранний, синий)",
+      "unomag_id": 180427
+    },
+    {
+      "supplier": "Scalebay",
       "article": "NAME::Studebaker US6 БМ-13 «Катюша»",
       "unomag_id": 262785
     },
@@ -12239,6 +12269,11 @@
       "supplier": "Scalebay",
       "article": "NAME::ЗИЛ-4331 бортовой, учебный (хаки)",
       "unomag_id": 178138
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::МАЗ-6422 седельный тягач (поздняя кабина, желтый)",
+      "unomag_id": 180428
     },
     {
       "supplier": "Scalebay",
@@ -12269,6 +12304,11 @@
       "supplier": "Scalebay",
       "article": "NAME::ЗИЛ-130В1 с полуприцепом ОДАЗ-794",
       "unomag_id": 198943
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::МАЗ-5432 (ранняя кабина, зелёный)",
+      "unomag_id": 180455
     },
     {
       "supplier": "Scalebay",
@@ -12357,6 +12397,11 @@
     },
     {
       "supplier": "Scalebay",
+      "article": "NAME::МАЗ-5551 самосвал (ранняя кабина, хаки-синий), 1988 г.",
+      "unomag_id": 180225
+    },
+    {
+      "supplier": "Scalebay",
       "article": "NAME::Танк Т-64Б",
       "unomag_id": 226249
     },
@@ -12424,6 +12469,11 @@
       "supplier": "Scalebay",
       "article": "NAME::Вахтовый автобус НЕФАЗ-42112 (4320)",
       "unomag_id": 257283
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::УМП 350 (на шасси ЗИЛ-131), Аэрофлот, 1975 г.",
+      "unomag_id": 181035
     },
     {
       "supplier": "Scalebay",
@@ -12502,6 +12552,11 @@
     },
     {
       "supplier": "Scalebay",
+      "article": "NAME::УрАЛ-375 (тентованная кабина) бортовой, хаки",
+      "unomag_id": 185856
+    },
+    {
+      "supplier": "Scalebay",
       "article": "NAME::МАЗ-6501 самосвал",
       "unomag_id": 207029
     },
@@ -12512,8 +12567,23 @@
     },
     {
       "supplier": "Scalebay",
+      "article": "NAME::МАЗ-6303 бортовой с тентом",
+      "unomag_id": 184601
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::МАЗ-5551 самосвал (поздняя кабина, жёлто-оранжевый, высокий кузов), 1988 г.",
+      "unomag_id": 180226
+    },
+    {
+      "supplier": "Scalebay",
       "article": "NAME::КрАЗ-257 Б1 бортовой, (бежевый/серый)",
       "unomag_id": 178480
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::УМП 350 (на шасси ЗИЛ-131), (хаки матовый), 1975 г.",
+      "unomag_id": 181036
     },
     {
       "supplier": "Scalebay",
@@ -12694,6 +12764,11 @@
       "supplier": "Scalebay",
       "article": "NAME::KAMAZ-6522 рестайлинг 1:43 Start Scale Models (SSM)",
       "unomag_id": 588726
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::МАЗ-6422 седельный тягач Автоистория (АИСТ) 1:43",
+      "unomag_id": 180428
     },
     {
       "supplier": "Scalebay",
@@ -13747,6 +13822,11 @@
     },
     {
       "supplier": "Scalebay",
+      "article": "NAME::УРАЛ  вахта автоистория",
+      "unomag_id": 257283
+    },
+    {
+      "supplier": "Scalebay",
       "article": "NAME::ки 51 подарки детям DIP Models",
       "unomag_id": 191468
     },
@@ -14107,6 +14187,11 @@
     },
     {
       "supplier": "Scalebay",
+      "article": "NAME::МАЗ-5550 самосвал жёлтый/серый",
+      "unomag_id": 206486
+    },
+    {
+      "supplier": "Scalebay",
       "article": "NAME::ПД-4М (51) снегоуборочный",
       "unomag_id": 660809
     },
@@ -14134,6 +14219,11 @@
       "supplier": "Scalebay",
       "article": "NAME::Skoda 706 RTTN седельный тягач",
       "unomag_id": 279548
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::МАЗ-5551 самосвал желтый/оранжевый",
+      "unomag_id": 180226
     },
     {
       "supplier": "Scalebay",
@@ -14212,6 +14302,11 @@
     },
     {
       "supplier": "Scalebay",
+      "article": "NAME::КО-829А (ЗиЛ-4333) оранжевый",
+      "unomag_id": 499997
+    },
+    {
+      "supplier": "Scalebay",
       "article": "NAME::Tatra 815 S1 самосвал синий",
       "unomag_id": 477433
     },
@@ -14239,6 +14334,11 @@
       "supplier": "Scalebay",
       "article": "NAME::Skoda-706 RTTN седельный тягач",
       "unomag_id": 465704
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::МАЗ-6303 бортовой синий/серый",
+      "unomag_id": 180954
     },
     {
       "supplier": "Scalebay",
@@ -14297,6 +14397,11 @@
     },
     {
       "supplier": "Scalebay",
+      "article": "NAME::УРАЛ-ЗиС-355М бортовой синий",
+      "unomag_id": 156927
+    },
+    {
+      "supplier": "Scalebay",
       "article": "NAME::КамАЗ-65207 бортовой с тентом белый/синий",
       "unomag_id": 477640
     },
@@ -14309,6 +14414,16 @@
       "supplier": "Scalebay",
       "article": "NAME::Компрессор передвижной ЗИФ-55",
       "unomag_id": 218730
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::МАЗ-6501 самосвал вишневый/желтый",
+      "unomag_id": 207029
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::МКЗ-10 (ЗиЛ-4333) серый",
+      "unomag_id": 509636
     },
     {
       "supplier": "Scalebay",
@@ -14359,6 +14474,11 @@
       "supplier": "Scalebay",
       "article": "NAME::Урал-375Д бортовой зелены",
       "unomag_id": 179230
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::МАЗ-5551 самосвал хаки/синий",
+      "unomag_id": 180225
     },
     {
       "supplier": "Scalebay",
@@ -16442,6 +16562,11 @@
     },
     {
       "supplier": "Scalebay",
+      "article": "NAME::МАЗ-6422 (ранний) с самосвальным полуприцепом МАЗ-9506-20",
+      "unomag_id": 197435
+    },
+    {
+      "supplier": "Scalebay",
       "article": "NAME::Масштабная модель TATRA 815 S3",
       "unomag_id": 477434
     },
@@ -16469,6 +16594,11 @@
       "supplier": "Scalebay",
       "article": "NAME::Масштабная модель МАЗ-5429",
       "unomag_id": 184074
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Масштабная модель KAMAZ-6520-21010-53",
+      "unomag_id": 519214
     },
     {
       "supplier": "Scalebay",
@@ -17059,6 +17189,11 @@
       "supplier": "Scalebay",
       "article": "NAME::wiesmann roadster MF5",
       "unomag_id": 172941
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Маз 200В с п.пр НАМИ 790 (101081)",
+      "unomag_id": 181032
     },
     {
       "supplier": "Scalebay",
@@ -18202,6 +18337,11 @@
     },
     {
       "supplier": "Scalebay",
+      "article": "NAME::ОДАЗ 9786 (102460)",
+      "unomag_id": 246994
+    },
+    {
+      "supplier": "Scalebay",
       "article": "NAME::ЗИЛ-130В1 с полуприцепом ОДАЗ-885",
       "unomag_id": 186436
     },
@@ -18717,6 +18857,11 @@
     },
     {
       "supplier": "Scalebay",
+      "article": "NAME::Прицеп Маз 8926 есть ОЗОН ДОСТАВКА",
+      "unomag_id": 233245
+    },
+    {
+      "supplier": "Scalebay",
       "article": "NAME::Модель 1:43 Mercedes-Benz GLA Class H247 Spark B66961035",
       "unomag_id": 321453
     },
@@ -18754,6 +18899,11 @@
       "supplier": "Scalebay",
       "article": "NAME::Маз 6422",
       "unomag_id": 180428
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Маз 6422 с п/п щеповоз",
+      "unomag_id": 199151
     },
     {
       "supplier": "Scalebay",
@@ -18994,6 +19144,11 @@
       "supplier": "Scalebay",
       "article": "NAME::ПУ-20 (51А)",
       "unomag_id": 694057
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Контейнерный мусоровоз M-30 (53)",
+      "unomag_id": 414794
     },
     {
       "supplier": "Scalebay",
@@ -19692,158 +19847,8 @@
     },
     {
       "supplier": "Scalebay",
-      "article": "NAME::КО-829А (ЗиЛ-4333) оранжевый",
-      "unomag_id": 499997
-    },
-    {
-      "supplier": "Scalebay",
-      "article": "NAME::Контейнерный мусоровоз M-30 (53)",
-      "unomag_id": 414794
-    },
-    {
-      "supplier": "Scalebay",
-      "article": "NAME::МАЗ-5432 (ранняя кабина, зелёный)",
-      "unomag_id": 180455
-    },
-    {
-      "supplier": "Scalebay",
-      "article": "NAME::МАЗ-5550 самосвал жёлтый/серый",
-      "unomag_id": 206486
-    },
-    {
-      "supplier": "Scalebay",
-      "article": "NAME::МАЗ-5551 1998г. АИСТ.",
-      "unomag_id": 180226
-    },
-    {
-      "supplier": "Scalebay",
-      "article": "NAME::МАЗ-5551 самосвал (поздняя кабина, жёлто-оранжевый, высокий кузов), 1988 г.",
-      "unomag_id": 180226
-    },
-    {
-      "supplier": "Scalebay",
-      "article": "NAME::МАЗ-5551 самосвал (ранняя кабина, хаки-синий), 1988 г.",
-      "unomag_id": 180225
-    },
-    {
-      "supplier": "Scalebay",
-      "article": "NAME::МАЗ-5551 самосвал желтый/оранжевый",
-      "unomag_id": 180226
-    },
-    {
-      "supplier": "Scalebay",
-      "article": "NAME::МАЗ-5551 самосвал хаки/синий",
-      "unomag_id": 180225
-    },
-    {
-      "supplier": "Scalebay",
-      "article": "NAME::МАЗ-6303 бортовой с тентом",
-      "unomag_id": 184601
-    },
-    {
-      "supplier": "Scalebay",
-      "article": "NAME::МАЗ-6303 бортовой синий/серый",
-      "unomag_id": 180954
-    },
-    {
-      "supplier": "Scalebay",
-      "article": "NAME::МАЗ-6422 (ранний) с самосвальным полуприцепом МАЗ-9506-20",
-      "unomag_id": 197435
-    },
-    {
-      "supplier": "Scalebay",
-      "article": "NAME::МАЗ-6422 с самосвальным полуприцепом МАЗ-9506-30  АИСТ",
-      "unomag_id": 199151
-    },
-    {
-      "supplier": "Scalebay",
-      "article": "NAME::МАЗ-6422 седельный тягач (поздняя кабина, желтый)",
-      "unomag_id": 180428
-    },
-    {
-      "supplier": "Scalebay",
-      "article": "NAME::МАЗ-6422 седельный тягач (ранний, синий)",
-      "unomag_id": 180427
-    },
-    {
-      "supplier": "Scalebay",
-      "article": "NAME::МАЗ-6422 седельный тягач Автоистория (АИСТ) 1:43",
-      "unomag_id": 180428
-    },
-    {
-      "supplier": "Scalebay",
-      "article": "NAME::МАЗ-6501 самосвал вишневый/желтый",
-      "unomag_id": 207029
-    },
-    {
-      "supplier": "Scalebay",
-      "article": "NAME::МКЗ-10 (ЗиЛ-4333) серый",
-      "unomag_id": 509636
-    },
-    {
-      "supplier": "Scalebay",
-      "article": "NAME::Маз 200В с п.пр НАМИ 790 (101081)",
-      "unomag_id": 181032
-    },
-    {
-      "supplier": "Scalebay",
-      "article": "NAME::Маз 6422 с п/п щеповоз",
-      "unomag_id": 199151
-    },
-    {
-      "supplier": "Scalebay",
-      "article": "NAME::Масштабная модель KAMAZ-6520-21010-53",
-      "unomag_id": 519214
-    },
-    {
-      "supplier": "Scalebay",
-      "article": "NAME::ОДАЗ 9786 (102460)",
-      "unomag_id": 246994
-    },
-    {
-      "supplier": "Scalebay",
-      "article": "NAME::Полуприцеп МАЗ-5205.Автоистория.",
-      "unomag_id": 714391
-    },
-    {
-      "supplier": "Scalebay",
-      "article": "NAME::Прицеп Маз 8926 есть ОЗОН ДОСТАВКА",
-      "unomag_id": 233245
-    },
-    {
-      "supplier": "Scalebay",
-      "article": "NAME::ТГ-3   АИСТ",
-      "unomag_id": 488956
-    },
-    {
-      "supplier": "Scalebay",
-      "article": "NAME::УМП 350 (на шасси ЗИЛ-131), (хаки матовый), 1975 г.",
-      "unomag_id": 181036
-    },
-    {
-      "supplier": "Scalebay",
-      "article": "NAME::УМП 350 (на шасси ЗИЛ-131), Аэропорт, 1975 г. АИСТ",
-      "unomag_id": 181035
-    },
-    {
-      "supplier": "Scalebay",
-      "article": "NAME::УМП 350 (на шасси ЗИЛ-131), Аэрофлот, 1975 г.",
-      "unomag_id": 181035
-    },
-    {
-      "supplier": "Scalebay",
-      "article": "NAME::УРАЛ  вахта автоистория",
-      "unomag_id": 257283
-    },
-    {
-      "supplier": "Scalebay",
-      "article": "NAME::УРАЛ-ЗиС-355М бортовой синий",
-      "unomag_id": 156927
-    },
-    {
-      "supplier": "Scalebay",
-      "article": "NAME::УрАЛ-375 (тентованная кабина) бортовой, хаки",
-      "unomag_id": 185856
+      "article": "NAME::УрАЛ-375Д бортовой (зеленый)",
+      "unomag_id": 179230
     }
   ],
   "ignored_articles": [
@@ -22184,6 +22189,14 @@
     {
       "unomag_name": "Start Scale Models",
       "variation": "Start Scale Models (SSM)"
+    },
+    {
+      "unomag_name": "Demprice",
+      "variation": "DEMPRICE"
+    },
+    {
+      "unomag_name": "Demprice",
+      "variation": "Demprice"
     }
   ],
   "suppliers": [
