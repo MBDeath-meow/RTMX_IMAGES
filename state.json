@@ -11237,6 +11237,11 @@
     },
     {
       "supplier": "Scalebay",
+      "article": "NAME::Фургон с грузоподъёмным бортом У-165 Почта России (на шасси ЗИЛ-130)  АИСТ",
+      "unomag_id": 195397
+    },
+    {
+      "supplier": "Scalebay",
       "article": "NAME::Мусоровоз 53М     АИСТ",
       "unomag_id": 415569
     },
@@ -11294,6 +11299,11 @@
       "supplier": "Scalebay",
       "article": "NAME::TATRA 815 UDS114A    АИСТ",
       "unomag_id": 479801
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::ЯАЗ-210 бортовой, оранжевый/серый   АИСТ",
+      "unomag_id": 185363
     },
     {
       "supplier": "Scalebay",
@@ -12352,6 +12362,21 @@
     },
     {
       "supplier": "Scalebay",
+      "article": "NAME::УрАЛ-375Д бортовой (зеленый)",
+      "unomag_id": 179230
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::ЯАЗ-210 бортовой, оранжевый/серый",
+      "unomag_id": 185363
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::УрАЛ-375С (тентованная кабина) седельный тягач",
+      "unomag_id": 182194
+    },
+    {
+      "supplier": "Scalebay",
       "article": "NAME::Вахтовый автобус (66), пожарная служба",
       "unomag_id": 210771
     },
@@ -12384,6 +12409,11 @@
       "supplier": "Scalebay",
       "article": "NAME::МАЗ-514 бортовой, желтый/голубой",
       "unomag_id": 178204
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::УралЗИС-355М, с тентом",
+      "unomag_id": 156928
     },
     {
       "supplier": "Scalebay",
@@ -13332,6 +13362,11 @@
     },
     {
       "supplier": "Scalebay",
+      "article": "NAME::ЯАЗ-200 бортовой (т.красный) Авто история (Аист)  Н.0359",
+      "unomag_id": 186059
+    },
+    {
+      "supplier": "Scalebay",
       "article": "NAME::КрАЗ-6322 экскаватор ЭОВ-4422 (тёмно-зелёный) Наш Автопром  М.0656",
       "unomag_id": 246676
     },
@@ -14162,6 +14197,11 @@
     },
     {
       "supplier": "Scalebay",
+      "article": "NAME::Функциональный самосвальный полуприцеп МАЗ-5232В",
+      "unomag_id": 181047
+    },
+    {
+      "supplier": "Scalebay",
       "article": "NAME::Урал-4320 бортовой с тентом оранжевый",
       "unomag_id": 181100
     },
@@ -14234,6 +14274,11 @@
       "supplier": "Scalebay",
       "article": "NAME::ТВГ-15 (52) хаки/серый/желтый",
       "unomag_id": 461812
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::ЯАЗ-200 бортовой (бордовый)",
+      "unomag_id": 186059
     },
     {
       "supplier": "Scalebay",
@@ -14389,6 +14434,11 @@
       "supplier": "Scalebay",
       "article": "NAME::МАЗ-6303 бортовой с тентом вишневый/синий",
       "unomag_id": 184601
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Полуприцеп ЧМЗАП-5523 серый",
+      "unomag_id": 186617
     },
     {
       "supplier": "Scalebay",
@@ -18857,6 +18907,11 @@
     },
     {
       "supplier": "Scalebay",
+      "article": "NAME::Урал 377С (916)",
+      "unomag_id": 182792
+    },
+    {
+      "supplier": "Scalebay",
       "article": "NAME::Прицеп Маз 8926 есть ОЗОН ДОСТАВКА",
       "unomag_id": 233245
     },
@@ -19717,6 +19772,11 @@
     },
     {
       "supplier": "Scalebay",
+      "article": "NAME::автоцистерна АЦ-9 ( на шасси МАЗ-5337)",
+      "unomag_id": 333216
+    },
+    {
+      "supplier": "Scalebay",
       "article": "NAME::Экскаватор ЭО-3532 (5511)",
       "unomag_id": 347386
     },
@@ -19734,6 +19794,11 @@
       "supplier": "Scalebay",
       "article": "NAME::ЯАЗ-210Е самосвал, тёмно-зелёный",
       "unomag_id": 180223
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::УрАЛ-4320 КУНГ",
+      "unomag_id": 255698
     },
     {
       "supplier": "Scalebay",
@@ -19847,68 +19912,13 @@
     },
     {
       "supplier": "Scalebay",
-      "article": "NAME::УрАЛ-375Д бортовой (зеленый)",
-      "unomag_id": 179230
+      "article": "NAME::КАМАЗ-5511",
+      "unomag_id": 633016
     },
     {
       "supplier": "Scalebay",
-      "article": "NAME::УрАЛ-4320 КУНГ",
-      "unomag_id": 255698
-    },
-    {
-      "supplier": "Scalebay",
-      "article": "NAME::Урал 377С (916)",
-      "unomag_id": 182792
-    },
-    {
-      "supplier": "Scalebay",
-      "article": "NAME::УралЗИС-355М, с тентом",
-      "unomag_id": 156928
-    },
-    {
-      "supplier": "Scalebay",
-      "article": "NAME::Функциональный самосвальный полуприцеп МАЗ-5232В",
-      "unomag_id": 181047
-    },
-    {
-      "supplier": "Scalebay",
-      "article": "NAME::Фургон с грузоподъёмным бортом У-165 Почта России (на шасси ЗИЛ-130)  АИСТ",
-      "unomag_id": 195397
-    },
-    {
-      "supplier": "Scalebay",
-      "article": "NAME::ЯАЗ-200 бортовой (бордовый)",
-      "unomag_id": 186059
-    },
-    {
-      "supplier": "Scalebay",
-      "article": "NAME::ЯАЗ-200 бортовой (т.красный) Авто история (Аист)  Н.0359",
-      "unomag_id": 186059
-    },
-    {
-      "supplier": "Scalebay",
-      "article": "NAME::ЯАЗ-210 бортовой, оранжевый/серый",
-      "unomag_id": 185363
-    },
-    {
-      "supplier": "Scalebay",
-      "article": "NAME::ЯАЗ-210 бортовой, оранжевый/серый   АИСТ",
-      "unomag_id": 185363
-    },
-    {
-      "supplier": "Scalebay",
-      "article": "NAME::автоцистерна АЦ-9 ( на шасси МАЗ-5337)",
-      "unomag_id": 333216
-    },
-    {
-      "supplier": "Scalebay",
-      "article": "NAME::УрАЛ-375С (тентованная кабина) седельный тягач",
-      "unomag_id": 182194
-    },
-    {
-      "supplier": "Scalebay",
-      "article": "NAME::Полуприцеп ЧМЗАП-5523 серый",
-      "unomag_id": 186617
+      "article": "NAME::1/43   Камаз-6540",
+      "unomag_id": 198337
     }
   ],
   "ignored_articles": [
@@ -22103,6 +22113,10 @@
     {
       "supplier": "Scalebay",
       "article": "NAME::прицеп МАЗ-83781 бортовой"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Автобетоносмеситель сб-92 КамАЗ 5511 пао"
     }
   ],
   "manufacturer_map": [
