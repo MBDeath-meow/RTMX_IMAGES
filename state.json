@@ -19344,6 +19344,21 @@
       "supplier": "Scalebay",
       "article": "NAME::Пескоразбрасыватель ПР-13 «АВТОЭКСПОРТ»  1971 г.Dip Models",
       "unomag_id": 385074
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::ПРМ 43 DIP Models",
+      "unomag_id": 205685
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::ПМЗ -16В  1958 г.DIP Models",
+      "unomag_id": 205684
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::ПКС ЗИЛ 130 DIP Models",
+      "unomag_id": 267664
     }
   ],
   "ignored_articles": [
@@ -21422,6 +21437,14 @@
     {
       "supplier": "Scalebay",
       "article": "NAME::Сертификаты моделей DIP models"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Парадный Зил-164А (166) СССР Лимитированная DIP, ICV 1:43"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::ПКС ЗИЛ-157 1982 г. Москва L.e. 144 pcs. DIP  ЗИС-151 Техпомощь (DiP+Мастер Колесов)"
     }
   ],
   "manufacturer_map": [
