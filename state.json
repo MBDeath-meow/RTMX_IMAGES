@@ -19424,6 +19424,51 @@
       "supplier": "Scalebay",
       "article": "NAME::КРАЗ-214 Мосгортранс",
       "unomag_id": 214442
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::КРАЗ-214 бортовой с тентом",
+      "unomag_id": 214441
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Каз 4540 ГКБ 8535 ssm",
+      "unomag_id": 486774
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::КамАЗ 5490",
+      "unomag_id": 196624
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::КамАЗ 6520-21010 -53, возможен обмен",
+      "unomag_id": 480349
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::КамАЗ 65801-68, возможен обмен",
+      "unomag_id": 482150
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::КамАЗ 65802-87 , SSM",
+      "unomag_id": 477068
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::КамАЗ KamAZ 5490-C5 SSM 1:43",
+      "unomag_id": 196625
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::КамАЗ-54901 с полуприцепом НефАЗ-93341",
+      "unomag_id": 326092
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::КамАЗ-6520 самосвал белый",
+      "unomag_id": 598571
     }
   ],
   "ignored_articles": [
