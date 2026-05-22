@@ -19969,6 +19969,41 @@
       "supplier": "Scalebay",
       "article": "NAME::КамАЗ-6522 оранжевый",
       "unomag_id": 657404
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Камаз - 43118",
+      "unomag_id": 197871
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Камаз 54901  тягач  серый  1/43 ПАО Камаз",
+      "unomag_id": 336623
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Камаз-5490 с полуприцепом НЕФАЗ-93341",
+      "unomag_id": 356447
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::СБ-92 (5511)",
+      "unomag_id": 636031
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::СБ-92 (5511) серый бетоносмеситель",
+      "unomag_id": 636031
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::СБ-92 (КамАЗ-5511) серый",
+      "unomag_id": 636031
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "102903",
+      "unomag_id": 356987
     }
   ],
   "ignored_articles": [
@@ -22175,6 +22210,26 @@
     {
       "supplier": "Scalebay",
       "article": "NAME::КС-3575А (53213) на базе КАМАЗ"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Камаз-5511 самосвал"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::камаз 65225 резина и диски"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Полуприцеп НЕФАЗ-93341 серый, вариант #2"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Полуприцеп НЕФАЗ-93341 ITECO БЕЗ КОЛЕС"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Полуприцеп НЕФАЗ-93341 ITECO"
     }
   ],
   "manufacturer_map": [
