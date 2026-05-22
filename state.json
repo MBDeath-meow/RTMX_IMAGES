@@ -19379,6 +19379,36 @@
       "supplier": "Scalebay",
       "article": "NAME::Мотоцикл ММЗ / ИМЗ М-72М 1957 г",
       "unomag_id": 205500
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Масштабная модель ЗиЛ-ММЗ-555 самосвал, «АВТОЭКСПОРТ» - 1965 г. Dip Models 155503",
+      "unomag_id": 459830
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Масштабная модель Автомобиль Поливомоечный «ПМ-130Б» - Томск Аэропорт «Богашево» 1982 г. Dip Models 113067",
+      "unomag_id": 518021
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::МОСКВИЧ 401-422 (ДИП)",
+      "unomag_id": 154147
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Кавз  «651А», «Штабной» г. Калуга – 1970е гг.  со следами эксплуатации!",
+      "unomag_id": 501523
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Кавз  685 (1977) Маршрут «Служебный – ГОК» Dip Models",
+      "unomag_id": 272995
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::КаВЗ  3270  Краснодар Ильский Dip Models",
+      "unomag_id": 279631
     }
   ],
   "ignored_articles": [
@@ -21469,6 +21499,10 @@
     {
       "supplier": "Scalebay",
       "article": "NAME::ПАЗ-651А (DiP models)"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Кузов"
     }
   ],
   "manufacturer_map": [
