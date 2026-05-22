@@ -18094,6 +18094,31 @@
       "supplier": "Scalebay",
       "article": "NAME::SSM. Praga V3S S1 самосвал",
       "unomag_id": 397788
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::SSM. Skoda-706R (1952) CSAD",
+      "unomag_id": 359153
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::SSM. Studebaker US6 U5 цистерна",
+      "unomag_id": 270326
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::SSM. АЦ-40(133ГЯ), Павлово",
+      "unomag_id": 180887
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::SSM. БелАЗ-7547",
+      "unomag_id": 317363
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::SSM. Бронетранспортёр ГТ-МУ",
+      "unomag_id": 366086
     }
   ],
   "ignored_articles": [
