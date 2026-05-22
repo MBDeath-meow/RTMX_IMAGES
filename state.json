@@ -18249,6 +18249,41 @@
       "supplier": "Scalebay",
       "article": "NAME::АНР-АГ-24 (130)  SSM",
       "unomag_id": 576164
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::АРР 66 (4010)",
+      "unomag_id": 172877
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::АТ-Т бортовой с тентом (оранжевый)",
+      "unomag_id": 179188
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::АЦ 40 ( 130) (1144)",
+      "unomag_id": 178685
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::АЦ 40 (130)",
+      "unomag_id": 185364
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::АЦ30( 66) (1201)",
+      "unomag_id": 206716
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Автокран КС-3575А (53213) КАЧЕСТВО = ЦЕНА (ВЫБОРКА)",
+      "unomag_id": 411964
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Автокран КС-3575А (КамАЗ-53213) хаки",
+      "unomag_id": 428196
     }
   ],
   "ignored_articles": [
