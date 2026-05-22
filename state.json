@@ -19534,6 +19534,31 @@
       "supplier": "Scalebay",
       "article": "NAME::Кубань Г1А1-02, SSM",
       "unomag_id": 159394
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::МАЗ 6430 красный",
+      "unomag_id": 183397
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::МАЗ-200 бортовой (хаки) 1955г",
+      "unomag_id": 174094
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::МАЗ-200, SSM",
+      "unomag_id": 151941
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::МАЗ-205",
+      "unomag_id": 195255
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::МАЗ-205 самосвал, Мосготранс",
+      "unomag_id": 159461
     }
   ],
   "ignored_articles": [
@@ -21644,6 +21669,18 @@
     {
       "supplier": "Scalebay",
       "article": "NAME::Кубань Г1А1-02"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::МАЗ"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::МАЗ-200 с полуприцепом МАЗ-5215"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::МАЗ-205 (Start Scale models)"
     }
   ],
   "manufacturer_map": [
