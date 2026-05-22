@@ -18524,6 +18524,11 @@
       "supplier": "Scalebay",
       "article": "NAME::АНР-127Б (130) Пожарная (1/43) ’АИСТ’ (ВЫБОРКА !!!)",
       "unomag_id": 627171
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Вакуумная машина КО 505 на шасси Камаз 53213",
+      "unomag_id": 262121
     }
   ],
   "ignored_articles": [
@@ -20546,6 +20551,10 @@
     {
       "supplier": "Scalebay",
       "article": "NAME::Зил-130 (тягач)"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Без надписей КамАЗ-5490 высокая кабина со спойлером, зеленая кабина"
     }
   ],
   "manufacturer_map": [
@@ -20592,10 +20601,6 @@
     {
       "unomag_name": "Maxichamps",
       "variation": "Minichamps"
-    },
-    {
-      "unomag_name": "DiP Models",
-      "variation": "DiP Models"
     },
     {
       "unomag_name": "NEO",
@@ -20695,10 +20700,22 @@
     },
     {
       "unomag_name": "ПАО КАМАЗ",
+      "variation": "Start Scale Models (SSM)"
+    },
+    {
+      "unomag_name": "ПАО КАМАЗ",
       "variation": "ПАО КАМАЗ"
     },
     {
       "unomag_name": "ПАО КАМАЗ",
+      "variation": "Автоистория (АИСТ)"
+    },
+    {
+      "unomag_name": "DiP Models",
+      "variation": "DiP Models"
+    },
+    {
+      "unomag_name": "DiP Models",
       "variation": "Start Scale Models (SSM)"
     }
   ],
