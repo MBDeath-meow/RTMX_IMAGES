@@ -19674,6 +19674,21 @@
       "supplier": "Scalebay",
       "article": "NAME::ЯАЗ-210Е самосвал КАЧЕСТВО = ЦЕНА (ВЫБОРКА)",
       "unomag_id": 180223
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::краз 255Б самосвал, хаки",
+      "unomag_id": 182791
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::маз 6422 с полуприцепом маз 9758 красн. син",
+      "unomag_id": 185855
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::пожарная автолестница АЛМ-30 (ЗИЛ-157)",
+      "unomag_id": 535119
     }
   ],
   "ignored_articles": [
@@ -21824,6 +21839,18 @@
     {
       "supplier": "Scalebay",
       "article": "NAME::автоцистерна АЦ-4,0-131 ( шасси ЗИЛ-131 )  хаки"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::топливозаправщик ТЗ-200 (на шасси МАЗ-200), армейский"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::трактор Т-150"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::трактор Т-150 с отвалом"
     }
   ],
   "manufacturer_map": [
