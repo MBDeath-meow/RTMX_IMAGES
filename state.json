@@ -18557,11 +18557,6 @@
     },
     {
       "supplier": "Scalebay",
-      "article": "145003",
-      "unomag_id": 516763
-    },
-    {
-      "supplier": "Scalebay",
       "article": "105188",
       "unomag_id": 482770
     },
@@ -18659,6 +18654,166 @@
       "supplier": "Scalebay",
       "article": "241020",
       "unomag_id": 178630
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "231637",
+      "unomag_id": 151527
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "231635",
+      "unomag_id": 7863
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "231631",
+      "unomag_id": 7866
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "221902",
+      "unomag_id": 179755
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "190511",
+      "unomag_id": 7856
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "168510",
+      "unomag_id": 561498
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "168509",
+      "unomag_id": 584535
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "168508",
+      "unomag_id": 584536
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "168503",
+      "unomag_id": 272996
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "166102",
+      "unomag_id": 178078
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "166101",
+      "unomag_id": 178077
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "165104",
+      "unomag_id": 487956
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "155503",
+      "unomag_id": 459830
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "145005",
+      "unomag_id": 516761
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "145003",
+      "unomag_id": 516763
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "145001",
+      "unomag_id": 152596
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "140105",
+      "unomag_id": 7865
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "140101",
+      "unomag_id": 154147
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "115703",
+      "unomag_id": 221019
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "115104",
+      "unomag_id": 158796
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "115003",
+      "unomag_id": 7836
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "115001",
+      "unomag_id": 206542
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "113044",
+      "unomag_id": 457768
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "113042",
+      "unomag_id": 385074
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "113041",
+      "unomag_id": 389841
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "113012",
+      "unomag_id": 267664
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "111903",
+      "unomag_id": 190562
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "111213",
+      "unomag_id": 157114
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "111211",
+      "unomag_id": 156012
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "111201",
+      "unomag_id": 7861
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "111025",
+      "unomag_id": 238299
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "111024",
+      "unomag_id": 241451
     }
   ],
   "ignored_articles": [
@@ -20685,6 +20840,10 @@
     {
       "supplier": "Scalebay",
       "article": "NAME::Без надписей КамАЗ-5490 высокая кабина со спойлером, зеленая кабина"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "113046+113047"
     }
   ],
   "manufacturer_map": [
