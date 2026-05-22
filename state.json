@@ -18474,6 +18474,31 @@
       "supplier": "Scalebay",
       "article": "NAME::КАМАЗ 65952 , SSM 1479.",
       "unomag_id": 455164
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::КАМАЗ-54901 (SSM)",
+      "unomag_id": 329409
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::КАМАЗ-54901 с п/п НЕФАЗ-93341 белый",
+      "unomag_id": 326092
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::КАМАЗ-54901 седельный тягач",
+      "unomag_id": 329409
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::КАМАЗ-6520 рестайлинг самосвал",
+      "unomag_id": 584696
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::КАМАЗ-6522 рестайлинг желтый",
+      "unomag_id": 588726
     }
   ],
   "ignored_articles": [
