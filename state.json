@@ -19784,6 +19784,26 @@
       "supplier": "Scalebay",
       "article": "NAME::Маз 200В с п.пр НАМИ 790 (101081)",
       "unomag_id": 181032
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Маз 6422 с п/п щеповоз",
+      "unomag_id": 199151
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Масштабная модель KAMAZ-6520-21010-53",
+      "unomag_id": 519214
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::ОДАЗ 9786 (102460)",
+      "unomag_id": 246994
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Полуприцеп МАЗ-5205.Автоистория.",
+      "unomag_id": 714391
     }
   ],
   "ignored_articles": [
@@ -21958,6 +21978,14 @@
     {
       "supplier": "Scalebay",
       "article": "NAME::МАЗ-6422 + МАЗ-9506-20 (п/п самосвал) сцепка (1/43) Металлические рамы !!!)."
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Масштабная модель Миасский грузовик 43206 4х4  АИСТ"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::ПУ-53 (53) Автоистория (АИСТ) КАЧЕСТВО = ЦЕНА (ВЫБОРКА)"
     }
   ],
   "manufacturer_map": [
