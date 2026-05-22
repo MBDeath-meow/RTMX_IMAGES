@@ -18499,6 +18499,31 @@
       "supplier": "Scalebay",
       "article": "NAME::КАМАЗ-6522 рестайлинг желтый",
       "unomag_id": 588726
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "SSM1479",
+      "unomag_id": 384024
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Praga V3S PAOM-G   АИСТ",
+      "unomag_id": 457288
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Praga V3S S1   АИСТ",
+      "unomag_id": 457284
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::АИСТ. ЗИЛ-130В1 с полуприцепом ОДАЗ-794",
+      "unomag_id": 198943
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::АНР-127Б (130) Пожарная (1/43) ’АИСТ’ (ВЫБОРКА !!!)",
+      "unomag_id": 627171
     }
   ],
   "ignored_articles": [
@@ -20671,6 +20696,10 @@
     {
       "unomag_name": "ПАО КАМАЗ",
       "variation": "ПАО КАМАЗ"
+    },
+    {
+      "unomag_name": "ПАО КАМАЗ",
+      "variation": "Start Scale Models (SSM)"
     }
   ],
   "suppliers": [
