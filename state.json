@@ -18284,6 +18284,26 @@
       "supplier": "Scalebay",
       "article": "NAME::Автокран КС-3575А (КамАЗ-53213) хаки",
       "unomag_id": 428196
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Армейский автобус АПП-66, жёлто-синий",
+      "unomag_id": 172877
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::БЕЛАЗ-7522, SSM лимитированный",
+      "unomag_id": 199801
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::БТР-152К",
+      "unomag_id": 323868
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::БТР-152К (камуфлированный зелёный) Start Scale Model  Н.0204",
+      "unomag_id": 179192
     }
   ],
   "ignored_articles": [
