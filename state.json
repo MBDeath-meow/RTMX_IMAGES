@@ -22574,6 +22574,21 @@
       "supplier": "Scalebay",
       "article": "NAME::Mercedes-Benz 280 SE (W108) бежевый мет (Norev B66040631)",
       "unomag_id": 191112
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Mercedes-Benz GLE-Klasse Coupe (C292) 2015 коричневый мет (Norev B66960359)",
+      "unomag_id": 180568
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Mercedes-Benz GLE-Klasse Coupe (C292) 2015 серебристо-голубой мет",
+      "unomag_id": 181175
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Mercedes-Benz S-Class Convertible (А217) 2016 Metallic Grey серый мет",
+      "unomag_id": 189931
     }
   ],
   "ignored_articles": [
