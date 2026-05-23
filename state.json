@@ -22669,6 +22669,31 @@
       "supplier": "Scalebay",
       "article": "NAME::Opel Corsa (gr)",
       "unomag_id": 3698
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Opel Corsa OPS",
+      "unomag_id": 155408
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Opel Kadett GSI 1987 Black (черный)",
+      "unomag_id": 191622
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::PEUGEOT 208 (рестайлинг) 2015 белый",
+      "unomag_id": 180815
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Volkswagen Polo R WRC #1 S.Ogier-J.Ingrassia World Champion победитель Rally RACC Catalunya 2014 (Norev  188477)",
+      "unomag_id": 188328
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Volkswagen POLO R WRC #8 S.Ogier-J.Ingrassia Winner Rally France 2013 (World Champion) (Norev 188475)",
+      "unomag_id": 179876
     }
   ],
   "ignored_articles": [
@@ -25059,6 +25084,14 @@
     {
       "supplier": "Scalebay",
       "article": "NAME::Nissan Fairlady Z (1986), 1:43, журнальная серия Японии"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::БМВ BMW 501 Черный Norev 1:43 350060"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Бьюик Buick Roadmaster Standard Sedan 1950 Раритет 1:18 100 % Оригинал БЕСПЛАТНАЯ доставка"
     }
   ],
   "manufacturer_map": [
