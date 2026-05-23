@@ -21919,6 +21919,16 @@
       "supplier": "Scalebay",
       "article": "NAME::Alfa Romeo 156 Crosswagon Q4 Norev 1/43",
       "unomag_id": 253268
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Alpine Vision Grad Turismo",
+      "unomag_id": 181953
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Alpine Vision Gran Turismo",
+      "unomag_id": 181953
     }
   ],
   "ignored_articles": [
@@ -24229,6 +24239,10 @@
     {
       "supplier": "Scalebay",
       "article": "122702"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Alfa Romeo 159 Q4 Norev 1/43"
     }
   ],
   "manufacturer_map": [
