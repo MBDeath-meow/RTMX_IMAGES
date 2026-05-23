@@ -20214,6 +20214,51 @@
       "supplier": "Scalebay",
       "article": "NAME::ТВ-3 (51А)",
       "unomag_id": 637802
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Skoda 100.05",
+      "unomag_id": 677346
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Skoda 110.850 SA8",
+      "unomag_id": 528574
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::МАЗ-5432 седельный тягач (ранняя кабина, красный)",
+      "unomag_id": 180280
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::ПР-53 (52) желтый",
+      "unomag_id": 464451
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::УрАЛ 43202-31 (двигатель ЯМЗ-238) бортовой",
+      "unomag_id": 183035
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::УрАЛ-377 бортовой, Автоэкспорт",
+      "unomag_id": 187478
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::УрАЛ-4320 бортовой, с тентом (оранжевый)",
+      "unomag_id": 181100
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::УрАЛ-43206 4х4 бортовой с тентом",
+      "unomag_id": 183892
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::УрАЛ-4420 седельный тягач",
+      "unomag_id": 186153
     }
   ],
   "ignored_articles": [
@@ -22588,18 +22633,6 @@
       "variation": "Автоистория (АИСТ)"
     },
     {
-      "unomag_name": "ПАО КАМАЗ",
-      "variation": "Start Scale Models (SSM)"
-    },
-    {
-      "unomag_name": "ПАО КАМАЗ",
-      "variation": "ПАО КАМАЗ"
-    },
-    {
-      "unomag_name": "ПАО КАМАЗ",
-      "variation": "Автоистория (АИСТ)"
-    },
-    {
       "unomag_name": "DiP Models",
       "variation": "DiP Models"
     },
@@ -22626,6 +22659,18 @@
     {
       "unomag_name": "Автоистория (АИСТ)",
       "variation": "Автоистория (АИСТ)"
+    },
+    {
+      "unomag_name": "ПАО КАМАЗ",
+      "variation": "Start Scale Models (SSM)"
+    },
+    {
+      "unomag_name": "ПАО КАМАЗ",
+      "variation": "Автоистория (АИСТ)"
+    },
+    {
+      "unomag_name": "ПАО КАМАЗ",
+      "variation": "ПАО КАМАЗ"
     }
   ],
   "suppliers": [
