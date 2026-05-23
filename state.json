@@ -20329,6 +20329,21 @@
       "supplier": "Scalebay",
       "article": "NAME::1/43 Mercedes-Benz CLK-Klasse Coupe 2001 Black metallic - MINICHAMPS",
       "unomag_id": 159250
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::1/43 VW Caddy 2003 - MINICHAMPS",
+      "unomag_id": 159145
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::1/43 VW Race Touareg #307 Paris Dakar 2005 MINICHAMPS",
+      "unomag_id": 158379
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::1/43 VW Race Touareg #317 Paris Dakar 2005 MINICHAMPS",
+      "unomag_id": 349503
     }
   ],
   "ignored_articles": [
