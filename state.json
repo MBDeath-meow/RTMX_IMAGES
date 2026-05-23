@@ -22619,6 +22619,31 @@
       "supplier": "Scalebay",
       "article": "NAME::Nissan Cedric Van Deluxe 1995",
       "unomag_id": 335798
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Nissan GT-R (R-35) 2008 красный",
+      "unomag_id": 188327
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Nissan Leopard F31 1986",
+      "unomag_id": 316895
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Nissan Rasheen Type A 1997",
+      "unomag_id": 291036
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Nissan Rasheen Type I 1994",
+      "unomag_id": 510263
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Nissan Silvia S13  1988",
+      "unomag_id": 316896
     }
   ],
   "ignored_articles": [
