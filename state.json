@@ -22264,6 +22264,56 @@
       "supplier": "Scalebay",
       "article": "NAME::Ford B-MAX 2012 Red",
       "unomag_id": 159225
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Ford Capri Mk.III 2.8 Injection 1982 красный",
+      "unomag_id": 187580
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Ford Evos Concept 2012",
+      "unomag_id": 158915
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Ford Mustang",
+      "unomag_id": 187582
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Ford Mustang 2015",
+      "unomag_id": 190550
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Ford Mustang Parotech Cesam (540)",
+      "unomag_id": 151055
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::GLAS V8",
+      "unomag_id": 153724
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Goupil G5 Tipper Deck 1_32",
+      "unomag_id": 8038
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Goupil G5 Van 1_32",
+      "unomag_id": 8039
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Hanomag L28 1:43, Norev",
+      "unomag_id": 369219
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Henschel HS 3 - 180 TAK 1956",
+      "unomag_id": 158299
     }
   ],
   "ignored_articles": [
@@ -24602,6 +24652,10 @@
     {
       "supplier": "Scalebay",
       "article": "NAME::Datsun Bluebird (1961), 1:43, журнальная серия Японии"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::GT Citroen 2008"
     }
   ],
   "manufacturer_map": [
