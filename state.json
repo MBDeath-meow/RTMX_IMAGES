@@ -22234,6 +22234,36 @@
       "supplier": "Scalebay",
       "article": "NAME::Citroen T46 1962 Pompiers Pompe Guinard",
       "unomag_id": 172496
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Coffret 40 ans Citroen Ami 8 avec figurine (Norev)",
+      "unomag_id": 5798
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Daimler SP250 1962 (101)",
+      "unomag_id": 158289
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Dodje Viper SRT 10 (028)",
+      "unomag_id": 4417
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::FIAT UNO WAY 2010 1-43 norev 772961",
+      "unomag_id": 3136
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Fiat 900T 1976",
+      "unomag_id": 181958
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Ford B-MAX 2012 Red",
+      "unomag_id": 159225
     }
   ],
   "ignored_articles": [
@@ -24568,6 +24598,10 @@
     {
       "supplier": "Scalebay",
       "article": "NAME::Citroёn Traction Coupe 22 cv (Norev)"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Datsun Bluebird (1961), 1:43, журнальная серия Японии"
     }
   ],
   "manufacturer_map": [
