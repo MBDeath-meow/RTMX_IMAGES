@@ -20684,6 +20684,11 @@
       "supplier": "Scalebay",
       "article": "NAME::Ford Fiesta 3d 2002",
       "unomag_id": 300827
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Bugatti Veyron Centenaire 2009 (852)",
+      "unomag_id": 155023
     }
   ],
   "ignored_articles": [
