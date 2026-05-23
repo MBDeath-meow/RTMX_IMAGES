@@ -22644,6 +22644,31 @@
       "supplier": "Scalebay",
       "article": "NAME::Nissan Silvia S13  1988",
       "unomag_id": 316896
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Opel Antara",
+      "unomag_id": 4271
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Opel Antara 2007",
+      "unomag_id": 4271
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Opel Combo",
+      "unomag_id": 159227
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Opel Combo 2012",
+      "unomag_id": 378507
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Opel Corsa (gr)",
+      "unomag_id": 3698
     }
   ],
   "ignored_articles": [
