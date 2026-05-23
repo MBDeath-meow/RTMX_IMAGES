@@ -20449,6 +20449,11 @@
       "supplier": "Scalebay",
       "article": "NAME::BMW 1800 TISA 1965 (025100)",
       "unomag_id": 4514
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::BMW 2000 CS  1967",
+      "unomag_id": 348621
     }
   ],
   "ignored_articles": [
