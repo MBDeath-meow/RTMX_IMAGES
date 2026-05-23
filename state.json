@@ -23454,6 +23454,41 @@
       "supplier": "Scalebay",
       "article": "NAME::1/43 Citroen CX(RTL) Route du Rhum - CLC 124- IXO",
       "unomag_id": 256807
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::1/43 Citroen Visa Chrono #24-Tour de Corse,1983 RAC128 - IXO",
+      "unomag_id": 7899
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::1/43 Citroen XSARA WRC #1-Rally Turkey,2006 RAM251 - IXO",
+      "unomag_id": 660748
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::1/43 Citroen XSARA WRC #2-Rally Turkey,2005 RAM197 - IXO",
+      "unomag_id": 159566
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::1/43 Fiat 619 N1 - 1980 - (TR035) - IXO",
+      "unomag_id": 268246
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::1/43 Fiat Panda 34 - CLC 068 IXO",
+      "unomag_id": 174473
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::1/43 Ford LTL-9000 - 1978 - (TR023) - IXO",
+      "unomag_id": 256738
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::1/43 Ford LTL-9000 - 1978 - (TR052) - IXO",
+      "unomag_id": 287479
     }
   ],
   "ignored_articles": [
