@@ -20649,6 +20649,36 @@
       "supplier": "Scalebay",
       "article": "NAME::BMW M3 E30 Cabrio 1988",
       "unomag_id": 393455
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::BMW M3 E46 Coupe 2001",
+      "unomag_id": 396190
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::BMW Z1 1991",
+      "unomag_id": 316790
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Bugatti EB 110 1994",
+      "unomag_id": 300823
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Dodge Viper 1993",
+      "unomag_id": 462501
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Fiat 850 Sport Spider 1968",
+      "unomag_id": 430759
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Fiat 850 Sport Spider Minichamps-maxichamps 1/43",
+      "unomag_id": 430758
     }
   ],
   "ignored_articles": [
