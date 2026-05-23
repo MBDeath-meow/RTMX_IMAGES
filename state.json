@@ -23144,6 +23144,51 @@
       "supplier": "Scalebay",
       "article": "RAC352",
       "unomag_id": 340865
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "MOC332",
+      "unomag_id": 460080
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "MOC133P",
+      "unomag_id": 155579
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "MOC127P",
+      "unomag_id": 154697
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "MOC119",
+      "unomag_id": 152190
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "MOC101",
+      "unomag_id": 203711
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "MOC099",
+      "unomag_id": 203257
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "MOC095",
+      "unomag_id": 4033
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "MOC087",
+      "unomag_id": 208947
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "MOC083",
+      "unomag_id": 4087
     }
   ],
   "ignored_articles": [
@@ -25582,6 +25627,10 @@
     {
       "supplier": "Scalebay",
       "article": "TR100"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "MB180-body"
     }
   ],
   "manufacturer_map": [
