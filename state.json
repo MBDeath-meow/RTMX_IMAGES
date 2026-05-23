@@ -21109,6 +21109,16 @@
       "supplier": "Scalebay",
       "article": "NAME::Mercedes C-Class DTM 2008 (083708)",
       "unomag_id": 151293
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Mercedes-Benz L315 blue 1/43 Minichamps",
+      "unomag_id": 589028
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Mercedes-Benz ML63 AMG 2006 W164",
+      "unomag_id": 203042
     }
   ],
   "ignored_articles": [
@@ -23367,6 +23377,14 @@
     {
       "supplier": "Scalebay",
       "article": "NAME::Lancia Beta Montecarlo Minichamps"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Mercedes-Benz E classe W211 Милиция ДПС Москва 2 СБ ГИБДД"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Mercedes-Benz GL Милиция Москва"
     }
   ],
   "manufacturer_map": [
