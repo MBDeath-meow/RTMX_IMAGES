@@ -22009,6 +22009,46 @@
       "supplier": "Scalebay",
       "article": "NAME::CITROEN C3 XTR 2004 1-43 norev 155331",
       "unomag_id": 378650
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::CITROEN DS3 2010 1-43 norev 155280",
+      "unomag_id": 4217
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::CITROEN DS3 2010 1-43 norev 155282",
+      "unomag_id": 4218
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::CITROEN NEMO 2008 1-43 norev 155790",
+      "unomag_id": 4236
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::CITROEN TRACTION 15 SIX H 1955 1-43 norev 153021",
+      "unomag_id": 152241
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::CITROËN DS3 Cabrio Racing Salon de Frankfort 2014",
+      "unomag_id": 180805
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Cadillac BLS 2006 (025)",
+      "unomag_id": 180029
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Cadillac C TS (010)",
+      "unomag_id": 313332
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Citroen  Xsara Break 1998",
+      "unomag_id": 207849
     }
   ],
   "ignored_articles": [
