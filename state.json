@@ -22404,6 +22404,41 @@
       "supplier": "Scalebay",
       "article": "NAME::Lancia D50 F1 Ascari",
       "unomag_id": 181959
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Lancia Delta",
+      "unomag_id": 4382
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Lancia Flaminia Convertible Touring",
+      "unomag_id": 158920
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Lancia Flaminia Coupe Loraymo",
+      "unomag_id": 3333
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Lancia Flavia Sport Zagato 1962 blue",
+      "unomag_id": 152262
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Lancia Florida II",
+      "unomag_id": 182679
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::MERCEDES-BENZ 200 UNIVERSAL 1968  W110",
+      "unomag_id": 158279
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::MERCEDES-BENZ 300SL (R107) 1986 белый",
+      "unomag_id": 179872
     }
   ],
   "ignored_articles": [
@@ -24762,6 +24797,14 @@
     {
       "supplier": "Scalebay",
       "article": "NAME::Lancia Aprilia  1937 (Norev)"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Lancia Ypsilon (843) 2005 Norev 1:43"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Ligier JS2 Norev 1:43 Made in France"
     }
   ],
   "manufacturer_map": [
