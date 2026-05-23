@@ -20269,6 +20269,16 @@
       "supplier": "Scalebay",
       "article": "NAME::КАМАЗ-54901 с полуприцепом НЕФАЗ-93341 Iteco",
       "unomag_id": 356447
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::ПАО Камаз. КАМАЗ-54901 седельный тягач",
+      "unomag_id": 558256
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::ПАО Камаз. КАМАЗ-65951",
+      "unomag_id": 572218
     }
   ],
   "ignored_articles": [
