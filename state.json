@@ -22314,6 +22314,26 @@
       "supplier": "Scalebay",
       "article": "NAME::Henschel HS 3 - 180 TAK 1956",
       "unomag_id": 158299
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Horch 830BL 1953 Black",
+      "unomag_id": 193118
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Hotchkiss Languedoc 1949 Norev 1:43 590010",
+      "unomag_id": 153943
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Hummer H2 SUT Norev",
+      "unomag_id": 153940
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::ISUZU Gemini 1500 C_C 1987 (721)",
+      "unomag_id": 175154
     }
   ],
   "ignored_articles": [
@@ -24656,6 +24676,18 @@
     {
       "supplier": "Scalebay",
       "article": "NAME::GT Citroen 2008"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Hotchkiss 686 (Norev)"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Hotchkiss 686 Biarritz 1949 Norev 1:43 590004"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Hotchkiss Biarritz 1939    (NOREV)"
     }
   ],
   "manufacturer_map": [
