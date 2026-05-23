@@ -20944,6 +20944,21 @@
       "supplier": "Scalebay",
       "article": "NAME::Maserati Tipo 61 1960 (601266)",
       "unomag_id": 151303
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Maserati Tipo 61 1960( 1253)",
+      "unomag_id": 151302
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Maserati Tipo 61 SCCA National Race 191",
+      "unomag_id": 151304
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Mercedes Benz (Мерседес Бенц) 450 SLC 107 1974 Minichamps 1:43 430033427",
+      "unomag_id": 152379
     }
   ],
   "ignored_articles": [
