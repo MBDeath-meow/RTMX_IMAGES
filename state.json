@@ -22049,6 +22049,26 @@
       "supplier": "Scalebay",
       "article": "NAME::Citroen  Xsara Break 1998",
       "unomag_id": 207849
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Citroen 7C Faux-Cabriolet 1934",
+      "unomag_id": 258984
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Citroen C-ZERO 2010 white pearl",
+      "unomag_id": 4211
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Citroen C1",
+      "unomag_id": 173684
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Citroen C1 blue",
+      "unomag_id": 4214
     }
   ],
   "ignored_articles": [
