@@ -22119,6 +22119,26 @@
       "supplier": "Scalebay",
       "article": "NAME::Citroen C_Elysee",
       "unomag_id": 153568
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Citroen DS 21 Pallas 1973 (072)",
+      "unomag_id": 179871
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Citroen DS 23 Pallas 1972",
+      "unomag_id": 157264
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Citroen DS 3 Racing 2013 (288)",
+      "unomag_id": 179867
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Citroen DS 5 2015 (587)",
+      "unomag_id": 179868
     }
   ],
   "ignored_articles": [
