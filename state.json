@@ -23489,6 +23489,41 @@
       "supplier": "Scalebay",
       "article": "NAME::1/43 Ford LTL-9000 - 1978 - (TR052) - IXO",
       "unomag_id": 287479
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::1/43 Freightliner FLA - 1993 - (TR046) - IXO",
+      "unomag_id": 287745
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::1/43 International Harvester DCOF-405 1959 Yamaha Pianos Ixo",
+      "unomag_id": 280980
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::1/43 International Harvester DCOF-405 Emeryville - 1959 - (TR025) - IXO",
+      "unomag_id": 258968
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::1/43 Jaguar X760- IXO",
+      "unomag_id": 196924
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::1/43 Jaguar XJ12C - 1976 - (CLC 345N)-IXO",
+      "unomag_id": 320566
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::1/43 Jaguar XJ12C(Coupe) - 1976 - (CLC 400N)-IXO",
+      "unomag_id": 360856
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::1/43 KRUPP DL52 - German Fire Brigade - 1955 - (TRF004) - IXO",
+      "unomag_id": 256739
     }
   ],
   "ignored_articles": [
