@@ -22864,6 +22864,91 @@
       "supplier": "Scalebay",
       "article": "TR208",
       "unomag_id": 574319
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "TR206.22",
+      "unomag_id": 556978
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "TR206",
+      "unomag_id": 556978
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "TR204.22",
+      "unomag_id": 499120
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "TR203",
+      "unomag_id": 525320
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "TR199",
+      "unomag_id": 495176
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "TR198.22",
+      "unomag_id": 495008
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "TR197.22",
+      "unomag_id": 495113
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "TR197",
+      "unomag_id": 495113
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "TR193.22",
+      "unomag_id": 510494
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "TR193",
+      "unomag_id": 510494
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "TR192.22",
+      "unomag_id": 495095
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "TR192",
+      "unomag_id": 495095
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "TR189.22",
+      "unomag_id": 501687
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "TR186",
+      "unomag_id": 491356
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "TR180.22",
+      "unomag_id": 477487
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "TR179",
+      "unomag_id": 477488
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "TR175",
+      "unomag_id": 476463
     }
   ],
   "ignored_articles": [
@@ -25290,6 +25375,10 @@
     {
       "supplier": "Scalebay",
       "article": "TR211-convFed"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "TR183"
     }
   ],
   "manufacturer_map": [
