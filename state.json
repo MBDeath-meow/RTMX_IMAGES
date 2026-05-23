@@ -21414,6 +21414,31 @@
       "supplier": "Scalebay",
       "article": "4672102",
       "unomag_id": 240619
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "2428002",
+      "unomag_id": 204897
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "2060402",
+      "unomag_id": 349440
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "2696013",
+      "unomag_id": 206204
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "2696008",
+      "unomag_id": 191720
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "2696602",
+      "unomag_id": 191727
     }
   ],
   "ignored_articles": [
@@ -23712,6 +23737,14 @@
     {
       "supplier": "Scalebay",
       "article": "4672111"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "4672112"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "472703A-X1"
     }
   ],
   "manufacturer_map": [
