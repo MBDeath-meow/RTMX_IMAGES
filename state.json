@@ -22174,6 +22174,31 @@
       "supplier": "Scalebay",
       "article": "NAME::Citroen DS3 Crossback 2019",
       "unomag_id": 252955
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Citroen DS4 (рестайлинг) 2015 серый черный",
+      "unomag_id": 181940
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Citroen DS4 2015 E.B",
+      "unomag_id": 181939
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Citroen DS4 Performance Line 2021",
+      "unomag_id": 327119
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Citroen DS5",
+      "unomag_id": 7991
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Citroen DS5 (591)",
+      "unomag_id": 7991
     }
   ],
   "ignored_articles": [
