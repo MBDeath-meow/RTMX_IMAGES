@@ -20584,6 +20584,21 @@
       "supplier": "Scalebay",
       "article": "NAME::Audi 100 1969",
       "unomag_id": 455548
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Audi A4 1995",
+      "unomag_id": 457803
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Audi A6 Avant (C5) 1997",
+      "unomag_id": 389681
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Audi A8 (D2) 1999",
+      "unomag_id": 481278
     }
   ],
   "ignored_articles": [
