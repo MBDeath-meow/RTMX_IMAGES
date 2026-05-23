@@ -22229,6 +22229,11 @@
       "supplier": "Scalebay",
       "article": "NAME::Citroen Nemo XTR (155792)",
       "unomag_id": 4231
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Citroen T46 1962 Pompiers Pompe Guinard",
+      "unomag_id": 172496
     }
   ],
   "ignored_articles": [
@@ -24543,6 +24548,26 @@
     {
       "supplier": "Scalebay",
       "article": "NAME::Alfa Romeo 159 Q4 Norev 1/43"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Citroen c-Cactus"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Citroën ZX RALLYE RAID DakaR 1996"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Citroёn Traction 11CV (Norev)"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Citroёn Traction 15six cabriolet 1939    (NOREV)"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Citroёn Traction Coupe 22 cv (Norev)"
     }
   ],
   "manufacturer_map": [
