@@ -21044,6 +21044,41 @@
       "supplier": "Scalebay",
       "article": "NAME::Mercedes Benz B-Klass 2007 (37400)",
       "unomag_id": 4519
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Mercedes Benz C-Class Sport Coupe 2001 (030000)",
+      "unomag_id": 179051
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Mercedes Benz CL Class 1999 (038029)",
+      "unomag_id": 150171
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Mercedes Benz CLK-Class 2001 (031425)",
+      "unomag_id": 159250
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Mercedes Benz E-Class T-Model 2003 (031512)",
+      "unomag_id": 3283
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Mercedes Benz G4 1939 испанского диктатора Франко/Francisco Franco (Minichamps)",
+      "unomag_id": 155503
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Mercedes Benz G4 Francisco Franco 1939",
+      "unomag_id": 155503
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Mercedes Benz M-Class 2011 (030100)",
+      "unomag_id": 150636
     }
   ],
   "ignored_articles": [
