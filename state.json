@@ -20494,6 +20494,21 @@
       "supplier": "Scalebay",
       "article": "NAME::BMW 3er E36 Cabriolet 1993",
       "unomag_id": 348623
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::BMW 3er E36 Convertible 1993 black lim.500 Minichamps 1:43",
+      "unomag_id": 348623
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::BMW 5-Series Minichamps 1972  blue",
+      "unomag_id": 211297
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "940171405",
+      "unomag_id": 393460
     }
   ],
   "ignored_articles": [
@@ -22776,14 +22791,6 @@
       "variation": "Spark"
     },
     {
-      "unomag_name": "Maxichamps",
-      "variation": "Maxichamps"
-    },
-    {
-      "unomag_name": "Maxichamps",
-      "variation": "Minichamps"
-    },
-    {
       "unomag_name": "NEO",
       "variation": "NEO"
     },
@@ -22905,6 +22912,14 @@
     },
     {
       "unomag_name": "Minichamps",
+      "variation": "Minichamps"
+    },
+    {
+      "unomag_name": "Maxichamps",
+      "variation": "Maxichamps"
+    },
+    {
+      "unomag_name": "Maxichamps",
       "variation": "Minichamps"
     }
   ],
