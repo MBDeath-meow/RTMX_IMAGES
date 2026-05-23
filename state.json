@@ -20734,6 +20734,31 @@
       "supplier": "Scalebay",
       "article": "NAME::Ford  De Luxe  1940  Minichamps",
       "unomag_id": 192623
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Ford 03 Thunderbird (132)",
+      "unomag_id": 151291
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Ford 12M TURNIER 1957 WHITE",
+      "unomag_id": 3254
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Ford 1964 Mustang Minichamps",
+      "unomag_id": 192622
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Ford Capri II 1974-77 Minichamps",
+      "unomag_id": 185478
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Ford DeLuxe Woody 1940",
+      "unomag_id": 290962
     }
   ],
   "ignored_articles": [
@@ -22984,6 +23009,10 @@
     {
       "supplier": "Scalebay",
       "article": "NAME::Ford Galaxy 1995"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Ford De Luxe 1940 (Minichamps)"
     }
   ],
   "manufacturer_map": [
