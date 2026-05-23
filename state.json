@@ -23384,6 +23384,26 @@
       "supplier": "Scalebay",
       "article": "CAC003",
       "unomag_id": 226283
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "64TR016A",
+      "unomag_id": 678388
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "64TR012B",
+      "unomag_id": 594195
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "64TR012A",
+      "unomag_id": 593250
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "64TR010A",
+      "unomag_id": 574329
     }
   ],
   "ignored_articles": [
@@ -25826,6 +25846,54 @@
     {
       "supplier": "Scalebay",
       "article": "MB180-body"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "4325910039"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "4325910038"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "4325910033"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "4325200272"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "4324200323"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "4324200303"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "4324200302"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "4322814001(2)"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "4322406007"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "4322406003(2)"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "4322406001(2)"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "4322200102"
     }
   ],
   "manufacturer_map": [
