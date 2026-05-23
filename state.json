@@ -22539,6 +22539,16 @@
       "supplier": "Scalebay",
       "article": "NAME::Mercedes Benz V-Klasse",
       "unomag_id": 187583
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Mercedes G klass 2017г",
+      "unomag_id": 274510
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Mercedes GLE-Class V167",
+      "unomag_id": 250650
     }
   ],
   "ignored_articles": [
