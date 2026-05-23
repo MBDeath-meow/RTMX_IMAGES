@@ -22334,6 +22334,31 @@
       "supplier": "Scalebay",
       "article": "NAME::ISUZU Gemini 1500 C_C 1987 (721)",
       "unomag_id": 175154
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::ISUZU Gemini 1600 Z_Z  DOHC Handling by Lotus   1988",
+      "unomag_id": 175155
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::IVECO Irisbus Magelys HDH 2009 S",
+      "unomag_id": 158918
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Isuzu Gemini 1500 Turbo Irmscher Tuning 1989 Norev 1:43 800723",
+      "unomag_id": 175156
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::LANCIA ARBENNES 1936 1-43 norev 784015",
+      "unomag_id": 3114
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::LANCIA Augusta 1939",
+      "unomag_id": 182680
     }
   ],
   "ignored_articles": [
