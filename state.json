@@ -21249,6 +21249,66 @@
       "supplier": "Scalebay",
       "article": "870080",
       "unomag_id": 572139
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "870070",
+      "unomag_id": 572137
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "870050",
+      "unomag_id": 183928
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "820771",
+      "unomag_id": 4405
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "820519",
+      "unomag_id": 369219
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "800266",
+      "unomag_id": 4394
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "800191",
+      "unomag_id": 3510
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "790003",
+      "unomag_id": 4385
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "783058",
+      "unomag_id": 158920
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "783040",
+      "unomag_id": 3332
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "783039",
+      "unomag_id": 4378
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "7711785154",
+      "unomag_id": 335517
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "771110",
+      "unomag_id": 4372
     }
   ],
   "ignored_articles": [
@@ -23685,6 +23745,14 @@
     {
       "unomag_name": "Maxichamps",
       "variation": "Minichamps"
+    },
+    {
+      "unomag_name": "Atlas",
+      "variation": "Atlas"
+    },
+    {
+      "unomag_name": "Atlas",
+      "variation": "Norev"
     }
   ],
   "suppliers": [
