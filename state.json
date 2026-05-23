@@ -20814,6 +20814,36 @@
       "supplier": "Scalebay",
       "article": "NAME::BMW M3 GT2 2009 (092900)",
       "unomag_id": 158385
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::BMW M Coupe 2002 (029062)",
+      "unomag_id": 179979
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::BMW 700 LS 1960 (023704)",
+      "unomag_id": 180007
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::BMW 700 LS 1960 (023705)",
+      "unomag_id": 222699
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::BMW 7 Series 2001 (020200)",
+      "unomag_id": 157596
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::BMW 635 CSi (E24) 1982 (025125)",
+      "unomag_id": 156458
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Audi TT 2006 (15021)",
+      "unomag_id": 155009
     }
   ],
   "ignored_articles": [
