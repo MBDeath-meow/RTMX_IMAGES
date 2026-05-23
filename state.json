@@ -22079,6 +22079,21 @@
       "supplier": "Scalebay",
       "article": "NAME::Citroen C4 2009 (рестайлинг) « Gendarmerie »",
       "unomag_id": 4222
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Citroen C4 Cactus",
+      "unomag_id": 173205
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Citroen C4 Cactus 2018",
+      "unomag_id": 225266
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Citroen C4 by Loeb",
+      "unomag_id": 3119
     }
   ],
   "ignored_articles": [
