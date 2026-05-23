@@ -21079,6 +21079,36 @@
       "supplier": "Scalebay",
       "article": "NAME::Mercedes Benz M-Class 2011 (030100)",
       "unomag_id": 150636
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Mercedes Benz R- Klasse  (0056)",
+      "unomag_id": 157198
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Mercedes Benz R-Class  2010 (034670)",
+      "unomag_id": 150637
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Mercedes Benz S- Class  1998 (036201)",
+      "unomag_id": 151610
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Mercedes Benz SL65 AMG (R230) (038222)",
+      "unomag_id": 150131
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Mercedes C Class DTM 2009 (093817)",
+      "unomag_id": 150146
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Mercedes C-Class DTM 2008 (083708)",
+      "unomag_id": 151293
     }
   ],
   "ignored_articles": [
