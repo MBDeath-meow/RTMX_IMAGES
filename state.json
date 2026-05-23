@@ -23434,6 +23434,26 @@
       "supplier": "Scalebay",
       "article": "NAME::1/43   DAF 2600 IXO",
       "unomag_id": 280978
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::1/43   FIAT 612   IXO",
+      "unomag_id": 268246
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::1/43   MAN 16.320 IXO",
+      "unomag_id": 287624
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::1/43 CITROEN Type H US ARMY Ambulance(1967) - CLC 211 IXO",
+      "unomag_id": 7872
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::1/43 Citroen CX(RTL) Route du Rhum - CLC 124- IXO",
+      "unomag_id": 256807
     }
   ],
   "ignored_articles": [
