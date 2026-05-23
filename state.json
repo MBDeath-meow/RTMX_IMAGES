@@ -21354,6 +21354,46 @@
       "supplier": "Scalebay",
       "article": "7210001C",
       "unomag_id": 499179
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "7167120",
+      "unomag_id": 152331
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "7167119",
+      "unomag_id": 154335
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "7167118",
+      "unomag_id": 151467
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "7167115",
+      "unomag_id": 150840
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "7167108",
+      "unomag_id": 208028
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "7167107",
+      "unomag_id": 151472
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "7130108",
+      "unomag_id": 180982
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "7129101",
+      "unomag_id": 189543
     }
   ],
   "ignored_articles": [
@@ -23628,6 +23668,10 @@
     {
       "supplier": "Scalebay",
       "article": "7210001B"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "7123107"
     }
   ],
   "manufacturer_map": [
