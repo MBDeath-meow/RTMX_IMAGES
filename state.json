@@ -20479,6 +20479,21 @@
       "supplier": "Scalebay",
       "article": "NAME::BMW 3-Series (E36) Sedan  1991",
       "unomag_id": 353705
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::BMW 318 i E21 Minichamps 1/43",
+      "unomag_id": 156459
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::BMW 320i E90 WTCC 2007 1/43 Minichamps",
+      "unomag_id": 4566
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::BMW 3er E36 Cabriolet 1993",
+      "unomag_id": 348623
     }
   ],
   "ignored_articles": [
