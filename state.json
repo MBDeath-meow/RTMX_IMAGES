@@ -21474,6 +21474,56 @@
       "supplier": "Scalebay",
       "article": "003219310FD AACB5",
       "unomag_id": 190550
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "00V 099 300 ER 018",
+      "unomag_id": 292747
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "153121",
+      "unomag_id": 174673
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "154306",
+      "unomag_id": 207849
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "155222",
+      "unomag_id": 390105
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "155264",
+      "unomag_id": 290055
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "155280",
+      "unomag_id": 4217
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "157083",
+      "unomag_id": 332903
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "170031",
+      "unomag_id": 298951
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "181650",
+      "unomag_id": 221856
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "181751",
+      "unomag_id": 475840
     }
   ],
   "ignored_articles": [
@@ -23780,6 +23830,10 @@
     {
       "supplier": "Scalebay",
       "article": "472703A-X1"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "122702"
     }
   ],
   "manufacturer_map": [
