@@ -22359,6 +22359,51 @@
       "supplier": "Scalebay",
       "article": "NAME::LANCIA Augusta 1939",
       "unomag_id": 182680
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::LANCIA DELTA 2009 1-43 norev 785013",
+      "unomag_id": 4382
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Lamborghini Gallardo LP560-4(025)",
+      "unomag_id": 4366
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Lamborghini Gallardo Lp 560 -4",
+      "unomag_id": 8035
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Lamborghini Murcielago LP670-4SV China Edition (029)",
+      "unomag_id": 8036
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Lancia Appia Coupe Pininfarina",
+      "unomag_id": 151063
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Lancia Appia GTE Zagato",
+      "unomag_id": 4378
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Lancia Ardennes",
+      "unomag_id": 3114
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Lancia Ardennes  (Norev)",
+      "unomag_id": 3114
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Lancia D50 F1 Ascari",
+      "unomag_id": 181959
     }
   ],
   "ignored_articles": [
@@ -24713,6 +24758,10 @@
     {
       "supplier": "Scalebay",
       "article": "NAME::Hotchkiss Biarritz 1939    (NOREV)"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Lancia Aprilia  1937 (Norev)"
     }
   ],
   "manufacturer_map": [
