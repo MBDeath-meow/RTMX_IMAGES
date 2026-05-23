@@ -20464,6 +20464,21 @@
       "supplier": "Scalebay",
       "article": "NAME::BMW 2000 TII  Touring Minichamps  1:43",
       "unomag_id": 259732
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::BMW 3 series Compact 2000 (020070)",
+      "unomag_id": 159248
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::BMW 3- Series Touring 2005 (024111)",
+      "unomag_id": 4661
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::BMW 3-Series (E36) Sedan  1991",
+      "unomag_id": 353705
     }
   ],
   "ignored_articles": [
