@@ -20924,6 +20924,26 @@
       "supplier": "Scalebay",
       "article": "NAME::Lancia Beta Montecarlo 1980 Silver Minichamps 1:43 400125761",
       "unomag_id": 185003
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Lancia Stratos 1974 (5024)",
+      "unomag_id": 151313
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Lexus CT200h 2011 (166000)",
+      "unomag_id": 153226
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Lincoln Continental 1941 Minichamps",
+      "unomag_id": 192611
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Maserati Tipo 61 1960 (601266)",
+      "unomag_id": 151303
     }
   ],
   "ignored_articles": [
@@ -23178,6 +23198,10 @@
     {
       "supplier": "Scalebay",
       "article": "NAME::Ford De Luxe 1940 (Minichamps)"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Lancia Beta Montecarlo Minichamps"
     }
   ],
   "manufacturer_map": [
