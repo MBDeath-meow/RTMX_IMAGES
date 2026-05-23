@@ -20394,6 +20394,36 @@
       "supplier": "Scalebay",
       "article": "NAME::Audi V8 1988 (016001)",
       "unomag_id": 152342
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Audi V8 1988 (016002)",
+      "unomag_id": 159061
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::BENTLEY CONTINENTAL R - 1996 - RED METALLIC",
+      "unomag_id": 154329
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::BENTLEY CONTINENTAL GT - V8 - 2011 - BLUE",
+      "unomag_id": 156463
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::BENTLEY CONTINENTAL S1 1956 SILVER",
+      "unomag_id": 156461
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::BENTLEY CONTINENTAL SC - 1996 - красный мет",
+      "unomag_id": 193521
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::BENTLEY CONTINENTAL T - 1996 - черный",
+      "unomag_id": 175661
     }
   ],
   "ignored_articles": [
