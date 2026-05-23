@@ -22744,6 +22744,61 @@
       "supplier": "Scalebay",
       "article": "TTR037",
       "unomag_id": 598760
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "TTR036",
+      "unomag_id": 598890
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "TTR035",
+      "unomag_id": 661204
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "TRU043B.22",
+      "unomag_id": 499123
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "TRU043A.22",
+      "unomag_id": 495011
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "TRU035A",
+      "unomag_id": 239777
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "TRU026",
+      "unomag_id": 206359
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "TRU015",
+      "unomag_id": 181778
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "TRF013",
+      "unomag_id": 235406
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "TR232",
+      "unomag_id": 593996
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "TR231",
+      "unomag_id": 593385
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "TR227",
+      "unomag_id": 593963
     }
   ],
   "ignored_articles": [
@@ -25154,6 +25209,14 @@
     {
       "supplier": "Scalebay",
       "article": "NAME::Каталог фирмы IXO Коллекционные модели 07 2019 год"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "TRU013"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "TRF001"
     }
   ],
   "manufacturer_map": [
