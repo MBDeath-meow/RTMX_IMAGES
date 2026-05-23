@@ -20044,6 +20044,61 @@
       "supplier": "Scalebay",
       "article": "111212",
       "unomag_id": 174173
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "110107",
+      "unomag_id": 432449
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::КИ 51 РАБОЧАЯ ОДЕЖДА DIP Models",
+      "unomag_id": 192920
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "168506+168511",
+      "unomag_id": 579240
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "105118",
+      "unomag_id": 316678
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "168502",
+      "unomag_id": 272998
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "105226",
+      "unomag_id": 415445
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "105252",
+      "unomag_id": 412255
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "145011",
+      "unomag_id": 516755
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "145032",
+      "unomag_id": 534885
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::СТБ1-52-08 - 1981 г. УзССР",
+      "unomag_id": 316673
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::УАЗ 450Д DIP Models",
+      "unomag_id": 152596
     }
   ],
   "ignored_articles": [
@@ -22274,6 +22329,18 @@
     {
       "supplier": "Scalebay",
       "article": "NAME::Модель Полуприцеп Нефаз-93341 ПЭК шторник 1/43 ПАО Камаз"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "145005 + 145003 + 145004 + 145007"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "145005 + 145003"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "145005 + 145007"
     }
   ],
   "manufacturer_map": [
