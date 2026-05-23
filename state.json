@@ -20634,6 +20634,21 @@
       "supplier": "Scalebay",
       "article": "NAME::BMW 520 E 12 Maxichamps  silber",
       "unomag_id": 204139
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::BMW 700 LS 1960",
+      "unomag_id": 197826
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::BMW M1 1979 E26",
+      "unomag_id": 194149
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::BMW M3 E30 Cabrio 1988",
+      "unomag_id": 393455
     }
   ],
   "ignored_articles": [
