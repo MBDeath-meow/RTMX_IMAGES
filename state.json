@@ -21989,6 +21989,26 @@
       "supplier": "Scalebay",
       "article": "NAME::BMW R60 1963",
       "unomag_id": 172819
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Borgward Isabella coupe",
+      "unomag_id": 155405
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::CITROEN B2 Autochenille Scarabee d’Or 1922",
+      "unomag_id": 480246
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::CITROEN C-ZERO 2010 1-43 norev 155090",
+      "unomag_id": 4211
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::CITROEN C3 XTR 2004 1-43 norev 155331",
+      "unomag_id": 378650
     }
   ],
   "ignored_articles": [
