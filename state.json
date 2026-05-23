@@ -20379,6 +20379,21 @@
       "supplier": "Scalebay",
       "article": "NAME::Alfa Romeo 6C 2500 SS Corsa Spider 1939 (120230)",
       "unomag_id": 173713
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Audi Sport Quattro 1984 (012124)",
+      "unomag_id": 179977
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Audi Sport Quattro 1984 (012122)",
+      "unomag_id": 154303
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Audi V8 1988 (016001)",
+      "unomag_id": 152342
     }
   ],
   "ignored_articles": [
