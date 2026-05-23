@@ -20454,6 +20454,16 @@
       "supplier": "Scalebay",
       "article": "NAME::BMW 2000 CS  1967",
       "unomag_id": 348621
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::BMW 2000 CS  1967 red  Minichamps  Maxichamps",
+      "unomag_id": 348621
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::BMW 2000 TII  Touring Minichamps  1:43",
+      "unomag_id": 259732
     }
   ],
   "ignored_articles": [
