@@ -20784,6 +20784,36 @@
       "supplier": "Scalebay",
       "article": "NAME::Ford ESCORT II RS1800 RALLY",
       "unomag_id": 151305
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Ford Escort II 1600 Sport 1975",
+      "unomag_id": 193548
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Ford Escort II RS200 1975 (084301)",
+      "unomag_id": 151618
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Borgward Isabella Cabriolet 1959 6(096060)",
+      "unomag_id": 191943
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::BMW Z3 Coupe 2001 (029020)",
+      "unomag_id": 151608
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::BMW M3 GTR (012104)",
+      "unomag_id": 319133
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::BMW M3 GT2 2009 (092900)",
+      "unomag_id": 158385
     }
   ],
   "ignored_articles": [
