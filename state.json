@@ -22439,6 +22439,26 @@
       "supplier": "Scalebay",
       "article": "NAME::MERCEDES-BENZ 300SL (R107) 1986 белый",
       "unomag_id": 179872
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::MERCEDES-BENZ AMG GT (С190) 2015",
+      "unomag_id": 181947
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::MERCEDES-BENZ E500 Cabriolet (A207) 2010 черный",
+      "unomag_id": 180812
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::MERCEDES-BENZ GL500 (Х166) 2012 темно-синий (Norev 183485)",
+      "unomag_id": 180811
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::MERCEDES-BENZ S600 (W140) 1997 серый перламутр",
+      "unomag_id": 186376
     }
   ],
   "ignored_articles": [
