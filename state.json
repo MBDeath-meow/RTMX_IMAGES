@@ -22459,6 +22459,16 @@
       "supplier": "Scalebay",
       "article": "NAME::MERCEDES-BENZ S600 (W140) 1997 серый перламутр",
       "unomag_id": 186376
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::MG MGA roadster 1956 or.r",
+      "unomag_id": 181948
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::MGA Coupe 1956 (023)",
+      "unomag_id": 157270
     }
   ],
   "ignored_articles": [
@@ -24825,6 +24835,14 @@
     {
       "supplier": "Scalebay",
       "article": "NAME::Ligier JS2 Norev 1:43 Made in France"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::MERCEDES-BENZ SLS AMG Coupé 2010"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Mazda Atenza Wagon (2008), 1:43, журнальная серия Японии"
     }
   ],
   "manufacturer_map": [
