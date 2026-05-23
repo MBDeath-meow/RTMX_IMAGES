@@ -20559,6 +20559,31 @@
       "supplier": "Scalebay",
       "article": "NAME::1:43 Mercedes-Benz W 220 RED  Maxichamps",
       "unomag_id": 410058
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Alfa Romeo 147  2005",
+      "unomag_id": 488920
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Alfa Romeo 155 1992",
+      "unomag_id": 518985
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Alfa Romeo 75 3.0 V6 America 1989 Minichamps 1/43",
+      "unomag_id": 262868
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Alfa Romeo GTV 6  1983",
+      "unomag_id": 428030
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Audi 100 1969",
+      "unomag_id": 455548
     }
   ],
   "ignored_articles": [
