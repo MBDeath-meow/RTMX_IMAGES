@@ -20452,11 +20452,6 @@
     },
     {
       "supplier": "Scalebay",
-      "article": "NAME::BMW 2000 CS  1967",
-      "unomag_id": 348621
-    },
-    {
-      "supplier": "Scalebay",
       "article": "NAME::BMW 2000 CS  1967 red  Minichamps  Maxichamps",
       "unomag_id": 348621
     },
@@ -20599,6 +20594,31 @@
       "supplier": "Scalebay",
       "article": "NAME::Audi A8 (D2) 1999",
       "unomag_id": 481278
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Audi Sport quattro 1984",
+      "unomag_id": 204136
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::BMW 2000 CS  1967",
+      "unomag_id": 358498
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::BMW 3 SERIES E36 1991г.    Maxichamps  black",
+      "unomag_id": 358505
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::BMW 323I Maxichamps",
+      "unomag_id": 204138
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::BMW 323i. 1975. Minichamps. Maxichamps.",
+      "unomag_id": 204138
     }
   ],
   "ignored_articles": [
