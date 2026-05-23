@@ -23364,6 +23364,26 @@
       "supplier": "Scalebay",
       "article": "CLC119",
       "unomag_id": 224174
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "CLC070",
+      "unomag_id": 340820
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "CLC059",
+      "unomag_id": 628755
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "CAC006",
+      "unomag_id": 222359
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "CAC003",
+      "unomag_id": 226283
     }
   ],
   "ignored_articles": [
