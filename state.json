@@ -22069,6 +22069,16 @@
       "supplier": "Scalebay",
       "article": "NAME::Citroen C1 blue",
       "unomag_id": 4214
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Citroen C1 кр",
+      "unomag_id": 4213
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Citroen C4 2009 (рестайлинг) « Gendarmerie »",
+      "unomag_id": 4222
     }
   ],
   "ignored_articles": [
