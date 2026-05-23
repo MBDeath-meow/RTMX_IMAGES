@@ -21129,6 +21129,26 @@
       "supplier": "Scalebay",
       "article": "NAME::Porsche Carrera GT ’Top Gear’ ⚫",
       "unomag_id": 184911
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Porsche Cayenne Platinum Edition 2014 ⚫",
+      "unomag_id": 159836
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Porsche Cayenne Turbo 2007 (66270)",
+      "unomag_id": 511954
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Porsche Cayenne V6 2003 Minichamps 1:43",
+      "unomag_id": 3262
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Вольво Volvo 850 Break 1996 Minichamps 1:43 430171414",
+      "unomag_id": 153230
     }
   ],
   "ignored_articles": [
@@ -23395,6 +23415,10 @@
     {
       "supplier": "Scalebay",
       "article": "NAME::Mercedes-Benz GL Милиция Москва"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Додж Dodge Viper 1996 Minichamps Pauls Model Art 1:43 Ранний 430144023 БЕСПЛАТНАЯ доставка"
     }
   ],
   "manufacturer_map": [
