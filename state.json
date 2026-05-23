@@ -22549,6 +22549,11 @@
       "supplier": "Scalebay",
       "article": "NAME::Mercedes GLE-Class V167",
       "unomag_id": 250650
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Mercedes X-Class 2017",
+      "unomag_id": 234689
     }
   ],
   "ignored_articles": [
