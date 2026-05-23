@@ -22989,6 +22989,81 @@
       "supplier": "Scalebay",
       "article": "TR154",
       "unomag_id": 432944
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "TR139.22",
+      "unomag_id": 397629
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "TR132.22",
+      "unomag_id": 717539
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "TR127",
+      "unomag_id": 391478
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "TR114",
+      "unomag_id": 360841
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "TR108",
+      "unomag_id": 360865
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "TR104",
+      "unomag_id": 347422
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "TR103",
+      "unomag_id": 347423
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "TR102",
+      "unomag_id": 347424
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "TR091",
+      "unomag_id": 339665
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "TR079",
+      "unomag_id": 334803
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "TR078",
+      "unomag_id": 331851
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "TR072",
+      "unomag_id": 322056
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "TR068",
+      "unomag_id": 327164
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "TR062",
+      "unomag_id": 319295
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "TR050",
+      "unomag_id": 280978
     }
   ],
   "ignored_articles": [
@@ -25419,6 +25494,14 @@
     {
       "supplier": "Scalebay",
       "article": "TR183"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "TR144"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "TR100"
     }
   ],
   "manufacturer_map": [
