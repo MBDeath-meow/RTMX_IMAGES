@@ -20344,6 +20344,21 @@
       "supplier": "Scalebay",
       "article": "NAME::1/43 VW Race Touareg #317 Paris Dakar 2005 MINICHAMPS",
       "unomag_id": 349503
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::1948 Ford F-1 F1  Pick-Up  Minichamps",
+      "unomag_id": 192616
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::1:43 Mercedes-Benz 190  red Minichamps",
+      "unomag_id": 203809
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::1:43 Mercedes-Benz C 36 AMG Minichamps",
+      "unomag_id": 222485
     }
   ],
   "ignored_articles": [
