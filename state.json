@@ -23404,6 +23404,16 @@
       "supplier": "Scalebay",
       "article": "64TR010A",
       "unomag_id": 574329
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "18CMC204",
+      "unomag_id": 630711
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "18CMC190",
+      "unomag_id": 574332
     }
   ],
   "ignored_articles": [
@@ -25894,6 +25904,38 @@
     {
       "supplier": "Scalebay",
       "article": "4322200102"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "4322100005"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "43 26 100004"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "43 21 319001"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "308D-body"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "4322100001"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "#60"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "#4 It"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "#38"
     }
   ],
   "manufacturer_map": [
