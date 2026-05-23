@@ -20279,6 +20279,11 @@
       "supplier": "Scalebay",
       "article": "NAME::ПАО Камаз. КАМАЗ-65951",
       "unomag_id": 572218
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "TSMCE154313",
+      "unomag_id": 155500
     }
   ],
   "ignored_articles": [
@@ -22553,10 +22558,6 @@
       "variation": "IXO грузовики (серии TRU)"
     },
     {
-      "unomag_name": "Minichamps",
-      "variation": "Minichamps"
-    },
-    {
       "unomag_name": "ModelPro",
       "variation": "ModelPro"
     },
@@ -22691,6 +22692,10 @@
     {
       "unomag_name": "ПАО КАМАЗ",
       "variation": "ПАО КАМАЗ"
+    },
+    {
+      "unomag_name": "Minichamps",
+      "variation": "Minichamps"
     }
   ],
   "suppliers": [
