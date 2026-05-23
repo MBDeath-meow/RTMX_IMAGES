@@ -22094,6 +22094,31 @@
       "supplier": "Scalebay",
       "article": "NAME::Citroen C4 by Loeb",
       "unomag_id": 3119
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Citroen C4 Picasso 2013 (159956)",
+      "unomag_id": 158912
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Citroen C5 Tourer 2011 (583)",
+      "unomag_id": 174675
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Citroen C5 (19054)",
+      "unomag_id": 7989
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Citroen C5X 2021",
+      "unomag_id": 341666
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Citroen C_Elysee",
+      "unomag_id": 153568
     }
   ],
   "ignored_articles": [
