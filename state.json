@@ -20759,6 +20759,31 @@
       "supplier": "Scalebay",
       "article": "NAME::Ford DeLuxe Woody 1940",
       "unomag_id": 290962
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Ford ESCORT I TC ANDERSSONDAVENPORT SANREMO RALLY 1968 WINNER",
+      "unomag_id": 4618
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Ford ESCORT II RS 1800 CASTROL A.HAHNE · DRM SUPERSPRINT NUERBURGRING 1976",
+      "unomag_id": 4625
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Ford ESCORT II RS 1800 RALLY",
+      "unomag_id": 151305
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Ford ESCORT II RS1800 1st RAC RALLY 1976 MAKINEN",
+      "unomag_id": 3236
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Ford ESCORT II RS1800 RALLY",
+      "unomag_id": 151305
     }
   ],
   "ignored_articles": [
