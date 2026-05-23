@@ -20359,6 +20359,21 @@
       "supplier": "Scalebay",
       "article": "NAME::1:43 Mercedes-Benz C 36 AMG Minichamps",
       "unomag_id": 222485
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::1:43 Mercedes-Benz W 124  E-Class Saloon 1993г.nautical blue met Minichamps",
+      "unomag_id": 157180
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::ALFA ROMEO 6C 1750 G.S. 1930 белый",
+      "unomag_id": 174555
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::ALFA ROMEO 8C 2900 B LUNGO (Minichamps)",
+      "unomag_id": 155500
     }
   ],
   "ignored_articles": [
