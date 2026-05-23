@@ -22154,6 +22154,26 @@
       "supplier": "Scalebay",
       "article": "NAME::Citroen DS 23 Pallas 1973 (059)",
       "unomag_id": 179870
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Citroen DS3 Cabrio",
+      "unomag_id": 180808
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Citroen DS3 Cabrio 2013 Silver_Blue",
+      "unomag_id": 172810
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Citroen DS3 Cabrio 2013 black",
+      "unomag_id": 153569
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Citroen DS3 Crossback 2019",
+      "unomag_id": 252955
     }
   ],
   "ignored_articles": [
