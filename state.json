@@ -22469,6 +22469,26 @@
       "supplier": "Scalebay",
       "article": "NAME::MGA Coupe 1956 (023)",
       "unomag_id": 157270
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Mercedes  - Benz B 180",
+      "unomag_id": 153719
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Mercedes 450SEL W116 green 1:18 Norev",
+      "unomag_id": 351376
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Mercedes Benz  U5000 2005",
+      "unomag_id": 175141
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Mercedes Benz 300D Landaulet City of Vatican",
+      "unomag_id": 8020
     }
   ],
   "ignored_articles": [
@@ -24843,6 +24863,10 @@
     {
       "supplier": "Scalebay",
       "article": "NAME::Mazda Atenza Wagon (2008), 1:43, журнальная серия Японии"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Mercedes 280 GE DakaR 1983"
     }
   ],
   "manufacturer_map": [
