@@ -20959,6 +20959,51 @@
       "supplier": "Scalebay",
       "article": "NAME::Mercedes Benz (Мерседес Бенц) 450 SLC 107 1974 Minichamps 1:43 430033427",
       "unomag_id": 152379
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Mercedes Benz (Мерседес Бенц) GL 4x4 2006 Белый Minichamps 1:43 400035000",
+      "unomag_id": 203119
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Mercedes Benz 190 1961 (037202)",
+      "unomag_id": 159247
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Mercedes Benz 190 1961 Ambulance (DRK) (037270)",
+      "unomag_id": 152345
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Mercedes Benz 190E 1984 (034104)",
+      "unomag_id": 152344
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Mercedes Benz 230 E 1990 (037001)",
+      "unomag_id": 150638
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Mercedes Benz 280 SE Coupe 1970 (038120)",
+      "unomag_id": 3311
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Mercedes Benz 300 CE 1990 (037021)",
+      "unomag_id": 154306
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Mercedes Benz 300 SEL 6.3 1968 (039110)",
+      "unomag_id": 154326
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Mercedes Benz 300b 1951 (0230)",
+      "unomag_id": 188260
     }
   ],
   "ignored_articles": [
