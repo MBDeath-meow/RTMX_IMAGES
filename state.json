@@ -20169,6 +20169,51 @@
       "supplier": "Scalebay",
       "article": "NAME::SSM. ПУ-20 (51А)",
       "unomag_id": 561495
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::АК-75В (ЗиЛ-130)",
+      "unomag_id": 486148
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Гусеничный транспортёр-снегоболотоход (ГТ-С), 1954 г., с тентом",
+      "unomag_id": 173587
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::ЗИС-44",
+      "unomag_id": 414168
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::ЗиС-151 бортовой темно зеленый",
+      "unomag_id": 153285
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::КАМАЗ-65801-T5 Start Scale Models (SSM)",
+      "unomag_id": 483603
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::КамАЗ-53212 с 20-футовым контейнером",
+      "unomag_id": 214008
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Каток СД-802 (Т-150)",
+      "unomag_id": 192516
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::МП-300 (51А)",
+      "unomag_id": 677348
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::ТВ-3 (51А)",
+      "unomag_id": 637802
     }
   ],
   "ignored_articles": [
@@ -22411,6 +22456,10 @@
     {
       "supplier": "Scalebay",
       "article": "145005 + 145007"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Шасси КАМАЗ-43253"
     }
   ],
   "manufacturer_map": [
