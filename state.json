@@ -20679,6 +20679,11 @@
       "supplier": "Scalebay",
       "article": "NAME::Fiat 850 Sport Spider Minichamps-maxichamps 1/43",
       "unomag_id": 430758
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Ford Fiesta 3d 2002",
+      "unomag_id": 300827
     }
   ],
   "ignored_articles": [
@@ -22925,6 +22930,10 @@
     {
       "supplier": "Scalebay",
       "article": "NAME::Шасси КАМАЗ-43253"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Ford Galaxy 1995"
     }
   ],
   "manufacturer_map": [
