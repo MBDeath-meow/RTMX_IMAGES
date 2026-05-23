@@ -21309,6 +21309,51 @@
       "supplier": "Scalebay",
       "article": "771110",
       "unomag_id": 4372
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "7550002",
+      "unomag_id": 179479
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "7495013",
+      "unomag_id": 222842
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "7421124",
+      "unomag_id": 178376
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "7421120",
+      "unomag_id": 178372
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "7421115",
+      "unomag_id": 178368
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "7421111",
+      "unomag_id": 180980
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "7421109",
+      "unomag_id": 178365
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "7421104",
+      "unomag_id": 192831
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "7210001C",
+      "unomag_id": 499179
     }
   ],
   "ignored_articles": [
@@ -23579,6 +23624,10 @@
     {
       "supplier": "Scalebay",
       "article": "NAME::Додж Dodge Viper 1996 Minichamps Pauls Model Art 1:43 Ранний 430144023 БЕСПЛАТНАЯ доставка"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "7210001B"
     }
   ],
   "manufacturer_map": [
