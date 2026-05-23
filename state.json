@@ -22604,6 +22604,21 @@
       "supplier": "Scalebay",
       "article": "NAME::Mini Countryman 2010 (кроссовер 4х4) 2010 Red with White Roof (Norev 183101)",
       "unomag_id": 8005
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Mitsubishi Pajero Dakar #302 2006",
+      "unomag_id": 299656
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Nissan Cedric 430 brown 1:43 Norev",
+      "unomag_id": 290061
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Nissan Cedric Van Deluxe 1995",
+      "unomag_id": 335798
     }
   ],
   "ignored_articles": [
@@ -24986,6 +25001,14 @@
     {
       "supplier": "Scalebay",
       "article": "NAME::Mercedes G Advent Calendar 2019  d.red 1-43 Franzis РАСПРОДАЖА!"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::NSU TT 1969 (прототип Заз 966 Запорожец) Norev 1:43 831011"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Nissan Fairlady Z (1986), 1:43, журнальная серия Японии"
     }
   ],
   "manufacturer_map": [
