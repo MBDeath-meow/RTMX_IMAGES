@@ -20844,6 +20844,41 @@
       "supplier": "Scalebay",
       "article": "NAME::Audi TT 2006 (15021)",
       "unomag_id": 155009
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Ford Fiesta XR2 1978 (085162)",
+      "unomag_id": 151619
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Ford Focus RS 2009 (088105)",
+      "unomag_id": 179987
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Ford Focus RS 500 2010 (088106)",
+      "unomag_id": 179988
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Ford Focus ST 2011 (081000)",
+      "unomag_id": 179998
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Ford GT (084204)",
+      "unomag_id": 157202
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Ford S Max 2006 (085401)",
+      "unomag_id": 155020
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Ford S-Max Compact 2010 (089001)",
+      "unomag_id": 154311
     }
   ],
   "ignored_articles": [
