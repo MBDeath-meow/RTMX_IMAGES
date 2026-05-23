@@ -22694,6 +22694,21 @@
       "supplier": "Scalebay",
       "article": "NAME::Volkswagen POLO R WRC #8 S.Ogier-J.Ingrassia Winner Rally France 2013 (World Champion) (Norev 188475)",
       "unomag_id": 179876
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Вольво Volvo XC60 2013 4x4 Norev 1:43 870020",
+      "unomag_id": 158922
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Джип Jeep Willys 4x4 1942 Вторая Мировая война Norev 1:18 189014",
+      "unomag_id": 266682
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Большой Каталог фирмы Norev Коллекционные модели 2020 год (143 стр)",
+      "unomag_id": 287401
     }
   ],
   "ignored_articles": [
@@ -25092,6 +25107,18 @@
     {
       "supplier": "Scalebay",
       "article": "NAME::Бьюик Buick Roadmaster Standard Sedan 1950 Раритет 1:18 100 % Оригинал БЕСПЛАТНАЯ доставка"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Додж Dodge Magnum RT 2006 Norev 1:43 950010"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Кадиллак Cadillac Eldorado Series 62 1950 Раритет 1:18 100 % Оригинал БЕСПЛАТНАЯ доставка"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Каталог фирмы IXO Коллекционные модели 07 2019 год"
     }
   ],
   "manufacturer_map": [
