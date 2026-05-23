@@ -20259,6 +20259,16 @@
       "supplier": "Scalebay",
       "article": "NAME::УрАЛ-4420 седельный тягач",
       "unomag_id": 186153
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Автокран КС-3575А (53213) серый",
+      "unomag_id": 563393
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::КАМАЗ-54901 с полуприцепом НЕФАЗ-93341 Iteco",
+      "unomag_id": 356447
     }
   ],
   "ignored_articles": [
