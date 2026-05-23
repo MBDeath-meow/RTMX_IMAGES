@@ -20134,6 +20134,41 @@
       "supplier": "Scalebay",
       "article": "NAME::SSM. Tatra-148 NT 4x4",
       "unomag_id": 437378
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::SSM. АК-34 (151)",
+      "unomag_id": 559033
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::SSM. ЗИС-10 с полуприцепом",
+      "unomag_id": 396019
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::SSM. ЗИС-44",
+      "unomag_id": 414168
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::SSM. Каток СД-802 (Т-150)",
+      "unomag_id": 192516
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::SSM. МАЗ-504А с полуприцепом МАЗ-5205",
+      "unomag_id": 490441
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::SSM. МАЗ-6516 самосвал, U-образный кузов",
+      "unomag_id": 192708
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::SSM. ПУ-20 (51А)",
+      "unomag_id": 561495
     }
   ],
   "ignored_articles": [
