@@ -22729,6 +22729,21 @@
       "supplier": "Scalebay",
       "article": "NAME::peugeot 5008 2009 1-43 norev 473854",
       "unomag_id": 152255
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "TTR038",
+      "unomag_id": 598911
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "TTR037.22",
+      "unomag_id": 598760
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "TTR037",
+      "unomag_id": 598760
     }
   ],
   "ignored_articles": [
