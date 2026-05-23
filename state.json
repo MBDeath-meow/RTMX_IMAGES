@@ -22199,6 +22199,21 @@
       "supplier": "Scalebay",
       "article": "NAME::Citroen DS5 (591)",
       "unomag_id": 7991
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Citroen DS5 Presidentielle Gris Galena",
+      "unomag_id": 175814
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Citroen ID19 Break 1967 Monte Carlo Blue (синий)",
+      "unomag_id": 191617
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Citroen Jumper Pompiers  GRIMP 1987",
+      "unomag_id": 3134
     }
   ],
   "ignored_articles": [
