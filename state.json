@@ -24859,6 +24859,31 @@
       "supplier": "Scalebay",
       "article": "NAME::BMW Z1 1991 RED lim.500 1:43 Minichamps",
       "unomag_id": 415135
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::BMW Z3 2.8 Roadster 1997",
+      "unomag_id": 337177
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::BMW Z4 GT3 - Buchardt, Mayes, Posavac, Sorlie - 24h ADAC Nürburgring 2010",
+      "unomag_id": 159243
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::BMW Z4 M coupe Nurnburgring 2007 1/43 Minichamps",
+      "unomag_id": 4569
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::BMW Z4 roadster E85 2002",
+      "unomag_id": 217327
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Bentley CONTINENTAL GTC 2011 GREEN",
+      "unomag_id": 150173
     }
   ],
   "ignored_articles": [
