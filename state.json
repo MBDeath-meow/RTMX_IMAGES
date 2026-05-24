@@ -24644,6 +24644,11 @@
       "supplier": "Scalebay",
       "article": "NAME::Тойота Toyota Toyopet Masterline Light Van (универсал) 1959 Ebbro 1:43 44342",
       "unomag_id": 3934
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Ниссан Nissan Junior Truck 1962 Ebbro 1:43 43988",
+      "unomag_id": 4153
     }
   ],
   "ignored_articles": [
@@ -27246,6 +27251,82 @@
     {
       "supplier": "Scalebay",
       "article": "NAME::Ниссан Nissan Skyline Coupe 2007 Aoshima / Ebbro 1:43"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Ниссан Nissan Skyline 2000 GT-R KPGC10 1971 Aoshima / Ebbro 1:43"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Ниссан Nissan Skyline 1983 Aoshima / Ebbro 1:43"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Ниссан Nissan Silvia DOHC RS 1982 Aoshima / Ebbro 1:43"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Ниссан Nissan Silvia Coupe Turbo RS-X 1983 Aoshima / Ebbro 1:43"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Ниссан Nissan Silvia Coupe 1983 Aoshima / Ebbro 1:43"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Ниссан Nissan Homy 1980 Микро автобус Aoshima / Ebbro 1:43"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Ниссан Nissan Gazelle Coupe 1983 Aoshima / Ebbro 1:43"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Ниссан Nissan Fairlady Z432 1969 Aoshima / Ebbro 1:43"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Ниссан Nissan Fairlady Z 2008 Aoshima / Ebbro 1:43"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Ниссан Nissan Fairlady 1600 1967 Aoshima / Ebbro 1:43"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Ниссан Nissan Elgrand 2004 Черный Aoshima / Ebbro 1:43"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Ниссан Nissan Cedric Gloria 2001 Aoshima / Ebbro 1:43"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Ниссан Nissan Cedric Cima Type II Limited 1988 Aoshima / Ebbro 1:43"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Ниссан Nissan Bluebird 1600 SSS 1969 Aoshima / Ebbro 1:43"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Мицубиси Mitsubishi i-Miev 2009 Aoshima / Ebbro 1:43"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Мицубиси Mitsubishi Starion 2600 GSR-VR 1988 Aoshima / Ebbro 1:43"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Мицубиси Mitsubishi Galant Coupe FTO GSR 1973 Aoshima / Ebbro 1:43"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Мазда Mazda Savanna RX-7 GT 1978 Ebbro 1:43"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Мазда Mazda Savanna RX-7 1978 Aoshima / Ebbro 1:43"
     }
   ],
   "manufacturer_map": [
