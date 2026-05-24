@@ -25089,6 +25089,16 @@
       "supplier": "Scalebay",
       "article": "NAME::Mercedes 300 SE Lang 1963",
       "unomag_id": 343043
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Mercedes 560 SEC C126 1986",
+      "unomag_id": 393445
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Mercedes 600 SEC (C140) 1992",
+      "unomag_id": 409494
     }
   ],
   "ignored_articles": [
