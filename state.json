@@ -24884,6 +24884,16 @@
       "supplier": "Scalebay",
       "article": "NAME::Bentley CONTINENTAL GTC 2011 GREEN",
       "unomag_id": 150173
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Bentley Contenental Supersports 1:43 Minichamps",
+      "unomag_id": 193164
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Bentley Continental R 1996",
+      "unomag_id": 154329
     }
   ],
   "ignored_articles": [
@@ -27574,6 +27584,10 @@
     {
       "supplier": "Scalebay",
       "article": "NAME::Bentley CONTINENTAL SUPERSPORTS CABRIOLET - 2010"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Bentley Continental Flying Spur black 1:43 Minichamps"
     }
   ],
   "manufacturer_map": [
