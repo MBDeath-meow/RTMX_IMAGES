@@ -25129,6 +25129,31 @@
       "supplier": "Scalebay",
       "article": "NAME::Mercedes W 220 S class w220 minichamps",
       "unomag_id": 151610
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Chevrolet Camaro 1967",
+      "unomag_id": 518988
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Ford Escort 2 RS 2000 1975",
+      "unomag_id": 385277
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Ford Fiesta 1995, Minichamps",
+      "unomag_id": 271016
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Ford Focus ST 2011",
+      "unomag_id": 431893
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Ford Puma 1996",
+      "unomag_id": 365077
     }
   ],
   "ignored_articles": [
