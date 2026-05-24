@@ -24359,6 +24359,21 @@
       "supplier": "Scalebay",
       "article": "NAME::Рено Renault Faineant Lait Mont Blanc 1955 IXO Truck 1:43 TRU005",
       "unomag_id": 156540
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Модель FORD MUSTANG COBRA II red (1977) 1:43 IXO/CLC",
+      "unomag_id": 593515
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Мицубиси Mitsubishi Lancer Evolution Evo VI 1999 IXO 1:43 MOC146",
+      "unomag_id": 154663
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Мицубиси Mitsubishi Galant VR-4 1987 IXO 1:43 CLC229",
+      "unomag_id": 154664
     }
   ],
   "ignored_articles": [
