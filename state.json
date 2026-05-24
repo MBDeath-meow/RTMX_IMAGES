@@ -23599,6 +23599,26 @@
       "supplier": "Scalebay",
       "article": "NAME::OPEL Blitz M0bel-Werke Eiweilar Saar",
       "unomag_id": 348585
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::1/43 1/43 ARO 244 Masini de Legenda № 39 -IXO",
+      "unomag_id": 154024
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::1/43 1/43 Moskvitch 407 Masini de Legenda№19  -IXO",
+      "unomag_id": 8093
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::1/43 ARO 10 Masini de Legenda № 20 -IXO",
+      "unomag_id": 151159
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::1/43 ARO 242 Masini de Legenda №53 -IXO",
+      "unomag_id": 156930
     }
   ],
   "ignored_articles": [
@@ -26299,22 +26319,6 @@
     {
       "unomag_name": "DeAgostini",
       "variation": "IXO грузовики (серии TRU)"
-    },
-    {
-      "unomag_name": "DeAgostini",
-      "variation": "Автолегенды DeAgostini"
-    },
-    {
-      "unomag_name": "DeAgostini",
-      "variation": "Автолегенды СССР журнал от DeAgostini"
-    },
-    {
-      "unomag_name": "DeAgostini",
-      "variation": "Полицейские машины мира, Deagostini"
-    },
-    {
-      "unomag_name": "DeAgostini",
-      "variation": "Hachette"
     }
   ],
   "suppliers": [
