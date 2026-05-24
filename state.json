@@ -25204,6 +25204,31 @@
       "supplier": "Scalebay",
       "article": "NAME::Maserati Ghibli Spyder 1969",
       "unomag_id": 474782
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::McLaren 12 C / 1:43 / Minichamps",
+      "unomag_id": 194157
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::McLaren 12C  2011",
+      "unomag_id": 194156
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Mercedes 230E (W124)  Maxichamps 1/43",
+      "unomag_id": 458436
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Mercedes 230e w123 Maxichamps 1/43",
+      "unomag_id": 261509
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Mercedes 230te w123 Maxichamps 1/43",
+      "unomag_id": 262877
     }
   ],
   "ignored_articles": [
