@@ -23914,6 +23914,61 @@
       "supplier": "Scalebay",
       "article": "NAME::Kenworth T600A 1986",
       "unomag_id": 491359
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Kenworth T2000 Zugmaschine 1998",
+      "unomag_id": 580861
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Kenworth T2000 1998,IXO",
+      "unomag_id": 580861
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::KOENIGSEGG CC8S 2002",
+      "unomag_id": 8178
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::KENWORTH W925 towing vehicle (1970), white / orange",
+      "unomag_id": 525320
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::KENWORTH W900 towing vehicle (1990), brownmetallic creme    IXO",
+      "unomag_id": 412941
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::KENWORTH W900 Big Sleeper (1990), White/Green    IXO",
+      "unomag_id": 437754
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::KENWORTH T600a Tractor Truck 3-assi (1986), Black White  IXO",
+      "unomag_id": 491359
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::KENWORTH T2000 (1998), white/red   IXO",
+      "unomag_id": 580861
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::KENWORTH K100 Aerodyne Tractor Truck 3-assi (1976), Black Red  IXO",
+      "unomag_id": 580790
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::KENWORTH Bullnose 1950 Black / Red   IXO",
+      "unomag_id": 268247
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Jeep Grand Wagoneer black 1:43 Ixo",
+      "unomag_id": 303551
     }
   ],
   "ignored_articles": [
