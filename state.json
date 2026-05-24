@@ -25264,6 +25264,26 @@
       "supplier": "Scalebay",
       "article": "NAME::Mercedes SL-Klasse R230 Roadster 2008",
       "unomag_id": 271024
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Mercedes-Benz  C123 W123 1976",
+      "unomag_id": 465674
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Mercedes-Benz 190 1961",
+      "unomag_id": 288110
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Mercedes-Benz 190 SL W121 1955",
+      "unomag_id": 193221
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Mercedes-Benz 190E 2,3 16V 1/43 Мерседес W201 чёрный / BLACK 1:43",
+      "unomag_id": 479288
     }
   ],
   "ignored_articles": [
