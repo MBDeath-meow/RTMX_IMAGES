@@ -25184,6 +25184,26 @@
       "supplier": "Scalebay",
       "article": "NAME::Jeep Grand Cherokee dark blue met MAXICHAMPS",
       "unomag_id": 412196
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Lancia Stratos 1974",
+      "unomag_id": 303970
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Lotus Esprit 1978",
+      "unomag_id": 457805
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Maserati Biturbo Spyder 1984",
+      "unomag_id": 454720
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Maserati Ghibli Spyder 1969",
+      "unomag_id": 474782
     }
   ],
   "ignored_articles": [
