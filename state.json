@@ -24974,6 +24974,46 @@
       "supplier": "Scalebay",
       "article": "NAME::Ford Grand C-Max Compact 2011 желтый",
       "unomag_id": 151308
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Ford KA Digital Minichamps",
+      "unomag_id": 3281
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Ford KA Grand Prix 2009 Minichamps 1:43",
+      "unomag_id": 152355
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Ford Mondeo",
+      "unomag_id": 303191
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Ford Mondeo 2001",
+      "unomag_id": 2304
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Ford Shelby Cobra Concept 2004",
+      "unomag_id": 159214
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Ford Sierra RS500 DTM 1988 Manuel Reuter Minichamps 1/43",
+      "unomag_id": 226387
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Ford Streetka 2003 Minichamps 1:43",
+      "unomag_id": 501322
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Ford Taunus 1970",
+      "unomag_id": 358533
     }
   ],
   "ignored_articles": [
@@ -27668,6 +27708,10 @@
     {
       "supplier": "Scalebay",
       "article": "NAME::Bentley Continental Flying Spur black 1:43 Minichamps"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Ford Transit одиночная кабина белый"
     }
   ],
   "manufacturer_map": [
