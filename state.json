@@ -24823,7 +24823,12 @@
     {
       "supplier": "Scalebay",
       "article": "NAME::BMW M3 (E36) GTR 1993",
-      "unomag_id": 501698
+      "unomag_id": 501699
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::BMW M3 Competition (G80)  2020",
+      "unomag_id": 484274
     }
   ],
   "ignored_articles": [
