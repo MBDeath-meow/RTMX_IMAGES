@@ -24614,6 +24614,26 @@
       "supplier": "Scalebay",
       "article": "44109",
       "unomag_id": 4175
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "43960",
+      "unomag_id": 4152
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "43936",
+      "unomag_id": 510314
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "43933",
+      "unomag_id": 510457
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "43761",
+      "unomag_id": 510426
     }
   ],
   "ignored_articles": [
@@ -27152,6 +27172,18 @@
     {
       "supplier": "Scalebay",
       "article": "NAME::коробка под модель Мерседес Бенц Mercedes Benz 230 S Universal 1967 IXO Whitebox 1:43"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "43959"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Хонда Акура Honda Acura MDX 2002 Ebbro 1:43"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Хонда Honda Vamos 1971 Aoshima / Ebbro 1:43"
     }
   ],
   "manufacturer_map": [
