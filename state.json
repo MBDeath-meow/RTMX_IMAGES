@@ -24954,6 +24954,26 @@
       "supplier": "Scalebay",
       "article": "NAME::Ford Fiesta 5 door 2001 Petrolgreen",
       "unomag_id": 175650
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Ford Fiesta XR2 1978 Minichamps",
+      "unomag_id": 184912
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Ford GT 2004 Minichamps",
+      "unomag_id": 203872
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Ford Grand C-Max 2011",
+      "unomag_id": 207018
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Ford Grand C-Max Compact 2011 желтый",
+      "unomag_id": 151308
     }
   ],
   "ignored_articles": [
