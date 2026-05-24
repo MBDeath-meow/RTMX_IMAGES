@@ -25294,6 +25294,16 @@
       "supplier": "Scalebay",
       "article": "NAME::Mercedes-Benz 200/8 1968",
       "unomag_id": 507651
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Mercedes-Benz 200/8 W115 1968",
+      "unomag_id": 507652
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Mercedes-Benz 230 SL, Maxichamps 1:43",
+      "unomag_id": 193587
     }
   ],
   "ignored_articles": [
