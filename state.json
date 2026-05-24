@@ -25034,6 +25034,21 @@
       "supplier": "Scalebay",
       "article": "NAME::ISO Grifo Minichamps 1:43",
       "unomag_id": 195682
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Lamborghini Countouch LP400 1:43 Mnichamps",
+      "unomag_id": 321882
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Lamborghini Diablo 1994",
+      "unomag_id": 484306
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Lotus F1 Team_ ShowCar 2012_R.Grosjean 2012",
+      "unomag_id": 157381
     }
   ],
   "ignored_articles": [
@@ -27732,6 +27747,10 @@
     {
       "supplier": "Scalebay",
       "article": "NAME::Ford Transit одиночная кабина белый"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Krupp Titan + прицеп Deutsche Transport Compagnie Nurnberg 1952 Minichamps 1:43 Раритет"
     }
   ],
   "manufacturer_map": [
