@@ -24009,6 +24009,31 @@
       "supplier": "Scalebay",
       "article": "NAME::Freightliner Cascadia 2018,IXO",
       "unomag_id": 586058
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Ford Taunus GXL  1973",
+      "unomag_id": 581097
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Ford Taunus GLX  1983",
+      "unomag_id": 320579
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Ford GT 2017",
+      "unomag_id": 461789
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::FREIGHTLINER COE 1976",
+      "unomag_id": 339667
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::FORD LTL-9000 (1978), white / orange  IXO",
+      "unomag_id": 338640
     }
   ],
   "ignored_articles": [
