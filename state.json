@@ -24664,6 +24664,36 @@
       "supplier": "Scalebay",
       "article": "NAME::ZYTEK 04S SPA #9 2005",
       "unomag_id": 4910
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::VEMAC 360R Super GT 300 2006 EBBRO team NOVA",
+      "unomag_id": 5041
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Toyota TOM_S  83C Minolta WEC Japan 1986 Fuji (44242)",
+      "unomag_id": 173734
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Toyota TOM_S  83C 1983 (44478)",
+      "unomag_id": 173735
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Toyota TOM_S  83C  1984 Riverside (44482)",
+      "unomag_id": 173736
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Subaru WRX STi  A-Line (44398)",
+      "unomag_id": 7796
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::SUBARU BRZ 2012 1-43 ebbro 44802",
+      "unomag_id": 152564
     }
   ],
   "ignored_articles": [
