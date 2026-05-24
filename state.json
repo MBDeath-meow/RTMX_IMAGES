@@ -24034,6 +24034,61 @@
       "supplier": "Scalebay",
       "article": "NAME::FORD LTL-9000 (1978), white / orange  IXO",
       "unomag_id": 338640
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::FORD LTL 9000 Tractor Truck 3-assi (1978), Grey Black Red  IXO",
+      "unomag_id": 593567
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::FORD CL 9000 (1976), red    IXO",
+      "unomag_id": 574298
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::FORD C-series Tractor Truck 2-assi (1967), Red   IXO",
+      "unomag_id": 593499
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::FREIGHTLINER COE Towing Vehicle 1976, Silver / Blue / Red   IXO",
+      "unomag_id": 339667
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::FREIGHTLINER Cascadia (2018), Dark Grey    IXO",
+      "unomag_id": 586058
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::FREIGHTLINER Coronado (2012), white/gold   IXO",
+      "unomag_id": 581091
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::FREIGHTLINER Coronado towing vehicle (2021), black grey blue  IXO",
+      "unomag_id": 486539
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::FREIGHTLINER FLA Tractor Truck 3-assi (1993), black/orange    IXO",
+      "unomag_id": 593534
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::FREIGHTLINER FLC 120 64 T Tractor Truck 3-assi (1977), Silver Red    IXO",
+      "unomag_id": 593508
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::FREIGHTLINER Flc 120 64t Tractor Truck 3-assi (1977), black / red / orangeIXO",
+      "unomag_id": 491356
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::FORD Aeromax (1990), black grey white    IXO",
+      "unomag_id": 477488
     }
   ],
   "ignored_articles": [
