@@ -25087,16 +25087,6 @@
     },
     {
       "supplier": "Scalebay",
-      "article": "NAME::Mercedes 560 SEC C126 1986",
-      "unomag_id": 393445
-    },
-    {
-      "supplier": "Scalebay",
-      "article": "NAME::Mercedes 600 SEC (C140) 1992",
-      "unomag_id": 409494
-    },
-    {
-      "supplier": "Scalebay",
       "article": "NAME::Mercedes Benz 230 SL With Hardtop (W113)",
       "unomag_id": 158272
     },
@@ -25229,6 +25219,31 @@
       "supplier": "Scalebay",
       "article": "NAME::Mercedes 230te w123 Maxichamps 1/43",
       "unomag_id": 262877
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Mercedes 300 TE S124 1990",
+      "unomag_id": 462497
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Mercedes 350 SL Hardtop 1974",
+      "unomag_id": 459793
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Mercedes 500e W124 Minichamps 1/43",
+      "unomag_id": 516742
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Mercedes 560 SEC C126 1986",
+      "unomag_id": 394940
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Mercedes 600 SEC (C140) 1992",
+      "unomag_id": 394943
     }
   ],
   "ignored_articles": [
