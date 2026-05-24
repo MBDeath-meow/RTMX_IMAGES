@@ -24309,6 +24309,31 @@
       "supplier": "Scalebay",
       "article": "NAME::Lamborghini Estoque 200 pearl white 1:43 Ixo",
       "unomag_id": 181764
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Lamborghini URRACO P250 1973 (148)",
+      "unomag_id": 154733
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Lamborghini Urraco P300 1975 (017)",
+      "unomag_id": 150090
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Land Rover Discovery 4 black 1:43 Ixo",
+      "unomag_id": 155579
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::лимузин Мерседес Бенц Mercedes Benz 300 D W186 President Somoza Nicaragua 1957 IXO 1:43 CLC187",
+      "unomag_id": 181756
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::лимузин Мерседес Бенц Mercedes Benz 240 D W115 /8 Limousine 1974 IXO 1:43 CLC034",
+      "unomag_id": 203124
     }
   ],
   "ignored_articles": [
@@ -26835,6 +26860,18 @@
     {
       "supplier": "Scalebay",
       "article": "12"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::подставка под модель Ниссан Nissan Patrol 1984 IXO 1:43"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::подставка под модель Мерседес Бенц Mercedes Benz IXO 1:43"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::коробка под модель Мерседес Бенц Mercedes Benz 230 S Universal 1967 IXO Whitebox 1:43"
     }
   ],
   "manufacturer_map": [
