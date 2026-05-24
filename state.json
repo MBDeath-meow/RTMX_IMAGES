@@ -25012,11 +25012,6 @@
     },
     {
       "supplier": "Scalebay",
-      "article": "NAME::Ford Taunus 1970",
-      "unomag_id": 358533
-    },
-    {
-      "supplier": "Scalebay",
       "article": "NAME::Ford transit Kastenwagen DHL",
       "unomag_id": 191059
     },
@@ -25154,6 +25149,41 @@
       "supplier": "Scalebay",
       "article": "NAME::Ford Puma 1996",
       "unomag_id": 365077
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Ford Taunus 1970",
+      "unomag_id": 194155
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Ford Taunus Coupe 1970",
+      "unomag_id": 367839
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Ford Taunus Turnier 1970",
+      "unomag_id": 365080
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Jaguar XJ220",
+      "unomag_id": 300828
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Jeep Grand Cherokee 1995",
+      "unomag_id": 412197
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Jeep Grand Cherokee Silver MAXICHAMPS",
+      "unomag_id": 412197
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Jeep Grand Cherokee dark blue met MAXICHAMPS",
+      "unomag_id": 412196
     }
   ],
   "ignored_articles": [
