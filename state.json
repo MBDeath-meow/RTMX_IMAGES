@@ -23669,6 +23669,26 @@
       "supplier": "Scalebay",
       "article": "NAME::1/43 Ford Taunus 17M Masini de Legenda №68 -IXO",
       "unomag_id": 169816
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::1/43 LADA-ВАЗ-2101 Белая Kultowe AUTA PRL-u",
+      "unomag_id": 111
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::1/43 LADA-ВАЗ-2104 Kultowe AUTA PRL-u-IXO",
+      "unomag_id": 7554
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::1/43 Mercedes-Benz W 115 Kultowe AUTA PRL-u",
+      "unomag_id": 150387
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::1/43 Mercedes-Benz W123-Kultowe AUTA PRL-u IXO",
+      "unomag_id": 177904
     }
   ],
   "ignored_articles": [
