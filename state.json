@@ -24394,6 +24394,31 @@
       "supplier": "Scalebay",
       "article": "NAME::Ваз 2101 Жигули Lada 1970 СССР IXO 1:43 CLC313 БЕСПЛАТНАЯ доставка",
       "unomag_id": 281571
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::ВАЗ 2101 Жигули Лада Lada 1200 Polizei Volkspolizei IXO 1:43 CLC121",
+      "unomag_id": 342453
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Ваз 2101 Жигули Lada 1200 Голубая 1972 СССР IXO 1:43 CLC055",
+      "unomag_id": 313537
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Ваз 2101 Жигули Lada 1200 Такси г. Аддис Абеба (Эфиопия) 1976 СССР IXO 1:43",
+      "unomag_id": 366602
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Астон Мартин Aston Martin DB7 Zagato British Racing Green IXO 1:43 MOC058",
+      "unomag_id": 4023
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::volvo 940  turbo   IXO  1:43",
+      "unomag_id": 382834
     }
   ],
   "ignored_articles": [
