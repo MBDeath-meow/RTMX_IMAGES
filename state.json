@@ -25119,6 +25119,16 @@
       "supplier": "Scalebay",
       "article": "NAME::Mercedes Benz SLR McLaren 2004",
       "unomag_id": 174336
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Mercedes C-Klasse S203 T-Model 2001",
+      "unomag_id": 203728
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Mercedes W 220 S class w220 minichamps",
+      "unomag_id": 151610
     }
   ],
   "ignored_articles": [
