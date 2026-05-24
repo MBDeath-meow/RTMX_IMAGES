@@ -24634,6 +24634,16 @@
       "supplier": "Scalebay",
       "article": "43761",
       "unomag_id": 510426
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Хонда Honda Fit (Jazz) Ebbro 1:43 43218",
+      "unomag_id": 154181
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Тойота Toyota Toyopet Masterline Light Van (универсал) 1959 Ebbro 1:43 44342",
+      "unomag_id": 3934
     }
   ],
   "ignored_articles": [
@@ -27184,6 +27194,58 @@
     {
       "supplier": "Scalebay",
       "article": "NAME::Хонда Honda Vamos 1971 Aoshima / Ebbro 1:43"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Хонда Honda Civic Type R FD2 2008 Ebbro 1:43 44884"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Хонда Honda Beat 1991 Aoshima / Ebbro 1:43"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Тойота Лексус Lexus LS / Toyota Celsior 2001 Черный Aoshima / Ebbro 1:43"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Тойота Toyota Sports 800 1965 Aoshima / Ebbro 1:43"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Тойота Toyota Rav4 2001 4x4 Aoshima / Ebbro 1:43"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Тойота Toyota Celica Lift Back 1973 Aoshima / Ebbro 1:43"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Тойота Toyota 2000 GT 1967 Aoshima / Ebbro 1:43"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Субару Subaru Impreza WRX STi 2006 Белая Aoshima / Ebbro 1:43"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Рено Renault Alpine A 110 1600 S 1973 Aoshima / Ebbro 1:43"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Ниссан Nissan X-Trail 2005 4x4 4WD Aoshima / Ebbro 1:43"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Ниссан Nissan Sunny 1200 GX 1970 Aoshima / Ebbro 1:43"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Ниссан Nissan Skyline GT-R 1995 Aoshima / Ebbro 1:43"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Ниссан Nissan Skyline Coupe 2007 Aoshima / Ebbro 1:43"
     }
   ],
   "manufacturer_map": [
