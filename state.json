@@ -25014,6 +25014,26 @@
       "supplier": "Scalebay",
       "article": "NAME::Ford Taunus 1970",
       "unomag_id": 358533
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Ford transit Kastenwagen DHL",
+      "unomag_id": 191059
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Haas VF-22 GP Bahrain Schumacher 2022",
+      "unomag_id": 426002
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::ISO GRIFO 7L 1968",
+      "unomag_id": 195682
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::ISO Grifo Minichamps 1:43",
+      "unomag_id": 195682
     }
   ],
   "ignored_articles": [
