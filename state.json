@@ -24334,6 +24334,31 @@
       "supplier": "Scalebay",
       "article": "NAME::лимузин Мерседес Бенц Mercedes Benz 240 D W115 /8 Limousine 1974 IXO 1:43 CLC034",
       "unomag_id": 203124
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Ягуар Jaguar Mark VII 1954 IXO 1:43 CLC241",
+      "unomag_id": 158096
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Форд Ford Vedette 1954 IXO 1:43 CLC099",
+      "unomag_id": 175599
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Фиат Fiat Panda 34 (1980) IXO 1:43 CLC068",
+      "unomag_id": 174473
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Сеат Seat Ibiza 2002 IXO 1:43 MOC047",
+      "unomag_id": 360633
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Рено Renault Faineant Lait Mont Blanc 1955 IXO Truck 1:43 TRU005",
+      "unomag_id": 156540
     }
   ],
   "ignored_articles": [
