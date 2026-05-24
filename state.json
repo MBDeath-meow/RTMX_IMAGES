@@ -27839,6 +27839,10 @@
     {
       "supplier": "Scalebay",
       "article": "NAME::Mercedes Benz (Мерседес Бенц) C Class W202 AMG C36 2003 Medical car Minichamps 1:43 430032166"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Audi 50 Blue 1975 Minichamps 1/43"
     }
   ],
   "manufacturer_map": [
@@ -27979,14 +27983,6 @@
       "variation": "Minichamps"
     },
     {
-      "unomag_name": "Maxichamps",
-      "variation": "Maxichamps"
-    },
-    {
-      "unomag_name": "Maxichamps",
-      "variation": "Minichamps"
-    },
-    {
       "unomag_name": "Atlas",
       "variation": "Atlas"
     },
@@ -28017,6 +28013,14 @@
     {
       "unomag_name": "Ebbro",
       "variation": "Ebbro"
+    },
+    {
+      "unomag_name": "Maxichamps",
+      "variation": "Maxichamps"
+    },
+    {
+      "unomag_name": "Maxichamps",
+      "variation": "Minichamps"
     }
   ],
   "suppliers": [
