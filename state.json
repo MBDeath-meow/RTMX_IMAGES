@@ -24474,6 +24474,31 @@
       "supplier": "Scalebay",
       "article": "NAME::Volvo 240 Polar 1988",
       "unomag_id": 368006
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Volvo 240 #33  ETCC Zolder 1985",
+      "unomag_id": 367412
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Volvo 144 1972",
+      "unomag_id": 363859
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Volkswagen Tiguan 2007",
+      "unomag_id": 525322
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Volkswagen Touran 2010",
+      "unomag_id": 494959
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Volkswagen T6 Multivan 2017",
+      "unomag_id": 594030
     }
   ],
   "ignored_articles": [
