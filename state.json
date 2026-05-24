@@ -25107,11 +25107,6 @@
     },
     {
       "supplier": "Scalebay",
-      "article": "NAME::Mercedes C-Klasse S203 T-Model 2001",
-      "unomag_id": 203728
-    },
-    {
-      "supplier": "Scalebay",
       "article": "NAME::Mercedes W 220 S class w220 minichamps",
       "unomag_id": 151610
     },
@@ -25244,6 +25239,31 @@
       "supplier": "Scalebay",
       "article": "NAME::Mercedes 600 SEC (C140) 1992",
       "unomag_id": 394943
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Mercedes 600 SEL W140 1992",
+      "unomag_id": 297760
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Mercedes C-Klasse S203 T-Model 2001",
+      "unomag_id": 409567
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Mercedes C-Klasse S203 T-Modell 2001",
+      "unomag_id": 409566
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Mercedes SL R129 Roadster 1999",
+      "unomag_id": 411353
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Mercedes SL-Klasse R230 Roadster 2008",
+      "unomag_id": 271024
     }
   ],
   "ignored_articles": [
