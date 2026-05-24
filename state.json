@@ -24509,6 +24509,31 @@
       "supplier": "Scalebay",
       "article": "NAME::1:43 Prince Skyline,Ebbro",
       "unomag_id": 510431
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Datsun 17   1938 (Ebbro)",
+      "unomag_id": 3520
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Datsun 17 Sedan 1938 (44346)",
+      "unomag_id": 3520
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Datsun 17 Truck",
+      "unomag_id": 3931
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Dome S101 Mugen #5 24h Le Mans 2005",
+      "unomag_id": 174940
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::HONDA CR-Z 2011 1-43 ebbro 44320",
+      "unomag_id": 4170
     }
   ],
   "ignored_articles": [
