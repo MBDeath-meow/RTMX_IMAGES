@@ -25074,6 +25074,11 @@
       "supplier": "Scalebay",
       "article": "NAME::Maserati Gran Turismo 2008 (920)",
       "unomag_id": 151624
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::McLaren 675LT Spider",
+      "unomag_id": 627363
     }
   ],
   "ignored_articles": [
@@ -27776,6 +27781,10 @@
     {
       "supplier": "Scalebay",
       "article": "NAME::Krupp Titan + прицеп Deutsche Transport Compagnie Nurnberg 1952 Minichamps 1:43 Раритет"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Mercedes 190E 2.3-16 (W201) 1984 Nürburgring  к-т 2 шт PROST+REUTEMANN"
     }
   ],
   "manufacturer_map": [
