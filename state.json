@@ -23689,6 +23689,66 @@
       "supplier": "Scalebay",
       "article": "NAME::1/43 Mercedes-Benz W123-Kultowe AUTA PRL-u IXO",
       "unomag_id": 177904
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::1/43 NYSA-522 Ambulans- Специальный выпуск.-Kultowe AUTA PRL-u    IXO",
+      "unomag_id": 6360
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::1/43 NYSA-522 Pomoc Drogowa- Специальный выпуск.-Kultowe AUTA PRL-u-IST-IXO",
+      "unomag_id": 158606
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::1/43 Opel Rekord p2 Masini de Legenda №55 -IXO",
+      "unomag_id": 157913
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::1/43 RAF-РАФ-2203 LATVIA-Kultowe AUTA PRL-u -IXO",
+      "unomag_id": 1472
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::1/43 ROCAR TV-41 Masini de Legenda № 61 -IXO",
+      "unomag_id": 159542
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::1/43 Renault Dauphine Masini de Legenda №70  -IXO",
+      "unomag_id": 172791
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::1/43 Rocar TV 12F Masini de Legenda № 17 -IXO",
+      "unomag_id": 8091
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::1/43 TATRA 603-1 Masini de Legenda №24  -IXO",
+      "unomag_id": 151163
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::1/43 TATRA 613 Masini de Legenda №58 -IXO",
+      "unomag_id": 158600
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::1/43 TRABANT P50 Masini de Legenda №15 -IXO",
+      "unomag_id": 8089
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::1/43 VW GOLF 1 JGL Masini de Legenda №51 -IXO",
+      "unomag_id": 156008
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::1/43 VW T2 Masini de Legenda №75",
+      "unomag_id": 173950
     }
   ],
   "ignored_articles": [
