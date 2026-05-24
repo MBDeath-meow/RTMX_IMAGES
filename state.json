@@ -23854,6 +23854,26 @@
       "supplier": "Scalebay",
       "article": "NAME::Maserati Gran Sport 2004 (042)",
       "unomag_id": 152189
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Maserati MC12 #33 FIA GT 2004",
+      "unomag_id": 3986
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Lada 1200 (ВАЗ 2101)",
+      "unomag_id": 281571
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Lada 1500 1980",
+      "unomag_id": 396097
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Lada 1500 Limousine 1980",
+      "unomag_id": 512663
     }
   ],
   "ignored_articles": [
