@@ -24649,6 +24649,21 @@
       "supplier": "Scalebay",
       "article": "NAME::Ниссан Nissan Junior Truck 1962 Ebbro 1:43 43988",
       "unomag_id": 4153
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::honda cr-z 2011 1-43 ebbro 44392",
+      "unomag_id": 187049
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::honda cr-z 2011 1-43 ebbro 44391",
+      "unomag_id": 4171
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::ZYTEK 04S SPA #9 2005",
+      "unomag_id": 4910
     }
   ],
   "ignored_articles": [
@@ -27327,6 +27342,14 @@
     {
       "supplier": "Scalebay",
       "article": "NAME::Мазда Mazda Savanna RX-7 1978 Aoshima / Ebbro 1:43"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Мазда Mazda Familia Rotary Coupe 1968 Aoshima / Ebbro 1:43"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Мазда Mazda Cosmo Sport L 10 B 1968 Aoshima / Ebbro 1:43"
     }
   ],
   "manufacturer_map": [
