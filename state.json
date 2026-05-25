@@ -27564,6 +27564,46 @@
       "supplier": "Scalebay",
       "article": "NAME::WhiteBox. CITROEN DS 23 Pallas",
       "unomag_id": 385334
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::WhiteBox 147359 Mercedes-Benz SSK 1928 Silver 1/43",
+      "unomag_id": 151938
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::WILLYS Rural 4х4 1968",
+      "unomag_id": 177228
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Volvo P444  1943 (red)",
+      "unomag_id": 173487
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Volvo Duett 1953",
+      "unomag_id": 173864
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Volvo P1900 _ 1956",
+      "unomag_id": 176375
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Volvo Amazon 120 1956 (463)",
+      "unomag_id": 175855
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Volvo 164 1968 (br,)",
+      "unomag_id": 179097
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Volvo 145 1973 (yell.)",
+      "unomag_id": 177227
     }
   ],
   "ignored_articles": [
@@ -30514,6 +30554,10 @@
     {
       "supplier": "Scalebay",
       "article": "NAME::Москвич 2140 зелёный + колпак Whitebox 1:24"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Volvo 1800 ES 1972 (нет 1ой фары)"
     }
   ],
   "manufacturer_map": [
