@@ -26414,6 +26414,21 @@
       "supplier": "Scalebay",
       "article": "NAME::ВАЗ-2101 Жигули 1971 (голубой)",
       "unomag_id": 180450
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Toyota Landcruiser 200 2010 Militzia Moscow",
+      "unomag_id": 4892
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "С.К 003",
+      "unomag_id": 1539
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "С.К 007",
+      "unomag_id": 1766
     }
   ],
   "ignored_articles": [
@@ -29388,26 +29403,6 @@
       "variation": "Norev"
     },
     {
-      "unomag_name": "DeAgostini",
-      "variation": "DeAgostini"
-    },
-    {
-      "unomag_name": "DeAgostini",
-      "variation": "IXO"
-    },
-    {
-      "unomag_name": "DeAgostini",
-      "variation": "IXO Rally (серии RAC, RAM)"
-    },
-    {
-      "unomag_name": "DeAgostini",
-      "variation": "IXO Road (серии MOC, CLC)"
-    },
-    {
-      "unomag_name": "DeAgostini",
-      "variation": "IXO грузовики (серии TRU)"
-    },
-    {
       "unomag_name": "Ebbro",
       "variation": "Ebbro"
     },
@@ -29457,6 +29452,30 @@
     },
     {
       "unomag_name": "V.V.M / V.M.M.",
+      "variation": "IST Models"
+    },
+    {
+      "unomag_name": "DeAgostini",
+      "variation": "DeAgostini"
+    },
+    {
+      "unomag_name": "DeAgostini",
+      "variation": "IXO"
+    },
+    {
+      "unomag_name": "DeAgostini",
+      "variation": "IXO Rally (серии RAC, RAM)"
+    },
+    {
+      "unomag_name": "DeAgostini",
+      "variation": "IXO Road (серии MOC, CLC)"
+    },
+    {
+      "unomag_name": "DeAgostini",
+      "variation": "IXO грузовики (серии TRU)"
+    },
+    {
+      "unomag_name": "DeAgostini",
       "variation": "IST Models"
     }
   ],
