@@ -26444,6 +26444,16 @@
       "supplier": "Scalebay",
       "article": "NAME::1/43 FIAT 125P RAJDOWY(РАЛЛИ)-Kultowe AUTA PRL-u IST",
       "unomag_id": 158605
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Fiat 615 Полицейские машины мира №65",
+      "unomag_id": 181245
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::FIAT 684N H, Kultowe Ciezarowki PRL-u 113",
+      "unomag_id": 628968
     }
   ],
   "ignored_articles": [
@@ -29298,6 +29308,10 @@
     {
       "supplier": "Scalebay",
       "article": "С.К 026"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "2"
     }
   ],
   "manufacturer_map": [
