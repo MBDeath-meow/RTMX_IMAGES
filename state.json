@@ -26759,6 +26759,36 @@
       "supplier": "Scalebay",
       "article": "NAME::РАСПРОДАЖА Mercedes-Benz S 500   W 140 1994  IXO",
       "unomag_id": 203711
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Пежо Peugeot 403 1956 IXO 1:43 CLC107",
+      "unomag_id": 4964
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Пежо Peugeot 106 XSi 1993 Черный IXO 1:43 MOC095",
+      "unomag_id": 4033
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Панар Panhard Dyna Z 1953 IXO 1:43 CLC101",
+      "unomag_id": 175600
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Панар DB Panhard HBR5 1958 IXO 1:43 CLC142",
+      "unomag_id": 3975
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Москвич 412 #71 Rally London-Mexico 1970",
+      "unomag_id": 345774
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Модель формула 1 43 Berliet TR350 Race Transporter Renault IXO",
+      "unomag_id": 413716
     }
   ],
   "ignored_articles": [
@@ -29637,6 +29667,26 @@
     {
       "supplier": "Scalebay",
       "article": "Trailer-eM-ContShort1"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "Trailer-eM-TrailorSTA 1"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "Trailer-eM-KroneJumbo"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "Trailer-Peg1-Schmitz"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "Trailer-Peg2-Schmitz"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "Trailer-eM-Schmitz-2"
     }
   ],
   "manufacturer_map": [
