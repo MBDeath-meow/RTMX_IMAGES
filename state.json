@@ -27284,6 +27284,51 @@
       "supplier": "Scalebay",
       "article": "NAME::Skoda Fabia S2000 #46 R.Nor. 2009",
       "unomag_id": 154702
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "WBS029",
+      "unomag_id": 178152
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "WBS024",
+      "unomag_id": 177233
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "WBS0026",
+      "unomag_id": 154485
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "WBR016",
+      "unomag_id": 195132
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "WB254",
+      "unomag_id": 205596
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "WB220",
+      "unomag_id": 189780
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "WB124263",
+      "unomag_id": 594149
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "WB124262",
+      "unomag_id": 593695
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "WB124237",
+      "unomag_id": 556999
     }
   ],
   "ignored_articles": [
@@ -30222,6 +30267,10 @@
     {
       "supplier": "Scalebay",
       "article": "Trailer-eM-IXOtranskit2"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "WBS044"
     }
   ],
   "manufacturer_map": [
@@ -30424,6 +30473,14 @@
     {
       "unomag_name": "IXO",
       "variation": "IXO грузовики (серии TRU)"
+    },
+    {
+      "unomag_name": "White Box",
+      "variation": "White Box"
+    },
+    {
+      "unomag_name": "White Box",
+      "variation": "WhiteBox"
     }
   ],
   "suppliers": [
