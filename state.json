@@ -27529,6 +27529,41 @@
       "supplier": "Scalebay",
       "article": "NAME::Ваз 2102 Жигули 1971 Whitebox 1:24",
       "unomag_id": 593695
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::ВАЗ 2121 Нива 4х4 LADA Niva California 1981 СССР WhiteBox 1:43 WB075",
+      "unomag_id": 173868
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Астон Мартин Aston Martin DB 7 Zagato 2003 Whitebox 1:43",
+      "unomag_id": 203553
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::porsche 911T 1968",
+      "unomag_id": 180994
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Willys Rural 1968 White Box",
+      "unomag_id": 177228
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Willys Rural 1968",
+      "unomag_id": 177228
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::WhiteBox. CITROEN Mehari 1970",
+      "unomag_id": 344159
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::WhiteBox. CITROEN DS 23 Pallas",
+      "unomag_id": 385334
     }
   ],
   "ignored_articles": [
