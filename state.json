@@ -27404,6 +27404,46 @@
       "supplier": "Scalebay",
       "article": "NAME::лимузин Мерседес Бенц Mercedes Benz Typ 260 D 1936 IXO Whitebox 1:43",
       "unomag_id": 153619
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::лимузин Майбах Maуbach 62 2009 Двухцветный Whitebox 1:43",
+      "unomag_id": 179099
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Шевроле Chevrolet Veraneio 4x4 1965 Whitebox 1:43",
+      "unomag_id": 177230
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Шевроле Chevrolet 3100 Pick Up 1958 Пикап Whitebox 1:43",
+      "unomag_id": 177229
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Форд Ford Fairlane 1956 IXO Whitebox 1:43",
+      "unomag_id": 157121
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Форд Ford Capri 1981 Whitebox 1:43",
+      "unomag_id": 150110
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Ситроен Citroen ID 19 Break 1960 Whitebox 1:43",
+      "unomag_id": 157118
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Опель Opel Olympia Rekord P1 1959 IXO Whitebox 1:43",
+      "unomag_id": 154598
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Опель Opel Olympia Limousine 1951 (прототип Москвич 401) Whitebox 1:43",
+      "unomag_id": 151580
     }
   ],
   "ignored_articles": [
