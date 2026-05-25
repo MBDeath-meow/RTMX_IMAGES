@@ -26314,6 +26314,21 @@
       "supplier": "Scalebay",
       "article": "NAME::Land Rover 109 Series II Пикап 1959 IST MCG 1:18",
       "unomag_id": 235408
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::ВАЗ 2121 LADA NIVA 1600 4X4 FEUERWEHR (пожарный) 1985 красный",
+      "unomag_id": 184636
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::ВАЗ 2121 НИВА LADA NIVA 1978 жёлтый",
+      "unomag_id": 344462
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::ВАЗ-2121 LADA Niva California 1981 бежевый",
+      "unomag_id": 182921
     }
   ],
   "ignored_articles": [
@@ -29152,6 +29167,10 @@
     {
       "supplier": "Scalebay",
       "article": "NAME::микроавтобус Rocar TV 12 F (Румыния) 1975 IXO IST Masini de Legenda 1:43 БЕСПЛАТНАЯ доставка"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::ВАЗ-2121 «Нива»  (IST model Восточно-европейская серия)"
     }
   ],
   "manufacturer_map": [
