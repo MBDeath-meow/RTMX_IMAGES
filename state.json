@@ -27329,6 +27329,51 @@
       "supplier": "Scalebay",
       "article": "WB124237",
       "unomag_id": 556999
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "WB124225",
+      "unomag_id": 494100
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "WB124224",
+      "unomag_id": 494102
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "WB124221",
+      "unomag_id": 484986
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "WB124106",
+      "unomag_id": 383399
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "WB043",
+      "unomag_id": 157121
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "WB016",
+      "unomag_id": 153617
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "183616",
+      "unomag_id": 153612
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::1/43 Mercedes-Benz 500 SE W126-1979 - WHITEBOX-1 of 1008 pcs",
+      "unomag_id": 153398
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::1/43 Opel Kapitan P2.6- WHITEBOX-1 of 1000 pcs",
+      "unomag_id": 151584
     }
   ],
   "ignored_articles": [
@@ -30271,6 +30316,10 @@
     {
       "supplier": "Scalebay",
       "article": "WBS044"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "WB013"
     }
   ],
   "manufacturer_map": [
