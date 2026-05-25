@@ -25689,6 +25689,31 @@
       "supplier": "Scalebay",
       "article": "NAME::1/43 ROBUR LO 3000 Fr 2 M-B 21(1972) - IST177T- IST",
       "unomag_id": 155413
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::1/43 ROBUR LO 3000 NVA Army -Created by CARS CO Limitiert auf 999 Stuck(ccc078)- IST-Cars CO Company",
+      "unomag_id": 190013
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::1/43 TATRA 613(1976) - IST138- IST",
+      "unomag_id": 150075
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::1/43 Warszawa 203(1964) - IST119- IST",
+      "unomag_id": 152719
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::1/43 Wartburg 311-4 Kubel(1957) - IST165- IST",
+      "unomag_id": 5093
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::1/43 Wartburg 353 Kombi(1972) - IST038- IST",
+      "unomag_id": 1582
     }
   ],
   "ignored_articles": [
