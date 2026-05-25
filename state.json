@@ -27444,6 +27444,21 @@
       "supplier": "Scalebay",
       "article": "NAME::Опель Opel Olympia Limousine 1951 (прототип Москвич 401) Whitebox 1:43",
       "unomag_id": 151580
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Опель Opel Kapitan P2.6 Whitebox 1:43",
+      "unomag_id": 151584
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Мерседес Бенц Mercedes Benz Typ 770 Cabriolet F 1930 IXO Whitebox 1:43",
+      "unomag_id": 153612
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Мерседес Бенц Mercedes Benz SS 1933 Whitebox 1:43",
+      "unomag_id": 175858
     }
   ],
   "ignored_articles": [
@@ -30390,6 +30405,10 @@
     {
       "supplier": "Scalebay",
       "article": "WB013"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Москвич 2140 зелёный + колпак Whitebox 1:24"
     }
   ],
   "manufacturer_map": [
