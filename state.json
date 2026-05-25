@@ -26514,6 +26514,36 @@
       "supplier": "Scalebay",
       "article": "NAME::Audi R10 TDi #15 LMP1 Le Mans 2010 (191)",
       "unomag_id": 150086
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Audi R15 Tdi #1 Le Mans 2008",
+      "unomag_id": 7884
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Audi R15 Tdi #2 Le Mans 2009",
+      "unomag_id": 7886
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Audi R15 TDi #7 LPM1 3rd Le Mans 2010 (186)",
+      "unomag_id": 8173
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Audi R15 TDi #8 LMP1 2nd Le Mans 2010 (185)",
+      "unomag_id": 152182
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Audi R18 TDI #3 LMP1 2011 (LMM207)",
+      "unomag_id": 159380
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Audi R8 Champion Racing Team #2 Le Mans  2005 (077)",
+      "unomag_id": 292512
     }
   ],
   "ignored_articles": [
