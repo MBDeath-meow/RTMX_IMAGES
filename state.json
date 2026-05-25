@@ -28374,6 +28374,11 @@
       "supplier": "Scalebay",
       "article": "NAME::Aston Martin One 77 2010",
       "unomag_id": 179589
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Altaya. MERCEDES-BENZ 200D (W115) 1968 Beige",
+      "unomag_id": 262954
     }
   ],
   "ignored_articles": [
@@ -31368,10 +31373,6 @@
       "variation": "Neo Scale Models"
     },
     {
-      "unomag_name": "Norev",
-      "variation": "Norev"
-    },
-    {
       "unomag_name": "Greenlight",
       "variation": "Greenlight"
     },
@@ -31549,6 +31550,14 @@
     },
     {
       "unomag_name": "White Box",
+      "variation": "WhiteBox"
+    },
+    {
+      "unomag_name": "Norev",
+      "variation": "Norev"
+    },
+    {
+      "unomag_name": "Norev",
       "variation": "WhiteBox"
     }
   ],
