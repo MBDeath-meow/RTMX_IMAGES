@@ -26369,6 +26369,26 @@
       "supplier": "Scalebay",
       "article": "NAME::Татра Tatra 603/3 Czech PO Police Пожарная Полиция IST Foxtoys 1:43 FOX006 Выпуск прекращен",
       "unomag_id": 209245
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::лимузин Татра Tatra 613 Белая IST Foxtoys 1:43 FOX021 Выпуск прекращен",
+      "unomag_id": 252812
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Волга 24 Милиция из к/ф «Иван Васильевич Меняет Профессию»",
+      "unomag_id": 1673
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Москвич 402 АЗЛК 1957 из к/ф ’К Черному морю’ СССР IST VVM 1:43 VVM021",
+      "unomag_id": 1675
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Москвич 408 АЗЛК 1968 из к/ф ’Бриллиантовая рука’ IST VVM 1:43 VVM014 БЕСПЛАТНАЯ доставка",
+      "unomag_id": 1674
     }
   ],
   "ignored_articles": [
@@ -29404,6 +29424,14 @@
     },
     {
       "unomag_name": "Foxtoys",
+      "variation": "IST Models"
+    },
+    {
+      "unomag_name": "V.V.M / V.M.M.",
+      "variation": "V.V.M / V.M.M."
+    },
+    {
+      "unomag_name": "V.V.M / V.M.M.",
       "variation": "IST Models"
     }
   ],
