@@ -26579,6 +26579,31 @@
       "supplier": "Scalebay",
       "article": "NAME::BERLIET TR 305 towing vehicle (1978), red white blue IXO",
       "unomag_id": 512651
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Bmw  Koepchen 2002 Ti 1974 IXO",
+      "unomag_id": 331840
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::BMW 2002 1972 (255)",
+      "unomag_id": 173241
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::BMW 2002 tii Alpina 1972",
+      "unomag_id": 431837
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::BMW 2002tii 1972 (253)",
+      "unomag_id": 159726
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::BMW 2002tii 1972 (254)",
+      "unomag_id": 159727
     }
   ],
   "ignored_articles": [
@@ -29441,6 +29466,10 @@
     {
       "supplier": "Scalebay",
       "article": "предсерийный экземпляр с выставки в  Nürnberg"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "Pinder-el"
     }
   ],
   "manufacturer_map": [
