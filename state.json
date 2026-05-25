@@ -27699,6 +27699,31 @@
       "supplier": "Scalebay",
       "article": "NAME::Rosengart  Super 5 LR4N 1938",
       "unomag_id": 176383
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Renault 4 (187402)",
+      "unomag_id": 169818
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Range Rover 1:43 Whitebox 5 дверей",
+      "unomag_id": 154432
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Plymouth Savoy 1959 (red.w)",
+      "unomag_id": 177226
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Panhard Dynamic 1936",
+      "unomag_id": 177225
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::PACKARD V12 Le Baron Speedster 1934 бежевый красныйI",
+      "unomag_id": 188938
     }
   ],
   "ignored_articles": [
@@ -30653,6 +30678,14 @@
     {
       "supplier": "Scalebay",
       "article": "NAME::Volvo 1800 ES 1972 (нет 1ой фары)"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Opel omega lotus Jagermeister"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Opel omega a caravan"
     }
   ],
   "manufacturer_map": [
