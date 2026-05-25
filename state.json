@@ -27494,6 +27494,41 @@
       "supplier": "Scalebay",
       "article": "NAME::Мерседес Бенц Mercedes Benz 190 SL W121 1955 Whitebox 1:43",
       "unomag_id": 153606
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Мерседес Бенц Mercedes Benz 180 D W120 1954 Ponton IXO Whitebox 1:43",
+      "unomag_id": 158526
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Мерседес Бенц Mercedes Benz 170 V Limousine 1949 IXO Whitebox 1:43",
+      "unomag_id": 153395
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Мерседес Mercedes Benz 200 / 8 W115 1968 Whitebox 1:43 WB009",
+      "unomag_id": 153614
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Майбах Maybach DS 8 Zeppelin 1930 Whitebox 1:43",
+      "unomag_id": 173489
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Крайслер Chrysler Airflow 1936 Черный Whitebox 1:43",
+      "unomag_id": 173491
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Додж Dodge Dart 1966 Whitebox 1:43",
+      "unomag_id": 157117
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Ваз 2102 Жигули 1971 Whitebox 1:24",
+      "unomag_id": 593695
     }
   ],
   "ignored_articles": [
