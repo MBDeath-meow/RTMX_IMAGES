@@ -26454,6 +26454,11 @@
       "supplier": "Scalebay",
       "article": "NAME::FIAT 684N H, Kultowe Ciezarowki PRL-u 113",
       "unomag_id": 628968
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Aston Martin DB11 2016",
+      "unomag_id": 293021
     }
   ],
   "ignored_articles": [
@@ -29324,22 +29329,6 @@
       "variation": "evr"
     },
     {
-      "unomag_name": "IXO",
-      "variation": "IXO"
-    },
-    {
-      "unomag_name": "IXO",
-      "variation": "IXO Rally (серии RAC, RAM)"
-    },
-    {
-      "unomag_name": "IXO",
-      "variation": "IXO Road (серии MOC, CLC)"
-    },
-    {
-      "unomag_name": "IXO",
-      "variation": "IXO грузовики (серии TRU)"
-    },
-    {
       "unomag_name": "ModelPro",
       "variation": "ModelPro"
     },
@@ -29514,6 +29503,22 @@
     {
       "unomag_name": "DeAgostini",
       "variation": "IST Models"
+    },
+    {
+      "unomag_name": "IXO",
+      "variation": "IXO"
+    },
+    {
+      "unomag_name": "IXO",
+      "variation": "IXO Rally (серии RAC, RAM)"
+    },
+    {
+      "unomag_name": "IXO",
+      "variation": "IXO Road (серии MOC, CLC)"
+    },
+    {
+      "unomag_name": "IXO",
+      "variation": "IXO грузовики (серии TRU)"
     }
   ],
   "suppliers": [
