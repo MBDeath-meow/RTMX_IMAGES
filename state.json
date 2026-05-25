@@ -28274,6 +28274,41 @@
       "supplier": "Scalebay",
       "article": "NAME::Delage D8-120S 1937",
       "unomag_id": 188941
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::De Soto 6 Suburban 1946",
+      "unomag_id": 179584
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::CITROEN ID 19 1960 Petrol Blue",
+      "unomag_id": 157118
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Citroen DS (187414)",
+      "unomag_id": 157929
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Chrysler Imperial Le Baron Phaeton 1933",
+      "unomag_id": 179586
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Chrysler Airflow 1936 (b.)",
+      "unomag_id": 173491
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Chevrolet Pick 3100 Up 1950",
+      "unomag_id": 185672
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Cadillac V16 1930 (2345)",
+      "unomag_id": 154741
     }
   ],
   "ignored_articles": [
