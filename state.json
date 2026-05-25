@@ -26604,6 +26604,31 @@
       "supplier": "Scalebay",
       "article": "NAME::BMW 2002tii 1972 (254)",
       "unomag_id": 159727
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::BMW 3.5 SCL cr. 5 #43",
+      "unomag_id": 181760
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::BMW 3.5 SCL cr. 5 #7",
+      "unomag_id": 181758
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::BMW Alpina 2002 Tii 1972",
+      "unomag_id": 331839
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::BMW Alpina B6 3.5S M3 E30 1989",
+      "unomag_id": 393413
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::BMW E30 M3 # 1 1988 (W.B.deSp.)",
+      "unomag_id": 156527
     }
   ],
   "ignored_articles": [
