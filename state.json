@@ -26204,6 +26204,46 @@
       "supplier": "Scalebay",
       "article": "NAME::Трабант Trabant 601 S Saloon Camping 1980 IST 1:43 IST188 Выпуск прекращен",
       "unomag_id": 172548
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Трабант Trabant Cabrio 1978 IST 1:43 IST103 Раритет",
+      "unomag_id": 5090
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Трабант Trabant P50 Kombi 1959 IST 1:43 IST008 Выпуск прекращен",
+      "unomag_id": 1565
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Трабант Trabant P50 Limousine 1958 IST 1:43 IST029 Раритет",
+      "unomag_id": 1577
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::УАЗ 469 1977 БГ Медслужба Ambulance IXO металл IST040 4х4",
+      "unomag_id": 1613
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::УАЗ-452В",
+      "unomag_id": 189
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Уаз 469 4х4 1975 СССР IST 1:43 IST017 Раритет",
+      "unomag_id": 191
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Уаз 469 4х4 TAI Военная полиция Чехословакии 2003 IST 1:43 IST047",
+      "unomag_id": 1609
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Уаз 469 Б 4х4 Gelände Funkstreifenwagen R1125 (военная полиция ГДР) 1975 IST Cars & Co 1:43 CCC079",
+      "unomag_id": 159134
     }
   ],
   "ignored_articles": [
@@ -29022,6 +29062,14 @@
     {
       "supplier": "Scalebay",
       "article": "NAME::Ситроен Citroen Oltcit Club 1989 (Румыния) IST Masini de Legenda 1:43"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::УАЗ-452 СКОРАЯ МЕДИЦИНСКАЯ ПОМОЩЬ"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Уаз 452 В 4х4 Аварийная 04 IST ICV 1:43 Спецмодель Лимитированное исполнение"
     }
   ],
   "manufacturer_map": [
