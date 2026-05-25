@@ -26169,6 +26169,41 @@
       "supplier": "Scalebay",
       "article": "NAME::Москвич 412 АЗЛК 1972 Volkspolizei DDR Police IST Cars & Co 1:43 CCC094",
       "unomag_id": 174293
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Сирена Syrena 102 1962 Orange IST 1:43 IST065",
+      "unomag_id": 1600
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Тарпан Tarpan 237 pick-up 4x4 1982 IST 1:43 IST111",
+      "unomag_id": 150465
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Трабант Trabant 1.1 Pick-Up Closed 1990 Light Blue IST 1:43 IST179A Выпуск прекращен",
+      "unomag_id": 156234
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Трабант Trabant 1.1 Pick-Up Open 1990 Light Grey IST 1:43 IST179B Раритет",
+      "unomag_id": 156235
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Трабант Trabant 601 IST Cars & Co 1:43 CCC080 Выпуск прекращен",
+      "unomag_id": 156117
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Трабант Trabant 601 Rally Monte Carlo 1992 IST 1:43 IST083 Выпуск прекращен",
+      "unomag_id": 1593
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Трабант Trabant 601 S Saloon Camping 1980 IST 1:43 IST188 Выпуск прекращен",
+      "unomag_id": 172548
     }
   ],
   "ignored_articles": [
@@ -28971,6 +29006,22 @@
     {
       "supplier": "Scalebay",
       "article": "NAME::Москвич 402 АЗЛК 1957 темно-зеленый СССР Конверсия IST 1:43"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Раф 22038 (2203) Латвия микро автобус Полиция Латвии 1995 IST IXO Полицейские машины мира 1:43 БЕСПЛАТНАЯ доставка"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Рено Renault 16 IST Masini de Legenda 1:43"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Рено Renault Dauphine 1961 IST Masini de Legenda 1:43"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Ситроен Citroen Oltcit Club 1989 (Румыния) IST Masini de Legenda 1:43"
     }
   ],
   "manufacturer_map": [
