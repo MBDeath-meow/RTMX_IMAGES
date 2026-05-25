@@ -27604,6 +27604,36 @@
       "supplier": "Scalebay",
       "article": "NAME::Volvo 145 1973 (yell.)",
       "unomag_id": 177227
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Volvo 144 1966 (694)",
+      "unomag_id": 157119
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Volkswagen Kafer 1983 (black)",
+      "unomag_id": 156572
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Volkswagen Kafer (187404)",
+      "unomag_id": 159487
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Volkswagen Golf (187410)",
+      "unomag_id": 158850
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::VW  Scirocco MKI (186677)",
+      "unomag_id": 154744
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Trabant 601 Universal (1965)",
+      "unomag_id": 177224
     }
   ],
   "ignored_articles": [
