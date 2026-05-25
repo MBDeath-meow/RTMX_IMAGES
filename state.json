@@ -25409,6 +25409,16 @@
       "supplier": "Scalebay",
       "article": "RAC430.22",
       "unomag_id": 461793
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "RAC427",
+      "unomag_id": 461790
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "CLC430",
+      "unomag_id": 385242
     }
   ],
   "ignored_articles": [
