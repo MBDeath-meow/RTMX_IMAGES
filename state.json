@@ -26484,6 +26484,36 @@
       "supplier": "Scalebay",
       "article": "NAME::Aston Martin DBR9 #8 Le Mans 2008 (152)",
       "unomag_id": 154449
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Aston Martin V8 Vantage  #60  Le Mans 2011 (221)",
+      "unomag_id": 159383
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Aston Martin V8 Vantage  #79  Le Mans 2011 (222)",
+      "unomag_id": 159384
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Aston Martin Vantage GT12 2015",
+      "unomag_id": 289781
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Audi R10 TDi #14 LMP1 Le Mans 2010 (190)",
+      "unomag_id": 150085
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Audi R10 TDI #15 Le Mans 2009 (177)",
+      "unomag_id": 4027
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Audi R10 TDi #15 LMP1 Le Mans 2010 (191)",
+      "unomag_id": 150086
     }
   ],
   "ignored_articles": [
