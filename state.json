@@ -26244,6 +26244,26 @@
       "supplier": "Scalebay",
       "article": "NAME::Уаз 469 Б 4х4 Gelände Funkstreifenwagen R1125 (военная полиция ГДР) 1975 IST Cars & Co 1:43 CCC079",
       "unomag_id": 159134
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Уаз 469 БГ 4х4 1977 Медицинский СССР IST 1:43 IST040",
+      "unomag_id": 1613
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Фиат Fiat 125 P 1969 IST 1:43 IST070 Выпуск прекращен",
+      "unomag_id": 2544
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Фиат Fiat 126 P Maluch 1973 IST 1:43 IST072 Выпуск прекращен",
+      "unomag_id": 1590
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Фиат Fiat Polski 125P Kombi 1975 Light Grey IST 1:43 IST082",
+      "unomag_id": 1592
     }
   ],
   "ignored_articles": [
@@ -29070,6 +29090,10 @@
     {
       "supplier": "Scalebay",
       "article": "NAME::Уаз 452 В 4х4 Аварийная 04 IST ICV 1:43 Спецмодель Лимитированное исполнение"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Фиат Fiat 238 Carabinieri Полиция Италии 1967 IXO Полицейские машины мира 1:43 БЕСПЛАТНАЯ доставка"
     }
   ],
   "manufacturer_map": [
