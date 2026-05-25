@@ -25734,6 +25734,16 @@
       "supplier": "Scalebay",
       "article": "NAME::AWZ P70 Limousine 1955 IST 1:43 IST020 Выпуск прекращен",
       "unomag_id": 1572
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Barkas B1000 Military Ambulance 1964",
+      "unomag_id": 1587
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Barkas Баркас B1000 IST Models",
+      "unomag_id": 1598
     }
   ],
   "ignored_articles": [
