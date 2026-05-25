@@ -27064,6 +27064,61 @@
       "supplier": "Scalebay",
       "article": "NAME::Volkswagen Golf II GTI 1984",
       "unomag_id": 382784
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Volkswagen Golf Cabriolet MK III 1995",
+      "unomag_id": 382790
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Volkswagen Golf 3 1993",
+      "unomag_id": 471056
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Volkswagen Derby LS 1977",
+      "unomag_id": 383718
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Volkswagen Derby II 1981",
+      "unomag_id": 484978
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Volkswagen  LT28 SWB  Martini Racing Rally Assistance",
+      "unomag_id": 340867
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Volkswagen  Käfer 1302 LS Cabrio 1971",
+      "unomag_id": 389454
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::UNIC ZU 122 ’1960",
+      "unomag_id": 154467
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Unic Auteuil Gas Transporter",
+      "unomag_id": 181778
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Unic Auteuil 1963",
+      "unomag_id": 181778
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Triumph TR7 V8 #24 RAC R. 1977",
+      "unomag_id": 4090
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Toyota Yaris Cross 2022",
+      "unomag_id": 460089
     }
   ],
   "ignored_articles": [
@@ -29998,6 +30053,10 @@
     {
       "supplier": "Scalebay",
       "article": "NAME::Каталог фирмы IXO Коллекционные модели 2003 год"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "Trailer-eM-IXOtranskit2"
     }
   ],
   "manufacturer_map": [
