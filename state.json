@@ -28224,6 +28224,56 @@
       "supplier": "Scalebay",
       "article": "NAME::Ford Fairlane 1956 (w.yel.)",
       "unomag_id": 157121
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Ford Fiesta Festival 1981  Whitebox",
+      "unomag_id": 192326
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Ford Fiesta MKII 1984 (027)",
+      "unomag_id": 154742
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::FORD Model T Touring 1909 Black",
+      "unomag_id": 156322
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Dodge Dart 1966 (884)",
+      "unomag_id": 157117
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Dodge Coronet 1973 (Br)",
+      "unomag_id": 180999
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::DKW Vemag Vemaguet 1964",
+      "unomag_id": 178145
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::DKW GT Malzoni 1964",
+      "unomag_id": 177231
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::DKW F94 3=8 1957",
+      "unomag_id": 176376
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Delahaye 165 V12 1938",
+      "unomag_id": 179583
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Delage D8-120S 1937",
+      "unomag_id": 188941
     }
   ],
   "ignored_articles": [
