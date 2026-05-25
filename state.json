@@ -26094,6 +26094,46 @@
       "supplier": "Scalebay",
       "article": "NAME::Жук Zuk A07 Van 1976 IST 1:43 IST073 Выпуск прекращен",
       "unomag_id": 3069
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Застава Zastava 1100 1977 IST 1:43 IST095 БЕСПЛАТНАЯ доставка",
+      "unomag_id": 5089
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Зис 101A 1936 Лимузин IST 1:43 IST086 БЕСПЛАТНАЯ доставка",
+      "unomag_id": 1615
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Ифа Ifa F8 Cabrio 1953 IST 1:43 IST054 Выпуск прекращен",
+      "unomag_id": 150071
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Ифа Ifa F8 Kombi 1955 IST 1:43 IST160 Выпуск прекращен",
+      "unomag_id": 5092
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Ифа Ifa F9 Cabrio 1953 IST 1:43 IST019 Выпуск прекращен",
+      "unomag_id": 1571
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Ифа Ifa Framo V901 Pick-up 1957 Red and Black IST 1:43 IST034",
+      "unomag_id": 202992
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Ифа Ifa Framo V901/2 Kastenwagen (фургон) 1954 Red IST 1:43 IST051",
+      "unomag_id": 5087
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Ифа Ifa Framo V901/2 Kastenwagen 1954 IST Cars & Co 1:43 CCC053 Выпуск прекращен",
+      "unomag_id": 5610
     }
   ],
   "ignored_articles": [
@@ -28880,6 +28920,14 @@
     {
       "supplier": "Scalebay",
       "article": "NAME::Ваз 2121 Нива Жигули Lada Niva 4x4 1985 СССР IST Masini de Legenda 1:43"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::ЗИС 110 Такси IST Models 1:43"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::ЗИС 110 серая IST Models 1:43"
     }
   ],
   "manufacturer_map": [
