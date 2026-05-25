@@ -25894,6 +25894,41 @@
       "supplier": "Scalebay",
       "article": "NAME::NIVA ваз 2121 IST Models 1:43",
       "unomag_id": 1610
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Phänomen Granit 27  1950",
+      "unomag_id": 192904
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Polski Fiat 125P Kombi 1973",
+      "unomag_id": 1592
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Polski Fiat 125P Kombi 1973. Light Grey. 1973 г. 1/43.IST Models",
+      "unomag_id": 1592
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Robur Garant 30k VWB I8 1956",
+      "unomag_id": 172664
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Robur LO 3000 FR 2 M-B 21 1972",
+      "unomag_id": 155413
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Sachsenring P240 1958 Черный Limited Edition 499 pcs. IST Cars & Co 1:43 CCC048 Выпуск прекращен",
+      "unomag_id": 3762
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Trabant 1.1 Pick Up 1990 Closed",
+      "unomag_id": 156234
     }
   ],
   "ignored_articles": [
@@ -28664,6 +28699,10 @@
     {
       "supplier": "Scalebay",
       "article": "NAME::IST080 BARKAS B1000 Feuerwehr 1970 вар.1"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Rayton Fissore Magnum 4x4 2,5 TDI Полиция Италии 1989 IXO Полицейские машины мира 1:43 БЕСПЛАТНАЯ доставка"
     }
   ],
   "manufacturer_map": [
