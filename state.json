@@ -25338,7 +25338,57 @@
     {
       "supplier": "Scalebay",
       "article": "TR156",
-      "unomag_id": 719929
+      "unomag_id": 431834
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "TR124",
+      "unomag_id": 385232
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "TR118",
+      "unomag_id": 382778
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "TR093",
+      "unomag_id": 338639
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "TR084",
+      "unomag_id": 339667
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "TR025",
+      "unomag_id": 258968
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "TR014",
+      "unomag_id": 222366
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "TR013",
+      "unomag_id": 214410
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "TR012",
+      "unomag_id": 211808
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "TR011",
+      "unomag_id": 211807
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "TR006",
+      "unomag_id": 206355
     }
   ],
   "ignored_articles": [
@@ -28057,6 +28107,10 @@
     {
       "supplier": "Scalebay",
       "article": "TR212"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "Tank-LUKOIL"
     }
   ],
   "manufacturer_map": [
