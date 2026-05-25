@@ -26854,6 +26854,21 @@
       "supplier": "Scalebay",
       "article": "NAME::Мини Mini Van Royal Mail 1965 IXO 1:43 CLC108",
       "unomag_id": 155578
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Мерседес Бенц Mercedes Benz SLS Coupe 6.3 AMG C197 2010 IXO 1:43 MOC124",
+      "unomag_id": 158132
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Мерседес Бенц Mercedes Benz SLS AMG RSK8 2011 Черный IXO 1:43 MOC118",
+      "unomag_id": 158131
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Мерседес Бенц MERCEDES BENZ 450 SEL (W116) 1975 IXO 1:43 CLC191",
+      "unomag_id": 158121
     }
   ],
   "ignored_articles": [
@@ -29752,6 +29767,22 @@
     {
       "supplier": "Scalebay",
       "article": "Trailer-eM-Schmitz-2"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Мерседес Бенц Mercedes Benz SEL W116 1975 Милиция СССР IXO Полицейские машины мира 1:43"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Мерседес Бенц Mercedes Benz CLS I C219 IXO Суперкары 1:43"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Мерседес Бенц Mercedes Benz 230 SL W113 1968 IXO De Agostini 1:43"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Мерседес Бенц Mercedes Benz 230 Limousine 1974 W114 Черный IXO 1:43"
     }
   ],
   "manufacturer_map": [
