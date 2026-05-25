@@ -25744,6 +25744,26 @@
       "supplier": "Scalebay",
       "article": "NAME::Barkas Баркас B1000 IST Models",
       "unomag_id": 1598
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::CCC045   Barkas B1000 Pritsche/Plane Feuerwehr",
+      "unomag_id": 3067
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::CCC046   Barkas B1000 Pritsche/Plane «VEB Deutsche Spedition Leipzig»",
+      "unomag_id": 3067
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::CCC053 Framo  V901 Schmiedemeister Gunsel",
+      "unomag_id": 5610
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::CCC054 Framo Pritsch/Piane V901 Feuerwehr   1959",
+      "unomag_id": 5611
     }
   ],
   "ignored_articles": [
