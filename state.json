@@ -26904,6 +26904,21 @@
       "supplier": "Scalebay",
       "article": "NAME::лимузин Татра Tatra 603 1961 Черная (Чехословакия ССР) IXO 1:43 CLC030",
       "unomag_id": 184045
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::лимузин Роллс Ройс Rolls Royce Phantom 2010 Middle East Special IXO 1:43 MOC162",
+      "unomag_id": 158133
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::лимузин Мерседес Бенц Mercedes Benz 600 W100 1966 IXO 1:43 CLC119",
+      "unomag_id": 224174
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Лексус Lexus LX570 2009 4x4 Черный IXO 1:43 MOC123",
+      "unomag_id": 156519
     }
   ],
   "ignored_articles": [
@@ -29822,6 +29837,18 @@
     {
       "supplier": "Scalebay",
       "article": "NAME::Мерседес Бенц Mercedes Benz 200 / 8 W 115 1968 IXO PST Group 1:43"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Коробка от ВАЗ-2118 Kalina / Cararama / Autobahn / Bauer"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Коробка от NIVA-Chevrolet / Cararama / Autobahn / Bauer"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Коллекционная модель. AUSTIN FX4 London Taxi"
     }
   ],
   "manufacturer_map": [
