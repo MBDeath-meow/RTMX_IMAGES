@@ -25389,6 +25389,26 @@
       "supplier": "Scalebay",
       "article": "TR006",
       "unomag_id": 206355
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "SPRM001-76",
+      "unomag_id": 460074
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "RAM955",
+      "unomag_id": 598915
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "RAM954",
+      "unomag_id": 580788
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "RAC430.22",
+      "unomag_id": 461793
     }
   ],
   "ignored_articles": [
