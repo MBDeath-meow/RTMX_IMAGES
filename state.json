@@ -25989,6 +25989,41 @@
       "supplier": "Scalebay",
       "article": "NAME::Баркас Barkas B1000 Minibus 1965 IST 1:43 IST025 Выпуск прекращен",
       "unomag_id": 1575
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Баркас Barkas B1000 Verejna Bezpecnost VB Czech Police 1975 IST 1:43 IST049",
+      "unomag_id": 192903
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Баркас Barkas B1000 Volkspolizei 1968 IST 1:43 IST048 Выпуск прекращен",
+      "unomag_id": 5086
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Баркас Barkas B1000 Фургон 1956 IST 1:43 IST003 Ранний",
+      "unomag_id": 1561
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Баркас Barkas B1000 Фургон ’Minol’ Kastenwagen 1960 IST 1:43 IST077",
+      "unomag_id": 1585
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::ВАЗ 2102  IST Models  1:43",
+      "unomag_id": 1618
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::ВАЗ 2121 НИВА синяя 1981 IXO IST075",
+      "unomag_id": 1610
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::ВАЗ 2121 Нива Polizei Slowakei 1:43 IST",
+      "unomag_id": 179043
     }
   ],
   "ignored_articles": [
