@@ -25779,6 +25779,36 @@
       "supplier": "Scalebay",
       "article": "NAME::Dacia 1310 1984 Red IST 1:43 IST120",
       "unomag_id": 1594
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Dacia Supernova ’Clima’ 1999 Metallic Blue IST 1:43 IST184",
+      "unomag_id": 179044
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::EMW (BMW) 327 Кабриолет 1955 IST 1:43 IST036 Раритет",
+      "unomag_id": 1581
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::EMW (BMW) 340 Kombi 1953 Black IST 1:43 IST055",
+      "unomag_id": 179041
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::EMW 340 KOMBI",
+      "unomag_id": 179041
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::FSO Polonez 1978 IST 1:43 IST069 Раритет",
+      "unomag_id": 2543
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::FSO Polonez Caro 1991 Red IST 1:43 IST116",
+      "unomag_id": 202993
     }
   ],
   "ignored_articles": [
