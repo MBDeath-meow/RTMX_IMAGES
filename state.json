@@ -26389,6 +26389,31 @@
       "supplier": "Scalebay",
       "article": "NAME::Москвич 408 АЗЛК 1968 из к/ф ’Бриллиантовая рука’ IST VVM 1:43 VVM014 БЕСПЛАТНАЯ доставка",
       "unomag_id": 1674
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Ваз 2121 Нива Lada Niva 4x4 St-Tropez 1990 СССР IST VVM 1:43 VVM012",
+      "unomag_id": 3072
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Ваз 2121 Нива  St-Tropez 1990 СССР IST VVM 1:43 VVM012",
+      "unomag_id": 3072
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Ваз 2101 Жигули Lada Копейка 1973 IST VVM 1:18 Лимит 504 шт РАРИТЕТ",
+      "unomag_id": 299231
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Ваз 2101 Жигули Lada Милиция 1982 из к/ф Инспектор ГАИ IST VVM 1:18 Лимит 504 шт БЕСПЛАТНАЯ доставка",
+      "unomag_id": 299232
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::ВАЗ-2101 Жигули 1971 (голубой)",
+      "unomag_id": 180450
     }
   ],
   "ignored_articles": [
