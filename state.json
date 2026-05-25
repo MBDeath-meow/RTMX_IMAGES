@@ -26299,6 +26299,21 @@
       "supplier": "Scalebay",
       "article": "NAME::москвич 408 1968 г",
       "unomag_id": 1612
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::BARKAS B1000 Bus Fire Brigade Ambulance 1965 Скорая помощь пожарной бригады",
+      "unomag_id": 185777
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::BARKAS B1000 Bus VOLKSPOLIZEI 1965 зеленый",
+      "unomag_id": 184638
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Land Rover 109 Series II Пикап 1959 IST MCG 1:18",
+      "unomag_id": 235408
     }
   ],
   "ignored_articles": [
@@ -29310,6 +29325,14 @@
     },
     {
       "unomag_name": "IST",
+      "variation": "IST Models"
+    },
+    {
+      "unomag_name": "ModelCarGroup",
+      "variation": "ModelCarGroup"
+    },
+    {
+      "unomag_name": "ModelCarGroup",
       "variation": "IST Models"
     }
   ],
