@@ -27929,6 +27929,91 @@
       "supplier": "Scalebay",
       "article": "NAME::Mercedes 230SL (187403)",
       "unomag_id": 159486
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Lamborghini Diablo VT-R Roadster Trofeo (501)",
+      "unomag_id": 179194
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Lamborghini Estoque 2008",
+      "unomag_id": 173863
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Lamborghini Flying Star II (507)",
+      "unomag_id": 179200
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Lamborghini Huracan",
+      "unomag_id": 180273
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Lamborghini Huracan (504)",
+      "unomag_id": 179197
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Lamborghini Jalpa Spider (Prototipo) 1987 (511)",
+      "unomag_id": 180269
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Lamborghini jarama Rally (1973)",
+      "unomag_id": 179196
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Lamborghini LM 002 1986 (Gr.)",
+      "unomag_id": 178147
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Lamborghini Marzal 1967",
+      "unomag_id": 173865
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Lamborghini Miura SVJ Roadster (509)",
+      "unomag_id": 180267
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Lamborghini P132 (Prototipo) 1986 (510)",
+      "unomag_id": 180268
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Lamborghini P-140 (1988)",
+      "unomag_id": 179198
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Lamborghini P140 (505)",
+      "unomag_id": 179198
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Lamborghini Sesto Elemento 2010 (Red)",
+      "unomag_id": 173486
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Lamborghini Urraco Rally (502)",
+      "unomag_id": 179195
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Lamborghini Urus 2012 (Yell)",
+      "unomag_id": 175860
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Lamborghini Veneno Roadster (521)",
+      "unomag_id": 180274
     }
   ],
   "ignored_articles": [
