@@ -28164,6 +28164,66 @@
       "supplier": "Scalebay",
       "article": "NAME::Lamborghini Countach  LP400 S 1978  (Wh.)",
       "unomag_id": 173485
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Lamborghini Countach Evoluzione UN  (512)",
+      "unomag_id": 180270
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Lamborghini Countach XXV  Aniversario (515)",
+      "unomag_id": 180272
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Lamborghini Diablo Roadster (506)",
+      "unomag_id": 179199
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Ford V8 1937 (bl,)",
+      "unomag_id": 158529
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Ford Taunus 1980 (359)",
+      "unomag_id": 156324
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Ford Orion 1983",
+      "unomag_id": 176378
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Facel Vega 1958",
+      "unomag_id": 157122
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Facel Vega 1958 Whitebox 1:43",
+      "unomag_id": 157122
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Fiat 600 (187413)",
+      "unomag_id": 157928
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::FORD Escort MK2 1975 голубой мет",
+      "unomag_id": 181442
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Ford Escort XR3i 1990 (Gr.)",
+      "unomag_id": 177232
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Ford Fairlane 1956 (w.yel.)",
+      "unomag_id": 157121
     }
   ],
   "ignored_articles": [
