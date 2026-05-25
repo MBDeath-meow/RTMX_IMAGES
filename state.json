@@ -26919,6 +26919,26 @@
       "supplier": "Scalebay",
       "article": "NAME::Лексус Lexus LX570 2009 4x4 Черный IXO 1:43 MOC123",
       "unomag_id": 156519
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Исузу Isuzu Aska (аналог Subaru Legacy) CX 1990 Черный IXO 1:43 CLC243",
+      "unomag_id": 186852
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::БМВ BMW 2000 CS 1971 IXO 1:43 CLC256",
+      "unomag_id": 176345
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Бентли Bentley 3L #8 Winner Le Mans 1924 J. Duff - F. Clement IXO 1:43",
+      "unomag_id": 208275
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Western Star 5700 EX (2016), light blue    IXO",
+      "unomag_id": 499120
     }
   ],
   "ignored_articles": [
@@ -29849,6 +29869,10 @@
     {
       "supplier": "Scalebay",
       "article": "NAME::Коллекционная модель. AUSTIN FX4 London Taxi"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Каталог фирмы IXO Коллекционные модели 2003 год"
     }
   ],
   "manufacturer_map": [
