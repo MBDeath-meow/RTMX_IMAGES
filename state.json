@@ -26739,6 +26739,26 @@
       "supplier": "Scalebay",
       "article": "NAME::Симка Simca Aronde P60 Montlhery 1959 IXO 1:43 CLC204",
       "unomag_id": 3216
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Симка Simca Ariane 8 1958 Черная IXO 1:43 CLC215",
+      "unomag_id": 3595
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Рено Renault Siete TL 1975 IXO 1:43 CLC122",
+      "unomag_id": 179957
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::РАФ 2203 техничка ’Avtoexport Lada Rally Team’ с багажником и колесами на крыше 1982    IXO",
+      "unomag_id": 360852
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::РАСПРОДАЖА Mercedes-Benz S 500   W 140 1994  IXO",
+      "unomag_id": 203711
     }
   ],
   "ignored_articles": [
@@ -29605,6 +29625,18 @@
     {
       "supplier": "Scalebay",
       "article": "Pinder-el"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "It#3"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "4325910027"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "Trailer-eM-ContShort1"
     }
   ],
   "manufacturer_map": [
