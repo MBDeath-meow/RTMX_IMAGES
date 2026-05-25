@@ -25314,6 +25314,31 @@
       "supplier": "Scalebay",
       "article": "NAME::Камаз 65117 ssm",
       "unomag_id": 191460
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "TRF016",
+      "unomag_id": 320590
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "TR233",
+      "unomag_id": 678759
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "TR208 22",
+      "unomag_id": 574319
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "TR188",
+      "unomag_id": 501689
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "TR156",
+      "unomag_id": 719929
     }
   ],
   "ignored_articles": [
@@ -28028,6 +28053,10 @@
     {
       "supplier": "Scalebay",
       "article": "NAME::Audi 50 Blue 1975 Minichamps 1/43"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "TR212"
     }
   ],
   "manufacturer_map": [
