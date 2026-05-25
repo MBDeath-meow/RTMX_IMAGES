@@ -25859,6 +25859,41 @@
       "supplier": "Scalebay",
       "article": "NAME::IST042   AWZ P70 Coupe   1958",
       "unomag_id": 1596
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::IST072 POLSKI FIAT 126P (Maluch)  1973",
+      "unomag_id": 1590
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::IST095    Zastava 1100   1977",
+      "unomag_id": 5089
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::IST165    Wartburg 311-4 Kubel   1957",
+      "unomag_id": 5093
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Ixo Ist GAZ 3110 1997 weiß 033",
+      "unomag_id": 1607
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::MOSKWITCH 400 CONVERTIBLE 1949 1-43 ist 031",
+      "unomag_id": 185
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Melkus RS1000 1972 IST 1:43 IST005 Выпуск прекращен",
+      "unomag_id": 1563
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::NIVA ваз 2121 IST Models 1:43",
+      "unomag_id": 1610
     }
   ],
   "ignored_articles": [
@@ -28625,6 +28660,10 @@
     {
       "supplier": "Scalebay",
       "article": "NAME::Dacia Solenza 2003 (предшественник Dacia Renault Logan) IST Masini de Legenda 1:43"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::IST080 BARKAS B1000 Feuerwehr 1970 вар.1"
     }
   ],
   "manufacturer_map": [
