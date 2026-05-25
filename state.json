@@ -26354,6 +26354,21 @@
       "supplier": "Scalebay",
       "article": "NAME::Шевроле Chevrolet Caprice 1987 Черный IST MCG 1:18 БЕСПЛАТНАЯ доставка",
       "unomag_id": 266113
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Авиа Avia A21 Czech Police Policie Ceske 1994 IST Foxtoys 1:43 FOX008 Выпуск прекращен",
+      "unomag_id": 153921
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Ваз 2121 Lada Нива 4х4 СССР 1988 Verejna Bezpecnost Чешская полиция IST Foxtoys 1:43 FOX017",
+      "unomag_id": 393586
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Татра Tatra 603/3 Czech PO Police Пожарная Полиция IST Foxtoys 1:43 FOX006 Выпуск прекращен",
+      "unomag_id": 209245
     }
   ],
   "ignored_articles": [
@@ -29381,6 +29396,14 @@
     },
     {
       "unomag_name": "ModelCarGroup",
+      "variation": "IST Models"
+    },
+    {
+      "unomag_name": "Foxtoys",
+      "variation": "Foxtoys"
+    },
+    {
+      "unomag_name": "Foxtoys",
       "variation": "IST Models"
     }
   ],
