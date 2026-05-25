@@ -26704,6 +26704,41 @@
       "supplier": "Scalebay",
       "article": "NAME::Форд Ford Fiesta 1972 IXO 1:43 CLC092",
       "unomag_id": 154677
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Форд Ford Crown Victoria 2000 Черный IXO 1:43",
+      "unomag_id": 462189
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Фиат Fiat Panda 45 1980 IXO 1:43 CLC069",
+      "unomag_id": 179954
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Ситроен Citroen Dyane 6 Mehari 1969 IXO 1:43 CLC071",
+      "unomag_id": 366833
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Ситроен Citroen DS3 ’Sport Chic’ 2011 IXO 1:43 MOC122",
+      "unomag_id": 154709
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Ситроен Citroen AMI 6 IXO 1:43 CLC062",
+      "unomag_id": 175594
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Симка Simca Huit Gordini #39 LM 1939 IXO 1:43 LMC130",
+      "unomag_id": 4003
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Симка Simca Aronde P60 Montlhery 1959 IXO 1:43 CLC204",
+      "unomag_id": 3216
     }
   ],
   "ignored_articles": [
