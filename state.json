@@ -25809,6 +25809,56 @@
       "supplier": "Scalebay",
       "article": "NAME::FSO Polonez Caro 1991 Red IST 1:43 IST116",
       "unomag_id": 202993
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Fiat Polski 125P 1969",
+      "unomag_id": 2544
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Fiat Polski 125P Kombi 1973",
+      "unomag_id": 1592
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Fiat Polski 126P 1973",
+      "unomag_id": 1590
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::IFA Framo V901  1954",
+      "unomag_id": 172660
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::IFA H6 Kipper 1957",
+      "unomag_id": 193944
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::IFA W50L ADK70 1968",
+      "unomag_id": 179047
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::IST004 Wartburg 311 Open Convertible   1959",
+      "unomag_id": 1562
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::IST008 Trabant P50 Kombi   1959",
+      "unomag_id": 1565
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::IST032B   Wartburg 353   1967",
+      "unomag_id": 1595
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::IST042   AWZ P70 Coupe   1958",
+      "unomag_id": 1596
     }
   ],
   "ignored_articles": [
