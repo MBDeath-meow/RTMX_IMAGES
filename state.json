@@ -26629,6 +26629,26 @@
       "supplier": "Scalebay",
       "article": "NAME::BMW E30 M3 # 1 1988 (W.B.deSp.)",
       "unomag_id": 156527
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::BMW E30 M3 # 5 1988 (R100L)",
+      "unomag_id": 156528
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::BMW E30 M3 (234)",
+      "unomag_id": 154444
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::BMW M3 Sport Evolution  1990 E30",
+      "unomag_id": 338642
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Chenard & Walcker # 9 Winner Le Mans 1923 IXO 1:43 LM1923",
+      "unomag_id": 211805
     }
   ],
   "ignored_articles": [
