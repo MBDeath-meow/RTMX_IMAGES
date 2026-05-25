@@ -27754,6 +27754,31 @@
       "supplier": "Scalebay",
       "article": "NAME::Opel Kapitan (3796H)",
       "unomag_id": 151582
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Opel Kapitan P2.6  (K26)",
+      "unomag_id": 151584
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Opel GT (187418)",
+      "unomag_id": 169819
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Opel Commodore A Coupe GS_E  1970 (228)",
+      "unomag_id": 173488
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Opel Admiral B 1969",
+      "unomag_id": 173866
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::OPEL Manta A GT/E 1974, 1:24 Whitebox",
+      "unomag_id": 345786
     }
   ],
   "ignored_articles": [
@@ -30716,6 +30741,10 @@
     {
       "supplier": "Scalebay",
       "article": "NAME::Opel omega a caravan"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Opel Kadett E"
     }
   ],
   "manufacturer_map": [
