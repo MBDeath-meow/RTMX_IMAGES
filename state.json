@@ -26044,6 +26044,56 @@
       "supplier": "Scalebay",
       "article": "NAME::Ваз 2121 Нива Lada Niva 4x4 Feuerwehr (Пожарная) IST Cars & Co 1:43 CCC049",
       "unomag_id": 5002
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Вартбург Wartburg 311 1959 IST 1:43 IST004 Раритет",
+      "unomag_id": 1562
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Вартбург Wartburg 311 4 Kubel 1957 Volkspolizei IST 1:43 ССС055",
+      "unomag_id": 5785
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Вартбург Wartburg 311 COUPE 1958 Orange and Cream IST 1:43 IST052",
+      "unomag_id": 1599
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Вартбург Wartburg 311 Camping 1960 IST Cars & Co 1:43 CCC067",
+      "unomag_id": 152851
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Вартбург Wartburg 312 Limousine 1964 IST 1:43 IST026 Раритет",
+      "unomag_id": 1576
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Вартбург Wartburg 313 Sport 1957 IST 1:43 IST023 Выпуск прекращен",
+      "unomag_id": 1574
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Вартбург Wartburg 353 1985 IST 1:43 IST014 Выпуск прекращен",
+      "unomag_id": 1568
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Вартбург Wartburg 353 Kombi 1972 Light blue IST 1:43 IST038 Выпуск прекращен",
+      "unomag_id": 1582
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Вартбург Wartburg 353 Pick-up 1977 IST 1:43 IST030 Раритет",
+      "unomag_id": 1578
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Жук Zuk A07 Van 1976 IST 1:43 IST073 Выпуск прекращен",
+      "unomag_id": 3069
     }
   ],
   "ignored_articles": [
