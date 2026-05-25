@@ -26869,6 +26869,41 @@
       "supplier": "Scalebay",
       "article": "NAME::Мерседес Бенц MERCEDES BENZ 450 SEL (W116) 1975 IXO 1:43 CLC191",
       "unomag_id": 158121
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Мерседес Mercedes Benz LP911 HENNIEZ 1969 IXO Truck 1:43 TRU004",
+      "unomag_id": 154662
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Масштабная модель IXO Ситроен Citroen Traction 11 Madrid 1955 1/43",
+      "unomag_id": 382177
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Мазерати Maserati GranSport 2004 IXO 1:43 MOC042",
+      "unomag_id": 152189
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Мазерати Maserati Coupe Cambiocorsa 2002 IXO 1:43",
+      "unomag_id": 363429
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Лотус Lotus Exige 2003 IXO 1:43 MOC045",
+      "unomag_id": 184008
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Лотус Lotus Elite # 43 Le Mans 1960 IXO 1:43 LMC072",
+      "unomag_id": 3999
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::лимузин Татра Tatra 603 1961 Черная (Чехословакия ССР) IXO 1:43 CLC030",
+      "unomag_id": 184045
     }
   ],
   "ignored_articles": [
@@ -29783,6 +29818,10 @@
     {
       "supplier": "Scalebay",
       "article": "NAME::Мерседес Бенц Mercedes Benz 230 Limousine 1974 W114 Черный IXO 1:43"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Мерседес Бенц Mercedes Benz 200 / 8 W 115 1968 IXO PST Group 1:43"
     }
   ],
   "manufacturer_map": [
