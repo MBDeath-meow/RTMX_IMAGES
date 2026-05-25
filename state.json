@@ -26329,6 +26329,31 @@
       "supplier": "Scalebay",
       "article": "NAME::ВАЗ-2121 LADA Niva California 1981 бежевый",
       "unomag_id": 182921
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Ваз 2106 Жигули Lada Volkspolizei Police DDR IST Cars & Co 1:43 MCG43013",
+      "unomag_id": 178378
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Ваз 2121 Нива Lada Niva 4х4 1978 Зеленый СССР MCG 1:18 MCG18111",
+      "unomag_id": 216504
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Ваз 2121 Нива Lada Niva 4х4 1978 СССР IST MCG 1:18 MCG18001 Ранний вариант",
+      "unomag_id": 181265
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Ваз 2121 Нива Lada Niva 4х4 Красный СССР MCG 1:18 MCG18129",
+      "unomag_id": 470888
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Шевроле Chevrolet Caprice 1987 Черный IST MCG 1:18 БЕСПЛАТНАЯ доставка",
+      "unomag_id": 266113
     }
   ],
   "ignored_articles": [
@@ -29171,6 +29196,10 @@
     {
       "supplier": "Scalebay",
       "article": "NAME::ВАЗ-2121 «Нива»  (IST model Восточно-европейская серия)"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::ЗАЗ-968А   (IST model Восточно-европейская серия)"
     }
   ],
   "manufacturer_map": [
