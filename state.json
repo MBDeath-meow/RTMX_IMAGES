@@ -25309,6 +25309,11 @@
       "supplier": "Scalebay",
       "article": "SSM1562",
       "unomag_id": 489590
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Камаз 65117 ssm",
+      "unomag_id": 191460
     }
   ],
   "ignored_articles": [
@@ -28139,26 +28144,6 @@
       "variation": "Demprice"
     },
     {
-      "unomag_name": "Автоистория (АИСТ)",
-      "variation": "Start Scale Models (SSM)"
-    },
-    {
-      "unomag_name": "Автоистория (АИСТ)",
-      "variation": "Автоистория (АИСТ)"
-    },
-    {
-      "unomag_name": "ПАО КАМАЗ",
-      "variation": "Start Scale Models (SSM)"
-    },
-    {
-      "unomag_name": "ПАО КАМАЗ",
-      "variation": "Автоистория (АИСТ)"
-    },
-    {
-      "unomag_name": "ПАО КАМАЗ",
-      "variation": "ПАО КАМАЗ"
-    },
-    {
       "unomag_name": "Minichamps",
       "variation": "Minichamps"
     },
@@ -28201,6 +28186,14 @@
     {
       "unomag_name": "Maxichamps",
       "variation": "Minichamps"
+    },
+    {
+      "unomag_name": "Автоистория (АИСТ)",
+      "variation": "Автоистория (АИСТ)"
+    },
+    {
+      "unomag_name": "ПАО КАМАЗ",
+      "variation": "ПАО КАМАЗ"
     }
   ],
   "suppliers": [
