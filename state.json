@@ -25419,6 +25419,11 @@
       "supplier": "Scalebay",
       "article": "CLC430",
       "unomag_id": 385242
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "CCC050",
+      "unomag_id": 5003
     }
   ],
   "ignored_articles": [
@@ -28141,6 +28146,10 @@
     {
       "supplier": "Scalebay",
       "article": "Tank-LUKOIL"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "4322406006"
     }
   ],
   "manufacturer_map": [
@@ -28307,6 +28316,14 @@
     {
       "unomag_name": "ПАО КАМАЗ",
       "variation": "ПАО КАМАЗ"
+    },
+    {
+      "unomag_name": "IST",
+      "variation": "IST"
+    },
+    {
+      "unomag_name": "IST",
+      "variation": "IST Models"
     }
   ],
   "suppliers": [
