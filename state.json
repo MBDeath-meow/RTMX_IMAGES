@@ -25649,6 +25649,36 @@
       "supplier": "Scalebay",
       "article": "NAME::1/43 Barkas B1000 SMH-3 -Feuerwehr-(1984) - IST169T- IST",
       "unomag_id": 175011
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::1/43 Barkas B1000 SMH-3 -NVA-(1985) - IST170T- IST",
+      "unomag_id": 175012
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::1/43 EMW 327 Cabriolet(1955) - IST036- IST",
+      "unomag_id": 1581
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::1/43 FRAMO V901 Pick-up(1957) - IST034- IST",
+      "unomag_id": 202992
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::1/43 IFA FRAMO V901/2 Kastenwagen(1954) - IST051- IST",
+      "unomag_id": 5087
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::1/43 Moskwitch 400 Convertible(1949) - IST 031 IST",
+      "unomag_id": 185
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::1/43 Moskwitch-402(1957) - IST037- IST",
+      "unomag_id": 1608
     }
   ],
   "ignored_articles": [
