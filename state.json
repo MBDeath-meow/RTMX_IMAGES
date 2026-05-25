@@ -26429,6 +26429,21 @@
       "supplier": "Scalebay",
       "article": "С.К 007",
       "unomag_id": 1766
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "С.К 027",
+      "unomag_id": 2382
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "Н.С023",
+      "unomag_id": 5555
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::1/43 FIAT 125P RAJDOWY(РАЛЛИ)-Kultowe AUTA PRL-u IST",
+      "unomag_id": 158605
     }
   ],
   "ignored_articles": [
@@ -29275,6 +29290,14 @@
     {
       "supplier": "Scalebay",
       "article": "NAME::ЗАЗ-968А   (IST model Восточно-европейская серия)"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "Н.С088"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "С.К 026"
     }
   ],
   "manufacturer_map": [
