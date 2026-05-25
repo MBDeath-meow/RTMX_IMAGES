@@ -27374,6 +27374,36 @@
       "supplier": "Scalebay",
       "article": "NAME::1/43 Opel Kapitan P2.6- WHITEBOX-1 of 1000 pcs",
       "unomag_id": 151584
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Alfa Romeo 8C 2900 B (187421)",
+      "unomag_id": 157290
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Alfa Romeo 8C 2900 B - 1938",
+      "unomag_id": 157290
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Alfa Romeo Giulia 1600 Super - 1965",
+      "unomag_id": 169820
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Alfa Romeo Tipo 33 (187417)",
+      "unomag_id": 159345
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::лимузин Мерседес Бенц Mercedes Benz Typ Nurburg 460 N 1929 IXO Whitebox 1:43",
+      "unomag_id": 153615
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::лимузин Мерседес Бенц Mercedes Benz Typ 260 D 1936 IXO Whitebox 1:43",
+      "unomag_id": 153619
     }
   ],
   "ignored_articles": [
