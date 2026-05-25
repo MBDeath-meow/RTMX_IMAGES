@@ -26559,6 +26559,26 @@
       "supplier": "Scalebay",
       "article": "NAME::BEDFORD TJ  6S ’1965",
       "unomag_id": 174014
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Bentley Speed 8 #7 Wn.LeMans 24 2003 (2003)",
+      "unomag_id": 3176
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Berliet 11CV Dauphine 1939 (055)",
+      "unomag_id": 173999
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::BERLIET STRADAIR  ’1966",
+      "unomag_id": 173263
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::BERLIET TR 305 towing vehicle (1978), red white blue IXO",
+      "unomag_id": 512651
     }
   ],
   "ignored_articles": [
@@ -29417,6 +29437,10 @@
     {
       "supplier": "Scalebay",
       "article": "2"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "предсерийный экземпляр с выставки в  Nürnberg"
     }
   ],
   "manufacturer_map": [
