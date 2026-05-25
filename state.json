@@ -26789,6 +26789,41 @@
       "supplier": "Scalebay",
       "article": "NAME::Модель формула 1 43 Berliet TR350 Race Transporter Renault IXO",
       "unomag_id": 413716
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Модель МОСКВИЧ/Moskvitch 412#40 Rally London-Mexico (1970) 1:43 IXO",
+      "unomag_id": 340865
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Модель МОСКВИЧ/Moskvitch 412#28 Rally London-Mexico (1970) 1:43 IXO",
+      "unomag_id": 340866
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Модель Волга/GAZ Volga M24 черная (1970) 1:43 IXO CLC",
+      "unomag_id": 453269
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Модель VOLKSWAGEN 411 LE (1970) white 1:43 IXO/CLC522N.22",
+      "unomag_id": 463627
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Модель Toyota Yaris Cross (2022) red met. 1:43 IXO",
+      "unomag_id": 460089
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Модель Tatra 813 6x6 NVA (1968) DDR olive 1:43 IXO",
+      "unomag_id": 720603
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Модель RAF-2203 техничка ’Avtoexport Lada Rally Team’ с багажником и колесами на крыше (1982) 1:43 IXO",
+      "unomag_id": 360852
     }
   ],
   "ignored_articles": [
