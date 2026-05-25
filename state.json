@@ -26024,6 +26024,26 @@
       "supplier": "Scalebay",
       "article": "NAME::ВАЗ 2121 Нива Polizei Slowakei 1:43 IST",
       "unomag_id": 179043
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Ваз 2101 Жигули Lada 1200 Volkspolizei Police DDR IST Cars & Co 1:43 CCC056",
+      "unomag_id": 155568
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Ваз 2102 Жигули Lada Volkspolizei Police DDR IST Cars & Co 1:43  CCC057",
+      "unomag_id": 152636
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Ваз 2121 Нива 1993 г",
+      "unomag_id": 179043
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Ваз 2121 Нива Lada Niva 4x4 Feuerwehr (Пожарная) IST Cars & Co 1:43 CCC049",
+      "unomag_id": 5002
     }
   ],
   "ignored_articles": [
@@ -28806,6 +28826,10 @@
     {
       "supplier": "Scalebay",
       "article": "NAME::ВАЗ-2108 LADA SAMARA  (IST model Восточно-европейская серия)"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Ваз 2121 Нива Жигули Lada Niva 4x4 1985 СССР IST Masini de Legenda 1:43"
     }
   ],
   "manufacturer_map": [
