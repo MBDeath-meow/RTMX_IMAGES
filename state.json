@@ -28849,6 +28849,101 @@
       "supplier": "Scalebay",
       "article": "NAME::ЗИЛ-7Э169Г   ModelPro",
       "unomag_id": 559139
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::ЗИЛ-ММЗ-4502 дрезина   ModelPro",
+      "unomag_id": 384376
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::ЗИЛ-ММЗ-4520   ModelPro",
+      "unomag_id": 629009
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::ЗИС-128А   ModelPro",
+      "unomag_id": 410834
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Зил 47874А   ModelPro",
+      "unomag_id": 484574
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Зил 541740   ModelPro",
+      "unomag_id": 525505
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Зил-43273Н  ModelPro",
+      "unomag_id": 514766
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Зис 153   ModelPro",
+      "unomag_id": 416282
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Икарус 222 светло зеленый",
+      "unomag_id": 696912
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::КАМАЗ-5510 опытный   ModelPro",
+      "unomag_id": 632177
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::КПП-66 (66-32)     ModelPro",
+      "unomag_id": 586296
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::КУАЗ-985   ModelPro",
+      "unomag_id": 415567
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Камаз 54901",
+      "unomag_id": 281373
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Камаз 6460   ModelPro",
+      "unomag_id": 678486
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Кубань-Г1А  ModelPro",
+      "unomag_id": 326090
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Львовский погрузчик ЛЗА-4045   ModelPro",
+      "unomag_id": 292713
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::МАЗ-529   ModelPro",
+      "unomag_id": 362742
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::МАЗ-532   ModelPro",
+      "unomag_id": 382952
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::МРС 1-52 (52-04)   ModelPro",
+      "unomag_id": 331255
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Маслозаправщик МА-4А (131)   ModelPro",
+      "unomag_id": 264210
     }
   ],
   "ignored_articles": [
