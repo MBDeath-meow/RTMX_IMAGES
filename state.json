@@ -28547,11 +28547,6 @@
     },
     {
       "supplier": "Scalebay",
-      "article": "0135MP",
-      "unomag_id": 301270
-    },
-    {
-      "supplier": "Scalebay",
       "article": "0143MP",
       "unomag_id": 323549
     },
@@ -28634,6 +28629,106 @@
       "supplier": "Scalebay",
       "article": "0232MP",
       "unomag_id": 475230
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "0225MP",
+      "unomag_id": 469262
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "0224MP",
+      "unomag_id": 558255
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "0220MP",
+      "unomag_id": 455630
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "0217MP",
+      "unomag_id": 433203
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "0215MP",
+      "unomag_id": 416282
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "0213МР",
+      "unomag_id": 432304
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "0212MP",
+      "unomag_id": 423256
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "0209MP",
+      "unomag_id": 434213
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "0208MP",
+      "unomag_id": 427419
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "0206MP",
+      "unomag_id": 410834
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "0200MP",
+      "unomag_id": 394474
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "0198MP",
+      "unomag_id": 384376
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "0189MP",
+      "unomag_id": 367924
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "0184MP",
+      "unomag_id": 362742
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "0175MP",
+      "unomag_id": 345390
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "0158MP",
+      "unomag_id": 331737
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "0157MP",
+      "unomag_id": 331255
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "0150MP",
+      "unomag_id": 327190
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "0135MP",
+      "unomag_id": 301270
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "0096MP",
+      "unomag_id": 288783
     }
   ],
   "ignored_articles": [
