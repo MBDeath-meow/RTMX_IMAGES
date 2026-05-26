@@ -28397,16 +28397,6 @@
     },
     {
       "supplier": "Scalebay",
-      "article": "0039MP",
-      "unomag_id": 675785
-    },
-    {
-      "supplier": "Scalebay",
-      "article": "0048MP",
-      "unomag_id": 255695
-    },
-    {
-      "supplier": "Scalebay",
       "article": "NAME::1/43     Татра-ЗИЛ-815-21",
       "unomag_id": 458381
     },
@@ -28729,6 +28719,61 @@
       "supplier": "Scalebay",
       "article": "0096MP",
       "unomag_id": 288783
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "0091MP",
+      "unomag_id": 281174
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "0069MP",
+      "unomag_id": 264210
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "0068MP",
+      "unomag_id": 264209
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "0048MP",
+      "unomag_id": 255695
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "0041MP",
+      "unomag_id": 352442
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "0039MP",
+      "unomag_id": 675785
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "0033MP",
+      "unomag_id": 250444
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "0025MP",
+      "unomag_id": 244963
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Аэродромный передвижной кондиционер АПК 1713МП",
+      "unomag_id": 483605
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Бронеавтомобиль 39371 ’Водник’  ModelPro",
+      "unomag_id": 665278
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Бронеавтомобиль 39371 ’Водник’.ModelPro.",
+      "unomag_id": 665278
     }
   ],
   "ignored_articles": [
