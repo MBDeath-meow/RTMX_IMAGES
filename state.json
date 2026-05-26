@@ -28429,6 +28429,31 @@
       "supplier": "Scalebay",
       "article": "NAME::Ikarus-620 седельный тягач   ModelPro",
       "unomag_id": 373543
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::KAMAZ-54901 (серебристый металлик)   ModelPro",
+      "unomag_id": 291329
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "0152MP",
+      "unomag_id": 328181
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "0130MP",
+      "unomag_id": 328181
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "0148MP",
+      "unomag_id": 325219
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::АВП-51 фургон   ModelPro",
+      "unomag_id": 325219
     }
   ],
   "ignored_articles": [
