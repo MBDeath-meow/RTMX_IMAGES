@@ -29024,6 +29024,51 @@
       "supplier": "Scalebay",
       "article": "NAME::СД-803   ModelPro",
       "unomag_id": 476236
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::ТА-9А   ModelPro",
+      "unomag_id": 641849
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Тепловоз ТГК-2   ModelPro",
+      "unomag_id": 291628
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Трактор Т-155М  ModelPro",
+      "unomag_id": 676640
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Трактор Т-91   ModelPro",
+      "unomag_id": 433203
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Узкоколейный мотовоз МД-54-2     ModelPro",
+      "unomag_id": 348782
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::ШАЗ-330716   ModelPro",
+      "unomag_id": 472728
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Экскаватор Э255",
+      "unomag_id": 261779
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Экскаватор-255   ModelPro",
+      "unomag_id": 261779
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::кунг варэм (151)",
+      "unomag_id": 237929
     }
   ],
   "ignored_articles": [
