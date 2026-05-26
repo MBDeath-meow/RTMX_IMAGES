@@ -28774,6 +28774,81 @@
       "supplier": "Scalebay",
       "article": "NAME::Бронеавтомобиль 39371 ’Водник’.ModelPro.",
       "unomag_id": 665278
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::ГПИ-72 шнековый снегоболотоход   ModelPro",
+      "unomag_id": 281174
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Горьковский внедорожник 62Б   ModelPro",
+      "unomag_id": 588724
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Горьковский грузовик 3301 ModelPro",
+      "unomag_id": 668735
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Гудронатор ДС - 39б (130)",
+      "unomag_id": 226835
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::ДКА 0.25_ 5 ЗИС 151",
+      "unomag_id": 241756
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Дрезина СМД   ModelPro",
+      "unomag_id": 367924
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::ЗИЛ 169Д   ModelPro",
+      "unomag_id": 486776
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::ЗИЛ-130Г опытный   ModelPro",
+      "unomag_id": 288783
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::ЗИЛ-130ГМД бортовой   ModelPro",
+      "unomag_id": 367400
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::ЗИЛ-132Р бортовой   ModelPro",
+      "unomag_id": 296784
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::ЗИЛ-132С   ModelPro",
+      "unomag_id": 394615
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::ЗИЛ-136   ModelPro",
+      "unomag_id": 345390
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::ЗИЛ-230100    ModelPro",
+      "unomag_id": 383850
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::ЗИЛ-3301М     ModelPro",
+      "unomag_id": 377536
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::ЗИЛ-7Э169Г   ModelPro",
+      "unomag_id": 559139
     }
   ],
   "ignored_articles": [
