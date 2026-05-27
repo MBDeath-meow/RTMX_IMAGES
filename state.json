@@ -29114,6 +29114,21 @@
       "supplier": "Scalebay",
       "article": "NAME::МАЗ-504А с полуприцепом НАМИ-790   SSM",
       "unomag_id": 717507
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Полуприцеп МАЗ-5215",
+      "unomag_id": 177911
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::ЗИЛ-130 с поздней решёткой радиатора бортовой (голубой/серый) Авто история (Аист)  М.1393",
+      "unomag_id": 151914
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::ЗИЛ-157К бортовой (песочный) Авто история (Аист)  М.1394",
+      "unomag_id": 151240
     }
   ],
   "ignored_articles": [
@@ -32096,6 +32111,30 @@
     {
       "supplier": "Scalebay",
       "article": "NAME::КрАЗ-258Б1 с полуприцепом ЧМЗАП-5523 (SSM) хаки"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::ЗИЛ 5301 с тентом"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::КРАЗ-256 СБ-92"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::КРАЗ-257Б1 бортовой с контейнером"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::МАЗ 5432 с полуприцепом 93801"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Маз - 5337 МКМ - 35 Мусоровоз"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Маз 200В с п.пр НАМИ 790 (7020)"
     }
   ],
   "manufacturer_map": [
