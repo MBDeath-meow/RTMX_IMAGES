@@ -29159,6 +29159,16 @@
       "supplier": "Scalebay",
       "article": "NAME::1/43      Камаз 65222",
       "unomag_id": 657404
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::1/43       Камаз 6520",
+      "unomag_id": 480349
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::SSM. ИС-2 Боевые друзья",
+      "unomag_id": 288779
     }
   ],
   "ignored_articles": [
@@ -32173,6 +32183,14 @@
     {
       "supplier": "Scalebay",
       "article": "NAME::Уаз-3162 Симбир"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Камаз 5490 s5 ПАО камаз"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Камаз. Автобус Москва ’Мосгортранс’ НЕФАЗ-5299"
     }
   ],
   "manufacturer_map": [
