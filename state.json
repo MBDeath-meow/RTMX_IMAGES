@@ -29154,6 +29154,11 @@
       "supplier": "Scalebay",
       "article": "NAME::1/43      Камаз 6522",
       "unomag_id": 652272
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::1/43      Камаз 65222",
+      "unomag_id": 657404
     }
   ],
   "ignored_articles": [
@@ -32248,14 +32253,6 @@
       "variation": "DiP Models"
     },
     {
-      "unomag_name": "Start Scale Models",
-      "variation": "Start Scale Models"
-    },
-    {
-      "unomag_name": "Start Scale Models",
-      "variation": "Start Scale Models (SSM)"
-    },
-    {
       "unomag_name": "Demprice",
       "variation": "DEMPRICE"
     },
@@ -32378,6 +32375,22 @@
     {
       "unomag_name": "Norev",
       "variation": "Norev"
+    },
+    {
+      "unomag_name": "Start Scale Models",
+      "variation": "Start Scale Models"
+    },
+    {
+      "unomag_name": "Start Scale Models",
+      "variation": "Start Scale Models (SSM)"
+    },
+    {
+      "unomag_name": "Start Scale Models",
+      "variation": "ПАО КАМАЗ"
+    },
+    {
+      "unomag_name": "Start Scale Models",
+      "variation": "Автоистория (АИСТ)"
     }
   ],
   "suppliers": [
