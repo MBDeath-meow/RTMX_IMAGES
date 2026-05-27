@@ -29609,6 +29609,116 @@
       "supplier": "Scalebay",
       "article": "NM14",
       "unomag_id": 339939
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NM13",
+      "unomag_id": 338440
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NM09",
+      "unomag_id": 332273
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NM08",
+      "unomag_id": 331733
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NM07",
+      "unomag_id": 330289
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NM06",
+      "unomag_id": 329352
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NM05",
+      "unomag_id": 326093
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NM02",
+      "unomag_id": 309558
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NM01",
+      "unomag_id": 309557
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NA78",
+      "unomag_id": 641848
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NA63",
+      "unomag_id": 498313
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NA57",
+      "unomag_id": 461681
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NA56",
+      "unomag_id": 461676
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NA55",
+      "unomag_id": 442352
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NA54",
+      "unomag_id": 441005
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NA48",
+      "unomag_id": 411311
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NA46",
+      "unomag_id": 389910
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NA40",
+      "unomag_id": 365537
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NA37",
+      "unomag_id": 357063
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NA35",
+      "unomag_id": 349630
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NA24",
+      "unomag_id": 327384
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NA23",
+      "unomag_id": 324381
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NA21",
+      "unomag_id": 319180
     }
   ],
   "ignored_articles": [
