@@ -30464,6 +30464,56 @@
       "supplier": "Scalebay",
       "article": "NAME::Икарус-556, Наши автобусы №38",
       "unomag_id": 361018
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::КАВЗ-3976-АЗ Автозак (1/43) ’Наши автобусы’ Спецвыпуск №3",
+      "unomag_id": 336384
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::КАЗ-600В Легендарные грузовики СССР №95",
+      "unomag_id": 479942
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::КАвЗ-685, Наши автобусы Спецвыпуск №14",
+      "unomag_id": 517438
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::КТГ-1, Наши автобусы Спецвыпуск №19",
+      "unomag_id": 707013
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::КамАЗ 5320 , ац 9. Возможен обмен",
+      "unomag_id": 270121
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::ЛАЗ-4969, Наши автобусы Спецвыпуск №9",
+      "unomag_id": 436192
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::ЛАЗ-695Б Санитарный, Наши Автобусы. Спецвыпуск №1",
+      "unomag_id": 318066
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::ЛАЗ-695Р, Наши автобусы №33",
+      "unomag_id": 341561
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::ЛИАЗ 677Э",
+      "unomag_id": 351134
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::ЛИАЗ-677, Наши автобусы №28",
+      "unomag_id": 334256
     }
   ],
   "ignored_articles": [
@@ -33506,6 +33556,10 @@
     {
       "supplier": "Scalebay",
       "article": "NAME::ЗИЛ-4514"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::КО-431 (130)"
     }
   ],
   "manufacturer_map": [
