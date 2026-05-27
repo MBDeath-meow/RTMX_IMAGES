@@ -29074,6 +29074,46 @@
       "supplier": "Scalebay",
       "article": "NAME::SSM. МАЗ-504А с полуприцепом НАМИ-790",
       "unomag_id": 717507
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Skoda 706 RTTN с п/п Alka N12CH из к/ф ’Кавказская пленница’ Start Scale Models (SSM) КАЧЕСТВО = ЦЕНА (ВЫБОРКА)",
+      "unomag_id": 274052
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Армейский автобус АС-38, хаки",
+      "unomag_id": 176767
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "ССМ1633",
+      "unomag_id": 714392
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::ЗИЛ-131 КМ-131",
+      "unomag_id": 694055
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "​SSM1317",
+      "unomag_id": 226341
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::КСП-2001 (66) пожарный",
+      "unomag_id": 203394
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "SSM7072",
+      "unomag_id": 717507
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::МАЗ-504А с полуприцепом НАМИ-790   SSM",
+      "unomag_id": 717507
     }
   ],
   "ignored_articles": [
@@ -32044,6 +32084,18 @@
     {
       "supplier": "Scalebay",
       "article": "SSM7078"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Tatra 815V26 бортовая"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::ЗИЛ-ММЗ-45085 ( SSM)"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::КрАЗ-258Б1 с полуприцепом ЧМЗАП-5523 (SSM) хаки"
     }
   ],
   "manufacturer_map": [
