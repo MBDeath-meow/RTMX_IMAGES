@@ -30424,6 +30424,46 @@
       "supplier": "Scalebay",
       "article": "NAME::ЗИЛ-131 АТЗ-4,4",
       "unomag_id": 303795
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::ЗИЛ-131 Град-1",
+      "unomag_id": 334590
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::ЗИЛ-131 ’Град-1’ Легендарные грузовики СССР №49",
+      "unomag_id": 334590
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::ЗИЛ-131 ’Град-1’ Легендарные грузовики СССР №49 КАЧЕСТВО = ЦЕНА (ВЫБОРКА)",
+      "unomag_id": 334590
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::ЗИЛ-158В, Наши Автобусы. Спецвыпуск №6",
+      "unomag_id": 382953
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::ЗИЛ-4514 Легендарные грузовики СССР №113 КАЧЕСТВО = ЦЕНА (ВЫБОРКА)",
+      "unomag_id": 595661
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::ЗИЛ-ММЗ-4510",
+      "unomag_id": 513396
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Зил 130 ГУ",
+      "unomag_id": 389912
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Икарус-556, Наши автобусы №38",
+      "unomag_id": 361018
     }
   ],
   "ignored_articles": [
@@ -33462,6 +33502,10 @@
     {
       "supplier": "Scalebay",
       "article": "NAME::Будка КСП 2001, 1/43"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::ЗИЛ-4514"
     }
   ],
   "manufacturer_map": [
