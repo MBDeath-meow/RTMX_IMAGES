@@ -29169,6 +29169,16 @@
       "supplier": "Scalebay",
       "article": "NAME::SSM. ИС-2 Боевые друзья",
       "unomag_id": 288779
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Полуприцеп ОДАЗ-885 (голубой) SSM",
+      "unomag_id": 178805
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::1/43    Камский грузовик 65802-87 (S5), оранжевый",
+      "unomag_id": 516931
     }
   ],
   "ignored_articles": [
@@ -32303,10 +32313,6 @@
       "variation": "Minichamps"
     },
     {
-      "unomag_name": "Автоистория (АИСТ)",
-      "variation": "Автоистория (АИСТ)"
-    },
-    {
       "unomag_name": "ПАО КАМАЗ",
       "variation": "ПАО КАМАЗ"
     },
@@ -32403,11 +32409,7 @@
       "variation": "Start Scale Models (SSM)"
     },
     {
-      "unomag_name": "Start Scale Models",
-      "variation": "ПАО КАМАЗ"
-    },
-    {
-      "unomag_name": "Start Scale Models",
+      "unomag_name": "Автоистория (АИСТ)",
       "variation": "Автоистория (АИСТ)"
     }
   ],
