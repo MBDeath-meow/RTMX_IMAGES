@@ -29129,6 +29129,31 @@
       "supplier": "Scalebay",
       "article": "NAME::ЗИЛ-157К бортовой (песочный) Авто история (Аист)  М.1394",
       "unomag_id": 151240
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::ЗИЛ-5301 ’Бычок’ бортовой (голубой/серый) Авто история (Аист)  М.1392",
+      "unomag_id": 176465
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Масштабная модель Полуприцеп МАЗ-5205",
+      "unomag_id": 714391
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::УрАЛ-ЗиС-355М (АИСТ) 1/43",
+      "unomag_id": 156927
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::1/43      Камаз 6520",
+      "unomag_id": 641239
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::1/43      Камаз 6522",
+      "unomag_id": 652272
     }
   ],
   "ignored_articles": [
@@ -32135,6 +32160,14 @@
     {
       "supplier": "Scalebay",
       "article": "NAME::Маз 200В с п.пр НАМИ 790 (7020)"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::УАЗ-3162 ’Симбир’ (чёрный) Авто история (Аист)  М.1428"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Уаз-3162 Симбир"
     }
   ],
   "manufacturer_map": [
