@@ -30379,6 +30379,51 @@
       "supplier": "Scalebay",
       "article": "NAME::Автобус ПАЗ-651 (голубой/зелёный) Modimio М.1312",
       "unomag_id": 337165
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Автобус Таджикистан-3205 ПАЗ (белый/зелёный) Modimio М.1326",
+      "unomag_id": 394614
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Автобус Турист-Люкс 8,5 (белый) Modimio М.1318",
+      "unomag_id": 557815
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Автолегенды СССР Грузовики КШМ Р-142",
+      "unomag_id": 464457
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::БМ-13Н ’Катюша’ (Studebaker US6) Легендарные грузовики СССР №112 КАЧЕСТВО = ЦЕНА (ВЫБОРКА)",
+      "unomag_id": 595660
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::ГолАЗ-4242, Наши автобусы №41",
+      "unomag_id": 368107
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Днепр КМЗ-8.157-01 Наши мотоциклы 14",
+      "unomag_id": 339939
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Журнал Наши мотоциклы №56, Jawa 350/634/01 Ява",
+      "unomag_id": 484913
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::ЗИЛ ММЗ-4505",
+      "unomag_id": 297772
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::ЗИЛ-131 АТЗ-4,4",
+      "unomag_id": 303795
     }
   ],
   "ignored_articles": [
@@ -33409,6 +33454,14 @@
     {
       "supplier": "Scalebay",
       "article": "NAME::Автобус ПАЗ-672 (белый/зелёный) Modimio М.1309"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Автобус ПАЗ-672М (белый/синий) Modimio М.1310"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Будка КСП 2001, 1/43"
     }
   ],
   "manufacturer_map": [
