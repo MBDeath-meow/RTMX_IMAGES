@@ -26909,6 +26909,46 @@
       "supplier": "Scalebay",
       "lot_number": "4357627",
       "unomag_id": 158621
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "834335",
+      "unomag_id": 264309
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "1400361",
+      "unomag_id": 222299
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "5778786",
+      "unomag_id": 234947
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "5519401",
+      "unomag_id": 279541
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "4956131",
+      "unomag_id": 840
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "4445198",
+      "unomag_id": 199
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "5129905",
+      "unomag_id": 153676
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "9358523",
+      "unomag_id": 159495
     }
   ],
   "ignored_articles": [
@@ -30063,6 +30103,34 @@
     {
       "supplier": "Scalebay",
       "article": "NAME::ВАЗ-2122 (серия «Автолегенды СССР»)"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::ВИС-294661 (DeA Автолегенды СССР)"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::ВНИИТЭ-ПТ серия («Автолегенды СССР»)"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Горький-32214 Скорая медицинская помощь (белый) DeAgostini М.1408"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::ЗИЛ-111"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::ЗИЛ-111Г  ( серия «Автолегенды СССР») без блистера"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "28"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::ЗИЛ-118К юность"
     }
   ],
   "manufacturer_map": [
