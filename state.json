@@ -29449,6 +29449,21 @@
       "supplier": "Scalebay",
       "lot_number": "4423493",
       "unomag_id": 204494
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "1186475",
+      "unomag_id": 192376
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "1367375",
+      "unomag_id": 261912
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "5311139",
+      "unomag_id": 288308
     }
   ],
   "ignored_articles": [
@@ -33035,6 +33050,10 @@
     {
       "supplier": "Scalebay",
       "article": "NAME::ваз 2108 Наташа"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Unimog 404"
     }
   ],
   "manufacturer_map": [
