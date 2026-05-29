@@ -27489,6 +27489,56 @@
       "supplier": "Scalebay",
       "lot_number": "3668769",
       "unomag_id": 299411
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "4971813",
+      "unomag_id": 333164
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "2847307",
+      "unomag_id": 206496
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "1961008",
+      "unomag_id": 154640
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "9287036",
+      "unomag_id": 381251
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "9459651",
+      "unomag_id": 62
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "9744725",
+      "unomag_id": 62
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "5175613",
+      "unomag_id": 346306
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "4538122",
+      "unomag_id": 249711
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "8899883",
+      "unomag_id": 154641
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "5445235",
+      "unomag_id": 154638
     }
   ],
   "ignored_articles": [
@@ -30887,6 +30937,22 @@
     {
       "supplier": "Scalebay",
       "article": "NAME::Суперкары №78 Maybach 62, без упаковки"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::УАЗ-3172"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::УАЗ-3741"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::УАЗ-469Б открытый  1-43 автолегенды"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::зил-41047"
     }
   ],
   "manufacturer_map": [
