@@ -26579,6 +26579,31 @@
       "supplier": "Scalebay",
       "lot_number": "407637",
       "unomag_id": 5602
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "4882505",
+      "unomag_id": 206397
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "8558015",
+      "unomag_id": 150392
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "2509780",
+      "unomag_id": 5602
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "1205486",
+      "unomag_id": 156213
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "2701912",
+      "unomag_id": 226670
     }
   ],
   "ignored_articles": [
@@ -29689,6 +29714,10 @@
     {
       "supplier": "Scalebay",
       "article": "NAME::АЗЛК Москвич 427 - Автолегенды СССР №57 - DeAgostini журнальная серия - 1:43"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::АМО-Ф-15"
     }
   ],
   "manufacturer_map": [
