@@ -27219,6 +27219,31 @@
       "supplier": "Scalebay",
       "lot_number": "1674216",
       "unomag_id": 48
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "8631720",
+      "unomag_id": 5601
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "6589122",
+      "unomag_id": 158073
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "6064734",
+      "unomag_id": 202
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "965292",
+      "unomag_id": 5554
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "971219",
+      "unomag_id": 154489
     }
   ],
   "ignored_articles": [
@@ -30469,6 +30494,22 @@
     {
       "supplier": "Scalebay",
       "article": "33"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::МОСКВИЧ-400-420А открытый вариант  ( серия «Автолегенды СССР») без блистера"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::МОСКВИЧ-408 пикап  ( серия «Автолегенды СССР») без блистера"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Масштабные модели МОСКВИЧ в блистерах"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Масштабные модели советских автомобилей представительского класса"
     }
   ],
   "manufacturer_map": [
