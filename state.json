@@ -26639,6 +26639,46 @@
       "supplier": "Scalebay",
       "lot_number": "5455190",
       "unomag_id": 245714
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "6337740",
+      "unomag_id": 64
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "6925352",
+      "unomag_id": 199
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "4327021",
+      "unomag_id": 63
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "4387930",
+      "unomag_id": 2099
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "6395636",
+      "unomag_id": 48
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "8961251",
+      "unomag_id": 151862
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "1617792",
+      "unomag_id": 154374
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "398750",
+      "unomag_id": 154642
     }
   ],
   "ignored_articles": [
@@ -29753,6 +29793,10 @@
     {
       "supplier": "Scalebay",
       "article": "NAME::АМО-Ф-15"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Автолегенды СССР продаются поштучно"
     }
   ],
   "manufacturer_map": [
