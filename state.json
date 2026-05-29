@@ -26344,6 +26344,11 @@
       "supplier": "Scalebay",
       "lot_number": "6034677",
       "unomag_id": 501648
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "3438919",
+      "unomag_id": 657405
     }
   ],
   "ignored_articles": [
@@ -29390,6 +29395,14 @@
     {
       "supplier": "Scalebay",
       "article": "NAME::КО-431 (130)"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Volvo F12 Sovtransavto, Mercedes Bens NG 2232.Sovtransavto"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Шасси КАМАЗ-43118 ’ПАО КАМАЗ (Аист)’ 1:43"
     }
   ],
   "manufacturer_map": [
