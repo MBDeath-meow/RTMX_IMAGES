@@ -26864,6 +26864,51 @@
       "supplier": "Scalebay",
       "lot_number": "6084741",
       "unomag_id": 154642
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "107418",
+      "unomag_id": 172738
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "8455831",
+      "unomag_id": 1377
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "3009767",
+      "unomag_id": 263897
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "8759879",
+      "unomag_id": 224671
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "3732980",
+      "unomag_id": 159500
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "2752094",
+      "unomag_id": 343577
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "5725446",
+      "unomag_id": 172738
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "3144321",
+      "unomag_id": 172738
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "4357627",
+      "unomag_id": 158621
     }
   ],
   "ignored_articles": [
@@ -30010,6 +30055,14 @@
     {
       "supplier": "Scalebay",
       "article": "NAME::БА-64"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "14"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::ВАЗ-2122 (серия «Автолегенды СССР»)"
     }
   ],
   "manufacturer_map": [
