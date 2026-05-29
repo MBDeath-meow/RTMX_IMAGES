@@ -27079,6 +27079,26 @@
       "supplier": "Scalebay",
       "lot_number": "3597006",
       "unomag_id": 333595
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "9852091",
+      "unomag_id": 210871
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "1065152",
+      "unomag_id": 333160
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "1166427",
+      "unomag_id": 345201
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "2861776",
+      "unomag_id": 393519
     }
   ],
   "ignored_articles": [
@@ -30317,6 +30337,10 @@
     {
       "supplier": "Scalebay",
       "article": "NAME::Комбат Т 98 Автолегенды новая эпоха Деагостини 1:43"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::ЛУАЗ-967М"
     }
   ],
   "manufacturer_map": [
