@@ -27044,6 +27044,41 @@
       "supplier": "Scalebay",
       "lot_number": "3622960",
       "unomag_id": 1371
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "4001382",
+      "unomag_id": 2537
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "3297426",
+      "unomag_id": 842
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "4032611",
+      "unomag_id": 842
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "7251026",
+      "unomag_id": 197561
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "3752635",
+      "unomag_id": 224784
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "6853937",
+      "unomag_id": 158622
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "3597006",
+      "unomag_id": 333595
     }
   ],
   "ignored_articles": [
@@ -30262,6 +30297,26 @@
     {
       "supplier": "Scalebay",
       "article": "NAME::ИЖ-412-028 (синий) DeAgostini  М.1456"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "85"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::КАМАЗ-53215 НЕФАЗ-6606 ( DeA серия «Легендарные грузовики»)"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::КИМ 10-50 Серый. Автолегенды"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::КИМ-10-50"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Комбат Т 98 Автолегенды новая эпоха Деагостини 1:43"
     }
   ],
   "manufacturer_map": [
