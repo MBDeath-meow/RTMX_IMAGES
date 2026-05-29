@@ -27369,6 +27369,46 @@
       "supplier": "Scalebay",
       "lot_number": "7435996",
       "unomag_id": 202
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "2829402",
+      "unomag_id": 219785
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "771631",
+      "unomag_id": 288304
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "2031600",
+      "unomag_id": 213578
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "8834329",
+      "unomag_id": 168831
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "956047",
+      "unomag_id": 168831
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "3756264",
+      "unomag_id": 168831
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "2881549",
+      "unomag_id": 211537
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "7471522",
+      "unomag_id": 158620
     }
   ],
   "ignored_articles": [
@@ -30683,6 +30723,38 @@
     {
       "supplier": "Scalebay",
       "article": "NAME::Москвич-402 (бирюзовый) DeAgostini  М.1461"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Москвич-415, Автолегенды №112,DeAgostini"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Москвич-430 грузовой фургон (красный) DeAgostini  М.1462"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Москвич-434 фургон (красный) DeAgostini  М.0775"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Москвич-434 фургон (красный) DeAgostini  М.1460"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::НАМИ-050 «Белка» ( серия «Автолегенды СССР»)"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::НАМИ-1"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::НАТИ-АР 1-43 автолегенды"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Надстройка водоспиртозаправщик ВСЗ-66"
     }
   ],
   "manufacturer_map": [
