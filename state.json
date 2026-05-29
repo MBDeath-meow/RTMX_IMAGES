@@ -29284,6 +29284,71 @@
       "supplier": "Scalebay",
       "lot_number": "8772264",
       "unomag_id": 241401
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "5710518",
+      "unomag_id": 223708
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "5572237",
+      "unomag_id": 226768
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "987807",
+      "unomag_id": 234948
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "38116",
+      "unomag_id": 209053
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "932801",
+      "unomag_id": 222474
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "9303235",
+      "unomag_id": 210866
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "9579933",
+      "unomag_id": 225365
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "2150547",
+      "unomag_id": 253199
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "508016",
+      "unomag_id": 178358
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "8994922",
+      "unomag_id": 224776
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "3538139",
+      "unomag_id": 190701
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "6938919",
+      "unomag_id": 186666
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "4250121",
+      "unomag_id": 180953
     }
   ],
   "ignored_articles": [
@@ -32842,6 +32907,14 @@
     {
       "supplier": "Scalebay",
       "article": "NAME::СХТЗ-15/30 с журналом Тракторы №14 Hachette 1/43"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Трактор Porsche Master N419 Ашет 1:43"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Трактор КТ 12 С Ашет 1:43"
     }
   ],
   "manufacturer_map": [
