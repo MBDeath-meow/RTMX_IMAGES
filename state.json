@@ -29394,6 +29394,61 @@
       "supplier": "Scalebay",
       "lot_number": "3160029",
       "unomag_id": 182992
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "1695525",
+      "unomag_id": 205223
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "749558",
+      "unomag_id": 182738
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "9629643",
+      "unomag_id": 205223
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "1483180",
+      "unomag_id": 190701
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "8632339",
+      "unomag_id": 239165
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "8962453",
+      "unomag_id": 168751
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "5519835",
+      "unomag_id": 186185
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "9615191",
+      "unomag_id": 179049
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "2194402",
+      "unomag_id": 179049
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "7343821",
+      "unomag_id": 178358
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "4423493",
+      "unomag_id": 204494
     }
   ],
   "ignored_articles": [
@@ -32972,6 +33027,14 @@
     {
       "supplier": "Scalebay",
       "article": "NAME::Трактор Т 25 Ашет 1:43"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Тракторы  Hachette Фордзон-Путиловец  №8 1/43 Доработан"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::ваз 2108 Наташа"
     }
   ],
   "manufacturer_map": [
