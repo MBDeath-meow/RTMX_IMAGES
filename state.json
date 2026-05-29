@@ -27539,6 +27539,21 @@
       "supplier": "Scalebay",
       "lot_number": "5445235",
       "unomag_id": 154638
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "3781944",
+      "unomag_id": 158547
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "4434774",
+      "unomag_id": 59
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "4966617",
+      "unomag_id": 172738
     }
   ],
   "ignored_articles": [
@@ -30953,6 +30968,90 @@
     {
       "supplier": "Scalebay",
       "article": "NAME::зил-41047"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::коллекционная модель ЗИЛ-117 автолегенды 1-43"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::коллекционная модель ЗИС-101А автолегенды 1-43"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::коллекционная модель РАФ-22038 автолегенды 1-43"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::коллекционная модель москвич-2143 автолегенды 1-43"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::коллекционная модель москвич-3-5-6 автолегенды 1-43"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::коллекционная модель москвич-402 автолегенды 1-43"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::коллекционная модель москвич-403 автолегенды 1-43"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "42"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::коллекционная модель охта автолегенды 1-43"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::коллекционная модель старт автолегенды 1-43"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "19"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::москвич 400-422 фургон"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::москвич 415"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::москвич 423Н"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::москвич С-3"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::москвич-401"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "168"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::танк Т-72 1-72 деагостини (металл)"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "тра014"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "ТРА021"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "тра023"
     }
   ],
   "manufacturer_map": [
