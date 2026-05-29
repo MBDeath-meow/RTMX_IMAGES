@@ -27099,6 +27099,46 @@
       "supplier": "Scalebay",
       "lot_number": "2861776",
       "unomag_id": 393519
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "8320071",
+      "unomag_id": 2443
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "9482613",
+      "unomag_id": 306
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "3704000",
+      "unomag_id": 183359
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "3451825",
+      "unomag_id": 2443
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "7846367",
+      "unomag_id": 261718
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "5876414",
+      "unomag_id": 239854
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "434302",
+      "unomag_id": 232205
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "1934730",
+      "unomag_id": 225727
     }
   ],
   "ignored_articles": [
@@ -30341,6 +30381,14 @@
     {
       "supplier": "Scalebay",
       "article": "NAME::ЛУАЗ-967М"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::ЛУАЗ-969М волынь"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "33"
     }
   ],
   "manufacturer_map": [
