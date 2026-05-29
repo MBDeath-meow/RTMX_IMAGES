@@ -26479,6 +26479,36 @@
       "supplier": "Scalebay",
       "lot_number": "2955929",
       "unomag_id": 185158
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "4705933",
+      "unomag_id": 8091
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "3422670",
+      "unomag_id": 159542
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "7971023",
+      "unomag_id": 396826
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "9949527",
+      "unomag_id": 432835
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "468177",
+      "unomag_id": 563754
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "6077233",
+      "unomag_id": 153597
     }
   ],
   "ignored_articles": [
@@ -29569,6 +29599,18 @@
     {
       "supplier": "Scalebay",
       "article": "18"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "7"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Skoda 100 (красный) Шкода DeAgostini  Б.9555"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Spyker C12 Spyder,Суперкары №27,DeAgostini"
     }
   ],
   "manufacturer_map": [
