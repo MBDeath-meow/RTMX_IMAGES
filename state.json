@@ -26949,6 +26949,36 @@
       "supplier": "Scalebay",
       "lot_number": "9358523",
       "unomag_id": 159495
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "6135808",
+      "unomag_id": 215915
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "3980462",
+      "unomag_id": 207470
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "4835491",
+      "unomag_id": 259090
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "4619190",
+      "unomag_id": 362457
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "9179367",
+      "unomag_id": 158071
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "6904627",
+      "unomag_id": 436
     }
   ],
   "ignored_articles": [
@@ -30131,6 +30161,14 @@
     {
       "supplier": "Scalebay",
       "article": "NAME::ЗИЛ-118К юность"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::ЗИЛ-118К ’Юность’ Автолегенды СССР № 68"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::ЗИЛ-130 бортовой, Грузовики СССР 5"
     }
   ],
   "manufacturer_map": [
