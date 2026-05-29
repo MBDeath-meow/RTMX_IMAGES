@@ -27244,6 +27244,21 @@
       "supplier": "Scalebay",
       "lot_number": "971219",
       "unomag_id": 154489
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "1260349",
+      "unomag_id": 375162
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "9445011",
+      "unomag_id": 5815
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "8146045",
+      "unomag_id": 381243
     }
   ],
   "ignored_articles": [
@@ -30510,6 +30525,14 @@
     {
       "supplier": "Scalebay",
       "article": "NAME::Масштабные модели советских автомобилей представительского класса"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "FsoDaewooEspero"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Модель Ford Mustang V8 GT BundesPolizei (2018) 1:43 CUSTOM"
     }
   ],
   "manufacturer_map": [
