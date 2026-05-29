@@ -30229,6 +30229,26 @@
       "supplier": "Scalebay",
       "lot_number": "9490755",
       "unomag_id": 169756
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "7307621",
+      "unomag_id": 245791
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "9890989",
+      "unomag_id": 174111
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "9857526",
+      "unomag_id": 180465
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "4091757",
+      "unomag_id": 387
     }
   ],
   "ignored_articles": [
@@ -33859,6 +33879,10 @@
     {
       "supplier": "Scalebay",
       "article": "NAME::МАЗ-516А (1971-1973) Масштабная модель (1/43) ’НАП’ (ЦВЕТ!)"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::НАШ АВТОПРОМ МАЗ 500А 1/43"
     }
   ],
   "manufacturer_map": [
