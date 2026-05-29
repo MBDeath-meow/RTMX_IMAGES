@@ -29139,6 +29139,46 @@
       "supplier": "Scalebay",
       "lot_number": "8898066",
       "unomag_id": 182451
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "2876904",
+      "unomag_id": 205223
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "4378942",
+      "unomag_id": 186185
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "6992629",
+      "unomag_id": 256638
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "3488301",
+      "unomag_id": 326906
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "2906209",
+      "unomag_id": 180696
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "1090809",
+      "unomag_id": 180696
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "2082100",
+      "unomag_id": 213833
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "8386669",
+      "unomag_id": 206784
     }
   ],
   "ignored_articles": [
@@ -32685,6 +32725,18 @@
     {
       "supplier": "Scalebay",
       "article": "NAME::Hachette Трактора №4 ВТЗ Универсал 1/43"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Масштабная модель Hachette Тракторы история люди машины №15  КД 35 1/43"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Масштабная модель Hachette Тракторы история люди машины №20 КТ-12 следы эксплуатации 1/43"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::СХТЗ-15/30 с журналом Тракторы №14 Hachette 1/43"
     }
   ],
   "manufacturer_map": [
