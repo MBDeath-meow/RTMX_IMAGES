@@ -26814,6 +26814,31 @@
       "supplier": "Scalebay",
       "lot_number": "8631043",
       "unomag_id": 357315
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "1145024",
+      "unomag_id": 346307
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "6520637",
+      "unomag_id": 153682
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "7863112",
+      "unomag_id": 5312
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "9408407",
+      "unomag_id": 156213
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "7453420",
+      "unomag_id": 223706
     }
   ],
   "ignored_articles": [
@@ -29940,6 +29965,26 @@
     {
       "supplier": "Scalebay",
       "article": "№61"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Автомобили на службе"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Автомобиль на службе."
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Аурус Сенат Деагостини 1:43"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::БА-6 (DeA Автолегенды СССР)"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::БА-64"
     }
   ],
   "manufacturer_map": [
