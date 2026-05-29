@@ -8242,6 +8242,11 @@
     },
     {
       "supplier": "Scalebay",
+      "lot_number": "7518153",
+      "unomag_id": 232738
+    },
+    {
+      "supplier": "Scalebay",
       "lot_number": "75492",
       "unomag_id": 593534
     },
@@ -23327,6 +23332,11 @@
     },
     {
       "supplier": "Scalebay",
+      "lot_number": "8815172",
+      "unomag_id": 678487
+    },
+    {
+      "supplier": "Scalebay",
       "lot_number": "8914356",
       "unomag_id": 461682
     },
@@ -30262,13 +30272,8 @@
     },
     {
       "supplier": "Scalebay",
-      "lot_number": "8815172",
-      "unomag_id": 678487
-    },
-    {
-      "supplier": "Scalebay",
-      "lot_number": "7518153",
-      "unomag_id": 232738
+      "lot_number": "2577640",
+      "unomag_id": 344963
     }
   ],
   "ignored_articles": [
@@ -33915,6 +33920,10 @@
     {
       "supplier": "Scalebay",
       "article": "NAME::ЗиЛ-157 (SSM)"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "#350 042270"
     }
   ],
   "manufacturer_map": [
