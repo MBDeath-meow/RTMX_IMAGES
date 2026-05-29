@@ -29104,6 +29104,41 @@
       "supplier": "Scalebay",
       "lot_number": "2398184",
       "unomag_id": 281331
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "10437",
+      "unomag_id": 224173
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "3979194",
+      "unomag_id": 249621
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "6634994",
+      "unomag_id": 191597
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "243357",
+      "unomag_id": 185608
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "5572811",
+      "unomag_id": 296825
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "5958703",
+      "unomag_id": 180953
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "8898066",
+      "unomag_id": 182451
     }
   ],
   "ignored_articles": [
@@ -32638,6 +32673,18 @@
     {
       "supplier": "Scalebay",
       "article": "NAME::бтр-д."
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Hachette МТЗ-2 трактор колесный №13 1/43 Доработан"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Hachette Трактор КСХТЗ-НАТИ Тракторы №9 1/43"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Hachette Трактора №4 ВТЗ Универсал 1/43"
     }
   ],
   "manufacturer_map": [
