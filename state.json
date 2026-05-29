@@ -29349,6 +29349,51 @@
       "supplier": "Scalebay",
       "lot_number": "4250121",
       "unomag_id": 180953
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "4342109",
+      "unomag_id": 220893
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "8939175",
+      "unomag_id": 232081
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "9680039",
+      "unomag_id": 192376
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "1186507",
+      "unomag_id": 189960
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "5377222",
+      "unomag_id": 183352
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "2177006",
+      "unomag_id": 215399
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "8708340",
+      "unomag_id": 253198
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "6237258",
+      "unomag_id": 192715
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "3160029",
+      "unomag_id": 182992
     }
   ],
   "ignored_articles": [
@@ -32915,6 +32960,18 @@
     {
       "supplier": "Scalebay",
       "article": "NAME::Трактор КТ 12 С Ашет 1:43"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Трактор МТЗ 50 Полугусеничный Ашет 1:43"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Трактор СТЗ 5 С Ашет 1:43"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Трактор Т 25 Ашет 1:43"
     }
   ],
   "manufacturer_map": [
