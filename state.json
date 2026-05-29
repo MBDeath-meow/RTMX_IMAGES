@@ -27344,6 +27344,31 @@
       "supplier": "Scalebay",
       "lot_number": "2222467",
       "unomag_id": 8098
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "3358208",
+      "unomag_id": 5310
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "4381244",
+      "unomag_id": 261542
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "4323191",
+      "unomag_id": 261542
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "3540582",
+      "unomag_id": 52
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "7435996",
+      "unomag_id": 202
     }
   ],
   "ignored_articles": [
@@ -30634,6 +30659,30 @@
     {
       "supplier": "Scalebay",
       "article": "NAME::Москвич-2144 ’Истра’ опытный (белый) DeAgostini  М.1467"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Москвич-2150 опытный (оранжевый) DeAgostini  М.1466"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Москвич-2335 пикап (синий) DeAgostini  М.1463"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Москвич-2734 фургон (белый) DeAgostini  М.0257"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Москвич-3-5-6 опытный (зелёный) DeAgostini  М.1469"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Москвич-3-5-6 экспериментальный САЛОН! (зелёный) DeAgostini  М.0251"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Москвич-402 (бирюзовый) DeAgostini  М.1461"
     }
   ],
   "manufacturer_map": [
