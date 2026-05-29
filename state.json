@@ -30249,6 +30249,21 @@
       "supplier": "Scalebay",
       "lot_number": "4091757",
       "unomag_id": 387
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "676193",
+      "unomag_id": 257095
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "4818389",
+      "unomag_id": 154089
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "6893703",
+      "unomag_id": 154092
     }
   ],
   "ignored_articles": [
@@ -33883,6 +33898,14 @@
     {
       "supplier": "Scalebay",
       "article": "NAME::НАШ АВТОПРОМ МАЗ 500А 1/43"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::АЦПТ-5,6 (500А)"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::ЗИС-ААА «Каракумский пробег»"
     }
   ],
   "manufacturer_map": [
