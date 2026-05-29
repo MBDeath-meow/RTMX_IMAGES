@@ -26679,6 +26679,36 @@
       "supplier": "Scalebay",
       "lot_number": "398750",
       "unomag_id": 154642
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "2034710",
+      "unomag_id": 154642
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "5862760",
+      "unomag_id": 158621
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "971146",
+      "unomag_id": 194
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "2581864",
+      "unomag_id": 202
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "5537932",
+      "unomag_id": 339
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "9009674",
+      "unomag_id": 1830
     }
   ],
   "ignored_articles": [
@@ -29797,6 +29827,14 @@
     {
       "supplier": "Scalebay",
       "article": "NAME::Автолегенды СССР продаются поштучно"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "№49"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "№61"
     }
   ],
   "manufacturer_map": [
