@@ -26544,6 +26544,41 @@
       "supplier": "Scalebay",
       "lot_number": "9826919",
       "unomag_id": 176295
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "4217345",
+      "unomag_id": 187199
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "7272413",
+      "unomag_id": 177111
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "7840097",
+      "unomag_id": 181660
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "4529090",
+      "unomag_id": 177797
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "1795530",
+      "unomag_id": 158074
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "1941437",
+      "unomag_id": 882
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "407637",
+      "unomag_id": 5602
     }
   ],
   "ignored_articles": [
@@ -29646,6 +29681,14 @@
     {
       "supplier": "Scalebay",
       "article": "NAME::Spyker C12 Spyder,Суперкары №27,DeAgostini"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Willys Rural полиция Бразилии (серый) DeAgostini  Б.9937"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::АЗЛК Москвич 427 - Автолегенды СССР №57 - DeAgostini журнальная серия - 1:43"
     }
   ],
   "manufacturer_map": [
