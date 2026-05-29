@@ -28114,6 +28114,46 @@
       "supplier": "Scalebay",
       "lot_number": "2508366",
       "unomag_id": 324381
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "8836222",
+      "unomag_id": 641238
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "61900",
+      "unomag_id": 363700
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "9405155",
+      "unomag_id": 334590
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "6602373",
+      "unomag_id": 668086
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "4295681",
+      "unomag_id": 562447
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "6865120",
+      "unomag_id": 278420
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "9163366",
+      "unomag_id": 500469
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "5638318",
+      "unomag_id": 502550
     }
   ],
   "ignored_articles": [
@@ -31616,6 +31656,14 @@
     {
       "supplier": "Scalebay",
       "article": "тра008"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Легендарные Грузовики СССР  ко 503 (3307) #21"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Легендарные Грузовики СССР №32 - ЗИЛ-ММЗ-2502"
     }
   ],
   "manufacturer_map": [
