@@ -30279,6 +30279,21 @@
       "supplier": "Scalebay",
       "lot_number": "8543731",
       "unomag_id": 216754
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "3698137",
+      "unomag_id": 678326
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "1699717",
+      "unomag_id": 197965
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "3101528",
+      "unomag_id": 154329
     }
   ],
   "ignored_articles": [
@@ -33929,6 +33944,10 @@
     {
       "supplier": "Scalebay",
       "article": "#350 042270"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::BMW Z4 roadster E85 2002"
     }
   ],
   "manufacturer_map": [
