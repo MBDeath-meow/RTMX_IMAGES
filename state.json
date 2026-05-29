@@ -30134,6 +30134,36 @@
       "supplier": "Scalebay",
       "lot_number": "9458932",
       "unomag_id": 178203
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "4917036",
+      "unomag_id": 182050
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "3687348",
+      "unomag_id": 174109
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "2784438",
+      "unomag_id": 169756
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "4459297",
+      "unomag_id": 180803
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "9097765",
+      "unomag_id": 183201
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "2413068",
+      "unomag_id": 182050
     }
   ],
   "ignored_articles": [
@@ -33752,6 +33782,14 @@
     {
       "supplier": "Scalebay",
       "article": "H276"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Кразы"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Краз 255 Б"
     }
   ],
   "manufacturer_map": [
