@@ -27409,6 +27409,36 @@
       "supplier": "Scalebay",
       "lot_number": "7471522",
       "unomag_id": 158620
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "92850",
+      "unomag_id": 222391
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "2333388",
+      "unomag_id": 254453
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "6296846",
+      "unomag_id": 194
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "3742047",
+      "unomag_id": 158944
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "9458121",
+      "unomag_id": 158607
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "7066538",
+      "unomag_id": 8095
     }
   ],
   "ignored_articles": [
@@ -30755,6 +30785,58 @@
     {
       "supplier": "Scalebay",
       "article": "NAME::Надстройка водоспиртозаправщик ВСЗ-66"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Победа М-20"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::РАФ - 977 ДМ."
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::РАФ-22031 Скорая медицинская помощь (белый) DeAgostini  М.0416"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::РАФ-977 ДМ латвия"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::СМЗ С1Л мотоколяска (хаки) DeAgostini  М.0041"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::СМЗ С3А мотоколяска (голубой/чёрный) DeAgostini  М.0042"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::СМЗ-С1Л"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "40"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::СМЗ-С3Д"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Суперкары 5 штук одним лотом"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Суперкары №68 Mercedes-Benz ML500, без упаковки"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Суперкары №72 Mercedes-Benz CLS, без упаковки"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Суперкары №78 Maybach 62, без упаковки"
     }
   ],
   "manufacturer_map": [
