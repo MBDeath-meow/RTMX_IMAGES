@@ -26374,6 +26374,41 @@
       "supplier": "Scalebay",
       "lot_number": "4312520",
       "unomag_id": 333162
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "9394387",
+      "unomag_id": 188485
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "4386936",
+      "unomag_id": 173785
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "7731428",
+      "unomag_id": 186983
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "2115316",
+      "unomag_id": 346636
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "3656620",
+      "unomag_id": 393524
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "428900",
+      "unomag_id": 343576
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "6962263",
+      "unomag_id": 352069
     }
   ],
   "ignored_articles": [
@@ -29448,6 +29483,14 @@
     {
       "supplier": "Scalebay",
       "article": "NAME::Deagostini Автолегенды СССР №90 Москвич-2139 Арбат"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "10"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "16"
     }
   ],
   "manufacturer_map": [
