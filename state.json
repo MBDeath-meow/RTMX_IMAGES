@@ -26444,6 +26444,41 @@
       "supplier": "Scalebay",
       "lot_number": "8101839",
       "unomag_id": 375117
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "7874033",
+      "unomag_id": 6447
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "4332049",
+      "unomag_id": 155647
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "9227305",
+      "unomag_id": 343577
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "1325109",
+      "unomag_id": 293626
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "9852902",
+      "unomag_id": 179548
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "1969073",
+      "unomag_id": 180952
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "2955929",
+      "unomag_id": 185158
     }
   ],
   "ignored_articles": [
@@ -29526,6 +29561,14 @@
     {
       "supplier": "Scalebay",
       "article": "16"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Mercedes W 123 Deagostini"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "18"
     }
   ],
   "manufacturer_map": [
