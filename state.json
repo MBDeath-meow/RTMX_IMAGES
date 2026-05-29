@@ -30209,6 +30209,26 @@
       "supplier": "Scalebay",
       "lot_number": "4324695",
       "unomag_id": 174106
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "7876673",
+      "unomag_id": 173672
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "5873494",
+      "unomag_id": 179595
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "6054564",
+      "unomag_id": 179596
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "9490755",
+      "unomag_id": 169756
     }
   ],
   "ignored_articles": [
@@ -33835,6 +33855,10 @@
     {
       "supplier": "Scalebay",
       "article": "NAME::Краз 255 Б"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::МАЗ-516А (1971-1973) Масштабная модель (1/43) ’НАП’ (ЦВЕТ!)"
     }
   ],
   "manufacturer_map": [
