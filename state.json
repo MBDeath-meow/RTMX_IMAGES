@@ -26979,6 +26979,36 @@
       "supplier": "Scalebay",
       "lot_number": "6904627",
       "unomag_id": 436
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "3535073",
+      "unomag_id": 238028
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "5411053",
+      "unomag_id": 69
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "9574415",
+      "unomag_id": 260017
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "4377083",
+      "unomag_id": 159502
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "8022175",
+      "unomag_id": 5544
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "5531507",
+      "unomag_id": 159502
     }
   ],
   "ignored_articles": [
@@ -30169,6 +30199,14 @@
     {
       "supplier": "Scalebay",
       "article": "NAME::ЗИЛ-130 бортовой, Грузовики СССР 5"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::ЗИМ 12 А Скорая помощь Деагостини 1:43 Автолегенды СССР"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::ЗИС-101 1-43 наш автопром Р105"
     }
   ],
   "manufacturer_map": [
