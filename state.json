@@ -27309,6 +27309,41 @@
       "supplier": "Scalebay",
       "lot_number": "7068625",
       "unomag_id": 635
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "9366585",
+      "unomag_id": 5312
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "5244950",
+      "unomag_id": 5601
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "9245013",
+      "unomag_id": 279540
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "7117271",
+      "unomag_id": 226669
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "7671572",
+      "unomag_id": 154639
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "4534628",
+      "unomag_id": 5311
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "2222467",
+      "unomag_id": 8098
     }
   ],
   "ignored_articles": [
@@ -30587,6 +30622,18 @@
     {
       "supplier": "Scalebay",
       "article": "Maz5432"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Москвич С-1 экспериментальный САЛОН! (зелёный) DeAgostini  М.0252"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Москвич с-1 ’Меридиан 1700 TS’ опытный (зелёный) DeAgostini  М.1468"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Москвич-2144 ’Истра’ опытный (белый) DeAgostini  М.1467"
     }
   ],
   "manufacturer_map": [
