@@ -27259,6 +27259,21 @@
       "supplier": "Scalebay",
       "lot_number": "8146045",
       "unomag_id": 381243
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "1100653",
+      "unomag_id": 381244
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "5578630",
+      "unomag_id": 257831
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "9555354",
+      "unomag_id": 5312
     }
   ],
   "ignored_articles": [
@@ -30533,6 +30548,10 @@
     {
       "supplier": "Scalebay",
       "article": "NAME::Модель Ford Mustang V8 GT BundesPolizei (2018) 1:43 CUSTOM"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "Maz5432"
     }
   ],
   "manufacturer_map": [
