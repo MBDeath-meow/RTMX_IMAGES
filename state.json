@@ -27009,6 +27009,41 @@
       "supplier": "Scalebay",
       "lot_number": "5531507",
       "unomag_id": 159502
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "2151207",
+      "unomag_id": 69
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "8964642",
+      "unomag_id": 158547
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "1708833",
+      "unomag_id": 158547
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "9993365",
+      "unomag_id": 69
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "5252429",
+      "unomag_id": 154490
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "9704431",
+      "unomag_id": 154374
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "3622960",
+      "unomag_id": 1371
     }
   ],
   "ignored_articles": [
@@ -30207,6 +30242,26 @@
     {
       "supplier": "Scalebay",
       "article": "NAME::ЗИС-101 1-43 наш автопром Р105"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::ЗИС-110 1-43 наш автопром Р106"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "108"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::ИЖ-2125 Комби Москвич (оранжевый) DeAgostini  М.1455"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::ИЖ-27156 грузопассажирский фургон (белый) DeAgostini  М.1464"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::ИЖ-412-028 (синий) DeAgostini  М.1456"
     }
   ],
   "manufacturer_map": [
