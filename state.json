@@ -26349,6 +26349,26 @@
       "supplier": "Scalebay",
       "lot_number": "3438919",
       "unomag_id": 657405
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "395643",
+      "unomag_id": 459311
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "7134114",
+      "unomag_id": 707011
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "6845793",
+      "unomag_id": 707012
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "7088301",
+      "unomag_id": 695471
     }
   ],
   "ignored_articles": [
@@ -29403,6 +29423,10 @@
     {
       "supplier": "Scalebay",
       "article": "NAME::Шасси КАМАЗ-43118 ’ПАО КАМАЗ (Аист)’ 1:43"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Полуприцеп панелевоз НАМИ-790.Автоистория."
     }
   ],
   "manufacturer_map": [
