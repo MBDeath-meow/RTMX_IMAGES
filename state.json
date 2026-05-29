@@ -28504,6 +28504,71 @@
       "supplier": "Scalebay",
       "lot_number": "6153128",
       "unomag_id": 479942
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "3866575",
+      "unomag_id": 482162
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "6352530",
+      "unomag_id": 498314
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "4441756",
+      "unomag_id": 499520
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "1858033",
+      "unomag_id": 363698
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "8070995",
+      "unomag_id": 633017
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "3190943",
+      "unomag_id": 389910
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "5286146",
+      "unomag_id": 361018
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "8236283",
+      "unomag_id": 678468
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "9814649",
+      "unomag_id": 436193
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "3909436",
+      "unomag_id": 678488
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "4300514",
+      "unomag_id": 641857
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "6110705",
+      "unomag_id": 318065
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "1866782",
+      "unomag_id": 318066
     }
   ],
   "ignored_articles": [
@@ -32014,6 +32079,18 @@
     {
       "supplier": "Scalebay",
       "article": "NAME::Легендарные Грузовики СССР №32 - ЗИЛ-ММЗ-2502"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::М-72 Наши мотоциклы 7"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::МАЗ 503Б ( доработанный ) ."
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::ММЗ-4505 Зил-130"
     }
   ],
   "manufacturer_map": [
