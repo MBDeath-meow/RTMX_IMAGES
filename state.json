@@ -30524,6 +30524,26 @@
       "supplier": "Scalebay",
       "lot_number": "407008",
       "unomag_id": 187217
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "6744171",
+      "unomag_id": 174277
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "3256696",
+      "unomag_id": 174275
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "1490484",
+      "unomag_id": 174276
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "2415745",
+      "unomag_id": 174274
     }
   ],
   "ignored_articles": [
@@ -34182,6 +34202,10 @@
     {
       "supplier": "Scalebay",
       "article": "NAME::Mercedes 230e W124 Minichamps 1/43"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::L&K Voiturette (Abrex)"
     }
   ],
   "manufacturer_map": [
