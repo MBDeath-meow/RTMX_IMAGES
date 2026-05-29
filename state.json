@@ -30304,6 +30304,26 @@
       "supplier": "Scalebay",
       "lot_number": "7968494",
       "unomag_id": 387628
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "2542492",
+      "unomag_id": 267138
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "4782035",
+      "unomag_id": 7781
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "9181540",
+      "unomag_id": 3705
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "9734352",
+      "unomag_id": 152604
     }
   ],
   "ignored_articles": [
@@ -34176,6 +34196,10 @@
     {
       "unomag_name": "Greenlight",
       "variation": "Greenlight Collectibles"
+    },
+    {
+      "unomag_name": "Abrex",
+      "variation": "Abrex"
     }
   ],
   "suppliers": [
