@@ -28929,6 +28929,26 @@
       "supplier": "Scalebay",
       "lot_number": "8258013",
       "unomag_id": 466715
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "2275410",
+      "unomag_id": 278420
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "4068799",
+      "unomag_id": 513395
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "6296536",
+      "unomag_id": 357063
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "9999428",
+      "unomag_id": 350404
     }
   ],
   "ignored_articles": [
@@ -32451,6 +32471,18 @@
     {
       "supplier": "Scalebay",
       "article": "NAME::ММЗ-4505 Зил-130"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Фургон ЛУМЗ-890 на базе Амур-531350"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Шасси с кабиной ЗиЛ-164"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::бтр-д."
     }
   ],
   "manufacturer_map": [
@@ -32485,14 +32517,6 @@
     {
       "unomag_name": "Greenlight",
       "variation": "Greenlight Collectibles"
-    },
-    {
-      "unomag_name": "Hachette",
-      "variation": "Hachette"
-    },
-    {
-      "unomag_name": "Hachette",
-      "variation": "Тракторы. История, люди, машины. (Hachette collections)"
     },
     {
       "unomag_name": "Premium ClassiXXs",
@@ -32657,6 +32681,22 @@
     {
       "unomag_name": "DeAgostini",
       "variation": "Полицейские машины мира, Deagostini"
+    },
+    {
+      "unomag_name": "Hachette",
+      "variation": "Hachette"
+    },
+    {
+      "unomag_name": "Hachette",
+      "variation": "Тракторы. История, люди, машины. (Hachette collections)"
+    },
+    {
+      "unomag_name": "Hachette",
+      "variation": "MODIMIO"
+    },
+    {
+      "unomag_name": "Hachette",
+      "variation": "Modimio"
     }
   ],
   "suppliers": [
