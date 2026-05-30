@@ -32439,6 +32439,56 @@
       "supplier": "Scalebay",
       "lot_number": "5037261",
       "unomag_id": 182981
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "2353864",
+      "unomag_id": 696911
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "3015421",
+      "unomag_id": 516932
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "635215",
+      "unomag_id": 563394
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "2232546",
+      "unomag_id": 559033
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "5933435",
+      "unomag_id": 192516
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "4511192",
+      "unomag_id": 597239
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "7462902",
+      "unomag_id": 291330
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "2666146",
+      "unomag_id": 457839
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "5308053",
+      "unomag_id": 464452
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "3184229",
+      "unomag_id": 485255
     }
   ],
   "ignored_articles": [
@@ -36383,10 +36433,6 @@
     {
       "unomag_name": "Start Scale Models",
       "variation": "Start Scale Models (SSM)"
-    },
-    {
-      "unomag_name": "Start Scale Models",
-      "variation": "Schuco"
     }
   ],
   "suppliers": [
