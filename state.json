@@ -31029,6 +31029,21 @@
       "supplier": "Scalebay",
       "lot_number": "7863178",
       "unomag_id": 156276
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "6116939",
+      "unomag_id": 393303
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "2015880",
+      "unomag_id": 173580
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "9764149",
+      "unomag_id": 433145
     }
   ],
   "ignored_articles": [
@@ -34723,6 +34738,10 @@
     {
       "supplier": "Scalebay",
       "article": "NAME::Рено Renault Estafette Фургон 1965 Eligor 1:43"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::1967 Shelby GT500"
     }
   ],
   "manufacturer_map": [
