@@ -32434,6 +32434,11 @@
       "supplier": "Scalebay",
       "lot_number": "6454845",
       "unomag_id": 183147
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "5037261",
+      "unomag_id": 182981
     }
   ],
   "ignored_articles": [
@@ -36308,14 +36313,6 @@
       "variation": "Hachette"
     },
     {
-      "unomag_name": "Start Scale Models",
-      "variation": "Start Scale Models"
-    },
-    {
-      "unomag_name": "Start Scale Models",
-      "variation": "Start Scale Models (SSM)"
-    },
-    {
       "unomag_name": "Abrex",
       "variation": "Abrex"
     },
@@ -36377,7 +36374,19 @@
     },
     {
       "unomag_name": "Atlas",
-      "variation": "IST Models"
+      "variation": "atlas"
+    },
+    {
+      "unomag_name": "Start Scale Models",
+      "variation": "Start Scale Models"
+    },
+    {
+      "unomag_name": "Start Scale Models",
+      "variation": "Start Scale Models (SSM)"
+    },
+    {
+      "unomag_name": "Start Scale Models",
+      "variation": "Schuco"
     }
   ],
   "suppliers": [
