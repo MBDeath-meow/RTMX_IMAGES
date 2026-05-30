@@ -39364,6 +39364,36 @@
       "supplier": "Scalebay",
       "lot_number": "3436240",
       "unomag_id": 5605
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "3499678",
+      "unomag_id": 263540
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "479433",
+      "unomag_id": 153135
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "9489542",
+      "unomag_id": 5308
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "3219057",
+      "unomag_id": 242552
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "7762537",
+      "unomag_id": 158071
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "82460",
+      "unomag_id": 385688
     }
   ],
   "ignored_articles": [
@@ -43130,6 +43160,10 @@
     {
       "supplier": "Scalebay",
       "article": "43"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Автолегенды СССР. КИМ-10-50 № 21"
     }
   ],
   "manufacturer_map": [
