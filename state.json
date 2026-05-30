@@ -30979,6 +30979,16 @@
       "supplier": "Scalebay",
       "lot_number": "5172781",
       "unomag_id": 152942
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "1433674",
+      "unomag_id": 189601
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "2067475",
+      "unomag_id": 259076
     }
   ],
   "ignored_articles": [
@@ -34657,6 +34667,10 @@
     {
       "supplier": "Scalebay",
       "article": "NAME::Hennessey Venom GT Spyder"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::1/43 Dacia-Renault Logan ППС - Конверсия"
     }
   ],
   "manufacturer_map": [
