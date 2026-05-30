@@ -31984,6 +31984,31 @@
       "supplier": "Scalebay",
       "lot_number": "3229581",
       "unomag_id": 158304
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "334550",
+      "unomag_id": 158305
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "6755073",
+      "unomag_id": 153202
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "4518062",
+      "unomag_id": 153203
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "755205",
+      "unomag_id": 180193
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "4744909",
+      "unomag_id": 222349
     }
   ],
   "ignored_articles": [
