@@ -39249,6 +39249,21 @@
       "supplier": "Scalebay",
       "lot_number": "6993964",
       "unomag_id": 189934
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "3411640",
+      "unomag_id": 185157
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "1656148",
+      "unomag_id": 207617
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "4679657",
+      "unomag_id": 7605
     }
   ],
   "ignored_articles": [
@@ -43007,6 +43022,14 @@
     {
       "supplier": "Scalebay",
       "article": "NAME::RENAULT 2.5 tonnes"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "47"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "43"
     }
   ],
   "manufacturer_map": [
