@@ -39439,6 +39439,26 @@
       "supplier": "Scalebay",
       "lot_number": "3555630",
       "unomag_id": 483678
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "3185683",
+      "unomag_id": 637682
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "2504587",
+      "unomag_id": 636925
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "9065950",
+      "unomag_id": 640147
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "4594739",
+      "unomag_id": 651198
     }
   ],
   "ignored_articles": [
@@ -43213,6 +43233,22 @@
     {
       "supplier": "Scalebay",
       "article": "NAME::Суперкары №60 Dodge Challenger SRT-8, без упаковки"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::коллекционная модель РАФ-977 ДМ латвия автолегенды 1-43"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::коллекционная модель москвич 2144 истра автолегенды 1-43"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::москвич 2139"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::москвич 400-420А 1-43 автолегенды"
     }
   ],
   "manufacturer_map": [
@@ -43459,6 +43495,14 @@
     {
       "unomag_name": "Start Scale Models",
       "variation": "Start Scale Models (SSM)"
+    },
+    {
+      "unomag_name": "ArModel",
+      "variation": "ArModel"
+    },
+    {
+      "unomag_name": "ArModel",
+      "variation": "DeAgostini"
     }
   ],
   "suppliers": [
