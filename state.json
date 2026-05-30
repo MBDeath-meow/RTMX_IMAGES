@@ -37364,6 +37364,61 @@
       "supplier": "Scalebay",
       "lot_number": "5995785",
       "unomag_id": 717507
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "7698465",
+      "unomag_id": 205585
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "5636675",
+      "unomag_id": 260013
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "3852047",
+      "unomag_id": 260012
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "8806335",
+      "unomag_id": 257285
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "5094061",
+      "unomag_id": 239361
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "2411128",
+      "unomag_id": 240709
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "8447537",
+      "unomag_id": 241835
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "1716698",
+      "unomag_id": 179814
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "5573867",
+      "unomag_id": 181183
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "2400080",
+      "unomag_id": 179447
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "6413907",
+      "unomag_id": 301801
     }
   ],
   "ignored_articles": [
@@ -41070,6 +41125,10 @@
     {
       "supplier": "Scalebay",
       "article": "NAME::SSM. Csepel D-344.00"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::ЗиЛ-133ГЯ АЦ-40-181А ПОЛТАВА"
     }
   ],
   "manufacturer_map": [
@@ -41104,14 +41163,6 @@
     {
       "unomag_name": "Premium ClassiXXs",
       "variation": "Start Scale Models (SSM)"
-    },
-    {
-      "unomag_name": "Наш Автопром",
-      "variation": "Наш Автопром"
-    },
-    {
-      "unomag_name": "Наш Автопром",
-      "variation": "Автоистория (АИСТ)"
     },
     {
       "unomag_name": "gf",
@@ -41315,6 +41366,18 @@
     },
     {
       "unomag_name": "Start Scale Models",
+      "variation": "Start Scale Models (SSM)"
+    },
+    {
+      "unomag_name": "Наш Автопром",
+      "variation": "Автоистория (АИСТ)"
+    },
+    {
+      "unomag_name": "Наш Автопром",
+      "variation": "Наш Автопром"
+    },
+    {
+      "unomag_name": "Наш Автопром",
       "variation": "Start Scale Models (SSM)"
     }
   ],
