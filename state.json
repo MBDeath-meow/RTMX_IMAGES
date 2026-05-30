@@ -41094,6 +41094,31 @@
       "supplier": "Scalebay",
       "lot_number": "8289597",
       "unomag_id": 632715
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "3199673",
+      "unomag_id": 173088
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "7907014",
+      "unomag_id": 173088
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "8764360",
+      "unomag_id": 181009
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "6759945",
+      "unomag_id": 178745
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "6053962",
+      "unomag_id": 173087
     }
   ],
   "ignored_articles": [
@@ -45200,18 +45225,6 @@
       "variation": "MODIMIO"
     },
     {
-      "unomag_name": "DeAgostini",
-      "variation": "DeAgostini"
-    },
-    {
-      "unomag_name": "DeAgostini",
-      "variation": "Автолегенды СССР журнал от DeAgostini"
-    },
-    {
-      "unomag_name": "DeAgostini",
-      "variation": "Полицейские машины мира, Deagostini"
-    },
-    {
       "unomag_name": "Hachette",
       "variation": "Hachette"
     },
@@ -45314,6 +45327,18 @@
     {
       "unomag_name": "Altaya",
       "variation": "DeAgostini"
+    },
+    {
+      "unomag_name": "DeAgostini",
+      "variation": "DeAgostini"
+    },
+    {
+      "unomag_name": "DeAgostini",
+      "variation": "Автолегенды СССР журнал от DeAgostini"
+    },
+    {
+      "unomag_name": "DeAgostini",
+      "variation": "Полицейские машины мира, Deagostini"
     }
   ],
   "suppliers": [
