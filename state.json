@@ -40229,6 +40229,26 @@
       "supplier": "Scalebay",
       "lot_number": "1755609",
       "unomag_id": 357420
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "8383578",
+      "unomag_id": 338173
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "9182674",
+      "unomag_id": 157861
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "4180944",
+      "unomag_id": 339871
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "6521494",
+      "unomag_id": 440417
     }
   ],
   "ignored_articles": [
@@ -44103,6 +44123,14 @@
     {
       "supplier": "Scalebay",
       "article": "58303"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::1:43 Американская классика. Европейская журналка. Altaya"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::AMC Schneider P16 (M29) 1940"
     }
   ],
   "manufacturer_map": [
