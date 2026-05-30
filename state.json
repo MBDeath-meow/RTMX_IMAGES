@@ -39459,6 +39459,26 @@
       "supplier": "Scalebay",
       "lot_number": "4594739",
       "unomag_id": 651198
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "119042",
+      "unomag_id": 635927
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "3344552",
+      "unomag_id": 349437
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "1961759",
+      "unomag_id": 349436
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "4852466",
+      "unomag_id": 349434
     }
   ],
   "ignored_articles": [
@@ -43249,6 +43269,14 @@
     {
       "supplier": "Scalebay",
       "article": "NAME::москвич 400-420А 1-43 автолегенды"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "US 2147"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "US 2142"
     }
   ],
   "manufacturer_map": [
@@ -43417,14 +43445,6 @@
       "variation": "Modimio"
     },
     {
-      "unomag_name": "Altaya",
-      "variation": "Altaya"
-    },
-    {
-      "unomag_name": "Altaya",
-      "variation": "Hachette"
-    },
-    {
       "unomag_name": "Abrex",
       "variation": "Abrex"
     },
@@ -43502,6 +43522,14 @@
     },
     {
       "unomag_name": "ArModel",
+      "variation": "DeAgostini"
+    },
+    {
+      "unomag_name": "Altaya",
+      "variation": "Altaya"
+    },
+    {
+      "unomag_name": "Altaya",
       "variation": "DeAgostini"
     }
   ],
