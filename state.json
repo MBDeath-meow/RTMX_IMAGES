@@ -30899,6 +30899,16 @@
       "supplier": "Scalebay",
       "lot_number": "9039475",
       "unomag_id": 174353
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "6462283",
+      "unomag_id": 187503
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "9513388",
+      "unomag_id": 279941
     }
   ],
   "ignored_articles": [
@@ -34561,6 +34571,14 @@
     {
       "supplier": "Scalebay",
       "article": "NAME::L&K Voiturette (Abrex)"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::1:43 VW Dune Concept,Autoart"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Bugatti Veyron black red Autoart 50901 1-43 (лот в мск)"
     }
   ],
   "manufacturer_map": [
