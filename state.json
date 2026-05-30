@@ -39529,6 +39529,36 @@
       "supplier": "Scalebay",
       "lot_number": "3831749",
       "unomag_id": 693657
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "1084535",
+      "unomag_id": 588982
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "1781057",
+      "unomag_id": 348624
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "6188654",
+      "unomag_id": 196967
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "1045543",
+      "unomag_id": 187648
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "1258444",
+      "unomag_id": 197001
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "6061198",
+      "unomag_id": 186810
     }
   ],
   "ignored_articles": [
@@ -43379,6 +43409,10 @@
     {
       "supplier": "Scalebay",
       "article": "SRFR100-1"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "SRAMFR36-2"
     }
   ],
   "manufacturer_map": [
