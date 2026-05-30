@@ -38549,6 +38549,76 @@
       "supplier": "Scalebay",
       "lot_number": "4650116",
       "unomag_id": 652188
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "9980796",
+      "unomag_id": 636029
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "7211621",
+      "unomag_id": 623786
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "3156505",
+      "unomag_id": 589792
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "1013688",
+      "unomag_id": 586705
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "2421299",
+      "unomag_id": 585023
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "6076815",
+      "unomag_id": 579232
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "5623641",
+      "unomag_id": 641238
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "1022627",
+      "unomag_id": 462957
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "2941846",
+      "unomag_id": 395992
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "8948401",
+      "unomag_id": 379121
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "987313",
+      "unomag_id": 368107
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "2661843",
+      "unomag_id": 263797
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "1432721",
+      "unomag_id": 368107
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "2537772",
+      "unomag_id": 361018
     }
   ],
   "ignored_articles": [
@@ -42299,6 +42369,10 @@
     {
       "supplier": "Scalebay",
       "article": "NAME::SSM КАЗ 608В, тягач"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Tatra T3"
     }
   ],
   "manufacturer_map": [
