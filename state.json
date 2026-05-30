@@ -37824,6 +37824,36 @@
       "supplier": "Scalebay",
       "lot_number": "2276727",
       "unomag_id": 455164
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "6085913",
+      "unomag_id": 336273
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "1535513",
+      "unomag_id": 318472
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "8888017",
+      "unomag_id": 159338
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "9688477",
+      "unomag_id": 159460
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "6755053",
+      "unomag_id": 159461
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "9434854",
+      "unomag_id": 441961
     }
   ],
   "ignored_articles": [
@@ -41570,6 +41600,10 @@
     {
       "supplier": "Scalebay",
       "article": "105111"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::SSM КАЗ 608В, тягач"
     }
   ],
   "manufacturer_map": [
