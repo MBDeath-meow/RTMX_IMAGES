@@ -39514,6 +39514,16 @@
       "supplier": "Scalebay",
       "lot_number": "1370383",
       "unomag_id": 693652
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "2322645",
+      "unomag_id": 693649
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "2133379",
+      "unomag_id": 693919
     }
   ],
   "ignored_articles": [
@@ -43328,6 +43338,26 @@
     {
       "supplier": "Scalebay",
       "article": "SRFR63-1"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "SRFR53-1"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "SRFR49-1"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "SRFR48-1"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "SRFR46-1"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "SRFR40-1"
     }
   ],
   "manufacturer_map": [
