@@ -37659,6 +37659,21 @@
       "supplier": "Scalebay",
       "lot_number": "8753975",
       "unomag_id": 182879
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "4619262",
+      "unomag_id": 185353
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "7753681",
+      "unomag_id": 182880
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "7773488",
+      "unomag_id": 215681
     }
   ],
   "ignored_articles": [
@@ -41381,6 +41396,18 @@
     {
       "supplier": "Scalebay",
       "article": "NAME::ЗИС-6 бортовой (т.синий) Наш Автопром  М.0081"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Модель Наш Автопром КИМ 10-50 1/43"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Наш Автопром ЗиС 5В 1/43"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Наш автопром ЗиС-36 бортовой (зелёный) 1/43"
     }
   ],
   "manufacturer_map": [
