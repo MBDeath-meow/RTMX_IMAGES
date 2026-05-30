@@ -39819,6 +39819,11 @@
       "supplier": "Scalebay",
       "lot_number": "4511771",
       "unomag_id": 561784
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "6999312",
+      "unomag_id": 225421
     }
   ],
   "ignored_articles": [
@@ -43673,6 +43678,22 @@
     {
       "supplier": "Scalebay",
       "article": "SRAMFR36-2"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "CARAB017"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "CARAB013"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "CAMAMES84-1"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "BAT039"
     }
   ],
   "manufacturer_map": [
