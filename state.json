@@ -34679,6 +34679,10 @@
     {
       "supplier": "Scalebay",
       "article": "NAME::подарочный набор Ман Man Eligor 1:43"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Рено Renault Estafette Фургон 1965 Eligor 1:43"
     }
   ],
   "manufacturer_map": [
@@ -34909,6 +34913,10 @@
     {
       "unomag_name": "Eligor",
       "variation": "Eligor"
+    },
+    {
+      "unomag_name": "Classicbus",
+      "variation": "Classicbus"
     }
   ],
   "suppliers": [
