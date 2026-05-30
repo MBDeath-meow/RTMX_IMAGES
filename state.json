@@ -37704,6 +37704,41 @@
       "supplier": "Scalebay",
       "lot_number": "5843998",
       "unomag_id": 158036
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "3527935",
+      "unomag_id": 158032
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "396421",
+      "unomag_id": 372
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "8319177",
+      "unomag_id": 370
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "8677614",
+      "unomag_id": 371
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "1143742",
+      "unomag_id": 369
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "1888424",
+      "unomag_id": 377
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "4460671",
+      "unomag_id": 374
     }
   ],
   "ignored_articles": [
@@ -41687,15 +41722,7 @@
     },
     {
       "unomag_name": "Наш Автопром",
-      "variation": "Автоистория (АИСТ)"
-    },
-    {
-      "unomag_name": "Наш Автопром",
       "variation": "Наш Автопром"
-    },
-    {
-      "unomag_name": "Наш Автопром",
-      "variation": "Start Scale Models (SSM)"
     }
   ],
   "suppliers": [
