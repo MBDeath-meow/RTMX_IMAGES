@@ -30919,6 +30919,26 @@
       "supplier": "Scalebay",
       "lot_number": "5713542",
       "unomag_id": 152945
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "7438784",
+      "unomag_id": 189601
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "8700627",
+      "unomag_id": 257125
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "2891133",
+      "unomag_id": 419335
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "795655",
+      "unomag_id": 172775
     }
   ],
   "ignored_articles": [
@@ -34823,6 +34843,10 @@
     {
       "unomag_name": "AutoArt",
       "variation": "Autoart"
+    },
+    {
+      "unomag_name": "Eligor",
+      "variation": "Eligor"
     }
   ],
   "suppliers": [
