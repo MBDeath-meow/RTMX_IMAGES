@@ -32329,6 +32329,21 @@
       "supplier": "Scalebay",
       "lot_number": "4801822",
       "unomag_id": 173238
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "7579822",
+      "unomag_id": 173276
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "4552843",
+      "unomag_id": 173237
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "1183698",
+      "unomag_id": 172551
     }
   ],
   "ignored_articles": [
@@ -36143,14 +36158,6 @@
       "variation": "IST Models"
     },
     {
-      "unomag_name": "V.V.M / V.M.M.",
-      "variation": "V.V.M / V.M.M."
-    },
-    {
-      "unomag_name": "V.V.M / V.M.M.",
-      "variation": "IST Models"
-    },
-    {
       "unomag_name": "IXO",
       "variation": "IXO"
     },
@@ -36268,6 +36275,18 @@
     },
     {
       "unomag_name": "PremiumX",
+      "variation": "Premium X"
+    },
+    {
+      "unomag_name": "V.V.M / V.M.M.",
+      "variation": "IST Models"
+    },
+    {
+      "unomag_name": "V.V.M / V.M.M.",
+      "variation": "V.V.M / V.M.M."
+    },
+    {
+      "unomag_name": "V.V.M / V.M.M.",
       "variation": "Premium X"
     }
   ],
