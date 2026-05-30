@@ -30909,6 +30909,16 @@
       "supplier": "Scalebay",
       "lot_number": "9513388",
       "unomag_id": 279941
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "5731206",
+      "unomag_id": 178413
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "5713542",
+      "unomag_id": 152945
     }
   ],
   "ignored_articles": [
@@ -34579,6 +34589,14 @@
     {
       "supplier": "Scalebay",
       "article": "NAME::Bugatti Veyron black red Autoart 50901 1-43 (лот в мск)"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Bugatti Veyron grey silver Autoart 50902 1-43 (лот в мск)"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Hennessey Venom GT Spyder"
     }
   ],
   "manufacturer_map": [
