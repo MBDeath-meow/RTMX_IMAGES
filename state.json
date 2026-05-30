@@ -37529,6 +37529,31 @@
       "supplier": "Scalebay",
       "lot_number": "9414036",
       "unomag_id": 154096
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "7304350",
+      "unomag_id": 300951
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "8470578",
+      "unomag_id": 154091
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "7167898",
+      "unomag_id": 154090
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "3747043",
+      "unomag_id": 154093
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "3690230",
+      "unomag_id": 239361
     }
   ],
   "ignored_articles": [
@@ -41243,6 +41268,10 @@
     {
       "supplier": "Scalebay",
       "article": "NAME::GAZон Next. C41R13.НАП. Уценка!!!"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Автобус КамАЗ НефАЗ Мосгортранс"
     }
   ],
   "manufacturer_map": [
