@@ -32414,6 +32414,16 @@
       "supplier": "Scalebay",
       "lot_number": "7050259",
       "unomag_id": 150467
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "2511354",
+      "unomag_id": 153921
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "7845704",
+      "unomag_id": 209245
     }
   ],
   "ignored_articles": [
@@ -36180,14 +36190,6 @@
       "variation": "Minichamps"
     },
     {
-      "unomag_name": "Atlas",
-      "variation": "Atlas"
-    },
-    {
-      "unomag_name": "Atlas",
-      "variation": "Norev"
-    },
-    {
       "unomag_name": "Ebbro",
       "variation": "Ebbro"
     },
@@ -36217,14 +36219,6 @@
     },
     {
       "unomag_name": "ModelCarGroup",
-      "variation": "IST Models"
-    },
-    {
-      "unomag_name": "Foxtoys",
-      "variation": "Foxtoys"
-    },
-    {
-      "unomag_name": "Foxtoys",
       "variation": "IST Models"
     },
     {
@@ -36358,6 +36352,22 @@
     {
       "unomag_name": "V.V.M / V.M.M.",
       "variation": "Premium X"
+    },
+    {
+      "unomag_name": "Foxtoys",
+      "variation": "Foxtoys"
+    },
+    {
+      "unomag_name": "Foxtoys",
+      "variation": "IST Models"
+    },
+    {
+      "unomag_name": "Atlas",
+      "variation": "Atlas"
+    },
+    {
+      "unomag_name": "Atlas",
+      "variation": "IST Models"
     }
   ],
   "suppliers": [
