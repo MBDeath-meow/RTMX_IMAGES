@@ -37674,6 +37674,36 @@
       "supplier": "Scalebay",
       "lot_number": "7773488",
       "unomag_id": 215681
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "2500423",
+      "unomag_id": 180465
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "6153301",
+      "unomag_id": 181061
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "5738172",
+      "unomag_id": 158033
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "5279963",
+      "unomag_id": 158033
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "5921465",
+      "unomag_id": 158035
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "5843998",
+      "unomag_id": 158036
     }
   ],
   "ignored_articles": [
@@ -41408,6 +41438,14 @@
     {
       "supplier": "Scalebay",
       "article": "NAME::Наш автопром ЗиС-36 бортовой (зелёный) 1/43"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Наш автопром Я-4 1/43"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Шасси УРАЛ-4322, рама и кабина металл"
     }
   ],
   "manufacturer_map": [
