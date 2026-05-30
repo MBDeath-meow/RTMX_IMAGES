@@ -30734,6 +30734,46 @@
       "supplier": "Scalebay",
       "lot_number": "1823998",
       "unomag_id": 203185
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "4591687",
+      "unomag_id": 6640
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "774465",
+      "unomag_id": 188141
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "3782903",
+      "unomag_id": 152966
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "2501179",
+      "unomag_id": 6547
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "6387136",
+      "unomag_id": 6544
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "9465304",
+      "unomag_id": 150756
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "681575",
+      "unomag_id": 203113
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "9329318",
+      "unomag_id": 6543
     }
   ],
   "ignored_articles": [
@@ -34614,6 +34654,14 @@
     {
       "unomag_name": "Abrex",
       "variation": "Abrex"
+    },
+    {
+      "unomag_name": "AutoArt",
+      "variation": "AutoArt"
+    },
+    {
+      "unomag_name": "AutoArt",
+      "variation": "Autoart"
     }
   ],
   "suppliers": [
