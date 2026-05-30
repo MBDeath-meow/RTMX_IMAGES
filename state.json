@@ -40689,6 +40689,21 @@
       "supplier": "Scalebay",
       "lot_number": "1862411",
       "unomag_id": 624891
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "6811289",
+      "unomag_id": 438668
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "3036210",
+      "unomag_id": 352510
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "7221789",
+      "unomag_id": 253082
     }
   ],
   "ignored_articles": [
@@ -44575,6 +44590,10 @@
     {
       "supplier": "Scalebay",
       "article": "NAME::FERRARI 250 GT SWB 1962"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Mack B 61"
     }
   ],
   "manufacturer_map": [
