@@ -37524,6 +37524,11 @@
       "supplier": "Scalebay",
       "lot_number": "838739",
       "unomag_id": 154086
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "9414036",
+      "unomag_id": 154096
     }
   ],
   "ignored_articles": [
@@ -41234,6 +41239,10 @@
     {
       "supplier": "Scalebay",
       "article": "NAME::ЗиЛ-133ГЯ АЦ-40-181А ПОЛТАВА"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::GAZон Next. C41R13.НАП. Уценка!!!"
     }
   ],
   "manufacturer_map": [
