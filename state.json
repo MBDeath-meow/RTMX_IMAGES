@@ -40899,6 +40899,31 @@
       "supplier": "Scalebay",
       "lot_number": "1811147",
       "unomag_id": 392383
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "4819635",
+      "unomag_id": 323875
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "779023",
+      "unomag_id": 290451
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "7049948",
+      "unomag_id": 327040
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "3486439",
+      "unomag_id": 172957
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "2575974",
+      "unomag_id": 346638
     }
   ],
   "ignored_articles": [
@@ -44793,6 +44818,10 @@
     {
       "supplier": "Scalebay",
       "article": "NAME::International Lonestar 2010 united"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Lamborghini Huracan LP 610-4 . ( Altaya ) . Новое ."
     }
   ],
   "manufacturer_map": [
