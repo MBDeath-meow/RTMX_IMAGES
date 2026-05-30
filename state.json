@@ -33039,6 +33039,21 @@
       "supplier": "Scalebay",
       "lot_number": "899702",
       "unomag_id": 470904
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "288541",
+      "unomag_id": 153283
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "5154098",
+      "unomag_id": 179481
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "8943290",
+      "unomag_id": 412533
     }
   ],
   "ignored_articles": [
@@ -36737,6 +36752,14 @@
     {
       "supplier": "Scalebay",
       "article": "NAME::1967 Shelby GT500"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::SSM в боксе БТР-152К (хаки)"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::SSM. Csepel D-344.00"
     }
   ],
   "manufacturer_map": [
