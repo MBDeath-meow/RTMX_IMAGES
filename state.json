@@ -39414,6 +39414,31 @@
       "supplier": "Scalebay",
       "lot_number": "548128",
       "unomag_id": 5605
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "631772",
+      "unomag_id": 5312
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "2169822",
+      "unomag_id": 2538
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "433102",
+      "unomag_id": 323178
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "1891615",
+      "unomag_id": 333164
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "3555630",
+      "unomag_id": 483678
     }
   ],
   "ignored_articles": [
@@ -43184,6 +43209,10 @@
     {
       "supplier": "Scalebay",
       "article": "NAME::Автолегенды СССР. КИМ-10-50 № 21"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Суперкары №60 Dodge Challenger SRT-8, без упаковки"
     }
   ],
   "manufacturer_map": [
