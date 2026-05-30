@@ -40619,6 +40619,31 @@
       "supplier": "Scalebay",
       "lot_number": "8518190",
       "unomag_id": 348599
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "8383514",
+      "unomag_id": 6400
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "4838670",
+      "unomag_id": 414125
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "4258602",
+      "unomag_id": 331123
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "2237770",
+      "unomag_id": 331571
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "7559386",
+      "unomag_id": 380835
     }
   ],
   "ignored_articles": [
@@ -44501,6 +44526,10 @@
     {
       "supplier": "Scalebay",
       "article": "NAME::AMC Schneider P16 (M29) 1940"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::FERRARI 250 GT SWB 1962"
     }
   ],
   "manufacturer_map": [
