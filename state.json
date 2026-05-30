@@ -38619,6 +38619,96 @@
       "supplier": "Scalebay",
       "lot_number": "2537772",
       "unomag_id": 361018
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "6907241",
+      "unomag_id": 479942
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "3596728",
+      "unomag_id": 707013
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "3602062",
+      "unomag_id": 517440
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "1713382",
+      "unomag_id": 517440
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "9408404",
+      "unomag_id": 633012
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "7376042",
+      "unomag_id": 655998
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "3469539",
+      "unomag_id": 676327
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "8814062",
+      "unomag_id": 676327
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "6110663",
+      "unomag_id": 702041
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "4479221",
+      "unomag_id": 281175
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "2744635",
+      "unomag_id": 282037
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "555597",
+      "unomag_id": 283180
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "4858313",
+      "unomag_id": 288352
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "7205561",
+      "unomag_id": 288352
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "9575153",
+      "unomag_id": 289946
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "3709509",
+      "unomag_id": 289946
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "2632144",
+      "unomag_id": 291916
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "2802760",
+      "unomag_id": 292951
     }
   ],
   "ignored_articles": [
