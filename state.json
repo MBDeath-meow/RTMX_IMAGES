@@ -37554,6 +37554,21 @@
       "supplier": "Scalebay",
       "lot_number": "3690230",
       "unomag_id": 239361
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "3829172",
+      "unomag_id": 244068
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "2938241",
+      "unomag_id": 154098
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "3771377",
+      "unomag_id": 242431
     }
   ],
   "ignored_articles": [
@@ -41272,6 +41287,10 @@
     {
       "supplier": "Scalebay",
       "article": "NAME::Автобус КамАЗ НефАЗ Мосгортранс"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::ЗИС-6 бортовой (т.синий) Наш Автопром  М.0081"
     }
   ],
   "manufacturer_map": [
