@@ -40924,6 +40924,46 @@
       "supplier": "Scalebay",
       "lot_number": "2575974",
       "unomag_id": 346638
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "7744094",
+      "unomag_id": 185070
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "151722",
+      "unomag_id": 423048
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "3984641",
+      "unomag_id": 263277
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "3824494",
+      "unomag_id": 151847
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "9163225",
+      "unomag_id": 632716
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "2928298",
+      "unomag_id": 338193
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "3454573",
+      "unomag_id": 632712
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "5550124",
+      "unomag_id": 632714
     }
   ],
   "ignored_articles": [
@@ -44822,6 +44862,10 @@
     {
       "supplier": "Scalebay",
       "article": "NAME::Lamborghini Huracan LP 610-4 . ( Altaya ) . Новое ."
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::MERCEDES BENZ 230S  (Altaya)"
     }
   ],
   "manufacturer_map": [
