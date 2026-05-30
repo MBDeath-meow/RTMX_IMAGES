@@ -40889,6 +40889,16 @@
       "supplier": "Scalebay",
       "lot_number": "3349747",
       "unomag_id": 518285
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "5728560",
+      "unomag_id": 338206
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "1811147",
+      "unomag_id": 392383
     }
   ],
   "ignored_articles": [
@@ -44779,6 +44789,10 @@
     {
       "supplier": "Scalebay",
       "article": "NAME::Mack B 61"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::International Lonestar 2010 united"
     }
   ],
   "manufacturer_map": [
