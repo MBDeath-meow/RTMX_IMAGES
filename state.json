@@ -42259,6 +42259,16 @@
       "supplier": "Scalebay",
       "lot_number": "8782149",
       "unomag_id": 5016
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "6049724",
+      "unomag_id": 499111
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "4457456",
+      "unomag_id": 593730
     }
   ],
   "ignored_articles": [
@@ -46277,6 +46287,18 @@
     {
       "supplier": "Scalebay",
       "article": "NAME::Scania LBT 141, 1976"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::SCANIA LBT 141 1976 IXO 1:43"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "Trailer-LukWhite 1"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "43 21 319002"
     }
   ],
   "manufacturer_map": [
