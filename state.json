@@ -41239,6 +41239,26 @@
       "supplier": "Scalebay",
       "lot_number": "3969190",
       "unomag_id": 187435
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "9694230",
+      "unomag_id": 221853
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "7781480",
+      "unomag_id": 309741
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "5648375",
+      "unomag_id": 210871
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "8836042",
+      "unomag_id": 198
     }
   ],
   "ignored_articles": [
@@ -45225,6 +45245,10 @@
     {
       "supplier": "Scalebay",
       "article": "NAME::ПКС ЗИЛ-157 1982 г. Москва L.e. 144 pcs. DIP"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Модель FORD TAUNUS 17M POLIZEI Verkehrs-Unfall (Kreis Unna) 1:43"
     }
   ],
   "manufacturer_map": [
@@ -45479,10 +45503,6 @@
     {
       "unomag_name": "DeAgostini",
       "variation": "Полицейские машины мира, Deagostini"
-    },
-    {
-      "unomag_name": "DeAgostini",
-      "variation": "MODIMIO"
     }
   ],
   "suppliers": [
