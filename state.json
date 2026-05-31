@@ -41274,6 +41274,26 @@
       "supplier": "Scalebay",
       "lot_number": "4274710",
       "unomag_id": 222858
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "5765474",
+      "unomag_id": 676327
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "8742215",
+      "unomag_id": 190847
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "70288",
+      "unomag_id": 329975
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "857329",
+      "unomag_id": 203768
     }
   ],
   "ignored_articles": [
@@ -45264,6 +45284,10 @@
     {
       "supplier": "Scalebay",
       "article": "NAME::Модель FORD TAUNUS 17M POLIZEI Verkehrs-Unfall (Kreis Unna) 1:43"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Модель тягач LIAZ - Skoda 110  КИТ 1/43 АВД"
     }
   ],
   "manufacturer_map": [
