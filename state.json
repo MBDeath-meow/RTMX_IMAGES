@@ -41229,6 +41229,16 @@
       "supplier": "Scalebay",
       "lot_number": "4481960",
       "unomag_id": 181035
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "1151674",
+      "unomag_id": 513396
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "3969190",
+      "unomag_id": 187435
     }
   ],
   "ignored_articles": [
@@ -45411,14 +45421,6 @@
       "variation": "atlas"
     },
     {
-      "unomag_name": "Start Scale Models",
-      "variation": "Start Scale Models"
-    },
-    {
-      "unomag_name": "Start Scale Models",
-      "variation": "Start Scale Models (SSM)"
-    },
-    {
       "unomag_name": "ArModel",
       "variation": "ArModel"
     },
@@ -45433,18 +45435,6 @@
     {
       "unomag_name": "Altaya",
       "variation": "DeAgostini"
-    },
-    {
-      "unomag_name": "DeAgostini",
-      "variation": "DeAgostini"
-    },
-    {
-      "unomag_name": "DeAgostini",
-      "variation": "Автолегенды СССР журнал от DeAgostini"
-    },
-    {
-      "unomag_name": "DeAgostini",
-      "variation": "Полицейские машины мира, Deagostini"
     },
     {
       "unomag_name": "IXO",
@@ -45471,8 +45461,28 @@
       "variation": "Modimio"
     },
     {
-      "unomag_name": "Modimio",
+      "unomag_name": "Start Scale Models",
+      "variation": "Start Scale Models"
+    },
+    {
+      "unomag_name": "Start Scale Models",
       "variation": "Start Scale Models (SSM)"
+    },
+    {
+      "unomag_name": "DeAgostini",
+      "variation": "DeAgostini"
+    },
+    {
+      "unomag_name": "DeAgostini",
+      "variation": "Автолегенды СССР журнал от DeAgostini"
+    },
+    {
+      "unomag_name": "DeAgostini",
+      "variation": "Полицейские машины мира, Deagostini"
+    },
+    {
+      "unomag_name": "DeAgostini",
+      "variation": "MODIMIO"
     }
   ],
   "suppliers": [
