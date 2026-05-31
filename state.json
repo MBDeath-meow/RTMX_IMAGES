@@ -41259,6 +41259,21 @@
       "supplier": "Scalebay",
       "lot_number": "8836042",
       "unomag_id": 198
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "6685166",
+      "unomag_id": 477066
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "2704856",
+      "unomag_id": 486775
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "4274710",
+      "unomag_id": 222858
     }
   ],
   "ignored_articles": [
@@ -45477,14 +45492,6 @@
       "variation": "IXO грузовики (серии TRU)"
     },
     {
-      "unomag_name": "Modimio",
-      "variation": "MODIMIO"
-    },
-    {
-      "unomag_name": "Modimio",
-      "variation": "Modimio"
-    },
-    {
       "unomag_name": "Start Scale Models",
       "variation": "Start Scale Models"
     },
@@ -45503,6 +45510,30 @@
     {
       "unomag_name": "DeAgostini",
       "variation": "Полицейские машины мира, Deagostini"
+    },
+    {
+      "unomag_name": "Советский Автобус (СОВА)",
+      "variation": "Советский Автобус (СОВА)"
+    },
+    {
+      "unomag_name": "Советский Автобус (СОВА)",
+      "variation": "MODIMIO"
+    },
+    {
+      "unomag_name": "Наши Грузовики",
+      "variation": "Наши Грузовики"
+    },
+    {
+      "unomag_name": "Наши Грузовики",
+      "variation": "MODIMIO"
+    },
+    {
+      "unomag_name": "Modimio",
+      "variation": "MODIMIO"
+    },
+    {
+      "unomag_name": "Modimio",
+      "variation": "Modimio"
     }
   ],
   "suppliers": [
