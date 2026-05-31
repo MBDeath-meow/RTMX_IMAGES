@@ -42064,6 +42064,26 @@
       "supplier": "Scalebay",
       "lot_number": "8732321",
       "unomag_id": 4084
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "8194869",
+      "unomag_id": 181779
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "7171550",
+      "unomag_id": 4079
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "5752914",
+      "unomag_id": 360852
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "8532247",
+      "unomag_id": 398293
     }
   ],
   "ignored_articles": [
@@ -46066,6 +46086,10 @@
     {
       "supplier": "Scalebay",
       "article": "NAME::Corvette C60R #73 Le Mans 2009 (179)"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "MB100-body"
     }
   ],
   "manufacturer_map": [
