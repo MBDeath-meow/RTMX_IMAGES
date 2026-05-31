@@ -41684,6 +41684,21 @@
       "supplier": "Scalebay",
       "lot_number": "981939",
       "unomag_id": 4048
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "8536093",
+      "unomag_id": 158125
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "6313525",
+      "unomag_id": 158126
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "1229437",
+      "unomag_id": 7878
     }
   ],
   "ignored_articles": [
@@ -45682,6 +45697,10 @@
     {
       "supplier": "Scalebay",
       "article": "NAME::1/43 ISO Isetta 1000 MIGLIA-1954 (BMW Isetta) Из журналки 2012 года, журнала нет."
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Corvette C60R #73 Le Mans 2009 (179)"
     }
   ],
   "manufacturer_map": [
