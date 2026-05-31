@@ -42099,6 +42099,36 @@
       "supplier": "Scalebay",
       "lot_number": "1300027",
       "unomag_id": 461790
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "3863689",
+      "unomag_id": 499120
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "9264277",
+      "unomag_id": 350232
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "8110828",
+      "unomag_id": 525322
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "7982041",
+      "unomag_id": 494827
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "8654056",
+      "unomag_id": 491370
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "9757116",
+      "unomag_id": 437749
     }
   ],
   "ignored_articles": [
@@ -46105,6 +46135,14 @@
     {
       "supplier": "Scalebay",
       "article": "MB100-body"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "Trailer-eM-IXOtranskit1"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "Trailer-eM-KoegelSTA 1"
     }
   ],
   "manufacturer_map": [
