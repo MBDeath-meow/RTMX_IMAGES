@@ -45195,6 +45195,26 @@
     {
       "supplier": "Scalebay",
       "article": "CAMAMES46-1"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::ГЗСА-3704 ’Хлеб’, 1985 г.,DIP"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::ЗИЛ-164 DIP Models"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::ЗИС-151 Техпомощь (DiP+Мастер Колесов)"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::ЗИС-151 Техпомощь (DiP+Мастер Колесов)."
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::ПКС ЗИЛ-157 1982 г. Москва L.e. 144 pcs. DIP"
     }
   ],
   "manufacturer_map": [
@@ -45309,14 +45329,6 @@
     {
       "unomag_name": "Автоистория (АИСТ)",
       "variation": "Автоистория (АИСТ)"
-    },
-    {
-      "unomag_name": "Modimio",
-      "variation": "Modimio"
-    },
-    {
-      "unomag_name": "Modimio",
-      "variation": "MODIMIO"
     },
     {
       "unomag_name": "Hachette",
@@ -45449,6 +45461,18 @@
     {
       "unomag_name": "IXO",
       "variation": "IXO грузовики (серии TRU)"
+    },
+    {
+      "unomag_name": "Modimio",
+      "variation": "MODIMIO"
+    },
+    {
+      "unomag_name": "Modimio",
+      "variation": "Modimio"
+    },
+    {
+      "unomag_name": "Modimio",
+      "variation": "Start Scale Models (SSM)"
     }
   ],
   "suppliers": [
