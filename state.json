@@ -42224,6 +42224,41 @@
       "supplier": "Scalebay",
       "lot_number": "8150434",
       "unomag_id": 389449
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "7713345",
+      "unomag_id": 397198
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "4474975",
+      "unomag_id": 199347
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "3159444",
+      "unomag_id": 267782
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "7699023",
+      "unomag_id": 4055
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "1723776",
+      "unomag_id": 153005
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "5699452",
+      "unomag_id": 360633
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "8782149",
+      "unomag_id": 5016
     }
   ],
   "ignored_articles": [
@@ -46238,6 +46273,10 @@
     {
       "supplier": "Scalebay",
       "article": "Trailer-eM-KoegelSTA 1"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Scania LBT 141, 1976"
     }
   ],
   "manufacturer_map": [
