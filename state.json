@@ -46644,6 +46644,26 @@
       "supplier": "Scalebay",
       "lot_number": "1502879",
       "unomag_id": 4006
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "1876506",
+      "unomag_id": 477489
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "7159149",
+      "unomag_id": 152190
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "1482084",
+      "unomag_id": 222358
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "545038",
+      "unomag_id": 593124
     }
   ],
   "ignored_articles": [
@@ -50742,6 +50762,14 @@
     {
       "supplier": "Scalebay",
       "article": "NAME::Модель Audi 50 60 80 Minichamps 1/43"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Mack Superliner . (IXO) . Новое ."
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Mack R-Series Stars Stripes  . (IXO) . Новое ."
     }
   ],
   "manufacturer_map": [
