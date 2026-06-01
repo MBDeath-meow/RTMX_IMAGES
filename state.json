@@ -46324,6 +46324,11 @@
       "supplier": "Scalebay",
       "lot_number": "3394372",
       "unomag_id": 2070
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "3367969",
+      "unomag_id": 154447
     }
   ],
   "ignored_articles": [
@@ -50610,22 +50615,6 @@
       "variation": "DeAgostini"
     },
     {
-      "unomag_name": "IXO",
-      "variation": "IXO"
-    },
-    {
-      "unomag_name": "IXO",
-      "variation": "IXO Rally (серии RAC, RAM)"
-    },
-    {
-      "unomag_name": "IXO",
-      "variation": "IXO Road (серии MOC, CLC)"
-    },
-    {
-      "unomag_name": "IXO",
-      "variation": "IXO грузовики (серии TRU)"
-    },
-    {
       "unomag_name": "Start Scale Models",
       "variation": "Start Scale Models"
     },
@@ -50728,6 +50717,22 @@
     {
       "unomag_name": "Altaya",
       "variation": "Автоистория (АИСТ)"
+    },
+    {
+      "unomag_name": "IXO",
+      "variation": "IXO"
+    },
+    {
+      "unomag_name": "IXO",
+      "variation": "IXO Rally (серии RAC, RAM)"
+    },
+    {
+      "unomag_name": "IXO",
+      "variation": "IXO Road (серии MOC, CLC)"
+    },
+    {
+      "unomag_name": "IXO",
+      "variation": "IXO грузовики (серии TRU)"
     }
   ],
   "suppliers": [
