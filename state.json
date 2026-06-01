@@ -43839,6 +43839,21 @@
       "supplier": "Scalebay",
       "lot_number": "443326",
       "unomag_id": 159049
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "4217076",
+      "unomag_id": 173556
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "5651818",
+      "unomag_id": 173667
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "697922",
+      "unomag_id": 176301
     }
   ],
   "ignored_articles": [
@@ -47893,6 +47908,22 @@
     {
       "supplier": "Scalebay",
       "article": "NAME::FERRARI 360 Modena"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Модель танка Matilda Eaglemoss"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Модель Ferrari 599 GTB Fiorano 1/43"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Ferrari FXX  (Ferrari Collection №2) 1/43"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Ferrari 312P (Ferrari Collection №53) 1/43"
     }
   ],
   "manufacturer_map": [
