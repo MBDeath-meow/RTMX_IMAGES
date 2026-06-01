@@ -44839,6 +44839,76 @@
       "supplier": "Scalebay",
       "lot_number": "1785620",
       "unomag_id": 501382
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "1931961",
+      "unomag_id": 156557
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "9289684",
+      "unomag_id": 156557
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "2655218",
+      "unomag_id": 186634
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "8661895",
+      "unomag_id": 194321
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "5880462",
+      "unomag_id": 292741
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "1056143",
+      "unomag_id": 392266
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "5791530",
+      "unomag_id": 392266
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "8300649",
+      "unomag_id": 156328
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "2978376",
+      "unomag_id": 172743
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "8886972",
+      "unomag_id": 457651
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "8256752",
+      "unomag_id": 179520
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "3435500",
+      "unomag_id": 291854
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "815768",
+      "unomag_id": 242509
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "9610120",
+      "unomag_id": 213590
     }
   ],
   "ignored_articles": [
@@ -49227,6 +49297,10 @@
     {
       "unomag_name": "Solido",
       "variation": "Solido"
+    },
+    {
+      "unomag_name": "Kyosho",
+      "variation": "Kyosho"
     }
   ],
   "suppliers": [
