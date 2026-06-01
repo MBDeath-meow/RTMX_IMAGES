@@ -45064,6 +45064,26 @@
       "supplier": "Scalebay",
       "lot_number": "217176",
       "unomag_id": 184633
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "120385",
+      "unomag_id": 173864
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "6248131",
+      "unomag_id": 154434
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "9863525",
+      "unomag_id": 179589
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "970842",
+      "unomag_id": 177228
     }
   ],
   "ignored_articles": [
@@ -49434,10 +49454,6 @@
       "variation": "Schuco"
     },
     {
-      "unomag_name": "Norev",
-      "variation": "Norev"
-    },
-    {
       "unomag_name": "Vitesse",
       "variation": "Vitesse"
     },
@@ -49460,6 +49476,10 @@
     {
       "unomag_name": "White Box",
       "variation": "WhiteBox"
+    },
+    {
+      "unomag_name": "Norev",
+      "variation": "Norev"
     }
   ],
   "suppliers": [
