@@ -43614,6 +43614,26 @@
       "supplier": "Scalebay",
       "lot_number": "3045600",
       "unomag_id": 152461
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "3607410",
+      "unomag_id": 199822
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "9882254",
+      "unomag_id": 174651
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "7273202",
+      "unomag_id": 198575
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "3946749",
+      "unomag_id": 157284
     }
   ],
   "ignored_articles": [
@@ -47652,6 +47672,10 @@
     {
       "supplier": "Scalebay",
       "article": "NAME::lincoln Premier Hardtop 1956"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::BMW Z4 M COUPE 2009 1-43 NEO 44465"
     }
   ],
   "manufacturer_map": [
