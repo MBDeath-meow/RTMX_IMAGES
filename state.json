@@ -44544,6 +44544,16 @@
       "supplier": "Scalebay",
       "lot_number": "4052232",
       "unomag_id": 175534
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "3585314",
+      "unomag_id": 173874
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "2590280",
+      "unomag_id": 174257
     }
   ],
   "ignored_articles": [
@@ -48630,6 +48640,10 @@
     {
       "supplier": "Scalebay",
       "article": "NAME::CITROEN Traction 7 de Pre-serie 1934    (NOREV)"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::VITESSE PROM - TRUCK - VAN UPS UNITED PARCEL SERVICE,1:50"
     }
   ],
   "manufacturer_map": [
