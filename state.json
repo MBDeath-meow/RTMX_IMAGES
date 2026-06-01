@@ -44279,6 +44279,11 @@
       "supplier": "Scalebay",
       "lot_number": "5035536",
       "unomag_id": 180816
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "6512110",
+      "unomag_id": 4328
     }
   ],
   "ignored_articles": [
@@ -48651,6 +48656,10 @@
     {
       "unomag_name": "Norev",
       "variation": "Norev"
+    },
+    {
+      "unomag_name": "Vitesse",
+      "variation": "Vitesse"
     }
   ],
   "suppliers": [
