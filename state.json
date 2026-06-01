@@ -43719,6 +43719,36 @@
       "supplier": "Scalebay",
       "lot_number": "8751795",
       "unomag_id": 5843
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "9939182",
+      "unomag_id": 5425
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "6235664",
+      "unomag_id": 179425
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "4591216",
+      "unomag_id": 7620
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "5124665",
+      "unomag_id": 151015
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "9753271",
+      "unomag_id": 7619
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "437437",
+      "unomag_id": 7613
     }
   ],
   "ignored_articles": [
@@ -47765,6 +47795,10 @@
     {
       "supplier": "Scalebay",
       "article": "FC023"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Eaglemoss. Delorean. DMC-12"
     }
   ],
   "manufacturer_map": [
