@@ -45024,6 +45024,46 @@
       "supplier": "Scalebay",
       "lot_number": "7355893",
       "unomag_id": 151185
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "7331074",
+      "unomag_id": 188936
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "7115617",
+      "unomag_id": 179098
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "3062490",
+      "unomag_id": 177230
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "8343106",
+      "unomag_id": 175859
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "678843",
+      "unomag_id": 158523
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "3188244",
+      "unomag_id": 157117
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "5906002",
+      "unomag_id": 150108
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "217176",
+      "unomag_id": 184633
     }
   ],
   "ignored_articles": [
@@ -49218,14 +49258,6 @@
       "variation": "IST Models"
     },
     {
-      "unomag_name": "White Box",
-      "variation": "White Box"
-    },
-    {
-      "unomag_name": "White Box",
-      "variation": "WhiteBox"
-    },
-    {
       "unomag_name": "Автоистория (АИСТ)",
       "variation": "Автоистория (АИСТ)"
     },
@@ -49420,6 +49452,14 @@
     {
       "unomag_name": "J-Collection",
       "variation": "J-Collection"
+    },
+    {
+      "unomag_name": "White Box",
+      "variation": "White Box"
+    },
+    {
+      "unomag_name": "White Box",
+      "variation": "WhiteBox"
     }
   ],
   "suppliers": [
