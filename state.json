@@ -44114,6 +44114,26 @@
       "supplier": "Scalebay",
       "lot_number": "6993536",
       "unomag_id": 358740
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "5139449",
+      "unomag_id": 203748
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "982430",
+      "unomag_id": 158761
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "1886738",
+      "unomag_id": 365694
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "1633551",
+      "unomag_id": 358768
     }
   ],
   "ignored_articles": [
@@ -48184,6 +48204,10 @@
     {
       "supplier": "Scalebay",
       "article": "NAME::Ferrari 312P (Ferrari Collection №53) 1/43"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Hanomag Kommisbrott (Schuco)"
     }
   ],
   "manufacturer_map": [
