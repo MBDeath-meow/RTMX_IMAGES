@@ -43634,6 +43634,41 @@
       "supplier": "Scalebay",
       "lot_number": "3946749",
       "unomag_id": 157284
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "4304118",
+      "unomag_id": 2075
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "9661295",
+      "unomag_id": 174204
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "4260462",
+      "unomag_id": 154627
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "4840405",
+      "unomag_id": 151011
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "660665",
+      "unomag_id": 154625
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "6432524",
+      "unomag_id": 7613
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "3209813",
+      "unomag_id": 5424
     }
   ],
   "ignored_articles": [
@@ -47676,6 +47711,10 @@
     {
       "supplier": "Scalebay",
       "article": "NAME::BMW Z4 M COUPE 2009 1-43 NEO 44465"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "FC023"
     }
   ],
   "manufacturer_map": [
@@ -47954,6 +47993,10 @@
     {
       "unomag_name": "DeAgostini",
       "variation": "MODIMIO"
+    },
+    {
+      "unomag_name": "Eaglemoss",
+      "variation": "Eaglemoss"
     }
   ],
   "suppliers": [
