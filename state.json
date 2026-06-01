@@ -45444,6 +45444,46 @@
       "supplier": "Scalebay",
       "lot_number": "6243605",
       "unomag_id": 203722
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "1101870",
+      "unomag_id": 185129
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "8306895",
+      "unomag_id": 184038
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "5945597",
+      "unomag_id": 218622
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "3094295",
+      "unomag_id": 204117
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "3476098",
+      "unomag_id": 320107
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "1028243",
+      "unomag_id": 325284
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "7493564",
+      "unomag_id": 190515
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "4741940",
+      "unomag_id": 465520
     }
   ],
   "ignored_articles": [
@@ -49538,6 +49578,10 @@
     {
       "supplier": "Scalebay",
       "article": "4055"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Модель Audi 50 60 80 Minichamps 1/43"
     }
   ],
   "manufacturer_map": [
