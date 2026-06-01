@@ -44259,6 +44259,11 @@
       "supplier": "Scalebay",
       "lot_number": "1880918",
       "unomag_id": 185827
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "7387117",
+      "unomag_id": 342143
     }
   ],
   "ignored_articles": [
@@ -48341,6 +48346,10 @@
     {
       "supplier": "Scalebay",
       "article": "B66960113"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::CITROEN Traction 7 de Pre-serie 1934    (NOREV)"
     }
   ],
   "manufacturer_map": [
