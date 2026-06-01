@@ -44954,6 +44954,16 @@
       "supplier": "Scalebay",
       "lot_number": "8325100",
       "unomag_id": 174497
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "3732412",
+      "unomag_id": 265383
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "319750",
+      "unomag_id": 151201
     }
   ],
   "ignored_articles": [
@@ -49346,6 +49356,10 @@
     {
       "unomag_name": "Kyosho",
       "variation": "Kyosho"
+    },
+    {
+      "unomag_name": "J-Collection",
+      "variation": "J-Collection"
     }
   ],
   "suppliers": [
