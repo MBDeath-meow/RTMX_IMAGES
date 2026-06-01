@@ -43804,6 +43804,41 @@
       "supplier": "Scalebay",
       "lot_number": "9408905",
       "unomag_id": 151030
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "1467385",
+      "unomag_id": 5424
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "6412697",
+      "unomag_id": 151012
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "1157021",
+      "unomag_id": 151035
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "1154034",
+      "unomag_id": 154621
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "6104114",
+      "unomag_id": 151019
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "9247421",
+      "unomag_id": 5606
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "443326",
+      "unomag_id": 159049
     }
   ],
   "ignored_articles": [
@@ -47854,6 +47889,10 @@
     {
       "supplier": "Scalebay",
       "article": "NAME::Eaglemoss. Delorean. DMC-12"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::FERRARI 360 Modena"
     }
   ],
   "manufacturer_map": [
