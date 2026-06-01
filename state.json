@@ -43479,6 +43479,36 @@
       "supplier": "Scalebay",
       "lot_number": "2269356",
       "unomag_id": 158675
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "7538060",
+      "unomag_id": 172826
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "6102840",
+      "unomag_id": 152471
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "2045745",
+      "unomag_id": 175127
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "2827293",
+      "unomag_id": 7945
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "8583010",
+      "unomag_id": 178178
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "4828329",
+      "unomag_id": 154482
     }
   ],
   "ignored_articles": [
@@ -47509,6 +47539,14 @@
     {
       "supplier": "Scalebay",
       "article": "43 21 319002"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::lancia Hyena Zagato зелёный"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::lincoln Premier Hardtop 1956"
     }
   ],
   "manufacturer_map": [
