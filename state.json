@@ -45154,6 +45154,21 @@
       "supplier": "Scalebay",
       "lot_number": "6053293",
       "unomag_id": 179229
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "9195763",
+      "unomag_id": 288253
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "2015374",
+      "unomag_id": 584023
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "4710263",
+      "unomag_id": 415969
     }
   ],
   "ignored_articles": [
@@ -49436,14 +49451,6 @@
       "variation": "DeAgostini"
     },
     {
-      "unomag_name": "Altaya",
-      "variation": "Altaya"
-    },
-    {
-      "unomag_name": "Altaya",
-      "variation": "DeAgostini"
-    },
-    {
       "unomag_name": "IXO",
       "variation": "IXO"
     },
@@ -49504,10 +49511,6 @@
       "variation": "Modimio"
     },
     {
-      "unomag_name": "Altaya",
-      "variation": "Hachette"
-    },
-    {
       "unomag_name": "DeAgostini",
       "variation": "MODIMIO"
     },
@@ -49550,6 +49553,22 @@
     {
       "unomag_name": "Ebbro",
       "variation": "Ebbro"
+    },
+    {
+      "unomag_name": "Altaya",
+      "variation": "Altaya"
+    },
+    {
+      "unomag_name": "Altaya",
+      "variation": "DeAgostini"
+    },
+    {
+      "unomag_name": "Altaya",
+      "variation": "Hachette"
+    },
+    {
+      "unomag_name": "Altaya",
+      "variation": "Автоистория (АИСТ)"
     }
   ],
   "suppliers": [
