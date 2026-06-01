@@ -44219,6 +44219,36 @@
       "supplier": "Scalebay",
       "lot_number": "1256747",
       "unomag_id": 389545
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "7783573",
+      "unomag_id": 480242
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "4410817",
+      "unomag_id": 153721
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "5343472",
+      "unomag_id": 4376
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "4653054",
+      "unomag_id": 173688
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "7426639",
+      "unomag_id": 695698
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "2841537",
+      "unomag_id": 673410
     }
   ],
   "ignored_articles": [
@@ -48297,6 +48327,10 @@
     {
       "supplier": "Scalebay",
       "article": "NAME::MERCEDES BENZ A KLASSE  SCHUCO 1/43"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "B66960113"
     }
   ],
   "manufacturer_map": [
@@ -48403,10 +48437,6 @@
     {
       "unomag_name": "White Box",
       "variation": "WhiteBox"
-    },
-    {
-      "unomag_name": "Norev",
-      "variation": "Norev"
     },
     {
       "unomag_name": "Автоистория (АИСТ)",
@@ -48583,6 +48613,10 @@
     {
       "unomag_name": "Schuco",
       "variation": "Schuco"
+    },
+    {
+      "unomag_name": "Norev",
+      "variation": "Norev"
     }
   ],
   "suppliers": [
