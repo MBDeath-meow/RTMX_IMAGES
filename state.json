@@ -44134,6 +44134,26 @@
       "supplier": "Scalebay",
       "lot_number": "1633551",
       "unomag_id": 358768
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "6705656",
+      "unomag_id": 152822
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "3465348",
+      "unomag_id": 178057
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "283288",
+      "unomag_id": 436967
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "4044983",
+      "unomag_id": 151722
     }
   ],
   "ignored_articles": [
@@ -48208,6 +48228,10 @@
     {
       "supplier": "Scalebay",
       "article": "NAME::Hanomag Kommisbrott (Schuco)"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::MERCEDES BENZ A KLASSE  SCHUCO 1/43"
     }
   ],
   "manufacturer_map": [
