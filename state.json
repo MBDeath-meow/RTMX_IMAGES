@@ -45109,6 +45109,16 @@
       "supplier": "Scalebay",
       "lot_number": "337469",
       "unomag_id": 675500
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "1882969",
+      "unomag_id": 4515
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "3722236",
+      "unomag_id": 4514
     }
   ],
   "ignored_articles": [
@@ -49271,10 +49281,6 @@
       "variation": "Minichamps"
     },
     {
-      "unomag_name": "Ebbro",
-      "variation": "Ebbro"
-    },
-    {
       "unomag_name": "Maxichamps",
       "variation": "Maxichamps"
     },
@@ -49505,6 +49511,10 @@
     {
       "unomag_name": "Norev",
       "variation": "Norev"
+    },
+    {
+      "unomag_name": "Ebbro",
+      "variation": "Ebbro"
     }
   ],
   "suppliers": [
