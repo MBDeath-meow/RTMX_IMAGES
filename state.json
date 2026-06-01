@@ -43999,6 +43999,31 @@
       "supplier": "Scalebay",
       "lot_number": "1139728",
       "unomag_id": 5844
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "4750960",
+      "unomag_id": 189661
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "5881546",
+      "unomag_id": 189300
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "4440505",
+      "unomag_id": 194386
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "4434396",
+      "unomag_id": 191879
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "2198101",
+      "unomag_id": 203978
     }
   ],
   "ignored_articles": [
@@ -48351,6 +48376,10 @@
     {
       "unomag_name": "Eaglemoss",
       "variation": "Eaglemoss"
+    },
+    {
+      "unomag_name": "Schuco",
+      "variation": "Schuco"
     }
   ],
   "suppliers": [
