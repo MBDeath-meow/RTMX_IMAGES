@@ -46869,6 +46869,11 @@
       "supplier": "Scalebay",
       "lot_number": "3297409",
       "unomag_id": 717508
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "6137786",
+      "unomag_id": 289781
     }
   ],
   "ignored_articles": [
@@ -51003,6 +51008,10 @@
     {
       "supplier": "Scalebay",
       "article": "NAME::Кузов Tatra s3"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "CLC151"
     }
   ],
   "manufacturer_map": [
