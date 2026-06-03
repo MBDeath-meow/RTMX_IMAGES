@@ -46774,6 +46774,16 @@
       "supplier": "Scalebay",
       "lot_number": "775738",
       "unomag_id": 181574
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "4156820",
+      "unomag_id": 158037
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "327849",
+      "unomag_id": 181061
     }
   ],
   "ignored_articles": [
@@ -50896,6 +50906,10 @@
     {
       "supplier": "Scalebay",
       "article": "NAME::КИМ-10-51"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Маз 504А синий + полуприцеп маз 5205"
     }
   ],
   "manufacturer_map": [
