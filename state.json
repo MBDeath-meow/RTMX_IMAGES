@@ -46664,6 +46664,46 @@
       "supplier": "Scalebay",
       "lot_number": "6594388",
       "unomag_id": 701542
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "4597193",
+      "unomag_id": 654955
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "8313411",
+      "unomag_id": 680101
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "4858911",
+      "unomag_id": 280346
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "4300874",
+      "unomag_id": 173724
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "4027587",
+      "unomag_id": 179550
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "9578423",
+      "unomag_id": 714392
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "1122098",
+      "unomag_id": 630206
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "3365854",
+      "unomag_id": 410833
     }
   ],
   "ignored_articles": [
@@ -50774,6 +50814,10 @@
     {
       "supplier": "Scalebay",
       "article": "SSM4003"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Полуприцеп Fruehauf Savoyarde SSM"
     }
   ],
   "manufacturer_map": [
