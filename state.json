@@ -46704,6 +46704,21 @@
       "supplier": "Scalebay",
       "lot_number": "3365854",
       "unomag_id": 410833
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "5437090",
+      "unomag_id": 184494
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "8824638",
+      "unomag_id": 338228
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "8365734",
+      "unomag_id": 636031
     }
   ],
   "ignored_articles": [
@@ -50818,6 +50833,10 @@
     {
       "supplier": "Scalebay",
       "article": "NAME::Полуприцеп Fruehauf Savoyarde SSM"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::МАЗ-6422 поздний, зеленая кабина"
     }
   ],
   "manufacturer_map": [
