@@ -46784,6 +46784,16 @@
       "supplier": "Scalebay",
       "lot_number": "327849",
       "unomag_id": 181061
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "732088",
+      "unomag_id": 386
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "493210",
+      "unomag_id": 222632
     }
   ],
   "ignored_articles": [
@@ -50910,6 +50920,14 @@
     {
       "supplier": "Scalebay",
       "article": "NAME::Маз 504А синий + полуприцеп маз 5205"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::С42А31 Горький Садко Некст Фермер"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Кузов Tatra s3"
     }
   ],
   "manufacturer_map": [
