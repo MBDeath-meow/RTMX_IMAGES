@@ -46719,6 +46719,31 @@
       "supplier": "Scalebay",
       "lot_number": "8365734",
       "unomag_id": 636031
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "2421853",
+      "unomag_id": 283941
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "3032881",
+      "unomag_id": 707014
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "409735",
+      "unomag_id": 179752
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "7637486",
+      "unomag_id": 176942
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "894928",
+      "unomag_id": 178549
     }
   ],
   "ignored_articles": [
@@ -50837,6 +50862,10 @@
     {
       "supplier": "Scalebay",
       "article": "NAME::МАЗ-6422 поздний, зеленая кабина"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::КИМ-10-51"
     }
   ],
   "manufacturer_map": [
