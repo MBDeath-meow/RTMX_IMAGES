@@ -48019,6 +48019,51 @@
       "supplier": "Scalebay",
       "lot_number": "2840889",
       "unomag_id": 208595
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "3556461",
+      "unomag_id": 202113
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "4746192",
+      "unomag_id": 205665
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "1573019",
+      "unomag_id": 180053
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "5915946",
+      "unomag_id": 196966
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "9397746",
+      "unomag_id": 259860
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "2432314",
+      "unomag_id": 186185
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "2191379",
+      "unomag_id": 189000
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "6157756",
+      "unomag_id": 189000
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "2316337",
+      "unomag_id": 205223
     }
   ],
   "ignored_articles": [
@@ -52733,6 +52778,22 @@
     {
       "supplier": "Scalebay",
       "article": "NAME::Москвич 400-422"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::МТЗ-2"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::ЛТЗ-155"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Карлик"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Коломенец-1"
     }
   ],
   "manufacturer_map": [
