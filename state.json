@@ -47909,6 +47909,36 @@
       "supplier": "Scalebay",
       "lot_number": "821319",
       "unomag_id": 173115
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "8253812",
+      "unomag_id": 210866
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "7097346",
+      "unomag_id": 181089
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "2411264",
+      "unomag_id": 182992
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "126436",
+      "unomag_id": 182738
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "3848295",
+      "unomag_id": 192715
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "9554077",
+      "unomag_id": 178358
     }
   ],
   "ignored_articles": [
@@ -52543,6 +52573,26 @@
     {
       "supplier": "Scalebay",
       "article": "NAME::ЗРК Куб"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::ХТЗ-Т2Г"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::ХТЗ-7"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Фордзон-Путиловец"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Универсал-1"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Универсал"
     }
   ],
   "manufacturer_map": [
