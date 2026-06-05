@@ -47939,6 +47939,41 @@
       "supplier": "Scalebay",
       "lot_number": "9554077",
       "unomag_id": 178358
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "3587283",
+      "unomag_id": 193845
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "2907746",
+      "unomag_id": 184484
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "4737147",
+      "unomag_id": 181089
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "620149",
+      "unomag_id": 206784
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "5553134",
+      "unomag_id": 253198
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "2560790",
+      "unomag_id": 189712
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "6253087",
+      "unomag_id": 215399
     }
   ],
   "ignored_articles": [
@@ -52593,6 +52628,30 @@
     {
       "supplier": "Scalebay",
       "article": "NAME::Универсал"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::ТК-4"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::ТДТ-40"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Т-70С"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Т-54В"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Т-50В"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Т-4А"
     }
   ],
   "manufacturer_map": [
