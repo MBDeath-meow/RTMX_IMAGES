@@ -47384,6 +47384,46 @@
       "supplier": "Scalebay",
       "lot_number": "2163176",
       "unomag_id": 232204
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "8234425",
+      "unomag_id": 199
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "7148490",
+      "unomag_id": 1828
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "6942913",
+      "unomag_id": 1828
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "9809380",
+      "unomag_id": 198
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "2314825",
+      "unomag_id": 238028
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "5807147",
+      "unomag_id": 758
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "2784262",
+      "unomag_id": 69
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "5541325",
+      "unomag_id": 158547
     }
   ],
   "ignored_articles": [
@@ -51794,6 +51834,18 @@
     {
       "supplier": "Scalebay",
       "article": "NAME::ЗИЛ 4104"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::ЗИЛ-114"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::ЗИЛ-117 Deagostini"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::ЗИЛ-41047"
     }
   ],
   "manufacturer_map": [
