@@ -48119,6 +48119,36 @@
       "supplier": "Scalebay",
       "lot_number": "1452429",
       "unomag_id": 221647
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "5034357",
+      "unomag_id": 261912
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "4250804",
+      "unomag_id": 226768
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "2325957",
+      "unomag_id": 207982
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "9729205",
+      "unomag_id": 206138
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "7583609",
+      "unomag_id": 242464
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "8520664",
+      "unomag_id": 250749
     }
   ],
   "ignored_articles": [
@@ -52913,6 +52943,26 @@
     {
       "supplier": "Scalebay",
       "article": "NAME::TZ-4K-14"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::HolT"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Dutra DR-50 (Hachette трактора)"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Dutra DR-50"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Eicher ED25 1951"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Eicher Konigstiger EM 300 1960"
     }
   ],
   "manufacturer_map": [
