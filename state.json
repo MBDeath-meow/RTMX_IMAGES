@@ -47649,6 +47649,26 @@
       "supplier": "Scalebay",
       "lot_number": "6454182",
       "unomag_id": 222391
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "5941867",
+      "unomag_id": 636
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "5452223",
+      "unomag_id": 339
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "8670777",
+      "unomag_id": 183360
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "768221",
+      "unomag_id": 2068
     }
   ],
   "ignored_articles": [
@@ -52215,6 +52235,26 @@
     {
       "supplier": "Scalebay",
       "article": "NAME::ПТ-76 плавающий танк Русские танки"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Рица"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::СМЗ-С3А"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::СМЗ-С3А Deagostini"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::СМЗ-С3Д Инвалидка Deagostini"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::СУ 76М"
     }
   ],
   "manufacturer_map": [
