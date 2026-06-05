@@ -47514,6 +47514,36 @@
       "supplier": "Scalebay",
       "lot_number": "599030",
       "unomag_id": 5310
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "70764",
+      "unomag_id": 5310
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "2978817",
+      "unomag_id": 2347
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "5639561",
+      "unomag_id": 2538
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "6387018",
+      "unomag_id": 2538
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "1562902",
+      "unomag_id": 153680
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "867178",
+      "unomag_id": 5554
     }
   ],
   "ignored_articles": [
@@ -51984,6 +52014,34 @@
     {
       "supplier": "Scalebay",
       "article": "NAME::Москвич 3-5-6"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Москвич 400-420"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Москвич 400-420 ОРУД"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Москвич 400-422 фургон"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Москвич 408"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Москвич 415"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Москвич 420-422 Почта"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Москвич 420-422 почта"
     }
   ],
   "manufacturer_map": [
