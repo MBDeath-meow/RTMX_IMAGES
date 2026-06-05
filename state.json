@@ -48079,6 +48079,36 @@
       "supplier": "Scalebay",
       "lot_number": "3431898",
       "unomag_id": 180953
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "4488753",
+      "unomag_id": 185608
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "7249885",
+      "unomag_id": 185608
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "7333811",
+      "unomag_id": 185608
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "6270706",
+      "unomag_id": 198569
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "143042",
+      "unomag_id": 168751
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "5317160",
+      "unomag_id": 168751
     }
   ],
   "ignored_articles": [
@@ -52813,6 +52843,26 @@
     {
       "supplier": "Scalebay",
       "article": "NAME::КТ-12"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::КД-35"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::ЗАЗ-1122 Таврия"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::ЗАЗ-1140 Таврия"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::ДТ-57"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::ДТ-54"
     }
   ],
   "manufacturer_map": [
