@@ -47999,6 +47999,26 @@
       "supplier": "Scalebay",
       "lot_number": "4813755",
       "unomag_id": 187198
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "978120",
+      "unomag_id": 187198
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "9021744",
+      "unomag_id": 180696
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "8904513",
+      "unomag_id": 319106
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "2840889",
+      "unomag_id": 208595
     }
   ],
   "ignored_articles": [
@@ -52693,6 +52713,26 @@
     {
       "supplier": "Scalebay",
       "article": "NAME::Т-28"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Т-100"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Сталинец 60"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Сталинец-60"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Сталинец-65"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Москвич 400-422"
     }
   ],
   "manufacturer_map": [
