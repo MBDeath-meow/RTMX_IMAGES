@@ -47874,6 +47874,16 @@
       "supplier": "Scalebay",
       "lot_number": "7928520",
       "unomag_id": 353746
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "8587219",
+      "unomag_id": 388493
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "8811026",
+      "unomag_id": 409725
     }
   ],
   "ignored_articles": [
@@ -52820,19 +52830,27 @@
       "variation": "Modimio"
     },
     {
-      "unomag_name": "Modimio",
+      "unomag_name": "АиФ",
+      "variation": "АиФ"
+    },
+    {
+      "unomag_name": "АиФ",
       "variation": "DeAgostini"
     },
     {
-      "unomag_name": "Modimio",
+      "unomag_name": "АиФ",
+      "variation": "MODIMIO"
+    },
+    {
+      "unomag_name": "АиФ",
       "variation": "Автолегенды СССР журнал от DeAgostini"
     },
     {
-      "unomag_name": "Modimio",
+      "unomag_name": "АиФ",
       "variation": "Полицейские машины мира, Deagostini"
     },
     {
-      "unomag_name": "Modimio",
+      "unomag_name": "АиФ",
       "variation": "Суперкары. Лучшие автомобили мира, журнал от DeAgostini"
     }
   ],
