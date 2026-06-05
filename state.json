@@ -47284,6 +47284,26 @@
       "supplier": "Scalebay",
       "lot_number": "378690",
       "unomag_id": 383508
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "5054505",
+      "unomag_id": 178079
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "2265257",
+      "unomag_id": 150381
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "3328726",
+      "unomag_id": 178079
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "1503295",
+      "unomag_id": 6445
     }
   ],
   "ignored_articles": [
@@ -51598,6 +51618,18 @@
     {
       "supplier": "Scalebay",
       "article": "NAME::Spyker C12 Spyder"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::TV 41"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Toyota GT One"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Wartburg 353 Trans"
     }
   ],
   "manufacturer_map": [
