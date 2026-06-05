@@ -47884,6 +47884,31 @@
       "supplier": "Scalebay",
       "lot_number": "8811026",
       "unomag_id": 409725
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "1807470",
+      "unomag_id": 173110
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "4837248",
+      "unomag_id": 153791
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "5071353",
+      "unomag_id": 153791
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "523498",
+      "unomag_id": 535138
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "821319",
+      "unomag_id": 173115
     }
   ],
   "ignored_articles": [
@@ -52642,22 +52667,6 @@
       "variation": "Автоистория (АИСТ)"
     },
     {
-      "unomag_name": "Hachette",
-      "variation": "Hachette"
-    },
-    {
-      "unomag_name": "Hachette",
-      "variation": "Тракторы. История, люди, машины. (Hachette collections)"
-    },
-    {
-      "unomag_name": "Hachette",
-      "variation": "MODIMIO"
-    },
-    {
-      "unomag_name": "Hachette",
-      "variation": "Modimio"
-    },
-    {
       "unomag_name": "Altaya",
       "variation": "Altaya"
     },
@@ -52834,23 +52843,35 @@
       "variation": "АиФ"
     },
     {
-      "unomag_name": "АиФ",
+      "unomag_name": "Hachette",
+      "variation": "Hachette"
+    },
+    {
+      "unomag_name": "Hachette",
+      "variation": "Тракторы. История, люди, машины. (Hachette collections)"
+    },
+    {
+      "unomag_name": "Hachette",
+      "variation": "АиФ"
+    },
+    {
+      "unomag_name": "Hachette",
       "variation": "DeAgostini"
     },
     {
-      "unomag_name": "АиФ",
+      "unomag_name": "Hachette",
       "variation": "MODIMIO"
     },
     {
-      "unomag_name": "АиФ",
+      "unomag_name": "Hachette",
       "variation": "Автолегенды СССР журнал от DeAgostini"
     },
     {
-      "unomag_name": "АиФ",
+      "unomag_name": "Hachette",
       "variation": "Полицейские машины мира, Deagostini"
     },
     {
-      "unomag_name": "АиФ",
+      "unomag_name": "Hachette",
       "variation": "Суперкары. Лучшие автомобили мира, журнал от DeAgostini"
     }
   ],
