@@ -47114,6 +47114,51 @@
       "supplier": "Scalebay",
       "lot_number": "1505392",
       "unomag_id": 6444
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "8688325",
+      "unomag_id": 1537
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "1759938",
+      "unomag_id": 7499
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "8592133",
+      "unomag_id": 1768
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "6045723",
+      "unomag_id": 1768
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "9488751",
+      "unomag_id": 153664
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "1370446",
+      "unomag_id": 6446
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "3831737",
+      "unomag_id": 2379
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "2077307",
+      "unomag_id": 2379
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "9110728",
+      "unomag_id": 2068
     }
   ],
   "ignored_articles": [
@@ -51360,6 +51405,22 @@
     {
       "supplier": "Scalebay",
       "article": "NAME::Lamborghini Countach DeAgostini 1:43"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Lamborghini Gallardo"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Lamborghini Urraco (DeAgostini)  1/43"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Lexus LF-A"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Lotus Esprit"
     }
   ],
   "manufacturer_map": [
