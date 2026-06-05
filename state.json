@@ -47049,6 +47049,36 @@
       "supplier": "Scalebay",
       "lot_number": "6468905",
       "unomag_id": 1765
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "7636390",
+      "unomag_id": 2372
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "7059576",
+      "unomag_id": 1769
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "9068418",
+      "unomag_id": 1769
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "7431683",
+      "unomag_id": 2383
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "8024177",
+      "unomag_id": 2383
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "2442828",
+      "unomag_id": 153665
     }
   ],
   "ignored_articles": [
@@ -51247,6 +51277,34 @@
     {
       "supplier": "Scalebay",
       "article": "NAME::BMW Z8"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::DUKW 353"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::FIAT 238 Minivan Carabinieri"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::FSO Polonez"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Fiat Campagnola"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Ford Transit Следственный комитет"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Gumpert Apollo (Суперкары №59) 1/43"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Jaguar E-Type 1/43"
     }
   ],
   "manufacturer_map": [
