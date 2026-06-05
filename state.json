@@ -47229,6 +47229,36 @@
       "supplier": "Scalebay",
       "lot_number": "233806",
       "unomag_id": 2376
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "2563546",
+      "unomag_id": 2376
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "3157772",
+      "unomag_id": 7501
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "6249101",
+      "unomag_id": 156296
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "1243482",
+      "unomag_id": 158087
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "2985163",
+      "unomag_id": 6446
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "3636645",
+      "unomag_id": 1766
     }
   ],
   "ignored_articles": [
@@ -51523,6 +51553,14 @@
     {
       "supplier": "Scalebay",
       "article": "NAME::PORSCHE 911 GT2 2000 (серия суперкары)"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::ROCAT TV 12F"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Rocar TV 12F"
     }
   ],
   "manufacturer_map": [
