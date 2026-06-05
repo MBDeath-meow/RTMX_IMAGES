@@ -47159,6 +47159,46 @@
       "supplier": "Scalebay",
       "lot_number": "9110728",
       "unomag_id": 2068
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "3614156",
+      "unomag_id": 2384
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "7890278",
+      "unomag_id": 2384
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "7967796",
+      "unomag_id": 156304
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "5181906",
+      "unomag_id": 1764
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "9794484",
+      "unomag_id": 2377
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "7353119",
+      "unomag_id": 2377
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "6964906",
+      "unomag_id": 156302
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "816692",
+      "unomag_id": 1539
     }
   ],
   "ignored_articles": [
@@ -51421,6 +51461,18 @@
     {
       "supplier": "Scalebay",
       "article": "NAME::Lotus Esprit"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Lotus Exige"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::M17 MGMC"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Maserati Coupe"
     }
   ],
   "manufacturer_map": [
