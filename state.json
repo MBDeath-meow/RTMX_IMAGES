@@ -47259,6 +47259,31 @@
       "supplier": "Scalebay",
       "lot_number": "3636645",
       "unomag_id": 1766
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "2551625",
+      "unomag_id": 2082
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "5778579",
+      "unomag_id": 2082
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "3519823",
+      "unomag_id": 2382
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "5588815",
+      "unomag_id": 2382
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "378690",
+      "unomag_id": 383508
     }
   ],
   "ignored_articles": [
@@ -51565,6 +51590,14 @@
     {
       "supplier": "Scalebay",
       "article": "NAME::Saleen S7 R (Суперкары №7) 1/43"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Skoda 105"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Spyker C12 Spyder"
     }
   ],
   "manufacturer_map": [
