@@ -47197,8 +47197,38 @@
     },
     {
       "supplier": "Scalebay",
-      "lot_number": "816692",
-      "unomag_id": 1539
+      "lot_number": "751157",
+      "unomag_id": 6447
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "4392057",
+      "unomag_id": 2081
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "8448846",
+      "unomag_id": 2081
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "5889673",
+      "unomag_id": 156215
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "6991019",
+      "unomag_id": 152930
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "731412",
+      "unomag_id": 2373
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "233806",
+      "unomag_id": 2376
     }
   ],
   "ignored_articles": [
@@ -51473,6 +51503,26 @@
     {
       "supplier": "Scalebay",
       "article": "NAME::Maserati Coupe"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Mercedes McLaren SLR"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::NOBLE M14  (серия «Суперкары»)"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Nysa N59"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::P50 Limousine"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::PORSCHE 911 GT2 2000 (серия суперкары)"
     }
   ],
   "manufacturer_map": [
