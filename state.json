@@ -47859,6 +47859,21 @@
       "supplier": "Scalebay",
       "lot_number": "6705191",
       "unomag_id": 152671
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "505083",
+      "unomag_id": 2167
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "241386",
+      "unomag_id": 293205
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "7928520",
+      "unomag_id": 353746
     }
   ],
   "ignored_articles": [
@@ -52617,14 +52632,6 @@
       "variation": "Автоистория (АИСТ)"
     },
     {
-      "unomag_name": "Modimio",
-      "variation": "Modimio"
-    },
-    {
-      "unomag_name": "Modimio",
-      "variation": "MODIMIO"
-    },
-    {
       "unomag_name": "Hachette",
       "variation": "Hachette"
     },
@@ -52805,23 +52812,27 @@
       "variation": "Eaglemoss"
     },
     {
-      "unomag_name": "Eaglemoss",
-      "variation": "DeAgostini"
-    },
-    {
-      "unomag_name": "Eaglemoss",
+      "unomag_name": "Modimio",
       "variation": "MODIMIO"
     },
     {
-      "unomag_name": "Eaglemoss",
+      "unomag_name": "Modimio",
+      "variation": "Modimio"
+    },
+    {
+      "unomag_name": "Modimio",
+      "variation": "DeAgostini"
+    },
+    {
+      "unomag_name": "Modimio",
       "variation": "Автолегенды СССР журнал от DeAgostini"
     },
     {
-      "unomag_name": "Eaglemoss",
+      "unomag_name": "Modimio",
       "variation": "Полицейские машины мира, Deagostini"
     },
     {
-      "unomag_name": "Eaglemoss",
+      "unomag_name": "Modimio",
       "variation": "Суперкары. Лучшие автомобили мира, журнал от DeAgostini"
     }
   ],
