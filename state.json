@@ -47469,6 +47469,31 @@
       "supplier": "Scalebay",
       "lot_number": "964907",
       "unomag_id": 842
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "2408203",
+      "unomag_id": 393114
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "1243906",
+      "unomag_id": 333160
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "8938872",
+      "unomag_id": 333160
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "4511376",
+      "unomag_id": 6455
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "9240991",
+      "unomag_id": 188097
     }
   ],
   "ignored_articles": [
@@ -51911,6 +51936,18 @@
     {
       "supplier": "Scalebay",
       "article": "NAME::КИМ 10-50"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::ЛуАЗ 967М"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Матильда"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::МК3 Черчилль"
     }
   ],
   "manufacturer_map": [
