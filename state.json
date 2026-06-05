@@ -47839,6 +47839,26 @@
       "supplier": "Scalebay",
       "lot_number": "6294993",
       "unomag_id": 159785
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "31152",
+      "unomag_id": 150473
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "9281582",
+      "unomag_id": 152668
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "9427226",
+      "unomag_id": 174212
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "6705191",
+      "unomag_id": 152671
     }
   ],
   "ignored_articles": [
@@ -52469,6 +52489,10 @@
     {
       "supplier": "Scalebay",
       "article": "NAME::Эстония 21"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::ЗРК Куб"
     }
   ],
   "manufacturer_map": [
