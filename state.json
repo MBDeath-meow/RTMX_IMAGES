@@ -47829,6 +47829,16 @@
       "supplier": "Scalebay",
       "lot_number": "9554852",
       "unomag_id": 154641
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "2974142",
+      "unomag_id": 174089
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "6294993",
+      "unomag_id": 159785
     }
   ],
   "ignored_articles": [
@@ -52455,6 +52465,10 @@
     {
       "supplier": "Scalebay",
       "article": "NAME::ФАИ"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Эстония 21"
     }
   ],
   "manufacturer_map": [
@@ -52711,10 +52725,6 @@
       "variation": "MODIMIO"
     },
     {
-      "unomag_name": "Eaglemoss",
-      "variation": "Eaglemoss"
-    },
-    {
       "unomag_name": "Schuco",
       "variation": "Schuco"
     },
@@ -52765,6 +52775,30 @@
     {
       "unomag_name": "Vitesse",
       "variation": "Vitesse"
+    },
+    {
+      "unomag_name": "Eaglemoss",
+      "variation": "Eaglemoss"
+    },
+    {
+      "unomag_name": "Eaglemoss",
+      "variation": "DeAgostini"
+    },
+    {
+      "unomag_name": "Eaglemoss",
+      "variation": "MODIMIO"
+    },
+    {
+      "unomag_name": "Eaglemoss",
+      "variation": "Автолегенды СССР журнал от DeAgostini"
+    },
+    {
+      "unomag_name": "Eaglemoss",
+      "variation": "Полицейские машины мира, Deagostini"
+    },
+    {
+      "unomag_name": "Eaglemoss",
+      "variation": "Суперкары. Лучшие автомобили мира, журнал от DeAgostini"
     }
   ],
   "suppliers": [
