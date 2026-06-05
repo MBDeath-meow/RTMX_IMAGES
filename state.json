@@ -48109,6 +48109,16 @@
       "supplier": "Scalebay",
       "lot_number": "5317160",
       "unomag_id": 168751
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "8693591",
+      "unomag_id": 261912
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "1452429",
+      "unomag_id": 221647
     }
   ],
   "ignored_articles": [
@@ -52863,6 +52873,46 @@
     {
       "supplier": "Scalebay",
       "article": "NAME::ДТ-54"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::ВАЗ 21013 Жигули"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::ВАЗ 21072 Жигули"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::ВАЗ 2108 Наташа"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::ВАЗ 21211 Нива"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::ВАЗ 21011"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Бульдозер ДТ-54"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Беларус МТЗ-1"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Warszawa M20 Hachette"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Universal 445U, Romania"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::TZ-4K-14"
     }
   ],
   "manufacturer_map": [
