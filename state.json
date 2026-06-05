@@ -47494,6 +47494,26 @@
       "supplier": "Scalebay",
       "lot_number": "9240991",
       "unomag_id": 188097
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "2405941",
+      "unomag_id": 5731
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "9774259",
+      "unomag_id": 188098
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "3592623",
+      "unomag_id": 5310
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "599030",
+      "unomag_id": 5310
     }
   ],
   "ignored_articles": [
@@ -51948,6 +51968,22 @@
     {
       "supplier": "Scalebay",
       "article": "NAME::МК3 Черчилль"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Москвич 2139"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Москвич 2143"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Москвич 2144 Истра"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Москвич 3-5-6"
     }
   ],
   "manufacturer_map": [
