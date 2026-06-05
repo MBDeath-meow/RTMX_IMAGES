@@ -47009,6 +47009,36 @@
       "supplier": "Scalebay",
       "lot_number": "7759387",
       "unomag_id": 2079
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "7549797",
+      "unomag_id": 2385
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "6317610",
+      "unomag_id": 2374
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "6912530",
+      "unomag_id": 2378
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "3981638",
+      "unomag_id": 178080
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "2084750",
+      "unomag_id": 2375
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "7540248",
+      "unomag_id": 2375
     }
   ],
   "ignored_articles": [
@@ -51187,6 +51217,26 @@
     {
       "supplier": "Scalebay",
       "article": "NAME::Aston Martin V12 Vanquish Deagostini"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Aston Martin V8 Vantage"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Aston Martin Vanquish"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Audi Q7 (DeAgostini) 1/43"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Audi RS6 (DeAgostini a6 rs 6) 1/43"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::BMW Z8"
     }
   ],
   "manufacturer_map": [
