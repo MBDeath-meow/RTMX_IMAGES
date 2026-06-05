@@ -47754,6 +47754,41 @@
       "supplier": "Scalebay",
       "lot_number": "4535609",
       "unomag_id": 1765
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "1320327",
+      "unomag_id": 154503
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "5044866",
+      "unomag_id": 156296
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "4739807",
+      "unomag_id": 1767
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "5118230",
+      "unomag_id": 152927
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "6942854",
+      "unomag_id": 152929
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "5583796",
+      "unomag_id": 153976
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "8638007",
+      "unomag_id": 153976
     }
   ],
   "ignored_articles": [
@@ -52340,6 +52375,42 @@
     {
       "supplier": "Scalebay",
       "article": "NAME::СУ 76М"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Т 12.02 Кубанец Автоклуб"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Т-26"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Т-34-42"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Т-72"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Т-80"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Танк М10"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Танк Т-90"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Танк тип 90"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::УАЗ 3171"
     }
   ],
   "manufacturer_map": [
