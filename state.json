@@ -48149,6 +48149,26 @@
       "supplier": "Scalebay",
       "lot_number": "8520664",
       "unomag_id": 250749
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "4979868",
+      "unomag_id": 206138
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "4081227",
+      "unomag_id": 207142
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "546870",
+      "unomag_id": 186666
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "9723830",
+      "unomag_id": 224777
     }
   ],
   "ignored_articles": [
@@ -52963,6 +52983,10 @@
     {
       "supplier": "Scalebay",
       "article": "NAME::Eicher Konigstiger EM 300 1960"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::ДТ-24-2"
     }
   ],
   "manufacturer_map": [
