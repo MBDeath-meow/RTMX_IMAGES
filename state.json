@@ -48064,6 +48064,21 @@
       "supplier": "Scalebay",
       "lot_number": "2316337",
       "unomag_id": 205223
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "484539",
+      "unomag_id": 220893
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "292097",
+      "unomag_id": 182451
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "3431898",
+      "unomag_id": 180953
     }
   ],
   "ignored_articles": [
@@ -52794,6 +52809,10 @@
     {
       "supplier": "Scalebay",
       "article": "NAME::Коломенец-1"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::КТ-12"
     }
   ],
   "manufacturer_map": [
