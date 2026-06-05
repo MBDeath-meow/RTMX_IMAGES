@@ -47604,6 +47604,21 @@
       "supplier": "Scalebay",
       "lot_number": "6079625",
       "unomag_id": 154643
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "8254197",
+      "unomag_id": 154643
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "8404684",
+      "unomag_id": 154643
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "9949870",
+      "unomag_id": 150377
     }
   ],
   "ignored_articles": [
@@ -52158,6 +52173,18 @@
     {
       "supplier": "Scalebay",
       "article": "NAME::НАТИ-2"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Охта"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::ПМЗ-2 ЗИС-5"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::ПТ-76 плавающий танк Русские танки"
     }
   ],
   "manufacturer_map": [
