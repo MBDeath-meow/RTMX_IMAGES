@@ -47789,6 +47789,46 @@
       "supplier": "Scalebay",
       "lot_number": "8638007",
       "unomag_id": 153976
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "7095936",
+      "unomag_id": 346307
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "94858",
+      "unomag_id": 364993
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "1200539",
+      "unomag_id": 357315
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "1891406",
+      "unomag_id": 5549
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "3466539",
+      "unomag_id": 187005
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "3529094",
+      "unomag_id": 150379
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "8450157",
+      "unomag_id": 154641
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "9554852",
+      "unomag_id": 154641
     }
   ],
   "ignored_articles": [
@@ -52411,6 +52451,10 @@
     {
       "supplier": "Scalebay",
       "article": "NAME::УАЗ 3171"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::ФАИ"
     }
   ],
   "manufacturer_map": [
