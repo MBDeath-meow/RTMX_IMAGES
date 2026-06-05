@@ -47079,6 +47079,41 @@
       "supplier": "Scalebay",
       "lot_number": "2442828",
       "unomag_id": 153665
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "1879646",
+      "unomag_id": 2369
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "9279424",
+      "unomag_id": 1540
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "339544",
+      "unomag_id": 150356
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "9772986",
+      "unomag_id": 394906
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "3524687",
+      "unomag_id": 391796
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "9315976",
+      "unomag_id": 6444
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "1505392",
+      "unomag_id": 6444
     }
   ],
   "ignored_articles": [
@@ -51305,6 +51340,26 @@
     {
       "supplier": "Scalebay",
       "article": "NAME::Jaguar E-Type 1/43"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Jaguar XK140"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::KOENIGSEGG CC8S  (серия «Суперкары»)"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::LAMBORGHINI COUNTACH"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::LOTUS Exige (серия «Суперкары»)"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Lamborghini Countach DeAgostini 1:43"
     }
   ],
   "manufacturer_map": [
