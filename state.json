@@ -46899,6 +46899,66 @@
       "supplier": "Scalebay",
       "lot_number": "9694230",
       "unomag_id": 221853
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "9240405",
+      "unomag_id": 722938
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "7841307",
+      "unomag_id": 722938
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "5587412",
+      "unomag_id": 722938
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "1448603",
+      "unomag_id": 490441
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "3128616",
+      "unomag_id": 722938
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "4910920",
+      "unomag_id": 198946
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "2605837",
+      "unomag_id": 153286
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "3723047",
+      "unomag_id": 278311
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "2271467",
+      "unomag_id": 637000
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "2772669",
+      "unomag_id": 199330
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "559294",
+      "unomag_id": 180280
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "255250",
+      "unomag_id": 179919
     }
   ],
   "ignored_articles": [
@@ -51045,6 +51105,14 @@
     {
       "supplier": "Scalebay",
       "article": "NAME::Amc Pacer X 1975 (124)"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Volvo F12 SSM белый"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::ГТ-С"
     }
   ],
   "manufacturer_map": [
