@@ -47449,6 +47449,26 @@
       "supplier": "Scalebay",
       "lot_number": "5671936",
       "unomag_id": 154490
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "6366976",
+      "unomag_id": 842
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "6973277",
+      "unomag_id": 842
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "9309125",
+      "unomag_id": 842
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "964907",
+      "unomag_id": 842
     }
   ],
   "ignored_articles": [
@@ -51879,6 +51899,18 @@
     {
       "supplier": "Scalebay",
       "article": "NAME::ИЖ 19"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::КВ-1"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::КВ-1С"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::КИМ 10-50"
     }
   ],
   "manufacturer_map": [
