@@ -47304,6 +47304,31 @@
       "supplier": "Scalebay",
       "lot_number": "1503295",
       "unomag_id": 6445
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "7013370",
+      "unomag_id": 2634
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "2713821",
+      "unomag_id": 178361
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "2291138",
+      "unomag_id": 5750
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "5089984",
+      "unomag_id": 158074
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "1630125",
+      "unomag_id": 2435
     }
   ],
   "ignored_articles": [
@@ -51630,6 +51655,30 @@
     {
       "supplier": "Scalebay",
       "article": "NAME::Wartburg 353 Trans"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::АПА 7"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::АПА-7"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Автокам 2160 Рейнджер"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::БА 20"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::БА 64"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::БА-20"
     }
   ],
   "manufacturer_map": [
