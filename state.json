@@ -47329,6 +47329,31 @@
       "supplier": "Scalebay",
       "lot_number": "1630125",
       "unomag_id": 2435
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "3113389",
+      "unomag_id": 5741
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "9796256",
+      "unomag_id": 5741
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "2664087",
+      "unomag_id": 1377
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "2559690",
+      "unomag_id": 68
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "5316228",
+      "unomag_id": 263541
     }
   ],
   "ignored_articles": [
@@ -51679,6 +51704,22 @@
     {
       "supplier": "Scalebay",
       "article": "NAME::БА-20"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::БРДМ-1"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::БТР 60П"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::БТР-40"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::БТР-60ПБ"
     }
   ],
   "manufacturer_map": [
