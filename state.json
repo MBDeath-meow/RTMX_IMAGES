@@ -47544,6 +47544,31 @@
       "supplier": "Scalebay",
       "lot_number": "867178",
       "unomag_id": 5554
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "2929930",
+      "unomag_id": 8094
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "3933357",
+      "unomag_id": 8094
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "7198336",
+      "unomag_id": 5601
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "7670366",
+      "unomag_id": 5601
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "98756",
+      "unomag_id": 5601
     }
   ],
   "ignored_articles": [
@@ -52042,6 +52067,30 @@
     {
       "supplier": "Scalebay",
       "article": "NAME::Москвич 420-422 почта"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Москвич Г-5"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Москвич С-1"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Москвич С-3"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Москвич-2140SL"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Москвич-2144"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Москвич-2144 Истра"
     }
   ],
   "manufacturer_map": [
