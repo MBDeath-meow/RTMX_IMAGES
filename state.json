@@ -47569,6 +47569,41 @@
       "supplier": "Scalebay",
       "lot_number": "98756",
       "unomag_id": 5601
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "8776040",
+      "unomag_id": 158546
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "9745528",
+      "unomag_id": 8100
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "6739562",
+      "unomag_id": 153932
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "3022844",
+      "unomag_id": 153932
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "3044328",
+      "unomag_id": 153932
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "7145572",
+      "unomag_id": 153932
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "6079625",
+      "unomag_id": 154643
     }
   ],
   "ignored_articles": [
@@ -52091,6 +52126,38 @@
     {
       "supplier": "Scalebay",
       "article": "NAME::Москвич-2144 Истра"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Москвич-415"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::НАМИ 0288 Компакт"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::НАМИ 050 Белка"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::НАМИ 1"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::НАМИ-050 Белка"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::НАТИ 2"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::НАТИ АР"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::НАТИ-2"
     }
   ],
   "manufacturer_map": [
