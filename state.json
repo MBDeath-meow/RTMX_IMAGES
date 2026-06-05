@@ -47354,6 +47354,36 @@
       "supplier": "Scalebay",
       "lot_number": "5316228",
       "unomag_id": 263541
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "4781373",
+      "unomag_id": 2102
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "3810953",
+      "unomag_id": 172738
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "1777553",
+      "unomag_id": 5603
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "6894172",
+      "unomag_id": 5603
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "7672724",
+      "unomag_id": 5603
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "2163176",
+      "unomag_id": 232204
     }
   ],
   "ignored_articles": [
@@ -51720,6 +51750,50 @@
     {
       "supplier": "Scalebay",
       "article": "NAME::БТР-60ПБ"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::ВАЗ 2121 Нива"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::ВАЗ 2122"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::ВАЗ 2802 Пони"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::ВНИИТЭ"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::ВНИИТЭ ПТ такси"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Ераз-3730"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::ЗИЛ -118К Юность Deagostini"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::ЗИЛ 111"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::ЗИЛ 114"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::ЗИЛ 117"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::ЗИЛ 4104"
     }
   ],
   "manufacturer_map": [
