@@ -46979,6 +46979,36 @@
       "supplier": "Scalebay",
       "lot_number": "5635223",
       "unomag_id": 557814
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "7988039",
+      "unomag_id": 2080
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "340924",
+      "unomag_id": 2380
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "5747133",
+      "unomag_id": 1538
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "4976677",
+      "unomag_id": 1538
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "6478908",
+      "unomag_id": 2079
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "7759387",
+      "unomag_id": 2079
     }
   ],
   "ignored_articles": [
@@ -51133,6 +51163,30 @@
     {
       "supplier": "Scalebay",
       "article": "NAME::ГТ-С"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::ARO M 461"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::ASTON MARTIN V12 Vanqush (серия «Суперкары»)"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::AUDI G7"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Aro-243"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Aston Martin DB4 (DeAgostini) 1/43"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::Aston Martin V12 Vanquish Deagostini"
     }
   ],
   "manufacturer_map": [
