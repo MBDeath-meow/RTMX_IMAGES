@@ -48169,6 +48169,26 @@
       "supplier": "Scalebay",
       "lot_number": "9723830",
       "unomag_id": 224777
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "1332007",
+      "unomag_id": 249621
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "1107780",
+      "unomag_id": 259861
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "8414370",
+      "unomag_id": 259861
+    },
+    {
+      "supplier": "Scalebay",
+      "lot_number": "4716136",
+      "unomag_id": 190701
     }
   ],
   "ignored_articles": [
@@ -52987,6 +53007,22 @@
     {
       "supplier": "Scalebay",
       "article": "NAME::ДТ-24-2"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::ДТ-24-3"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::ДТ-24-3 Hachette"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::ДТ-14"
+    },
+    {
+      "supplier": "Scalebay",
+      "article": "NAME::ДТ-20"
     }
   ],
   "manufacturer_map": [
@@ -53293,30 +53329,6 @@
     {
       "unomag_name": "Hachette",
       "variation": "Тракторы. История, люди, машины. (Hachette collections)"
-    },
-    {
-      "unomag_name": "Hachette",
-      "variation": "АиФ"
-    },
-    {
-      "unomag_name": "Hachette",
-      "variation": "DeAgostini"
-    },
-    {
-      "unomag_name": "Hachette",
-      "variation": "MODIMIO"
-    },
-    {
-      "unomag_name": "Hachette",
-      "variation": "Автолегенды СССР журнал от DeAgostini"
-    },
-    {
-      "unomag_name": "Hachette",
-      "variation": "Полицейские машины мира, Deagostini"
-    },
-    {
-      "unomag_name": "Hachette",
-      "variation": "Суперкары. Лучшие автомобили мира, журнал от DeAgostini"
     }
   ],
   "suppliers": [
