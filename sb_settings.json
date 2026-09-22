@@ -1,0 +1,73 @@
+{
+  "_comment": "Настройки парсера ScaleBay (редактируются через мэтчер, парсер подхватывает при следующем цикле)",
+  "sellers": [
+    {
+      "userId": 20,
+      "name": "Labtoz"
+    },
+    {
+      "userId": 3839,
+      "name": "FortyThird"
+    },
+    {
+      "userId": 1858,
+      "name": "v@dim"
+    },
+    {
+      "userId": 29606,
+      "name": "welga"
+    },
+    {
+      "userId": 31719,
+      "name": "artmodel"
+    },
+    {
+      "userId": 685,
+      "name": "alex_77"
+    },
+    {
+      "userId": 18241,
+      "name": "alevgen"
+    },
+    {
+      "userId": 6330,
+      "name": "box"
+    },
+    {
+      "userId": 7644,
+      "name": "mandiby"
+    },
+    {
+      "userId": 303,
+      "name": "nik6001"
+    },
+    {
+      "userId": 6320,
+      "name": "автобусник"
+    },
+    {
+      "userId": 7701,
+      "name": "сова"
+    },
+    {
+      "userId": 1503,
+      "name": "новый продавец 1503"
+    },
+    {
+      "userId": 11481,
+      "name": "новый продавец 11481"
+    },
+    {
+      "userId": 36307,
+      "name": "новый продавец 36307"
+    }
+  ],
+  "seller_adjustments": {
+    "ARTmodel": -250,
+    "Labtoz": -300,
+    "v@dim": -300,
+    "DonScaleone": 50,
+    "terra3_2M": 30,
+    "Седой86": 350
+  }
+}
